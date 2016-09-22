@@ -1,68 +1,98 @@
-Id	Title	Text	variants?	location date	notes
-etc1	The Eastern Telegraph Company, Limited			1905-07-13-p1	
-pos1	Peninsular and Oriental S.N. Company			1905-07-13-p1	
-opl1	Orient-Pacific Line of Royal Mail Steamers			1905-07-13-p1	
-blm1	Bibby Line Mail Steamers			1905-07-13-p1	
-kml1	Khedivial Mail Line			1905-07-13-p1	
-mss1	The Moss S. S. Company, Ltd.			1905-07-13-p1	
-mic1	Marine Insurance Company, Limited.			1905-07-13-p1	
-sgr1	Sudan Government Railways			1905-07-13-p1	
-phc1	P. Henderson & Co.'s Line.			1905-07-13-p1	
-tcs1	Thos. Cook & Son			1905-07-13-p1	
-bis1	British India S. N. Company, Limited			1905-07-13-p1	
-all1	Anchor Line, Limited			1905-07-13-p1	
-dll1	Deutsche Levante-Linie			1905-07-13-p1	
-doa1	Deutsche Ost-Afrika Linie			1905-07-13-p1	missing image file
-mma1	Messageries Maritimes			1905-07-13-p1	missing image file
-pri1	Prince Line			1905-07-13-p1	missing image file
-nml1	The National Mutual Life Association of Australia, Limited			1905-07-13-p1	missing image file
-nbe1	National Bank of Egypt			1905-07-13-p1	
-ins1	Insurance			1905-07-13-p1	missing image file
-aan1	Anglo-American Nile Streamer & Hotel Coy.			1905-07-13-p1	
-nll1	Norddeutscher Lloyd			1905-07-13-p1	
-als1	Austrian Lloyd's Steam Navigation			1905-07-13-p1	
-pap1	The Papyanni Line			1905-07-13-p1	missing image file
-ell1	The Ellerman Lines, Limited			1905-07-13-p1	
-iob1	Imperial Ottoman Bank			1905-07-13-p1	missing image file
-bal1	Bank of Athens, Limited			1905-07-13-p1	missing image file
-bam1	Bell's Asia Minor Steamship Co.			1905-07-13-p1	missing image file
-tce1	Telephone Company of Egypt, Limited			1905-07-13-p1	
-abw1	Alexandria Bonded Warehouse Company, Ltd.			1905-07-13-p1	
-sde1	Sudan Development & Exploration Company, Limited			1905-07-13-p1	
-ric1	Royal Insurance Coy	full		1905-07-13-p2	
-nsa1	N. Spathis	full		1905-07-13-p2	missing image file
-aeb1	The Anglo-Egyptian Bank	full		1905-07-13-p2	missing image file
-ggd1	G. G. Drossos & Co.	full		1905-07-13-p2	missing image file
-cgg1	Champagne George Goulet	full		1905-07-13-p2	missing image file
-clh1	Cigares de la Havane	full		1905-07-13-p2	missing image file
-baa1	Boehme & Anderer	full		1905-07-13-p2	missing image file
-wam1	Walker & Meimarachi	full		1905-07-13-p2	missing image file
-eeh1	Eastern Exchange Hotel	full		1905-07-13-p2	missing image file
-hcs1	Hotel-Casino San Stefano	full		1905-07-13-p2	missing image file
-bov1	Bovril	full		1905-07-13-p2	missing image file
-mco1	Martell Cognac	full		1905-07-13-p2	
-cah1	Carlton Hotel	full		1905-07-13-p2	missing image file
-jma1	J. Margosches	full		1905-07-13-p2	
-pel1	Pelican Brand	full		1905-07-13-p2	missing image file
-mav1	Magasins Victoria	full		1905-07-13-p2	missing image file
-adr1	Au de Rouge	full		1905-07-13-p2	
-afc1	African Commerce	full		1905-07-13-p2	missing image file
-sun1	Sunlight	full		1905-07-13-p2	missing image file
-aan2	Anglo-American Nile Streamer & Hotel Coy.	full		1905-07-13-p2	missing image file
-whr1	Windsor Hotel Restaurant	full		1905-07-13-p3	missing image file
-bcp1	Beck & Co’s Pilsener Beer	full		1905-07-13-p3	missing image file
-ghb1	Grand Hotel Bonnard	full		1905-07-13-p3	missing image file
-aaw1	Ariston Aerated Waters	full		1905-07-13-p4	missing image file
-tas1	T. A. Spartali & Co.	full		1905-07-13-p5	missing image file
-sla1	Standard Life Assurance Company	full		1905-07-13-p5	missing image file
-dbc1	Davies Bryan & Co.	full		1905-07-13-p5	missing image file
-epi1	English Pension, Italian Riviera	full		1905-07-13-p5	missing image file
-hbh1	Hall’s Boar’s Head 	full		1905-07-13-p5	missing image file
-bcc1	British Chamber of Commerce	full		1905-07-13-p5	missing image file
-pwl1	Papier Wlinsi	full		1905-07-13-p6	missing image file
-aac1	Allen, Alderson & Co.	full		1905-07-13-p6	missing image file
-chl1	Chlorodyne	full		1905-07-13-p6	missing image file
-tcs2	Thos. Cook & Son	full		1905-07-13-p6	missing image file
-edl1	Egyptian Delta Light Railways Co., Limited	full		1905-07-13-p6	missing image file
-gmc1	G. Marcus & Co.	full		1905-07-13-p6	missing image file
-nrp1	Nouveau Remede Purgatif	errors		1905-07-13-p6	missing image file
+Id	Title	Text	variants?	location date
+aac1	Allen, Alderson & Co.	full		1905-07-13-p6
+aan1	Anglo-American Nile Streamer & Hotel Coy.			1905-07-13-p1
+aan2	Anglo-American Nile Streamer & Hotel Coy.	full		1905-07-13-p2
+aaw1	Ariston Aerated Waters	full		1905-07-13-p4
+abp1	The Artesan Boring and Prospecting Company			?
+abw1	Alexandria Bonded Warehouse Company, Ltd.			1905-07-13-p1
+adr1	Au de Rouge	full		1905-07-13-p2
+aeb1	The Anglo-Egyptian Bank	full		1905-07-13-p2
+afc1	African Commerce	full		1905-07-13-p2
+all1	Anchor Line, Limited			1905-07-13-p1
+als1	Austrian Lloyd's Steam Navigation			1905-07-13-p1
+baa1	Boehme & Anderer	full		1905-07-13-p2
+bal1	Bank of Athens, Limited			1905-07-13-p1
+bam1	Bell's Asia Minor Steamship Co.			1905-07-13-p1
+bcc1	British Chamber of Commerce	full		1905-07-13-p5
+bcp1	Beck & Co’s Pilsener Beer	full		1905-07-13-p3
+bcp2	Beck & Co	full		?
+bis1	British India S. N. Company, Limited			1905-07-13-p1
+blm1	Bibby Line Mail Steamers			1905-07-13-p1
+bov1	Bovril	full		1905-07-13-p2
+cah1	Carlton Hotel	full		1905-07-13-p2
+cbb1	Callard & Bowser's Butter-Scotch	full		1905-07-15-p4
+ccc1	The Cleopatra Cigarette Co.			?
+cgg1	Champagne George Goulet	full		1905-07-13-p2
+chl1	Chlorodyne	full		1905-07-13-p6
+clh1	Cigares de la Havane	full		1905-07-13-p2
+cun1	Cunard Line			?
+dbc1	Davies Bryan & Co.	full		1905-07-13-p5
+dll1	Deutsche Levante-Linie			1905-07-13-p1
+doa1	Deutsche Ost-Afrika Linie			1905-07-13-p1
+edl1	Egyptian Delta Light Railways Co., Limited	full		1905-07-13-p6
+eeh1	Eastern Exchange Hotel	full		1905-07-13-p2
+ela1	Edinburgh Life Assurance Company.			1905-07-13-p1
+ell1	The Ellerman Lines, Limited			1905-07-13-p1
+epi1	English Pension, Italian Riviera	full		1905-07-13-p5
+epm1	English Penmakers			?
+etc1	The Eastern Telegraph Company, Limited			1905-07-13-p1
+gac1	Guardian Assurance Company Limited			?
+ggd1	G. G. Drossos & Co.	full		1905-07-13-p2
+ghb1	Grand Hotel Bonnard	full		1905-07-13-p3
+gmc1	G. Marcus & Co.	full		1905-07-13-p6
+hbc1	Hotel Bristol Cairo			?
+hbh1	Hall’s Boar’s Head 	full		1905-07-13-p5
+hbr1	Hotel Beau-Rivage			?
+hcs1	Hotel-Casino San Stefano	full		1905-07-13-p2
+hdr1	H. D. Rawlings Limited			?
+hsm1	Howies Sterilized Milk			?
+icc1	Ind Coope Co Ltd.			?
+iob1	Imperial Ottoman Bank			1905-07-13-p1
+isr1	International Sleeping and Restaurant Cars Company			?
+jbc1	John B Caffari			?
+jbc2	John B Caffari’s Economical Stores			?
+jes1	Joseph Evans Sons			?
+jma1	J. Margosches	full		1905-07-13-p2
+kml1	Khedivial Mail Line			1905-07-13-p1
+lac1	London Assurance Corporation			?
+map1	Maple & Co.	full		1905-07-15-p4
+mav1	Magasins Victoria	full		1905-07-13-p2
+mco1	Martell Cognac	full		1905-07-13-p2
+mic1	Marine Insurance Company, Limited.			1905-07-13-p1
+mma1	Messageries Maritimes			1905-07-13-p1
+mss1	The Moss S. S. Company, Ltd.			1905-07-13-p1
+nbe1	National Bank of Egypt			1905-07-13-p1
+ncs1	Nile Cold Storage			?
+nfl1	Northern Fire and Life Assurance Coy			?
+ngi1	Navigation Generale Italienne			?
+nkh1	New Khedivial Hotel Alexandria			?
+nll1	Norddeutscher Lloyd			1905-07-13-p1
+nml1	The National Mutual Life Association of Australia, Limited			1905-07-13-p1
+nrp1	Nouveau Remede Purgatif	errors		1905-07-13-p6
+nsa1	N. Spathis	full		1905-07-13-p2
+nsa2	N. Spathis			?
+opl1	Orient-Pacific Line of Royal Mail Steamers			1905-07-13-p1
+pap1	The Papyanni Line			1905-07-13-p1
+pel1	Pelican Brand	full		1905-07-13-p2
+phc1	P. Henderson & Co.'s Line.			1905-07-13-p1
+pos1	Peninsular and Oriental S.N. Company			1905-07-13-p1
+pri1	Prince Line			1905-07-13-p1
+pss1	Port Said Savoy Hotel			?
+pwl1	Papier Wlinsi	full		1905-07-13-p6
+rea1	Royal Exchange Assurance			?
+ric1	Royal Insurance Coy	full		1905-07-13-p2
+sde1	Sudan Development & Exploration Company, Limited			1905-07-13-p1
+sgr1	Sudan Government Railways			1905-07-13-p1
+sio1	Sun Insurance Office			?
+sla1	Standard Life Assurance Company	full		1905-07-13-p5
+spa1	Spathis Grill Room			?
+ssw1	Siemens Schuckert Werke			?
+sun1	Sunlight	full		1905-07-13-p2
+tas1	T. A. Spartali & Co.	full		1905-07-13-p5
+tce1	Telephone Company of Egypt, Limited			1905-07-13-p1
+tcs1	Thos. Cook & Son			1905-07-13-p1
+tcs2	Thos. Cook & Son	full		1905-07-13-p6
+thc1	Thornes High Class Whiskey			?
+twh1	The Tosh Whiskey			?
+wam1	Walker & Meimarachi	full		1905-07-13-p2
+whr1	Windsor Hotel Restaurant	full		1905-07-13-p3
