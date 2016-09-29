@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-09-29">September 29, 2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Prince Line advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="item" scope="advertisement">
+                <head>Prince Line.</head>
+                <table rend="frame" xml:id="Table1">
+                    <row>
+                        <cell>AFRICAN PRINCE</cell>
+                        <cell>Tons. 8,000</cell>
+                        <cell>WELSH PRINCE</cell>
+                        <cell>Tons. 8,000</cell>
+                        <cell>AFGHAN PRINCE </cell>
+                        <cell>Tons. 8,000</cell>
+                    </row>
+                    <row>
+                        <cell>CHINESE PRINCE (bldg.)</cell>
+                        <cell>Tons. 8,000</cell>
+                        <cell>JAPANESE PRINCE (bldg.)</cell>
+                        <cell>Tons. 8,000</cell>
+                        <cell>BURMESE PRINCE (bldg.) </cell>
+                        <cell>Tons. 8,000</cell>
+                    </row>
+                    <row>
+                        <cell>KOREAN PRINCE (bldg.) </cell>
+                        <cell>Tons. 8,000</cell>
+                        <cell>ARABIAN PRINCE (bldg.)</cell>
+                        <cell>Tons. 8,000</cell>
+                        <cell>SIAMESE PRINCE (bldg.)</cell>
+                        <cell>Tons. 8,000</cell>
+                    </row>
+                    <row>
+                        <cell>SWEDISH PRINCE (bldg.)</cell>
+                        <cell>Tons. 8,000</cell>
+                        <cell>BLACK PRINCE </cell>
+                        <cell>Tons. 7,000</cell>
+                        <cell>SAXON PRINCE</cell>
+                        <cell>Tons. 6,000</cell>
+                    </row>
+                    <row>
+                        <cell>TUDOR PRINCE </cell>
+                        <cell>Tons. 7,000</cell>
+                        <cell>NORMAN PRINCE </cell>
+                        <cell>Tons. 6,000</cell>
+                        <cell>CROWN PRINCE</cell>
+                        <cell>Tons. 5,000</cell>
+                    </row>
+                    <row>
+                        <cell>ITALIAN PRINCE </cell>
+                        <cell>Tons. 5,000</cell>
+                        <cell>GEORGIAN PRINCE </cell>
+                        <cell>Tons. 4,750</cell>
+                        <cell>TROJAN PRINCE </cell>
+                        <cell>Tons. 4,750</cell>
+                    </row>
+                    <row>
+                        <cell>MERCHANT PRINCE </cell>
+                        <cell>Tons. 4,650</cell>
+                        <cell>SAILOR PRINCE </cell>
+                        <cell>Tons. 4,650</cell>
+                        <cell>EGYPTIAN PRINCE</cell>
+                        <cell>Tons. 4,650</cell>
+                    </row>
+                    <row>
+                        <cell>SOLDIER PRINCE</cell>
+                        <cell>Tons. 4,650</cell>
+                        <cell>RUSSIAN PRINCE </cell>
+                        <cell>Tons. 4,500</cell>
+                        <cell>SPARTAN PRINCE</cell>
+                        <cell>Tons. 4,750</cell>
+                    </row>
+                    <row>
+                        <cell>MEXICAN PRINCE</cell>
+                        <cell>Tons. 4,420</cell>
+                        <cell>HIGHLAND PRINCE </cell>
+                        <cell>Tons. 3,850</cell>
+                        <cell>IMPERIAL PRINCE</cell>
+                        <cell>Tons. 3,750</cell>
+                    </row>
+                    <row>
+                        <cell>SICILIAN PRINCE</cell>
+                        <cell>Tons. 3,750</cell>
+                        <cell>NAPOLITAN PRINCE </cell>
+                        <cell>Tons. 3,750</cell>
+                        <cell>PERSIAN PRINCE </cell>
+                        <cell>Tons. 3,250</cell>
+                    </row>
+                    <row>
+                        <cell>BRITISH PRINCE</cell>
+                        <cell>Tons. 3,180</cell>
+                        <cell>MOORISH PRINCE </cell>
+                        <cell>Tons. 3,180</cell>
+                        <cell>CASTILLIAN PRINCE</cell>
+                        <cell>Tons. 3,100</cell>
+                    </row>
+                    <row>
+                        <cell>GRECIAN PRINCE</cell>
+                        <cell>Tons. 3,075</cell>
+                        <cell>EASTERN PRINCE </cell>
+                        <cell>Tons. 3,050</cell>
+                        <cell>ASIATIC PRINCE </cell>
+                        <cell>Tons. 3,050</cell>
+                    </row>
+                    <row>
+                        <cell>CREOLE PRINCE</cell>
+                        <cell>Tons. 3,050</cell>
+                        <cell>CARIB PRINCE </cell>
+                        <cell>Tons. 3,050</cell>
+                        <cell>KAFFIR PRINCE </cell>
+                        <cell>Tons. 2,950</cell>
+                    </row>
+                    <row>
+                        <cell>SYRIAN PRINCE </cell>
+                        <cell>Tons. 2,950</cell>
+                        <cell>ORANGE PRINCE </cell>
+                        <cell>Tons. 2,975</cell>
+                        <cell>CYPRIAN PRINCE </cell>
+                        <cell>Tons. 2,750</cell>
+                    </row>
+                    <row>
+                        <cell>INDIAN PRINCE</cell>
+                        <cell>Tons. 2,730</cell>
+                        <cell>SCOTTISH PRINUK </cell>
+                        <cell>Tons. 2,650</cell>
+                        <cell>ROMAN PRINCE </cell>
+                        <cell>Tons. 2,680</cell>
+                    </row>
+                    <row>
+                        <cell>TUSCAN PRINCE</cell>
+                        <cell>Tons. 2,575</cell>
+                        <cell>OCEAN PRINCE </cell>
+                        <cell>Tons. 2,400</cell>
+                        <cell>ROYAL PRINCE</cell>
+                        <cell>Tons. 2,400</cell>
+                    </row>
+                </table>
+                <p>Good Accommodation for Passengers.</p>
+                <p>Sailings every 10 days from Manchester and Liverpool and fortnightly from Antwerp
+                    and London to Alexandria and Syrian Coast. The dates are approximate</p>
+
+                <table rows="4" cols="8">
+                    <row>
+                        <cell>OCEAN PRINCE</cell>
+                        <cell>due from</cell>
+                        <cell>Manchester</cell>
+                        <cell>July 18</cell>
+                        <cell>SCOTTISH PRINCE</cell>
+                        <cell>due from</cell>
+                        <cell>Manchester</cell>
+                        <cell>August 8</cell>
+                    </row>
+                    <row>
+                        <cell>PERSIAN PRINCE</cell>
+                        <cell>due from</cell>
+                        <cell>Antwerp &amp; London</cell>
+                        <cell>July 23</cell>
+                        <cell>CARIB PRINCE</cell>
+                        <cell>due from</cell>
+                        <cell>Antwerp &amp; London</cell>
+                        <cell>August 15</cell>
+                    </row>
+                    <row>
+                        <cell>INDIAN PRINCE</cell>
+                        <cell>due from</cell>
+                        <cell>Manchester</cell>
+                        <cell>July 29</cell>
+                        <cell>ROYAL PRINCE</cell>
+                        <cell>due from</cell>
+                        <cell>Manchester</cell>
+                        <cell>August 19</cell>
+                    </row>
+                    <row>
+                        <cell>TROJAN PRINCE</cell>
+                        <cell>due from</cell>
+                        <cell>Antwerp &amp; London</cell>
+                        <cell>July 31</cell>
+                        <cell>CREOLE PRINCE</cell>
+                        <cell>due from</cell>
+                        <cell>Antwerp &amp; London</cell>
+                        <cell>August 29</cell>
+                    </row>
+                </table>
+                <p>HOMEWARD SAILINGS: -- The S.S. SPARTAN PRINCE is now loading for Manchester.</p>
+                <p>For terms of freight or passage apply to C. J. Grace &amp; Co., Alexandria,
+                    Agents. 31-12-904</p>
+            </div>
+        </body>
+    </text>
+</TEI>
