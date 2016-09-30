@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-09-29">September 29, 2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Norddeutscher Lloyd advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="item" scope="advertisement">
+                <head>NORDDEUTSCHER LLOYD.</head>
+                <p>Regular Service from ALEXANDRIA (Passenger and Freight) to NAPLES-MARSEILLES.</p>
+                <p> SCHLESWIG wiH leave ALEXANDRIA at 4 p.m. July 26, August 30, September 20, etc. </p>
+                <p>The following steamers are intended to leave POBT-8AID: </p>
+                <table rows="14" cols="3">
+                    <row>
+                        <cell cols="3">HOMEWARD : for Bremen Hamburg via Naples, Genoa, (Gibraltar),
+                            Southampton, Antwerp.</cell>
+                    </row>
+                    <row>
+                        <cell>Zieten</cell>
+                        <cell>9043 Tons</cell>
+                        <cell>about 14 July</cell>
+                    </row>
+                    <row>
+                        <cell>Gera</cell>
+                        <cell>5005 Tons</cell>
+                        <cell>about 31 July</cell>
+                    </row>
+                    <row>
+                        <cell>Sachsen</cell>
+                        <cell>5026 Tons</cell>
+                        <cell>about 31 July</cell>
+                    </row>
+                    <row>
+                        <cell>Gneisenau</cell>
+                        <cell>8881 Tons</cell>
+                        <cell>about 14 August</cell>
+                    </row>
+                    <row>
+                        <cell>Pr. Regt. Luitpold</cell>
+                        <cell>6288 Tons</cell>
+                        <cell>about 28 August</cell>
+                    </row>
+                    <row>
+                        <cell cols="3">OUTWARD: for CHINA and JAPAN via SUEZ, ADEN, COLOMBO, PENANG,
+                            SINGAPORE.</cell>
+                    </row>
+                    <row>
+                        <cell>Prinz E. Friedrich</cell>
+                        <cell>8965 Tons</cell>
+                        <cell>about 10 July</cell>
+                    </row>
+                    <row>
+                        <cell>Preussen</cell>
+                        <cell>5295 Tons</cell>
+                        <cell>about 24 July</cell>
+                    </row>
+                    <row>
+                        <cell>Roon</cell>
+                        <cell>8022 Tons</cell>
+                        <cell>about 7 August</cell>
+                    </row>
+                    <row>
+                        <cell cols="3">For AUSTRALIA via SUEZ, ADEN, COLOMBO.</cell>
+                    </row>
+                    <row>
+                        <cell>Seydlitz</cell>
+                        <cell>7943 Tons</cell>
+                        <cell>about 30 July</cell>
+                    </row>
+                    <row>
+                        <cell>Zieten</cell>
+                        <cell>8043 Tons</cell>
+                        <cell>about 27 August</cell>
+                    </row>
+                    <row>
+                        <cell>Barbarossa</cell>
+                        <cell>10915 Tons</cell>
+                        <cell>about 24 Sept.</cell>
+                    </row>
+                </table>
+                <p>FOR FURTHER PARTICULARS APPLY TO THE AGENTS OF THE </p>
+                <p>NORDDEUTSCHER LLOYD at Cairo, Alexandria, Port-Said and Suez. </p>
+                <p>OTTO STERZING, Agent In Cairo, Opera Square. </p>
+                <p>C. H. SCHOELLER, Agent In Alexandria, Cleopatra Lane.</p>
+                <p>Messrs. THOS. COOK &amp; SON (Egypt) LTD., and CARL STANGENS REISEBUREAN are
+                    anthorieed to sell tickets in CAIRO and ALEXANDRIA, 31-8-905</p>
+            </div>
+        </body>
+    </text>
+</TEI>

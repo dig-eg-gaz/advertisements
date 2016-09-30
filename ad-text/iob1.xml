@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-09-29">September 29, 2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Imperial Ottoman Bank advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="item" scope="advertisement">
+                <head>IMPERIAL OTTOMAN BANK.</head>
+                <p>CAPITAL: £10,000,000.</p>
+                <p>HEAD OFFIOE IN CONSTANTINOPLE. CHIEF AGENCIES: LONDON &amp; PARIS.</p>
+                <p>BRANCHES IN ALL THE PRINCIPAL TOWNS IN TURKEY.</p>
+                <p>Agencies in Egypt : ALEXANDRIA, CAIRO, &amp; PORT SAID.</p>
+                <p>Advances on Merchandise and Securities in current account and for fixed periods.
+                    Purchase and sale of stocks and Shares on the London and Continental exchanges,
+                    letters of credit issued, valuables reoeived in safe custody. Drafts, cheques
+                    and telegraphic transfers issued on the principal towns of the world. Foreign
+                    exchange purchased, bills discounted, bills, invoices, annuities and dividends
+                    collected and every description of banking business transacted. 18-4-906</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-09-29">September 29, 2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Ellerman Lines, Limited advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="item" scope="advertisement">
+                <head>Ellerman Lines, Limited.</head>
+                <table rows="3" cols="6">
+                    <row>
+                        <cell cols="3">CITY LINE to MALTA, LONDON, COLOMBO &amp; CALCUTTA.</cell>
+                        <cell cols="3">
+                            <p>CITY &amp; HALL LINES. Joint Service to MARSEILLES, LIVERPOOL, BOMBAY
+                                &amp; KARACHI.</p>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell cols="6">The undermentioned First Class Passenger Steamers will be
+                            dispatched from Port Said on or about the following dates for </cell>
+                    </row>
+                    <row>
+                        <cell>Malta and London </cell>
+                        <cell>S.S. City of Corinth </cell>
+                        <cell>July 26</cell>
+                        <cell>Marseilles and Liverpool</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Colombo and Calcutta</cell>
+                        <cell>S.S. City of Manchester</cell>
+                        <cell>July 12</cell>
+                        <cell>Bombay</cell>
+                        <cell>S.S. Anton Hall</cell>
+                        <cell>July 13</cell>
+                    </row>
+                </table>
+                <p>SALOON FARES:—Port Said to Malta £4.10.0. Marseilles. £8.0.0. London or
+                    Liverpool, £l2.l0.0. Colombo, Calcutta, Bombay or Karachi, £35.0.0. Special
+                    rates for steamers not carrying Doctor or Stewardess. For further particulars
+                    apply to </p>
+                <p>CORY BROS. &amp; Co., Ltd., Agents for CITY Line, Port Said: W. STAPLEDON &amp;
+                    SON, Agents for Hall Line, Port Said ; or COOK &amp; SON (Egypt), Ltd., Cairo.
+                    23788-28-8-905 </p>
+            </div>
+        </body>
+    </text>
+</TEI>

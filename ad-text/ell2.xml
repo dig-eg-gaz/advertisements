@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-09-29">September 29, 2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Ellerman Lines, Limited advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="item" scope="advertisement">
+                <head>The Ellerman Lines, Limitedd.</head>
+                <head type="sub">(Including Westcott &amp; Laurance Line.)</head>
+                <p>Regular sailings from Liverpool, Glasgow, Antwerp and London to Alexandria.
+                    Frequent sailings from Alexandria to Liverpool and London. Through freight rates
+                    to Inland towns in Great Britain also to the U.S.A</p>
+                <table rows="4" cols="5">
+                    <row>
+                        <cell>Westcott S.S. Joshua Nicholson</cell>
+                        <cell>expected from</cell>
+                        <cell>Antwerp, London &amp; Malta</cell>
+                        <cell>is due on or about</cell>
+                        <cell>July 16</cell>
+                    </row>
+                    <row>
+                        <cell>Ellerman S.S. City of Dundee</cell>
+                        <cell>expected from</cell>
+                        <cell>Glasgow, Gibraltar &amp; Malta</cell>
+                        <cell>is due on or about</cell>
+                        <cell>July 25</cell>
+                    </row>
+                    <row>
+                        <cell>Westcott S.S. Plymothian</cell>
+                        <cell>expected from</cell>
+                        <cell>Antwerp, London &amp; Malta</cell>
+                        <cell>is due on or about</cell>
+                        <cell>July 25</cell>
+                    </row>
+                    <row>
+                        <cell>Ellerman S.S. City of Oxford</cell>
+                        <cell>expected from</cell>
+                        <cell>Liverpool &amp; Melta</cell>
+                        <cell>is due on or about</cell>
+                        <cell>July 30</cell>
+                    </row>
+                </table>
+                <p>Ellerman S.S. Britannia now on the berth for Liverpool is expected to sail about
+                    the 25th inst.</p>
+                <p>N. E. TAMVACO Alexandria agents 23186-20-3-3</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,6 +1,6 @@
 Id	Title	Text	Image	location date
 aac1	Allen, Alderson & Co.	aac1	aac1-Allen-Alderson-and-Co.png	1905-07-13-p6
-aan1	Anglo-American Nile Streamer & Hotel Coy.		aan1-Anglo-American-Nile-Steamer-Hotel-Coy.png	1905-07-13-p1
+aan1	Anglo-American Nile Streamer & Hotel Coy.	aan1	aan1-Anglo-American-Nile-Steamer-Hotel-Coy.png	1905-07-13-p1
 aan2	Anglo-American Nile Streamer & Hotel Coy.	aan2	aan2-Anglo-American-Nile-Steamer-Hotel-Coy.png	1905-07-13-p2
 aaw1	Ariston Aerated Waters	aaw1	aaw1-Ariston-Aerated-Waters.png	1905-07-13-p4
 abp1	The Artesan Boring and Prospecting Company		abp1-The-Artesan-Boring-and-Prospecting-Company.png	1905-07-12-p2
@@ -9,10 +9,10 @@ adr1	Au de Rouge	adr1	adr1-Au-de-Rouge.png	1905-07-13-p2
 aeb1	The Anglo-Egyptian Bank	aeb1	aeb1-The-Anglo-Egyptian-Bank.png	1905-07-13-p2
 afc1	African Commerce	afc1	afc1-African-Commerce.png	1905-07-13-p2
 all1	Anchor Line, Limited	all1	all1-Anchor-Line-Limited.png	1905-07-13-p1
-als1	Austrian Lloyd's Steam Navigation		als1-Austrian-Lloyds-Steam-Navigation.png	1905-07-13-p1
+als1	Austrian Lloyd's Steam Navigation	als1	als1-Austrian-Lloyds-Steam-Navigation.png	1905-07-13-p1
 baa1	Boehme & Anderer	baa1	baa1-Boehme-and-Anderer.png	1905-07-13-p2
-bal1	Bank of Athens, Limited		bal1-Bank-of-Athens-Limited.png	1905-07-13-p1
-bam1	Bell's Asia Minor Steamship Co.		bam1-Bells-Asia-Minor-Steamship-Co.png	1905-07-13-p1
+bal1	Bank of Athens, Limited	bal1	bal1-Bank-of-Athens-Limited.png	1905-07-13-p1
+bam1	Bell's Asia Minor Steamship Co.	bam1	bam1-Bells-Asia-Minor-Steamship-Co.png	1905-07-13-p1
 bcc1	British Chamber of Commerce	bcc1	bcc1-British-Chamber-of-Commerce.png	1905-07-13-p5
 bcp1	Beck & Co’s Pilsener Beer	bcp1	bcp1-Beck-and-Cos-Pilsener-Beer.png	1905-07-13-p3
 bcp2	Beck & Co	bcp2	bcp2-Becks-and-Co.png	?
@@ -27,13 +27,13 @@ chl1	Chlorodyne	chl1	chl1-Chlorodyne.png	1905-07-13-p6
 clh1	Cigares de la Havane	clh1	clh1-Cigares-de-la-Havane.png	1905-07-13-p2
 cun1	Cunard Line		cun1-Cunard-Line.png	1905-07-12-p1
 dbc1	Davies Bryan & Co.	dbc1	dbc1-Davies-Bryan-and-Co.png	1905-07-13-p5
-dll1	Deutsche Levante-Linie		dll1-Deutsche-Levant-Linie.png	1905-07-13-p1
-doa1	Deutsche Ost-Afrika Linie		doa1-Deutsche Ost-Afrika-Linie.png	1905-07-13-p1
+dll1	Deutsche Levante-Linie	dll1	dll1-Deutsche-Levant-Linie.png	1905-07-13-p1
+doa1	Deutsche Ost-Afrika Linie	doa1	doa1-Deutsche Ost-Afrika-Linie.png	1905-07-13-p1
 edl1	Egyptian Delta Light Railways Co., Limited	edl1	edl1-Egyptian-Delta-Light-Railways-Co-Limited.png	1905-07-13-p6
 eeh1	Eastern Exchange Hotel	eeh1	eeh1-Eastern-Exchange-Hotel.png	1905-07-13-p2
-ela1	Edinburgh Life Assurance Company.		ela1-Edinburgh-Life-Assurance-Company.png	1905-07-13-p1
-ell1	Ellerman Lines, Limited		ell1-Ellerman-Lines-Limited.png	1905-07-13-p1
-ell2	The Ellerman Lines, Limited		ell2-The-Ellerman-Lines-Limited.png	1905-07-13-p5
+ela1	Edinburgh Life Assurance Company.	ela1	ela1-Edinburgh-Life-Assurance-Company.png	1905-07-13-p1
+ell1	Ellerman Lines, Limited	ell1	ell1-Ellerman-Lines-Limited.png	1905-07-13-p1
+ell2	The Ellerman Lines, Limited	ell2	ell2-The-Ellerman-Lines-Limited.png	1905-07-13-p5
 epi1	English Pension, Italian Riviera	epi1	epi1-English-Pension-Italian-Riviera.png	?
 epm1	English Penmakers		epm1-English-Penmakers.png	1905-07-13-p1
 etc1	The Eastern Telegraph Company, Limited		etc1-Eastern-Telegraph.png	1905-07-12-p2
@@ -50,7 +50,7 @@ hcs1	Hotel-Casino San Stefano	hcs1	hcs1-Hotel-Casino-San-Stefano.png	1905-07-12-
 hdr1	H. D. Rawlings Limited		hdr1-H-D-Rawlings-Limited.png	1905-07-12-p2
 hsm1	Howies Sterilized Milk		hsm1-Howies-Sterilized-Milk.png	1905-07-12-p2
 icc1	Ind Coope Co Ltd.		icc1-Ind-Coope-Co-Ltd.png	1905-07-13-p1
-iob1	Imperial Ottoman Bank		iob1-Imperial-Ottoman-Bank.png	1905-07-12-p1
+iob1	Imperial Ottoman Bank	iob1	iob1-Imperial-Ottoman-Bank.png	1905-07-12-p1
 isr1	International Sleeping and Restaurant Cars Company		isr1-International-Sleeping-and-Restaurant-Cars-Company.png	1905-07-12-p2
 jbc1	John B Caffari		jbc1-John-B-Caffari.png	1905-07-12-p2
 jbc2	John B Caffari’s Economical Stores		jbc2-John-B-Caffaris-Economical-Stores.png	?
@@ -63,30 +63,30 @@ map1	Maple & Co.	map1	map1-Maple-and-Co.png	1905-07-13-p2
 mav1	Magasins Victoria	mav1	mav1-Magasins-Victoria.png	1905-07-13-p2
 mco1	Martell Cognac	mco1	mco1-Martell-Cognac.png	1905-07-13-p1
 mic1	Marine Insurance Company, Limited.	mic1	mic1-Marine-Insurance-Company-Limited.png	1905-07-13-p1
-mma1	Messageries Maritimes		mma1-Messageries-Maritimes.png	1905-07-13-p1
+mma1	Messageries Maritimes	mma1	mma1-Messageries-Maritimes.png	1905-07-13-p1
 mss1	The Moss S. S. Company, Ltd.	mss1	mss1-The-Moss-SS-Company-Ltd.png	1905-07-13-p1
-nbe1	National Bank of Egypt		nbe1-National-Bank-of-Egypt.png	1905-07-12-p1
+nbe1	National Bank of Egypt	nbe1	nbe1-National-Bank-of-Egypt.png	1905-07-12-p1
 ncs1	Nile Cold Storage		ncs1-Nile-Cold-Storage.png	1905-07-12-p1
 nfl1	Northern Fire and Life Assurance Coy		nfl1-Northern-Fire-and-Life-Assurance-Coy.png	1905-07-12-p1
 ngi1	Navigation Generale Italienne		ngi1-Navigation-Generale-Italienne.png	1905-07-12-p1
 nkh1	New Khedivial Hotel Alexandria		nkh1-New-Khedivial-Hotel-Alexandria.png	1905-07-13-p1
 nll1	Norddeutscher Lloyd		nll1-Norddeutscher-Lloyd.png	1905-07-12-p1
 nll2	Norddeutscher Lloyd		nll2-Norddeutscher-Lloyd-II.png	1905-07-13-p1
-nml1	The National Mutual Life Association of Australia, Limited		nml1-The-National-Mutual-Life-Association-of-Australia-Limited.png	1905-07-13-p6
+nml1	The National Mutual Life Association of Australia, Limited	nml1	nml1-The-National-Mutual-Life-Association-of-Australia-Limited.png	1905-07-13-p6
 nrp1	Nouveau Remede Purgatif	errors	nrp1-Nouveau-Remede-Purgatif.png	1905-07-13-p2
 nsa1	N. Spathis	nsa1	nsa1-N-Spathis.png	1905-07-12-p2
 nsa2	N. Spathis		nsa2-N-Spathis.png	1905-07-13-p1
 opl1	Orient-Pacific Line of Royal Mail Steamers	opl1	opl1-Orient-Pacific-Line-of-Royal-Mail-Steamers.png	1905-07-13-p1
-pap1	The Papyanni Line		pap1-The-Papyanni-Line.png	1905-07-13-p2
+pap1	The Papyanni Line	pap1	pap1-The-Papyanni-Line.png	1905-07-13-p2
 pel1	Pelican Brand	pel1	pel1-Pelican-Brand.png	1905-07-13-p1
 phc1	P. Henderson & Co.'s Line.		phc1-P-Henderson-Cos-Line.png	1905-07-13-p1
 pos1	Peninsular and Oriental S.N. Company	pos1	pos1-Peninsular-and-Oriental-S-N-Company.png	1905-07-13-p1
-pri1	Prince Line		pri1-Prince-Line.png	1905-07-12-p1
+pri1	Prince Line	pri1	pri1-Prince-Line.png	1905-07-12-p1
 pss1	Port Said Savoy Hotel		pss1-Port-Said-Savoy-Hotel.png	1905-07-13-p6
 pwl1	Papier Wlinsi	pwl1	pwl1-Papier-Wlinsi.png	1905-07-12-p1
 rea1	Royal Exchange Assurance		rea1-Royal-Exchange-Assurance.png	1905-07-13-p2
 ric1	Royal Insurance Coy	ric1	ric1-Royal-Insurance-Coy.png	1905-07-13-p1
-sde1	Sudan Development & Exploration Company, Limited		sde1-Sudan-Development-Exploration-Company-Limited.png	1905-07-13-p1
+sde1	Sudan Development & Exploration Company, Limited	sde1	sde1-Sudan-Development-Exploration-Company-Limited.png	1905-07-13-p1
 sgr1	Sudan Government Railways	sgr1	sgr1-Sudan-Government-Railways.png	1905-07-12-p1
 sio1	Sun Insurance Office		sio1-Sun-Insurance-Office.png	1905-07-13-p5
 sla1	Standard Life Assurance Company	sla1	sla1-Standard-Life-Assurance-Company.png	1905-07-12-p2
@@ -94,7 +94,7 @@ spa1	Spathis Grill Room		spa1-Spathis-Grill-Room.png	1905-07-12-p2
 ssw1	Siemens Schuckert Werke		ssw1-Siemens-Schuckert-Werke.png	1905-07-13-p2
 sun1	Sunlight	sun1	sun1-Sunlight.png	1905-07-13-p5
 tas1	T. A. Spartali & Co.	tas1	tas1-T-A-Spartali-Co.png	1905-07-13-p1
-tce1	Telephone Company of Egypt, Limited		tce1-Telephone-Company-of-Egypt-Limited.png	1905-07-13-p1
+tce1	Telephone Company of Egypt, Limited	tce1	tce1-Telephone-Company-of-Egypt-Limited.png	1905-07-13-p1
 tcs1	Thos. Cook & Son	tcs1	tcs1-Thos-Cook-Son.png	1905-07-13-p6
 tcs2	Thos. Cook & Son	tcs2	tcs2-Thos-Cook-and-Son.png	?
 thc1	Thornes High Class Whiskey		thc1-Thornes-High-Class-Whiskey.png	1905-07-12-p2
