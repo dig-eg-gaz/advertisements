@@ -1,16 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div type="item" scope="advertisement">
-    <p>The Standard Life Assurance Company.</p>
-    <p>Established 1825.</p>
-    <p>Accumulated Funds £11,300,000</p>
-    <p>Bonus Year, 1905.</p>
-    <p>The next division of profits will be made amongst participating Policies in
-        existence at 15th November 1905.</p>
-    <p>All With Profit Policies effected on or before that date will be entitled to
-        share in the Division.</p>
-    <p>The Company have already declared Bonus Additions to Policies to the amount
-        of more than Seven Million Sterling.</p>
-    <p>Head Office for Egypt: Sharia Kasr-el-Nil, Cairo.</p>
-    <p>B. Nathan &amp; Cl, Chief Agents for Alexandria.</p>
-    <p>A. V. Thomson, Secretary for Egypt.</p>
-</div>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-09-29">September 29, 2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Standard Life Assurance Company advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="item" scope="advertisement">
+                <head>The Standard Life Assurance Company.</head>
+                <p>Established 1825.</p>
+                <p>Accumulated Funds £11,300,000</p>
+                <p>Bonus Year, 1905.</p>
+                <p>The next division of profits will be made amongst participating Policies in
+                    existence at 15th November 1905.</p>
+                <p>All With Profit Policies effected on or before that date will be entitled to
+                    share in the Division.</p>
+                <p>The Company have already declared Bonus Additions to Policies to the amount of
+                    more than Seven Million Sterling.</p>
+                <p>Head Office for Egypt: Sharia Kasr-el-Nil, Cairo.</p>
+                <p>B. Nathan &amp; Cl, Chief Agents for Alexandria.</p>
+                <p>A. V. Thomson, Secretary for Egypt.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

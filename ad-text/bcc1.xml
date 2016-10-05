@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div type="item" scope="advertisement">
-    <p>British Chamber of Commerce.—We would call the attention of persons
-        interested in Egyptian trade to the work of the British Chamber of Commerce
-        of Egypt, whose office in Alexandria gives information as to standings
-        trade, &amp;c., to its members, and whose monthly publication reviews our
-        commerce. The annual subscription is 11 and all British traders should
-        become members. Our London office, 36, New Broad- street E.C., acts as
-        London agency to the Chamber. </p>
-</div>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-09-29">September 29, 2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>British Chamber of Commerce advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="item" scope="advertisement">
+                <head>British Chamber of Commerce.—</head>
+                <p>We would call the attention of persons interested in Egyptian trade to the work
+                    of the British Chamber of Commerce of Egypt, whose office in Alexandria gives
+                    information as to standings trade, &amp;c., to its members, and whose monthly
+                    publication reviews our commerce. The annual subscription is 11 and all British
+                    traders should become members. Our London office, 36, New Broad- street E.C.,
+                    acts as London agency to the Chamber. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

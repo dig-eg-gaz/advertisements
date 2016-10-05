@@ -1,24 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div type="item">
-    <p>IMPORTANT NOTICE.</p>
-    <p>MARTELL COGNAC.</p>
-    <p>M. H. DEMIRGIAN BEY, General Agent for this important House, warns the
-        public to beware of Imitations, and to examine the labels, corks, and
-        capsules.</p>
-    <p>The principal importers of this well-known Brand are </p>
-    <p>At Alexandria: MM. G. Attard &amp; Co. Christo C. Solea, Costi H.
-        Georgiou, N. Pappa, A. &amp; G. Monferato, John B. Caffari, Frangini
-        Mitzos &amp; Co. Cokinos Freres, P, J. Zombos.</p>
-    <p>At Cairo: MM. S. di M. Riso, A. Jeronymidis &amp; John B.Caffari.</p>
-    <p>Where customers will find the genuine MARTELLI, which cannot be sold
-        below the minimum price given below for each quality: </p>
-    <p>* 35/- per case or P.T. 170.5.</p>
-    <p>** 40/6 " " " 197.5.</p>
-    <p>*** 47/- " " " 229</p>
-    <p>VO 53/- per case or P.T. 256.</p>
-    <p>VSO 60/- " " " 292.</p>
-    <p>VSOP 80/- " " " 390.</p>
-    <p>All so-called MARTELL Cognacs sold below these prices cannot be
-        genuine.</p>
-    <p>25912.7-8-9)</p>
-</div>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-09-29">September 29, 2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>MARTELL COGNAC advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="item" scope="advertisement">
+                <p>IMPORTANT NOTICE.</p>
+                <head>MARTELL COGNAC.</head>
+                <p>M. H. DEMIRGIAN BEY, General Agent for this important House, warns the public to
+                    beware of Imitations, and to examine the labels, corks, and capsules.</p>
+                <p>The principal importers of this well-known Brand are </p>
+                <p>At Alexandria: MM. G. Attard &amp; Co. Christo C. Solea, Costi H. Georgiou, N.
+                    Pappa, A. &amp; G. Monferato, John B. Caffari, Frangini Mitzos &amp; Co. Cokinos
+                    Freres, P, J. Zombos.</p>
+                <p>At Cairo: MM. S. di M. Riso, A. Jeronymidis &amp; John B.Caffari.</p>
+                <p>Where customers will find the genuine MARTELLI, which cannot be sold below the
+                    minimum price given below for each quality: </p>
+                <p>* 35/- per case or P.T. 170.5.</p>
+                <p>** 40/6 " " " 197.5.</p>
+                <p>*** 47/- " " " 229</p>
+                <p>VO 53/- per case or P.T. 256.</p>
+                <p>VSO 60/- " " " 292.</p>
+                <p>VSOP 80/- " " " 390.</p>
+                <p>All so-called MARTELL Cognacs sold below these prices cannot be genuine.</p>
+                <p>25912.7-8-9)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

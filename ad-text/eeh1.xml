@@ -1,12 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div type="item">
-    <p>EASTERN EXCHANGE HOTEL, PORT SAID.</p>
-    <p>First Class Hotel. Modern in all respects.</p>
-    <p>Fire-proof, Drained to the Sea, Lifts, Electric Light, English and French
-        Billiards, Fresh and Salt Water Baths.</p>
-    <p>The Coolest Summer Residence in Egypt.</p>
-    <p> Special terms to Cairo Residents and their families desirous of enjoying
-        the coo air and sea bathing during the summer months.</p>
-    <p> Dragomans in Hotel Uniform Meet all Trains and Steamers.</p>
-    <p>22941-23-8-905</p>
-</div>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-09-29">September 29, 2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>EASTERN EXCHANGE HOTEL, PORT SAID advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="item" scope="advertisement">
+                <head>EASTERN EXCHANGE HOTEL, PORT SAID.</head>
+                <p>First Class Hotel. Modern in all respects.</p>
+                <p>Fire-proof, Drained to the Sea, Lifts, Electric Light, English and French
+                    Billiards, Fresh and Salt Water Baths.</p>
+                <p>The Coolest Summer Residence in Egypt.</p>
+                <p>Special terms to Cairo Residents and their families desirous of enjoying the cool
+                    air and sea bathing during the summer months.</p>
+                <p>Dragomans in Hotel Uniform Meet all Trains and Steamers.</p>
+                <p>22941-23-8-905</p>
+            </div>
+        </body>
+    </text>
+</TEI>
