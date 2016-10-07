@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-10-06">October 6, 2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>ROYAL EXCHANGE ASSURANCE advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="item" scope="advertisement">
+                <head>ROYAL EXCHANGE ASSURANCE.</head>
+                <p>Incorporated A. D. 1720.</p>
+                <p>Chief Office: ROYAL EXCHANGE, LONDON, E.C.</p>
+                <p>FUNDS IN HAND EXCEED £4,500,000 CLAIMS PAID £40,000,000</p>
+                <table rows="2" cols="2">
+                    <row role="label">
+                        <cell>FIRE</cell>
+                        <cell>MARINE</cell>
+                    </row>
+                    <row>
+                        <cell>ALEXANDRIA … ANGLO-EGYPTIAN BANK.</cell>
+                        <cell>ALEXANDRIA … Mr. J. B. CAFFARI</cell>
+                    </row>
+                    <row>
+                        <cell>CAIRO … Mr. J. B. CAFFARI</cell>
+                        <cell>SUEZ … Mr. GEO. MEINECKE.</cell>
+                    </row>
+                </table>
+                <p>21281-216905</p>
+            </div>
+        </body>
+    </text>
+</TEI>

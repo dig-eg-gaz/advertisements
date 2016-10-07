@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-10-06">October 6, 2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>New Khedivial Hotel advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="item" scope="advertisement">
+                <head>NEW KHEDIVIAL HOTEL, ALEXANDRIA.</head>
+                <p>First-class Hotel. Situated in Rosetta Avenue, the finest quarter in the Town.
+                    Two mintes from Railway Station. Close to Conservatory and the Opera House.
+                    Lift. Electric Light Throughout. Perfect Sanitary Arragnements. Magnificent
+                    Ball, Reception, Reading, and Music Rooms. Bar and Smoking Room.</p>
+                <p> HENRI CHAMOULLEAU, Proprietor.</p>
+                <p>45</p>
+                <p>FINE TERRACE ON THE AVENUE. - SPLENDID GARDEN. - OMNIBUS MEET ALL TRAINS AND
+                    STEAMERS. 28-26 </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-10-06">October 6, 2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Cunard Line advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="item" scope="advertisement">
+                <head>Cunard Line.</head>
+                <table rows="4" cols="6">
+                    <head>Alexandria to New-York and Boston via the Continent and Liverpool</head>
+                    <row>
+                        <cell cols="6">Sailings from Liverpool on Saturdays and Tuesdays. Royal Mail
+                            Steamers:</cell>
+                    </row>
+                    <row>
+                        <cell>Caronia</cell>
+                        <cell>21,000 tons</cell>
+                        <cell>Umbria</cell>
+                        <cell>8,127 tons</cell>
+                        <cell>Saxonia</cell>
+                        <cell>14,290 tons</cell>
+                    </row>
+                    <row>
+                        <cell>Lucania</cell>
+                        <cell>12,952 tons</cell>
+                        <cell>Etruria</cell>
+                        <cell>8,119 tons</cell>
+                        <cell>Ivernia</cell>
+                        <cell>14,000 tons</cell>
+                    </row>
+                    <row>
+                        <cell>Campania</cell>
+                        <cell>12,950 tons</cell>
+                        <cell>Aurania</cell>
+                        <cell>7,526 tons</cell>
+                        <cell>Sylvania</cell>
+                        <cell>5,000 tons</cell>
+                    </row>
+                </table>
+                <table rows="3" cols="4">
+                    <head>Alexandria to New-York via Trieste, Fiume or Palermo</head>
+                    <row>
+                        <cell cols="4">Regular twin-screw Passenger Service from the Adriatic.
+                            Excellent accommodation.</cell>
+                    </row>
+                    <row>
+                        <cell>Carpathia</cell>
+                        <cell>12,564 tons</cell>
+                        <cell>Slavonia</cell>
+                        <cell>10,605 tons</cell>
+                    </row>
+                    <row>
+                        <cell>Pannonia</cell>
+                        <cell>9,851 tons</cell>
+                        <cell>Ultonia</cell>
+                        <cell>10,402 tons</cell>
+                    </row>
+                </table>
+                <p>All steamers fitted with Marconi's wireless telegraphy. For through tickets from
+                    Egypt, and particulars aply to the Agents Rodacanachi &amp; Co., Alexandria;
+                    Nic. Kerzis, Cairo; R. Broadbent, Port Said. 19-1-905</p>
+            </div>
+        </body>
+    </text>
+</TEI>
