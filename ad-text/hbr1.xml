@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-09-29">September 29, 2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Hotel Beau-Rivage advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="item" scope="advertisement">
+                <head>Hotel Beau-Rivage.</head>
+                <p>Ramleh-Alexandria</p>
+                <p>15 Minutes by Carriage or "Palais tram from Sidi Gaber Station.</p>
+                <p>The most charming Sea-side Residence in Egypt.</p>
+                <p>First Class Family Hotel with Every Modern Comfort.</p>
+                <p>Unique Situation on the Beach.</p>
+                <p>Lovely Garden. Lawn Tennis. Large Terrace. Electric Light. Sea Baths. Own
+                    springs. Perfect sanitary arrangements. Stables for horses and carriages.</p>
+                <p>Moderate Charges. -- Special terms for Government Officials and Officers of the
+                    Army of Occupation.</p>
+                <p>252-17.1.906</p>
+                <p>G. RUNCKEWITZ, Proprietor.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

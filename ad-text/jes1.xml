@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-09-29">September 29, 2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Joseph Evans &amp; Sons advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="item" scope="advertisement">
+                <head>Joseph Evans &amp; Sons.</head>
+                <p>Culwell Works.</p>
+                <p>Wolverhampton.</p>
+                <p>Makers of PUMPS and Pumping Machinery For all Purposes.</p>
+                <p>Irrigation Pumps.</p>
+                <p>Mining Pumps.</p>
+                <p>Boiler &amp; Pumps Combined.</p>
+                <p>Centrifugal Pumps.</p>
+                <p>Household Pumps.</p>
+                <p>Telgrams: EVANS, Wolverhampton.</p>
+                <p>Write for List No. 9.</p>
+                <p>2516</p>
+            </div>
+        </body>
+    </text>
+</TEI>
