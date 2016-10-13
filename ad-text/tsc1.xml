@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-09-29">September 29, 2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Seasonable Complaint advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="item" scope="advertisement">
+                <head>The Seasonable Complaint. Laxitive is the Remedy.</head>
+                <p>Almost everyone, at the end of summer, FEELS WILTED AND RUN DOWN. We wonder how
+                    we stood the heat of January and February so well, only to collapse when the
+                    weather is appreciably cooler. The reason is that the Summer strain is just
+                    beginning to tell on us. We need to CLEAR THE SYSTEM OF POISONOUS WASTES, and to
+                    stimulate the Liver and Kidneys into action again. IN CHOOSING AN APERIENT we
+                    look for certainty of result, gentleness of action, and palatableness. LAXATINE,
+                    THE WORLD FAMOUS HUNGARIAN APERIENT, is the only one of all the hundreds before
+                    the public which meets the ideal conditions. It Is recommended by Physicians as
+                    specially suitable for the use of ladies and children. TRY ONE BOX. THE PRICE 1S
+                    ONLY ONE SHILLING. Prepared only by the LAXATINE CO., LTD., Budapest,
+                    Hungary.</p>
+                <p>Sold by all Chemists and Storekeepers.</p>
+                <p>Purgatif ideal rafraîchissant et grand dépuratif du sang, recommandé par les
+                    hautes sommités médicales dans toute l’Europe.</p>
+                <p>Meilleur remède contre la constipation, les maladies du foie, les malaises des
+                    reins, les hémorroïdes.</p>
+                <p>Dépositaires :</p>
+                <p>Alexandrie, DROGUERIE FISCHER, Rue Chérif Pacha</p>
+                <p>Caire, O. GIULIOTTI &amp; Co.</p>
+                <p>Tantah MOH. ABDELLATIF</p>
+            </div>
+        </body>
+    </text>
+</TEI>
