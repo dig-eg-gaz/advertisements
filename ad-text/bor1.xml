@@ -2,45 +2,45 @@
 <?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
 ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title level="m" type="main">Egyptian Gazette</title>
-                <title level="m" type="sub">An encoded transcription</title>
-                <editor>Will Hanley</editor>
-                <principal>Will Hanley</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date when="2016-09-29">September 29, 2016</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>FSU University Libraries</publisher>
-                <pubPlace>Tallahassee, FL</pubPlace>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl>
-                    <title>Borwick's Baking Powder advertisement</title>
-                </bibl>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div type="item" scope="advertisement">
-                <head>Borwick's Baking Powder.</head>
-                <p>Economical &amp; Reliable.</p>
-                <p>60 Years' Reputation.</p>
-                <p>For Home-made Bread, Cakes, Pastry, Scones, Flour Puddings, Meat Pies, &amp;c.,
+  <teiHeader>
+      <fileDesc>
+          <titleStmt>
+              <title level="m" type="main">Egyptian Gazette</title>
+              <title level="m" type="sub">An encoded transcription</title>
+              <editor>Will Hanley</editor>
+              <principal>Will Hanley</principal>
+          </titleStmt>
+          <editionStmt>
+              <edition>
+                  <date when="2016-09-29">September 29, 2016</date>
+              </edition>
+          </editionStmt>
+          <publicationStmt>
+              <publisher>FSU University Libraries</publisher>
+              <pubPlace>Tallahassee, FL</pubPlace>
+          </publicationStmt>
+          <sourceDesc>
+              <bibl>
+                  <title>Borwick's Baking Powder advertisement</title>
+              </bibl>
+          </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div type="item" scope="advertisement">
+              <head>Borwick's Baking Powder.</head>
+              <p>Economical &amp; Reliable.</p>
+              <p>60 Years' Reputation.</p>
+              <p>For Home-made Bread, Cakes, Pastry, Scones, Flour Puddings, Meat Pies, &amp;c.,
                     &amp;c.</p>
-                <p>It is Packed in Tins or Bottles, and will keep for years in perfect
+              <p>It is Packed in Tins or Bottles, and will keep for years in perfect
                     condition.</p>
-                <p>Supplied by Store-keepers and Grocers in Cairo and Alexandria.</p>
-                <p>Manufactory--1, Bunhill Row, London.</p>
-                <p>Wholesale Agents: Crosse &amp; Blackwell Ltd., London ; C. &amp; E. Morton,
+              <p>Supplied by Store-keepers and Grocers in Cairo and Alexandria.</p>
+              <p>Manufactory--1, Bunhill Row, London.</p>
+              <p>Wholesale Agents: Crosse &amp; Blackwell Ltd., London ; C. &amp; E. Morton,
                     London; Walker &amp; Meimarachi, Ltd., Cairo; J. B. Caffari, Alexandria.</p>
-            </div>
-        </body>
-    </text>
+          </div>
+      </body>
+  </text>
 </TEI>

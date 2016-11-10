@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title level="m" type="main">Egyptian Gazette</title>
-                <title level="m" type="sub">An encoded transcription</title>
-                <editor>Will Hanley</editor>
-                <principal>Will Hanley</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date when="2016-09-29">September 29, 2016</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>FSU University Libraries</publisher>
-                <pubPlace>Tallahassee, FL</pubPlace>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl>
-                    <title>WALKER &amp; MEIMARACHI advertisement</title>
-                </bibl>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div type="item" scope="advertisement">
-                <p>Our Winter Season’s Stocks</p>
-                <p>COMPRISING AN Exquisite and Extensive Selection of Solid Silver &amp; Plated
+  <teiHeader>
+      <fileDesc>
+          <titleStmt>
+              <title level="m" type="main">Egyptian Gazette</title>
+              <title level="m" type="sub">An encoded transcription</title>
+              <editor>Will Hanley</editor>
+              <principal>Will Hanley</principal>
+          </titleStmt>
+          <editionStmt>
+              <edition>
+                  <date when="2016-09-29">September 29, 2016</date>
+              </edition>
+          </editionStmt>
+          <publicationStmt>
+              <publisher>FSU University Libraries</publisher>
+              <pubPlace>Tallahassee, FL</pubPlace>
+          </publicationStmt>
+          <sourceDesc>
+              <bibl>
+                  <title>WALKER &amp; MEIMARACHI advertisement</title>
+              </bibl>
+          </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div type="item" scope="advertisement">
+              <p>Our Winter Season’s Stocks</p>
+              <p>COMPRISING AN Exquisite and Extensive Selection of Solid Silver &amp; Plated
                     Articles</p>
-                <p>CUTLERY, LEATHER &amp; ATHLETIC GOODS &amp; GAMES.</p>
-                <p>TEA AND LUNCHEON BASKETS.</p>
-                <p>CHOICE HAVANA AND INDIAN CIGARS.</p>
-                <p>VINTAGE WINES</p>
-                <p>PROVISIONS, CONFECTIONERY AND TABLE DELICACIES,</p>
-                <p>Are now being displayed for Sale at exceedingly moderate prices.</p>
-                <p>The Egyptian Supply Stores, (Branoh Walker &amp; Co., Cairo)</p>
-                <p>WALKER &amp; MEIMARACHI, Limited.</p>
-            </div>
-        </body>
-    </text>
+              <p>CUTLERY, LEATHER &amp; ATHLETIC GOODS &amp; GAMES.</p>
+              <p>TEA AND LUNCHEON BASKETS.</p>
+              <p>CHOICE HAVANA AND INDIAN CIGARS.</p>
+              <p>VINTAGE WINES</p>
+              <p>PROVISIONS, CONFECTIONERY AND TABLE DELICACIES,</p>
+              <p>Are now being displayed for Sale at exceedingly moderate prices.</p>
+              <p>The Egyptian Supply Stores, (Branoh Walker &amp; Co., Cairo)</p>
+              <p>WALKER &amp; MEIMARACHI, Limited.</p>
+          </div>
+      </body>
+  </text>
 </TEI>

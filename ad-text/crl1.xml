@@ -2,51 +2,51 @@
 <?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
 ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title level="m" type="main">Egyptian Gazette</title>
-                <title level="m" type="sub">An encoded transcription</title>
-                <editor>Will Hanley</editor>
-                <principal>Will Hanley</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date when="2016-09-29">September 29, 2016</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>FSU University Libraries</publisher>
-                <pubPlace>Tallahassee, FL</pubPlace>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl>
-                    <title>Credit Lyonnais advertisement</title>
-                </bibl>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div type="item" scope="advertisement">
-                <head>CREDIT LYONNAIS</head>
-                <p>Société Anonyme</p>
-                <p>Capital 250,000,000 de francs</p>
-                <p>Entièrement Versés</p>
-                <p>Agences d'Égypte:</p>
-                <p>Alexandrie, Le Caire, Port-Said</p>
-                <p>Le Crédit Lyonnais fait toutes opérations de banque, telles que:</p>
-                <p>Ouverture de comptes courants contre dépôts de valeurs;</p>
-                <p>Emission de traites et chèques, émission de lettres de Crédit, paiement par
+  <teiHeader>
+      <fileDesc>
+          <titleStmt>
+              <title level="m" type="main">Egyptian Gazette</title>
+              <title level="m" type="sub">An encoded transcription</title>
+              <editor>Will Hanley</editor>
+              <principal>Will Hanley</principal>
+          </titleStmt>
+          <editionStmt>
+              <edition>
+                  <date when="2016-09-29">September 29, 2016</date>
+              </edition>
+          </editionStmt>
+          <publicationStmt>
+              <publisher>FSU University Libraries</publisher>
+              <pubPlace>Tallahassee, FL</pubPlace>
+          </publicationStmt>
+          <sourceDesc>
+              <bibl>
+                  <title>Credit Lyonnais advertisement</title>
+              </bibl>
+          </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div type="item" scope="advertisement">
+              <head>CREDIT LYONNAIS</head>
+              <p>Société Anonyme</p>
+              <p>Capital 250,000,000 de francs</p>
+              <p>Entièrement Versés</p>
+              <p>Agences d'Égypte:</p>
+              <p>Alexandrie, Le Caire, Port-Said</p>
+              <p>Le Crédit Lyonnais fait toutes opérations de banque, telles que:</p>
+              <p>Ouverture de comptes courants contre dépôts de valeurs;</p>
+              <p>Emission de traites et chèques, émission de lettres de Crédit, paiement par
                     télégraphe sur les principales villes de la France et de l'étranger;</p>
-                <p>Garde de titres;</p>
-                <p>Recourvement d'effets sur l'Egypte et l'étranger;</p>
-                <p>Le Crédit Lyonnais reçoit des fonds ou un compte de dépôt et délivre des bons à
+              <p>Garde de titres;</p>
+              <p>Recourvement d'effets sur l'Egypte et l'étranger;</p>
+              <p>Le Crédit Lyonnais reçoit des fonds ou un compte de dépôt et délivre des bons à
                     échéance fixe aux taux suivants:</p>
-                <p>2% aux bons de 1 an et au-delà.</p>
-                <p>25299</p>
-                <p>31.12.905</p>
-            </div>
-        </body>
-    </text>
+              <p>2% aux bons de 1 an et au-delà.</p>
+              <p>25299</p>
+              <p>31.12.905</p>
+          </div>
+      </body>
+  </text>
 </TEI>

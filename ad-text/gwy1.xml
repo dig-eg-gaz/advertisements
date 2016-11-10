@@ -2,57 +2,57 @@
 <?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
 ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title level="m" type="main">Egyptian Gazette</title>
-                <title level="m" type="sub">An encoded transcription</title>
-                <editor>Will Hanley</editor>
-                <principal>Will Hanley</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date when="2016-09-29">September 29, 2016</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>FSU University Libraries</publisher>
-                <pubPlace>Tallahassee, FL</pubPlace>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl>
-                    <title>GWYNNES, Limited advertisement</title>
-                </bibl>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div type="item" scope="advertisement">
-                <head>GWYNNES, Limited.</head>
-                <p>(J. &amp; H. GWYNNE, LTD., &amp; GWYNNE &amp; Co., UNITED.)</p>
-                <p>Telegrams--GWYNNE, LONDON.</p>
-                <p>Telephone--544 BANK</p>
-                <p>Codes-- ABC, 4th and 5th Editions, A1.</p>
-                <p>MORNING &AMP; NEAL'S.</p>
-                <p>Trade Mark — “INVINCIBLE."</p>
-                <p>MANUFACTURERS OF THE LARGEST AND MOST EFFICIENT Centrifugal Pumping Machinery In
+  <teiHeader>
+      <fileDesc>
+          <titleStmt>
+              <title level="m" type="main">Egyptian Gazette</title>
+              <title level="m" type="sub">An encoded transcription</title>
+              <editor>Will Hanley</editor>
+              <principal>Will Hanley</principal>
+          </titleStmt>
+          <editionStmt>
+              <edition>
+                  <date when="2016-09-29">September 29, 2016</date>
+              </edition>
+          </editionStmt>
+          <publicationStmt>
+              <publisher>FSU University Libraries</publisher>
+              <pubPlace>Tallahassee, FL</pubPlace>
+          </publicationStmt>
+          <sourceDesc>
+              <bibl>
+                  <title>GWYNNES, Limited advertisement</title>
+              </bibl>
+          </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div type="item" scope="advertisement">
+              <head>GWYNNES, Limited.</head>
+              <p>(J. &amp; H. GWYNNE, LTD., &amp; GWYNNE &amp; Co., UNITED.)</p>
+              <p>Telegrams--GWYNNE, LONDON.</p>
+              <p>Telephone--544 BANK</p>
+              <p>Codes-- ABC, 4th and 5th Editions, A1.</p>
+              <p>MORNING &AMP; NEAL'S.</p>
+              <p>Trade Mark — “INVINCIBLE."</p>
+              <p>MANUFACTURERS OF THE LARGEST AND MOST EFFICIENT Centrifugal Pumping Machinery In
                     the world, suitable fcr all purposes, including RECLAMATION, DRAINAGE,
                     IRRIGATION, SEWAGE WORKS, GRAVING &amp; FLOATING DOCKS, MINES, &amp; ALL
                     MANUFACTURING PURPOSES.</p>
-                <p>These Pumps can be driven by Steam, Gas, Oil, Water, Electricity, or other power,
+              <p>These Pumps can be driven by Steam, Gas, Oil, Water, Electricity, or other power,
                     for Lifts of from 1 ft. to 500ft., and from 5 to 500,000 Gallons a Minute.
                     Makers of the Mex Pumps.</p>
-                <p>Results Guaranteed.</p>
-                <p>Over 50 Years' Practical Experience.</p>
-                <p>All kinds of Pumping and Irrigation Machinery specially designed to meet Egyptian
+              <p>Results Guaranteed.</p>
+              <p>Over 50 Years' Practical Experience.</p>
+              <p>All kinds of Pumping and Irrigation Machinery specially designed to meet Egyptian
                     requirements.</p>
-                <p>London Offices— 81, Cannon Street, London, E.C.</p>
-                <p>The British Engineering Company of Egypt, Ltd: Rue de la Gare du Caire,
+              <p>London Offices— 81, Cannon Street, London, E.C.</p>
+              <p>The British Engineering Company of Egypt, Ltd: Rue de la Gare du Caire,
                     Alexandria.</p>
-                <p>Works- Hammersmith, London, W</p>
-                <p>23362-11-12-904</p>
-            </div>
-        </body>
-    </text>
+              <p>Works- Hammersmith, London, W</p>
+              <p>23362-11-12-904</p>
+          </div>
+      </body>
+  </text>
 </TEI>

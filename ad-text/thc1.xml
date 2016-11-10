@@ -2,40 +2,40 @@
 <?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
 ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title level="m" type="main">Egyptian Gazette</title>
-                <title level="m" type="sub">An encoded transcription</title>
-                <editor>Will Hanley</editor>
-                <principal>Will Hanley</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date when="2016-09-29">September 29, 2016</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>FSU University Libraries</publisher>
-                <pubPlace>Tallahassee, FL</pubPlace>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl>
-                    <title>Thorne's High Class Whisky advertisement</title>
-                </bibl>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div type="item" scope="advertisement">
-                <head>Thorne's High Class Whisky</head>
-                <p>Estd 1831</p>
-                <p>R. Thorne &amp; Sons, Ltd. Distillers</p>
-                <p>Greenock, London &amp; Aberlour, Glenlivet.</p>
-                <p>Agents wanted throughout Egypt.</p>
-                <p>Export Ofice, Lion House, Tower Hill London, E.C.</p>
-            </div>
-        </body>
-    </text>
+  <teiHeader>
+      <fileDesc>
+          <titleStmt>
+              <title level="m" type="main">Egyptian Gazette</title>
+              <title level="m" type="sub">An encoded transcription</title>
+              <editor>Will Hanley</editor>
+              <principal>Will Hanley</principal>
+          </titleStmt>
+          <editionStmt>
+              <edition>
+                  <date when="2016-09-29">September 29, 2016</date>
+              </edition>
+          </editionStmt>
+          <publicationStmt>
+              <publisher>FSU University Libraries</publisher>
+              <pubPlace>Tallahassee, FL</pubPlace>
+          </publicationStmt>
+          <sourceDesc>
+              <bibl>
+                  <title>Thorne's High Class Whisky advertisement</title>
+              </bibl>
+          </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div type="item" scope="advertisement">
+              <head>Thorne's High Class Whisky</head>
+              <p>Estd 1831</p>
+              <p>R. Thorne &amp; Sons, Ltd. Distillers</p>
+              <p>Greenock, London &amp; Aberlour, Glenlivet.</p>
+              <p>Agents wanted throughout Egypt.</p>
+              <p>Export Ofice, Lion House, Tower Hill London, E.C.</p>
+          </div>
+      </body>
+  </text>
 </TEI>

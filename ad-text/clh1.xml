@@ -2,43 +2,43 @@
 <?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
 ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title level="m" type="main">Egyptian Gazette</title>
-                <title level="m" type="sub">An encoded transcription</title>
-                <editor>Will Hanley</editor>
-                <principal>Will Hanley</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date when="2016-09-29">September 29, 2016</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>FSU University Libraries</publisher>
-                <pubPlace>Tallahassee, FL</pubPlace>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl>
-                    <title>CIGARES de la HAVANE advertisement</title>
-                </bibl>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div type="item" scope="advertisement">
-                <head>CIGARES de la HAVANE</head>
-                <p>de provenance directe et de toutes les meilleures marques</p>
-                <p>Nicolas G Sabbag</p>
-                <p>IMPORTATEUR GENERAL</p>
-                <p>FOURNISSIUR DE S A LE KHEDIVE et de tous les grands Clubs et Hôtels d'Egypte.</p>
-                <p>2—Rue de la Gare du Caire—2 ALEXANDRIE</p>
-                <p> Adresse Télégraphique : SABBAG Alexandrie</p>
-                <p> Téléphone No 559.</p>
-                <p> 246081-26-904</p>
-            </div>
-        </body>
-    </text>
+  <teiHeader>
+      <fileDesc>
+          <titleStmt>
+              <title level="m" type="main">Egyptian Gazette</title>
+              <title level="m" type="sub">An encoded transcription</title>
+              <editor>Will Hanley</editor>
+              <principal>Will Hanley</principal>
+          </titleStmt>
+          <editionStmt>
+              <edition>
+                  <date when="2016-09-29">September 29, 2016</date>
+              </edition>
+          </editionStmt>
+          <publicationStmt>
+              <publisher>FSU University Libraries</publisher>
+              <pubPlace>Tallahassee, FL</pubPlace>
+          </publicationStmt>
+          <sourceDesc>
+              <bibl>
+                  <title>CIGARES de la HAVANE advertisement</title>
+              </bibl>
+          </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div type="item" scope="advertisement">
+              <head>CIGARES de la HAVANE</head>
+              <p>de provenance directe et de toutes les meilleures marques</p>
+              <p>Nicolas G Sabbag</p>
+              <p>IMPORTATEUR GENERAL</p>
+              <p>FOURNISSIUR DE S A LE KHEDIVE et de tous les grands Clubs et Hôtels d'Egypte.</p>
+              <p>2—Rue de la Gare du Caire—2 ALEXANDRIE</p>
+              <p> Adresse Télégraphique : SABBAG Alexandrie</p>
+              <p> Téléphone No 559.</p>
+              <p> 246081-26-904</p>
+          </div>
+      </body>
+  </text>
 </TEI>

@@ -2,43 +2,43 @@
 <?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
 ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title level="m" type="main">Egyptian Gazette</title>
-                <title level="m" type="sub">An encoded transcription</title>
-                <editor>Will Hanley</editor>
-                <principal>Will Hanley</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date when="2016-09-29">September 29, 2016</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>FSU University Libraries</publisher>
-                <pubPlace>Tallahassee, FL</pubPlace>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl>
-                    <title>NOUVEAU REMEDE PURGATIF IDEAL advertisement</title>
-                </bibl>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div type="item" scope="advertisement">
-                <head>NOUVEAU REMEDE PURGATIF IDEAL</head>
-                <p>Contre: Constipation, Congestion, Hemerrhoides, Migraine<lb/> Obesite, etc.
+  <teiHeader>
+      <fileDesc>
+          <titleStmt>
+              <title level="m" type="main">Egyptian Gazette</title>
+              <title level="m" type="sub">An encoded transcription</title>
+              <editor>Will Hanley</editor>
+              <principal>Will Hanley</principal>
+          </titleStmt>
+          <editionStmt>
+              <edition>
+                  <date when="2016-09-29">September 29, 2016</date>
+              </edition>
+          </editionStmt>
+          <publicationStmt>
+              <publisher>FSU University Libraries</publisher>
+              <pubPlace>Tallahassee, FL</pubPlace>
+          </publicationStmt>
+          <sourceDesc>
+              <bibl>
+                  <title>NOUVEAU REMEDE PURGATIF IDEAL advertisement</title>
+              </bibl>
+          </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div type="item" scope="advertisement">
+              <head>NOUVEAU REMEDE PURGATIF IDEAL</head>
+              <p>Contre: Constipation, Congestion, Hemerrhoides, Migraine<lb/> Obesite, etc.
                     Conserve le beint frais et la taille svelte ; d'une efficacité absolue agit
-                    <lb/> sans douleurs. Il es conseillé par toutes les sommités<lb/> medicales.
+                  <lb/> sans douleurs. Il es conseillé par toutes les sommités<lb/> medicales.
                     Le purgatif le plus économique.</p>
-                <p>PURGEN</p>
-                <p>Prix 1.50 pour 12 purgations. Se trouve dans toutes les pharmacies.</p>
-                <p>Dépôt général pour l'Égypte GEO. BUSLENEG, Pharamcien, Alexandrie.
+              <p>PURGEN</p>
+              <p>Prix 1.50 pour 12 purgations. Se trouve dans toutes les pharmacies.</p>
+              <p>Dépôt général pour l'Égypte GEO. BUSLENEG, Pharamcien, Alexandrie.
                     25-1-05</p>
-            </div>
-        </body>
-    </text>
+          </div>
+      </body>
+  </text>
 </TEI>

@@ -2,40 +2,40 @@
 <?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
 ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title level="m" type="main">Egyptian Gazette</title>
-                <title level="m" type="sub">An encoded transcription</title>
-                <editor>Will Hanley</editor>
-                <principal>Will Hanley</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date when="2016-09-29">September 29, 2016</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>FSU University Libraries</publisher>
-                <pubPlace>Tallahassee, FL</pubPlace>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl>
-                    <title>Dinneford's Magnesia advertisement</title>
-                </bibl>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div type="item" scope="advertisement">
-                <head>Dinneford's Magnesia</head>
-                <p>The Universal Remedy for Acidity of the Stomach, Headach, Heartburn, Indigestion,
+  <teiHeader>
+      <fileDesc>
+          <titleStmt>
+              <title level="m" type="main">Egyptian Gazette</title>
+              <title level="m" type="sub">An encoded transcription</title>
+              <editor>Will Hanley</editor>
+              <principal>Will Hanley</principal>
+          </titleStmt>
+          <editionStmt>
+              <edition>
+                  <date when="2016-09-29">September 29, 2016</date>
+              </edition>
+          </editionStmt>
+          <publicationStmt>
+              <publisher>FSU University Libraries</publisher>
+              <pubPlace>Tallahassee, FL</pubPlace>
+          </publicationStmt>
+          <sourceDesc>
+              <bibl>
+                  <title>Dinneford's Magnesia advertisement</title>
+              </bibl>
+          </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div type="item" scope="advertisement">
+              <head>Dinneford's Magnesia</head>
+              <p>The Universal Remedy for Acidity of the Stomach, Headach, Heartburn, Indigestion,
                     Sour Eractations, Bilious Affections.</p>
-                <p>The Physician's Cure for Gout, Rheuatic Gout and Gravel.</p>
-                <p>Safesta and most Gentle Medicine for Infants, Children, Delicate Females, and the
+              <p>The Physician's Cure for Gout, Rheuatic Gout and Gravel.</p>
+              <p>Safesta and most Gentle Medicine for Infants, Children, Delicate Females, and the
                     Sickness of Pregnancy.</p>
-            </div>
-        </body>
-    </text>
+          </div>
+      </body>
+  </text>
 </TEI>

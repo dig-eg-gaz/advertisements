@@ -2,46 +2,46 @@
 <?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
 ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title level="m" type="main">Egyptian Gazette</title>
-                <title level="m" type="sub">An encoded transcription</title>
-                <editor>Will Hanley</editor>
-                <principal>Will Hanley</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date when="2016-09-01">September 2016</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>FSU University Libraries</publisher>
-                <pubPlace>Tallahassee, FL</pubPlace>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl>
-                    <title>Bibby Line Mail Steamers</title>
-                </bibl>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div type="item" scope="advertisement">
-                <head>BIBBY LINE MAIL STEAMERS.</head>
-                <p>Special Reduced Rates During Summer Season,</p>
-                <p>OUTWARDS to COLOMBO, TUTICORIN, etc., and RANGOON. Departures from Suez.</p>
-                <p>S.S. Derbyshire 6,635 tons, leaves about July 20.</p>
-                <p>S.S. Lancashire 4,244 tons, leaves about August 3.</p>
-                <p>HOMEWARDS to MARSEILLES and LONDON. Departures from Port Said.</p>
-                <p>S.S. Worcestershire 7,160 tons, leaves about July 26.</p>
-                <p>S.S. Yorkshire 4,196 tons leaves about August 9,</p>
-                <p>FARES from Port Said to Marseilles £12.0.0, London £17.0.0, Colombo £32.10.0,
-                    Rangoon £37.10.0. </p>
-                <p>Agents Cairo: THOS. COOK &amp; SON. Suez &amp; Port Said : WM. STAPLEDON &amp; SONS,
+  <teiHeader>
+      <fileDesc>
+          <titleStmt>
+              <title level="m" type="main">Egyptian Gazette</title>
+              <title level="m" type="sub">An encoded transcription</title>
+              <editor>Will Hanley</editor>
+              <principal>Will Hanley</principal>
+          </titleStmt>
+          <editionStmt>
+              <edition>
+                  <date when="2016-09-01">September 2016</date>
+              </edition>
+          </editionStmt>
+          <publicationStmt>
+              <publisher>FSU University Libraries</publisher>
+              <pubPlace>Tallahassee, FL</pubPlace>
+          </publicationStmt>
+          <sourceDesc>
+              <bibl>
+                  <title>Bibby Line Mail Steamers</title>
+              </bibl>
+          </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div type="item" scope="advertisement">
+              <head>BIBBY LINE MAIL STEAMERS.</head>
+              <p>Special Reduced Rates During Summer Season,</p>
+              <p>OUTWARDS to COLOMBO, TUTICORIN, etc., and RANGOON. Departures from Suez.</p>
+              <p>S.S. Derbyshire 6,635 tons, leaves about July 20.</p>
+              <p>S.S. Lancashire 4,244 tons, leaves about August 3.</p>
+              <p>HOMEWARDS to MARSEILLES and LONDON. Departures from Port Said.</p>
+              <p>S.S. Worcestershire 7,160 tons, leaves about July 26.</p>
+              <p>S.S. Yorkshire 4,196 tons leaves about August 9,</p>
+              <p>FARES from Port Said to Marseilles £12.0.0, London £17.0.0, Colombo £32.10.0,
+                    Rangoon £37.10.0.</p>
+              <p>Agents Cairo: THOS. COOK &amp; SON. Suez &amp; Port Said : WM. STAPLEDON &amp; SONS,
                     31-12-905</p>
-            </div>
-        </body>
-    </text>
+          </div>
+      </body>
+  </text>
 </TEI>

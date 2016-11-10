@@ -2,100 +2,100 @@
 <?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
 ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title level="m" type="main">Egyptian Gazette</title>
-                <title level="m" type="sub">An encoded transcription</title>
-                <editor>Will Hanley</editor>
-                <principal>Will Hanley</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date when="2016-10-06">October 6, 2016</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>FSU University Libraries</publisher>
-                <pubPlace>Tallahassee, FL</pubPlace>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl>
-                    <title>Austrian Lloyd’s Steam Navigation advertisement</title>
-                </bibl>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div type="item" scope="advertisement">
-                <head>Austrian Lloyd’s Steam Navigation</head>
-                <p>Alexandria-Brindisi-Venice-Trieste.</p>
-                <p>Weekly Express Mail Service. Steamers leave Alexandria every Saturday at 4 p.m.
+  <teiHeader>
+      <fileDesc>
+          <titleStmt>
+              <title level="m" type="main">Egyptian Gazette</title>
+              <title level="m" type="sub">An encoded transcription</title>
+              <editor>Will Hanley</editor>
+              <principal>Will Hanley</principal>
+          </titleStmt>
+          <editionStmt>
+              <edition>
+                  <date when="2016-10-06">October 6, 2016</date>
+              </edition>
+          </editionStmt>
+          <publicationStmt>
+              <publisher>FSU University Libraries</publisher>
+              <pubPlace>Tallahassee, FL</pubPlace>
+          </publicationStmt>
+          <sourceDesc>
+              <bibl>
+                  <title>Austrian Lloyd’s Steam Navigation advertisement</title>
+              </bibl>
+          </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div type="item" scope="advertisement">
+              <head>Austrian Lloyd’s Steam Navigation</head>
+              <p>Alexandria-Brindisi-Venice-Trieste.</p>
+              <p>Weekly Express Mail Service. Steamers leave Alexandria every Saturday at 4 p.m.
                     arrive at Brindisi, Tuesday a.m. in time for express to Paris, London, Naples,
                     Rome. Arrival Trieste Wednesday noon connecting with Vienna Express
                     (Trieste-Ostende through carriage) and expresses to Italy and Germany.</p>
-                <table rows="3" cols="8">
-                    <row>
-                        <cell>July 8</cell>
-                        <cell>4 p.m.</cell>
-                        <cell>S. S. "Semiramis"</cell>
-                        <cell>Capt. Martinolich</cell>
-                        <cell>July 29</cell>
-                        <cell>4 p.m.</cell>
-                        <cell>S. S. "Imperator"</cell>
-                        <cell>Capt. Mosca</cell>
-                    </row>
-                    <row>
-                        <cell>July 15</cell>
-                        <cell>4 p.m.</cell>
-                        <cell>S. S. "Bohemia"</cell>
-                        <cell>Capt. Dabcevich</cell>
-                        <cell>August 5</cell>
-                        <cell>4 p.m.</cell>
-                        <cell>S.S. "Imperatrix"</cell>
-                        <cell>Capt. Ghezzo</cell>
-                    </row>
-                    <row>
-                        <cell>July 22</cell>
-                        <cell>4 p.m.</cell>
-                        <cell>S. S. "Cleopatra"</cell>
-                        <cell>Capt. Ivellich</cell>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                        <cell/>
-                    </row>
-                </table>
-                <p>Fortnightly Service: Alexandria-Brindisi-Venice-Trieste </p>
-                <table rows="1" cols="8">
-                    <row>
-                        <cell>June 21</cell>
-                        <cell>4 p.m.</cell>
-                        <cell>S. S. "Thalia"</cell>
-                        <cell>Capt. Ivaneich</cell>
-                        <cell>July 5</cell>
-                        <cell>4 p.m.</cell>
-                        <cell>S. S. "Maria Teresa"</cell>
-                        <cell>Capt. Knezevich</cell>
-                    </row>
-                </table>
-                <p>(Departures from Suez) To Aden, Bombay, Colombo, Penang, Singapore, Hong-Kong,
+              <table rows="3" cols="8">
+                  <row>
+                      <cell>July 8</cell>
+                      <cell>4 p.m.</cell>
+                      <cell>S. S. "Semiramis"</cell>
+                      <cell>Capt. Martinolich</cell>
+                      <cell>July 29</cell>
+                      <cell>4 p.m.</cell>
+                      <cell>S. S. "Imperator"</cell>
+                      <cell>Capt. Mosca</cell>
+                  </row>
+                  <row>
+                      <cell>July 15</cell>
+                      <cell>4 p.m.</cell>
+                      <cell>S. S. "Bohemia"</cell>
+                      <cell>Capt. Dabcevich</cell>
+                      <cell>August 5</cell>
+                      <cell>4 p.m.</cell>
+                      <cell>S.S. "Imperatrix"</cell>
+                      <cell>Capt. Ghezzo</cell>
+                  </row>
+                  <row>
+                      <cell>July 22</cell>
+                      <cell>4 p.m.</cell>
+                      <cell>S. S. "Cleopatra"</cell>
+                      <cell>Capt. Ivellich</cell>
+                      <cell/>
+                      <cell/>
+                      <cell/>
+                      <cell/>
+                  </row>
+              </table>
+              <p>Fortnightly Service: Alexandria-Brindisi-Venice-Trieste</p>
+              <table rows="1" cols="8">
+                  <row>
+                      <cell>June 21</cell>
+                      <cell>4 p.m.</cell>
+                      <cell>S. S. "Thalia"</cell>
+                      <cell>Capt. Ivaneich</cell>
+                      <cell>July 5</cell>
+                      <cell>4 p.m.</cell>
+                      <cell>S. S. "Maria Teresa"</cell>
+                      <cell>Capt. Knezevich</cell>
+                  </row>
+              </table>
+              <p>(Departures from Suez) To Aden, Bombay, Colombo, Penang, Singapore, Hong-Kong,
                     Shanghai, Yokohama, Kobé about July 5 and August 4. To Aden, Karachi, and Bombay
                     accelerated service about August 18. To Aden, Karachi, Bombay, Colombo, Madras,
                     Rangoon, and Calcutta about July 20.</p>
-                <p>East African Line.</p>
-                <p>To Aden, Mombassa, Zanzibar, Beira, Delagoa Bay, Durban, about July 4 and August
+              <p>East African Line.</p>
+              <p>To Aden, Mombassa, Zanzibar, Beira, Delagoa Bay, Durban, about July 4 and August
                     3.</p>
-                <p>Syrian-Cyprus-Caramanian Line.</p>
-                <p>Steamers leaves Alexandria on or about July 3, 17 and 31.</p>
-                <p>For information apply to the Agents, Alexandria, Port Said and Suez, Thos. Cook
+              <p>Syrian-Cyprus-Caramanian Line.</p>
+              <p>Steamers leaves Alexandria on or about July 3, 17 and 31.</p>
+              <p>For information apply to the Agents, Alexandria, Port Said and Suez, Thos. Cook
                     &amp; Son, Ld., Leon Heller, Cairo Agent, 4, Sharia Maghraby, (Telephone 192),
                     Cairo; F. Tedeschi, Helouan.</p>
-                <p>Special passage rates granted to Egyptian Government officials, members of the
-                    Army of Occupation and their families. </p>
-                <p>31-12-905</p>
-            </div>
-        </body>
-    </text>
+              <p>Special passage rates granted to Egyptian Government officials, members of the
+                    Army of Occupation and their families.</p>
+              <p>31-12-905</p>
+          </div>
+      </body>
+  </text>
 </TEI>

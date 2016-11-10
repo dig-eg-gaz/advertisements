@@ -2,44 +2,44 @@
 <?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
 ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title level="m" type="main">Egyptian Gazette</title>
-                <title level="m" type="sub">An encoded transcription</title>
-                <editor>Will Hanley</editor>
-                <principal>Will Hanley</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date when="2016-09-29">September 29, 2016</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>FSU University Libraries</publisher>
-                <pubPlace>Tallahassee, FL</pubPlace>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl>
-                    <title>HALLS “BOAR’S HEAD” BRAND advertisement</title>
-                </bibl>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div type="item" scope="advertisement">
-                <p>UNSURPASSED FOR QUALITY AND CONDITION.</p>
-                <head>HALLS “BOAR’S HEAD” BRAND.</head>
-                <p>Guinness’s Foreign Extra Stout</p>
-                <p>Bass’s India Pale Ale</p>
-                <p>T.B. HALL &amp; Co. TRADE MARK. THE "BOAR'S HEAD" BRAND of ALE &amp; STOUT. LIGHT
-                    SPARKLING PALE ALE. </p>
-                <p>Sole Exporters: T. B. HALL &amp; Co., Ltd. 79-83 Norfolk St., Liverpool </p>
-                <p>Sole Importer for Egypt and the Sudan:</p>
-                <p>G. MARCUS &amp; Co.</p>
-                <p>ALEXANDRIA, CAIRO and TANTA.</p>
-            </div>
-        </body>
-    </text>
+  <teiHeader>
+      <fileDesc>
+          <titleStmt>
+              <title level="m" type="main">Egyptian Gazette</title>
+              <title level="m" type="sub">An encoded transcription</title>
+              <editor>Will Hanley</editor>
+              <principal>Will Hanley</principal>
+          </titleStmt>
+          <editionStmt>
+              <edition>
+                  <date when="2016-09-29">September 29, 2016</date>
+              </edition>
+          </editionStmt>
+          <publicationStmt>
+              <publisher>FSU University Libraries</publisher>
+              <pubPlace>Tallahassee, FL</pubPlace>
+          </publicationStmt>
+          <sourceDesc>
+              <bibl>
+                  <title>HALLS “BOAR’S HEAD” BRAND advertisement</title>
+              </bibl>
+          </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div type="item" scope="advertisement">
+              <p>UNSURPASSED FOR QUALITY AND CONDITION.</p>
+              <head>HALLS “BOAR’S HEAD” BRAND.</head>
+              <p>Guinness’s Foreign Extra Stout</p>
+              <p>Bass’s India Pale Ale</p>
+              <p>T.B. HALL &amp; Co. TRADE MARK. THE "BOAR'S HEAD" BRAND of ALE &amp; STOUT. LIGHT
+                    SPARKLING PALE ALE.</p>
+              <p>Sole Exporters: T. B. HALL &amp; Co., Ltd. 79-83 Norfolk St., Liverpool</p>
+              <p>Sole Importer for Egypt and the Sudan:</p>
+              <p>G. MARCUS &amp; Co.</p>
+              <p>ALEXANDRIA, CAIRO and TANTA.</p>
+          </div>
+      </body>
+  </text>
 </TEI>

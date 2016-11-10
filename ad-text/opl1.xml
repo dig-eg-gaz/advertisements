@@ -2,89 +2,89 @@
 <?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
 ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title level="m" type="main">Egyptian Gazette</title>
-                <title level="m" type="sub">An encoded transcription</title>
-                <editor>Will Hanley</editor>
-                <principal>Will Hanley</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date when="2016-09-01">September 2016</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>FSU University Libraries</publisher>
-                <pubPlace>Tallahassee, FL</pubPlace>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl>
-                    <title>Orient-Pacific Line of Royal Mail Steamers</title>
-                </bibl>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div type="item" scope="advertisement">
-                <head>Orient-Pacific Line of Royal Mail Steamers.</head>
-                <p>REDUCED SUMMER FARES FROM MAY TO OCTOBER INCLUSIVE.</p>
-                <p>OUTWARDS to AUSTRALIA.</p>
-                <p>R.M.S. “Orotava" will leave Suez about July 28 | R.M.S "Ormuz" will leave Suez
-                    about August 11. </p>
-                <p>HOMEWARDS to NAPLES MARSEILLES, GIBRALTAR, PLYMOUTH, LONDON, TILBURY</p>
-                <p>R.M.S. "Oroya" will leave Port Said about July 18 | R.M.S. “Ortona" will leave
+  <teiHeader>
+      <fileDesc>
+          <titleStmt>
+              <title level="m" type="main">Egyptian Gazette</title>
+              <title level="m" type="sub">An encoded transcription</title>
+              <editor>Will Hanley</editor>
+              <principal>Will Hanley</principal>
+          </titleStmt>
+          <editionStmt>
+              <edition>
+                  <date when="2016-09-01">September 2016</date>
+              </edition>
+          </editionStmt>
+          <publicationStmt>
+              <publisher>FSU University Libraries</publisher>
+              <pubPlace>Tallahassee, FL</pubPlace>
+          </publicationStmt>
+          <sourceDesc>
+              <bibl>
+                  <title>Orient-Pacific Line of Royal Mail Steamers</title>
+              </bibl>
+          </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div type="item" scope="advertisement">
+              <head>Orient-Pacific Line of Royal Mail Steamers.</head>
+              <p>REDUCED SUMMER FARES FROM MAY TO OCTOBER INCLUSIVE.</p>
+              <p>OUTWARDS to AUSTRALIA.</p>
+              <p>R.M.S. “Orotava" will leave Suez about July 28 | R.M.S "Ormuz" will leave Suez
+                    about August 11.</p>
+              <p>HOMEWARDS to NAPLES MARSEILLES, GIBRALTAR, PLYMOUTH, LONDON, TILBURY</p>
+              <p>R.M.S. "Oroya" will leave Port Said about July 18 | R.M.S. “Ortona" will leave
                     Port Said about August 1</p>
-                <table>
-                    <row>
-                        <cell rows="4">Reduced Summer Fares</cell>
-                        <cell>Port-Said to Naples</cell>
-                        <cell>1st Class</cell>
-                        <cell>£ 11</cell>
-                        <cell>2nd Class</cell>
-                        <cell>£ 7</cell>
-                        <cell>3rd Class</cell>
-                        <cell>£ 4.8</cell>
-                    </row>
-                    <row>
-                        <cell>Port-Said to Marseilles</cell>
-                        <cell>1st Class</cell>
-                        <cell>£ 12.12</cell>
-                        <cell>2nd Class</cell>
-                        <cell>£ 9.9</cell>
-                        <cell>3rd Class</cell>
-                        <cell>£ 5.10</cell>
-                    </row>
-                    <row>
-                        <cell>Port-Said to Gibraltar</cell>
-                        <cell>1st Class</cell>
-                        <cell>£ 18.0</cell>
-                        <cell>2nd Class</cell>
-                        <cell>£ 10.0</cell>
-                        <cell>3rd Class</cell>
-                        <cell>£ 5.10</cell>
-                    </row>
-                    <row>
-                        <cell>Port-Said to Plymouth or Tilbury</cell>
-                        <cell>1st Class</cell>
-                        <cell>£ 16.16</cell>
-                        <cell>2nd Class</cell>
-                        <cell>£ 12.12</cell>
-                        <cell>3rd Class</cell>
-                        <cell>£ 8.16</cell>
-                    </row>
-                </table>
-                <p>Egyptian Government Officials allowed a rebate of 15% off the above fares.</p>
-                <p>Return tickets no longer issued, but passengers paying full fare in one direction
+              <table>
+                  <row>
+                      <cell rows="4">Reduced Summer Fares</cell>
+                      <cell>Port-Said to Naples</cell>
+                      <cell>1st Class</cell>
+                      <cell>£ 11</cell>
+                      <cell>2nd Class</cell>
+                      <cell>£ 7</cell>
+                      <cell>3rd Class</cell>
+                      <cell>£ 4.8</cell>
+                  </row>
+                  <row>
+                      <cell>Port-Said to Marseilles</cell>
+                      <cell>1st Class</cell>
+                      <cell>£ 12.12</cell>
+                      <cell>2nd Class</cell>
+                      <cell>£ 9.9</cell>
+                      <cell>3rd Class</cell>
+                      <cell>£ 5.10</cell>
+                  </row>
+                  <row>
+                      <cell>Port-Said to Gibraltar</cell>
+                      <cell>1st Class</cell>
+                      <cell>£ 18.0</cell>
+                      <cell>2nd Class</cell>
+                      <cell>£ 10.0</cell>
+                      <cell>3rd Class</cell>
+                      <cell>£ 5.10</cell>
+                  </row>
+                  <row>
+                      <cell>Port-Said to Plymouth or Tilbury</cell>
+                      <cell>1st Class</cell>
+                      <cell>£ 16.16</cell>
+                      <cell>2nd Class</cell>
+                      <cell>£ 12.12</cell>
+                      <cell>3rd Class</cell>
+                      <cell>£ 8.16</cell>
+                  </row>
+              </table>
+              <p>Egyptian Government Officials allowed a rebate of 15% off the above fares.</p>
+              <p>Return tickets no longer issued, but passengers paying full fare in one direction
                     allowed abatement of 1/3 fare back if return voyage be within 4 months of
                     arrival, or abatement of 20 o/o if return voyage be made within 8 months of
                     arrival.</p>
-                <p>Agents. Cairo:—Thos. Cook &amp; Son. Alexandria : —R. J. Moss &amp; Co.—For all
-                    information apply </p>
-                <p>Wm. STAPLEDON &amp; Sons, PORT-SAID &amp; PORT-TEWFIK (Suez) 31-12-904</p>
-            </div>
-        </body>
-    </text>
+              <p>Agents. Cairo:—Thos. Cook &amp; Son. Alexandria : —R. J. Moss &amp; Co.—For all
+                    information apply</p>
+              <p>Wm. STAPLEDON &amp; Sons, PORT-SAID &amp; PORT-TEWFIK (Suez) 31-12-904</p>
+          </div>
+      </body>
+  </text>
 </TEI>

@@ -2,79 +2,79 @@
 <?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
 ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title level="m" type="main">Egyptian Gazette</title>
-                <title level="m" type="sub">An encoded transcription</title>
-                <editor>Will Hanley</editor>
-                <principal>Will Hanley</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date when="2016-09-28">September 28, 2016</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>FSU University Libraries</publisher>
-                <pubPlace>Tallahassee, FL</pubPlace>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl>
-                    <title>British India S. N. Company, Limited advertisement</title>
-                </bibl>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div type="item" scope="advertisement">
-                <head>British India S. N. Company, Limited.</head>
-                <p>MAIL AND PASSENGER STEAM SHIPS.</p>
-                <p>SAILINGS FROM SUEZ, LONDON and CALCUTTA LINE.</p>
-                <p>Calling at ADEN, COLOMBO and MADRAS Outward, and MARSEILLES (GENOA and PLYMOUTH
-                    optional) Homeward. </p>
-                <p>Fortnightly Service in connection with the Co's Indian Mail Lines and monthly
-                    with the East African Mail Line between ADEN, MOMBASSA and Zanzibar. </p>
-                <p>OUTWARD.—S.S. Fazilka ... July 22 | HOMEWARD.—S.S. Mombassa ... July 21 </p>
-                <p>Queensland Line of Steamers Between London and Brisbane.</p>
-                <p>Calling at Colombo, Batavia, Cooktown, Townsville, and Rockhamptom.</p>
-                <p>The S.S. .................. will sail from Suez on about ..................</p>
-                <table rows="2" cols="9">
-                    <row>
-                        <cell>First Class Fares from Suez to</cell>
-                        <cell>Aden</cell>
-                        <cell>£11. 8</cell>
-                        <cell>Colombo</cell>
-                        <cell>£14.14</cell>
-                        <cell>Calcutta</cell>
-                        <cell>£31. 0</cell>
-                        <cell>Marseilles</cell>
-                        <cell>£15.12</cell>
-                    </row>
-                    <row>
-                        <cell/>
-                        <cell>Bombay</cell>
-                        <cell>£31.10</cell>
-                        <cell>Madras</cell>
-                        <cell>£xx.11</cell>
-                        <cell>Genoa</cell>
-                        <cell>£13.10</cell>
-                        <cell>London</cell>
-                        <cell>£19. 0</cell>
-                    </row>
-                </table>
-                <p>From Port-Said £2 less Homeward, and £2 more Outward. Second class, two thirds of
+  <teiHeader>
+      <fileDesc>
+          <titleStmt>
+              <title level="m" type="main">Egyptian Gazette</title>
+              <title level="m" type="sub">An encoded transcription</title>
+              <editor>Will Hanley</editor>
+              <principal>Will Hanley</principal>
+          </titleStmt>
+          <editionStmt>
+              <edition>
+                  <date when="2016-09-28">September 28, 2016</date>
+              </edition>
+          </editionStmt>
+          <publicationStmt>
+              <publisher>FSU University Libraries</publisher>
+              <pubPlace>Tallahassee, FL</pubPlace>
+          </publicationStmt>
+          <sourceDesc>
+              <bibl>
+                  <title>British India S. N. Company, Limited advertisement</title>
+              </bibl>
+          </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div type="item" scope="advertisement">
+              <head>British India S. N. Company, Limited.</head>
+              <p>MAIL AND PASSENGER STEAM SHIPS.</p>
+              <p>SAILINGS FROM SUEZ, LONDON and CALCUTTA LINE.</p>
+              <p>Calling at ADEN, COLOMBO and MADRAS Outward, and MARSEILLES (GENOA and PLYMOUTH
+                    optional) Homeward.</p>
+              <p>Fortnightly Service in connection with the Co's Indian Mail Lines and monthly
+                    with the East African Mail Line between ADEN, MOMBASSA and Zanzibar.</p>
+              <p>OUTWARD.—S.S. Fazilka ... July 22 | HOMEWARD.—S.S. Mombassa ... July 21</p>
+              <p>Queensland Line of Steamers Between London and Brisbane.</p>
+              <p>Calling at Colombo, Batavia, Cooktown, Townsville, and Rockhamptom.</p>
+              <p>The S.S. .................. will sail from Suez on about ..................</p>
+              <table rows="2" cols="9">
+                  <row>
+                      <cell>First Class Fares from Suez to</cell>
+                      <cell>Aden</cell>
+                      <cell>£11. 8</cell>
+                      <cell>Colombo</cell>
+                      <cell>£14.14</cell>
+                      <cell>Calcutta</cell>
+                      <cell>£31. 0</cell>
+                      <cell>Marseilles</cell>
+                      <cell>£15.12</cell>
+                  </row>
+                  <row>
+                      <cell/>
+                      <cell>Bombay</cell>
+                      <cell>£31.10</cell>
+                      <cell>Madras</cell>
+                      <cell>£xx.11</cell>
+                      <cell>Genoa</cell>
+                      <cell>£13.10</cell>
+                      <cell>London</cell>
+                      <cell>£19. 0</cell>
+                  </row>
+              </table>
+              <p>From Port-Said £2 less Homeward, and £2 more Outward. Second class, two thirds of
                     1st Class Fares.</p>
-                <p>Agents at PORT SAID, for the London, Calcutta and Persian Gulf Lines, Messrs.
+              <p>Agents at PORT SAID, for the London, Calcutta and Persian Gulf Lines, Messrs.
                     Worms &amp; Co.</p>
-                <p>Agents at PORT SAID, for the London and Queensland Line, Messrs. Wills &amp; Co.,
+              <p>Agents at PORT SAID, for the London and Queensland Line, Messrs. Wills &amp; Co.,
                     Limited.</p>
-                <p>Messrs. Thos. Cook &amp; Son and the Anglo-American Hotel &amp; Steamer Company,
+              <p>Messrs. Thos. Cook &amp; Son and the Anglo-American Hotel &amp; Steamer Company,
                     CAIRO &amp; ALEXANDRIA.</p>
-                <p>For further particulars. Freight and Passage apply to G. BEYTS &amp; Co. Agents,
+              <p>For further particulars. Freight and Passage apply to G. BEYTS &amp; Co. Agents,
                     Suez. 31-12-905</p>
-            </div>
-        </body>
-    </text>
+          </div>
+      </body>
+  </text>
 </TEI>

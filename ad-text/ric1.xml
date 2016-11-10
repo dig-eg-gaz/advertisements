@@ -2,43 +2,43 @@
 <?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
 ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title level="m" type="main">Egyptian Gazette</title>
-                <title level="m" type="sub">An encoded transcription</title>
-                <editor>Will Hanley</editor>
-                <principal>Will Hanley</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date when="2016-09-29">September 29, 2016</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>FSU University Libraries</publisher>
-                <pubPlace>Tallahassee, FL</pubPlace>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl>
-                    <title>Royal Insurance Coy advertisement</title>
-                </bibl>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div type="item" scope="advertisement">
-                <head>Royal Insurance Coy</head>
-                <p>FIRE AND LIFE.</p>
-                <p>Largest Fire Office in the World.</p>
-                <p>HASELDEN &amp; CO., Agents, Alexandria.</p>
-                <p>R. VITERBO &amp; CO., Agents, Cairo.</p>
-                <p>PHOENIX ASSURANCE COMPANY, LIMITED.</p>
-                <p>(ESTABLISHED 1782); </p>
-                <p>HASELDEN &amp; CO., Agents, Alexandria. </p>
-                <p>31-3-906 FRED. OTT &amp; CO., Sub-Agents, Cairo.</p>
-            </div>
-        </body>
-    </text>
+  <teiHeader>
+      <fileDesc>
+          <titleStmt>
+              <title level="m" type="main">Egyptian Gazette</title>
+              <title level="m" type="sub">An encoded transcription</title>
+              <editor>Will Hanley</editor>
+              <principal>Will Hanley</principal>
+          </titleStmt>
+          <editionStmt>
+              <edition>
+                  <date when="2016-09-29">September 29, 2016</date>
+              </edition>
+          </editionStmt>
+          <publicationStmt>
+              <publisher>FSU University Libraries</publisher>
+              <pubPlace>Tallahassee, FL</pubPlace>
+          </publicationStmt>
+          <sourceDesc>
+              <bibl>
+                  <title>Royal Insurance Coy advertisement</title>
+              </bibl>
+          </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div type="item" scope="advertisement">
+              <head>Royal Insurance Coy</head>
+              <p>FIRE AND LIFE.</p>
+              <p>Largest Fire Office in the World.</p>
+              <p>HASELDEN &amp; CO., Agents, Alexandria.</p>
+              <p>R. VITERBO &amp; CO., Agents, Cairo.</p>
+              <p>PHOENIX ASSURANCE COMPANY, LIMITED.</p>
+              <p>(ESTABLISHED 1782);</p>
+              <p>HASELDEN &amp; CO., Agents, Alexandria.</p>
+              <p>31-3-906 FRED. OTT &amp; CO., Sub-Agents, Cairo.</p>
+          </div>
+      </body>
+  </text>
 </TEI>

@@ -2,118 +2,118 @@
 <?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
 ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title level="m" type="main">Egyptian Gazette</title>
-                <title level="m" type="sub">An encoded transcription</title>
-                <editor>Will Hanley</editor>
-                <principal>Will Hanley</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date when="2016-09-29">September 29, 2016</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>FSU University Libraries</publisher>
-                <pubPlace>Tallahassee, FL</pubPlace>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl>
-                    <title>Egyptian Delta Light Railways Co., Limited advertisement</title>
-                </bibl>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div type="item" scope="advertisement">
-                <head>Egyptian Delta Light Railways Co., Limited.</head>
-                <p>Connections made with the most important trains of the State Railway in the
-                    Provinces of Behera, Gharbieh, Dakahlieh Charkieh and Galioubieh. <hi
+  <teiHeader>
+      <fileDesc>
+          <titleStmt>
+              <title level="m" type="main">Egyptian Gazette</title>
+              <title level="m" type="sub">An encoded transcription</title>
+              <editor>Will Hanley</editor>
+              <principal>Will Hanley</principal>
+          </titleStmt>
+          <editionStmt>
+              <edition>
+                  <date when="2016-09-29">September 29, 2016</date>
+              </edition>
+          </editionStmt>
+          <publicationStmt>
+              <publisher>FSU University Libraries</publisher>
+              <pubPlace>Tallahassee, FL</pubPlace>
+          </publicationStmt>
+          <sourceDesc>
+              <bibl>
+                  <title>Egyptian Delta Light Railways Co., Limited advertisement</title>
+              </bibl>
+          </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div type="item" scope="advertisement">
+              <head>Egyptian Delta Light Railways Co., Limited.</head>
+              <p>Connections made with the most important trains of the State Railway in the
+                    Provinces of Behera, Gharbieh, Dakahlieh Charkieh and Galioubieh.<hi
                         rend="italic">Through service for goods</hi> between all stations of the
-                    Company and <hi rend="italic">over 100 principal stations of the State
+                    Company and<hi rend="italic">over 100 principal stations of the State
                         Railway</hi> in Upper and Lower Egypt. Goods may also be through-booked from
                     or to any station on Helouan Railway. The Company has 70 stations opened for
                     public Telegraph Service in conjunction with all offices of the Government
-                    Telegraph Department. <hi rend="italic">For time tables, tariffs and
+                    Telegraph Department.<hi rend="italic">For time tables, tariffs and
                         information</hi> apply to the offices at Cairo, Alexandria Damanhour, Tantah
-                    or Zagazig. 21416 31-12.905 </p>
-                <table rows="4" cols="16">
-                    <head> A.M. ( HELOUAN BRANCH. ) P.M.</head>
-                    <row>
-                        <cell>Bab-el-Louck...Dep. </cell>
-                        <cell>6.20</cell>
-                        <cell>8. 6</cell>
-                        <cell>9.10</cell>
-                        <cell>10.10</cell>
-                        <cell>12.5</cell>
-                        <cell>1.20</cell>
-                        <cell>3.10</cell>
-                        <cell>4.15</cell>
-                        <cell>5.15</cell>
-                        <cell>6.16</cell>
-                        <cell>7.25</cell>
-                        <cell>8.40</cell>
-                        <cell>10.10</cell>
-                        <cell>12.30</cell>
-                    </row>
-                    <row>
-                        <cell>Helouan......Arr.</cell>
-                        <cell>7. 7</cell>
-                        <cell>8.46</cell>
-                        <cell>9.47</cell>
-                        <cell>10.54</cell>
-                        <cell>12.40</cell>
-                        <cell>1.55</cell>
-                        <cell>3.55</cell>
-                        <cell>4.50</cell>
-                        <cell>5.52</cell>
-                        <cell>6.56</cell>
-                        <cell>8.–</cell>
-                        <cell>9.25</cell>
-                        <cell>10.48</cell>
-                        <cell>1.10</cell>
-                    </row>
-                    <row>
-                        <cell>Helouan........Dep</cell>
-                        <cell>6.25</cell>
-                        <cell>7.50</cell>
-                        <cell>8.15</cell>
-                        <cell>9.15</cell>
-                        <cell>10.15</cell>
-                        <cell>12. 5</cell>
-                        <cell>1.20</cell>
-                        <cell>3.15</cell>
-                        <cell>4.18</cell>
-                        <cell>5.15</cell>
-                        <cell>6.20</cell>
-                        <cell>7.25</cell>
-                        <cell>8.50</cell>
-                        <cell>10.15</cell>
-                        <cell>11.15</cell>
-                    </row>
-                    <row>
-                        <cell>Bab-el-Louck... Arr.</cell>
-                        <cell>7.10</cell>
-                        <cell>8.20</cell>
-                        <cell>8.55</cell>
-                        <cell>9.50</cell>
-                        <cell>10.58</cell>
-                        <cell>12.43</cell>
-                        <cell>1.58</cell>
-                        <cell>4.-</cell>
-                        <cell>4.55</cell>
-                        <cell>5.58</cell>
-                        <cell>6.55</cell>
-                        <cell>8.8</cell>
-                        <cell> 9.32</cell>
-                        <cell>10.53</cell>
-                        <cell>11.55</cell>
-                    </row>
-                </table>
-            </div>
-        </body>
-    </text>
+                    or Zagazig. 21416 31-12.905</p>
+              <table rows="4" cols="16">
+                  <head> A.M. ( HELOUAN BRANCH. ) P.M.</head>
+                  <row>
+                      <cell>Bab-el-Louck...Dep.</cell>
+                      <cell>6.20</cell>
+                      <cell>8. 6</cell>
+                      <cell>9.10</cell>
+                      <cell>10.10</cell>
+                      <cell>12.5</cell>
+                      <cell>1.20</cell>
+                      <cell>3.10</cell>
+                      <cell>4.15</cell>
+                      <cell>5.15</cell>
+                      <cell>6.16</cell>
+                      <cell>7.25</cell>
+                      <cell>8.40</cell>
+                      <cell>10.10</cell>
+                      <cell>12.30</cell>
+                  </row>
+                  <row>
+                      <cell>Helouan......Arr.</cell>
+                      <cell>7. 7</cell>
+                      <cell>8.46</cell>
+                      <cell>9.47</cell>
+                      <cell>10.54</cell>
+                      <cell>12.40</cell>
+                      <cell>1.55</cell>
+                      <cell>3.55</cell>
+                      <cell>4.50</cell>
+                      <cell>5.52</cell>
+                      <cell>6.56</cell>
+                      <cell>8.–</cell>
+                      <cell>9.25</cell>
+                      <cell>10.48</cell>
+                      <cell>1.10</cell>
+                  </row>
+                  <row>
+                      <cell>Helouan........Dep</cell>
+                      <cell>6.25</cell>
+                      <cell>7.50</cell>
+                      <cell>8.15</cell>
+                      <cell>9.15</cell>
+                      <cell>10.15</cell>
+                      <cell>12. 5</cell>
+                      <cell>1.20</cell>
+                      <cell>3.15</cell>
+                      <cell>4.18</cell>
+                      <cell>5.15</cell>
+                      <cell>6.20</cell>
+                      <cell>7.25</cell>
+                      <cell>8.50</cell>
+                      <cell>10.15</cell>
+                      <cell>11.15</cell>
+                  </row>
+                  <row>
+                      <cell>Bab-el-Louck... Arr.</cell>
+                      <cell>7.10</cell>
+                      <cell>8.20</cell>
+                      <cell>8.55</cell>
+                      <cell>9.50</cell>
+                      <cell>10.58</cell>
+                      <cell>12.43</cell>
+                      <cell>1.58</cell>
+                      <cell>4.-</cell>
+                      <cell>4.55</cell>
+                      <cell>5.58</cell>
+                      <cell>6.55</cell>
+                      <cell>8.8</cell>
+                      <cell> 9.32</cell>
+                      <cell>10.53</cell>
+                      <cell>11.55</cell>
+                  </row>
+              </table>
+          </div>
+      </body>
+  </text>
 </TEI>

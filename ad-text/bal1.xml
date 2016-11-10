@@ -2,43 +2,43 @@
 <?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
 ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title level="m" type="main">Egyptian Gazette</title>
-                <title level="m" type="sub">An encoded transcription</title>
-                <editor>Will Hanley</editor>
-                <principal>Will Hanley</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date when="2016-09-29">September 29, 2016</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>FSU University Libraries</publisher>
-                <pubPlace>Tallahassee, FL</pubPlace>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl>
-                    <title>Bank of Athens, Limited advertisement</title>
-                </bibl>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div type="item" scope="advertisement">
-                <head>BANK OF ATHENS, LIMITED.</head>
-                <p><hi rend="bold">Capital 20,000,000 (Fully paid up).</hi></p>
-                <p>BRANCHES: London 55-56 Bishops gate-street Within-Alexandria, Cairo,
+  <teiHeader>
+      <fileDesc>
+          <titleStmt>
+              <title level="m" type="main">Egyptian Gazette</title>
+              <title level="m" type="sub">An encoded transcription</title>
+              <editor>Will Hanley</editor>
+              <principal>Will Hanley</principal>
+          </titleStmt>
+          <editionStmt>
+              <edition>
+                  <date when="2016-09-29">September 29, 2016</date>
+              </edition>
+          </editionStmt>
+          <publicationStmt>
+              <publisher>FSU University Libraries</publisher>
+              <pubPlace>Tallahassee, FL</pubPlace>
+          </publicationStmt>
+          <sourceDesc>
+              <bibl>
+                  <title>Bank of Athens, Limited advertisement</title>
+              </bibl>
+          </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div type="item" scope="advertisement">
+              <head>BANK OF ATHENS, LIMITED.</head>
+              <p><hi rend="bold">Capital 20,000,000 (Fully paid up).</hi></p>
+              <p>BRANCHES: London 55-56 Bishops gate-street Within-Alexandria, Cairo,
                     Constantinople, Smyrna, At Candia and throughout Greece.</p>
-                <p>The Bank undertakes all banking business in Egypt, Greece,<lb/> etc.
-                    Interest, on cash deposits: 3 0/0 per ann. at sight; 3 1/2 0/0 <lb/> per
+              <p>The Bank undertakes all banking business in Egypt, Greece,<lb/> etc.
+                    Interest, on cash deposits: 3 0/0 per ann. at sight; 3 1/2 0/0<lb/> per
                     ann. for 6 months ; 4 0/0 per ann. for 12 months ; 5 0/0 per<lb/> ann.
                     for 3 years and over. Savings Bank Branch receives de-<lb/>posits at 3
                     1/2 0/0 per ann., from P.T. 30 to P.T. 10,000. 23538-19-1.905</p>
-            </div>
-        </body>
-    </text>
+          </div>
+      </body>
+  </text>
 </TEI>

@@ -2,41 +2,41 @@
 <?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
 ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title level="m" type="main">Egyptian Gazette</title>
-                <title level="m" type="sub">An encoded transcription</title>
-                <editor>Will Hanley</editor>
-                <principal>Will Hanley</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date when="2016-09-29">September 29, 2016</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>FSU University Libraries</publisher>
-                <pubPlace>Tallahassee, FL</pubPlace>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl>
-                    <title>The Cleopatra Cigarette Co. advertisement</title>
-                </bibl>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div type="item" scope="advertisement">
-                <head>The Cigarettes Manufactured by<lb/>The Cleopatra Cigarette Co.</head>
-                <p>G. NUNGOYICH</p>
-                <p>are on sale at the Company's establishment by Grand Contental Hotel, Cairo, and
+  <teiHeader>
+      <fileDesc>
+          <titleStmt>
+              <title level="m" type="main">Egyptian Gazette</title>
+              <title level="m" type="sub">An encoded transcription</title>
+              <editor>Will Hanley</editor>
+              <principal>Will Hanley</principal>
+          </titleStmt>
+          <editionStmt>
+              <edition>
+                  <date when="2016-09-29">September 29, 2016</date>
+              </edition>
+          </editionStmt>
+          <publicationStmt>
+              <publisher>FSU University Libraries</publisher>
+              <pubPlace>Tallahassee, FL</pubPlace>
+          </publicationStmt>
+          <sourceDesc>
+              <bibl>
+                  <title>The Cleopatra Cigarette Co. advertisement</title>
+              </bibl>
+          </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div type="item" scope="advertisement">
+              <head>The Cigarettes Manufactured by<lb/>The Cleopatra Cigarette Co.</head>
+              <p>G. NUNGOYICH</p>
+              <p>are on sale at the Company's establishment by Grand Contental Hotel, Cairo, and
                     at Walker &amp; Meimarschi's, Alexandria.</p>
-                <p>Purveyors to H. H. the KHEDIVE.</p>
-                <p>35750 Patronized by the Duke of Connaught and the Archduke Otto and all the High
+              <p>Purveyors to H. H. the KHEDIVE.</p>
+              <p>35750 Patronized by the Duke of Connaught and the Archduke Otto and all the High
                     Life of Egypt. 18-4-80</p>
-            </div>
-        </body>
-    </text>
+          </div>
+      </body>
+  </text>
 </TEI>

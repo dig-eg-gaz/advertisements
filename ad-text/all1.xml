@@ -2,65 +2,65 @@
 <?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
 ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title level="m" type="main">Egyptian Gazette</title>
-                <title level="m" type="sub">An encoded transcription</title>
-                <editor>Will Hanley</editor>
-                <principal>Will Hanley</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date when="2016-09-28">September 28, 2016</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>FSU University Libraries</publisher>
-                <pubPlace>Tallahassee, FL</pubPlace>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl>
-                    <title>Anchor Line, Limited advertisement</title>
-                </bibl>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div type="item" scope="advertisement">
-                <head>ANCHOR LINE, LIMITED.</head>
-                <p>(HENDERSON BROTHERS,) LONDON, LIVERPOOL AND GLASGOW.</p>
-                <p>Booking Passengers and Cargo through to Ports in India, Europe &amp; America</p>
-                <p>First class passengers steamers. Sailing fortnightly from Suez.</p>
-                <table rows="2" cols="6">
-                    <row>
-                        <cell>For MARSEILLES &amp; LIVERPOOL</cell>
-                        <cell>S.S. “Bohemia”</cell>
-                        <cell>July 26</cell>
-                        <cell>For CALCUTTA</cell>
-                        <cell>S.S. "Assyria" </cell>
-                        <cell>August 3</cell>
-                    </row>
-                    <row>
-                        <cell>For LONDON</cell>
-                        <cell>S.S. “Persia"</cell>
-                        <cell>July 28</cell>
-                        <cell>For BOMBAY</cell>
-                        <cell>S.S. "Australia"</cell>
-                        <cell>July 23</cell>
-                    </row>
-                </table>
-                <p>Saloon Fares: from Port-Said, to Gibraltar £9; Marseilles £9: Liverpool (all sea
+  <teiHeader>
+      <fileDesc>
+          <titleStmt>
+              <title level="m" type="main">Egyptian Gazette</title>
+              <title level="m" type="sub">An encoded transcription</title>
+              <editor>Will Hanley</editor>
+              <principal>Will Hanley</principal>
+          </titleStmt>
+          <editionStmt>
+              <edition>
+                  <date when="2016-09-28">September 28, 2016</date>
+              </edition>
+          </editionStmt>
+          <publicationStmt>
+              <publisher>FSU University Libraries</publisher>
+              <pubPlace>Tallahassee, FL</pubPlace>
+          </publicationStmt>
+          <sourceDesc>
+              <bibl>
+                  <title>Anchor Line, Limited advertisement</title>
+              </bibl>
+          </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div type="item" scope="advertisement">
+              <head>ANCHOR LINE, LIMITED.</head>
+              <p>(HENDERSON BROTHERS,) LONDON, LIVERPOOL AND GLASGOW.</p>
+              <p>Booking Passengers and Cargo through to Ports in India, Europe &amp; America</p>
+              <p>First class passengers steamers. Sailing fortnightly from Suez.</p>
+              <table rows="2" cols="6">
+                  <row>
+                      <cell>For MARSEILLES &amp; LIVERPOOL</cell>
+                      <cell>S.S. “Bohemia”</cell>
+                      <cell>July 26</cell>
+                      <cell>For CALCUTTA</cell>
+                      <cell>S.S. "Assyria"</cell>
+                      <cell>August 3</cell>
+                  </row>
+                  <row>
+                      <cell>For LONDON</cell>
+                      <cell>S.S. “Persia"</cell>
+                      <cell>July 28</cell>
+                      <cell>For BOMBAY</cell>
+                      <cell>S.S. "Australia"</cell>
+                      <cell>July 23</cell>
+                  </row>
+              </table>
+              <p>Saloon Fares: from Port-Said, to Gibraltar £9; Marseilles £9: Liverpool (all sea
                     route) £15; London (all sea route) £ 12 London via Marseilles £15.5.0.
                     Passengers embarking at Suez £2 more, 10 % reduction for officers of army of
                     Occupation and Government employés. Through tickets issued to New-York (via
-                    Glasgow). Fares on application. </p>
-                <p> Agents in Cairo, Messrs. Thos. Cook &amp; Son. Port-Said, Messrs. Cory Brothers
+                    Glasgow). Fares on application.</p>
+              <p> Agents in Cairo, Messrs. Thos. Cook &amp; Son. Port-Said, Messrs. Cory Brothers
                     &amp; Co., Ltd.</p>
-                <p>For further partienlan of Freight or Passage apply to G. BEYTS &amp; Co., Suez.
+              <p>For further partienlan of Freight or Passage apply to G. BEYTS &amp; Co., Suez.
                     31-12-905</p>
-            </div>
-        </body>
-    </text>
+          </div>
+      </body>
+  </text>
 </TEI>

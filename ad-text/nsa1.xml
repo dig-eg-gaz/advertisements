@@ -2,57 +2,57 @@
 <?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
 ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title level="m" type="main">Egyptian Gazette</title>
-                <title level="m" type="sub">An encoded transcription</title>
-                <editor>Will Hanley</editor>
-                <principal>Will Hanley</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date when="2016-09-29">September 29, 2016</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>FSU University Libraries</publisher>
-                <pubPlace>Tallahassee, FL</pubPlace>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl>
-                    <title>N. SPATHIS advertisement</title>
-                </bibl>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div type="item" scope="advertisement">
-                <head>N. SPATHIS</head>
-                <p>THE BRITISH AERATED &amp; MINERAL WATER MANUFACTORY. </p>
-                <p>CAIRO Exbekieh ALEXANDRIA Rue Avernoff</p>
-                <p>Soda Water. Lemonade, Ginger Ale, Ginger Beer. Tonic Water </p>
-                <p>Pomegranade, Orangeaade, Pineapple, Champagne, Cider, etc., etc. </p>
-                <p> Water guaranteed by Chamberlain’s Filter (Pasteur’s System).</p>
-                <p>Inventor of WHISKY &amp; SODA and BRANDY &amp; SODA, bottled ready for use.</p>
-                <p> Sole Agents in Egypt and Soudan for </p>
-                <p> J. Calvet &amp; Co. Bordeaux. Wine &amp; Cognacs.</p>
-                <p>Louis Roederer. Rheims. Champagnes.</p>
-                <p>August Engel. Wiesbaden. Rhine and Moselle Wines.</p>
-                <p>Mackie &amp; Co. Glasgow. Lagavulin, White Horse Cellar &amp; other Whiskies.</p>
-                <p>Dunville &amp; Co, Ltd. Belfast. Old Irish Whiskies.</p>
-                <p>Wm. Lanahan &amp; Son. Baltimore. Monongshels XXXX Whiskey.</p>
-                <p>The Cook &amp; Bernheimer Co. New York. Old Valley Whiskey and Gold Lion
+  <teiHeader>
+      <fileDesc>
+          <titleStmt>
+              <title level="m" type="main">Egyptian Gazette</title>
+              <title level="m" type="sub">An encoded transcription</title>
+              <editor>Will Hanley</editor>
+              <principal>Will Hanley</principal>
+          </titleStmt>
+          <editionStmt>
+              <edition>
+                  <date when="2016-09-29">September 29, 2016</date>
+              </edition>
+          </editionStmt>
+          <publicationStmt>
+              <publisher>FSU University Libraries</publisher>
+              <pubPlace>Tallahassee, FL</pubPlace>
+          </publicationStmt>
+          <sourceDesc>
+              <bibl>
+                  <title>N. SPATHIS advertisement</title>
+              </bibl>
+          </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div type="item" scope="advertisement">
+              <head>N. SPATHIS</head>
+              <p>THE BRITISH AERATED &amp; MINERAL WATER MANUFACTORY.</p>
+              <p>CAIRO Exbekieh ALEXANDRIA Rue Avernoff</p>
+              <p>Soda Water. Lemonade, Ginger Ale, Ginger Beer. Tonic Water</p>
+              <p>Pomegranade, Orangeaade, Pineapple, Champagne, Cider, etc., etc.</p>
+              <p> Water guaranteed by Chamberlain’s Filter (Pasteur’s System).</p>
+              <p>Inventor of WHISKY &amp; SODA and BRANDY &amp; SODA, bottled ready for use.</p>
+              <p> Sole Agents in Egypt and Soudan for</p>
+              <p> J. Calvet &amp; Co. Bordeaux. Wine &amp; Cognacs.</p>
+              <p>Louis Roederer. Rheims. Champagnes.</p>
+              <p>August Engel. Wiesbaden. Rhine and Moselle Wines.</p>
+              <p>Mackie &amp; Co. Glasgow. Lagavulin, White Horse Cellar &amp; other Whiskies.</p>
+              <p>Dunville &amp; Co, Ltd. Belfast. Old Irish Whiskies.</p>
+              <p>Wm. Lanahan &amp; Son. Baltimore. Monongshels XXXX Whiskey.</p>
+              <p>The Cook &amp; Bernheimer Co. New York. Old Valley Whiskey and Gold Lion
                     Cocktails.</p>
-                <p>Stone &amp; Son. London. Guinness' Stout &amp; Bass' Pale Ale.</p>
-                <p>Freund Ballor &amp; Co. Tornio. Vermouth.</p>
-                <p>Pierre Bisset. Cette. Vermouth &amp; Aperitives.</p>
-                <p>Terrabonatea Company, Ld. Teas.</p>
-                <p>Depot for Prince Metternich's "Richardsquelle," the best mineral table water in
+              <p>Stone &amp; Son. London. Guinness' Stout &amp; Bass' Pale Ale.</p>
+              <p>Freund Ballor &amp; Co. Tornio. Vermouth.</p>
+              <p>Pierre Bisset. Cette. Vermouth &amp; Aperitives.</p>
+              <p>Terrabonatea Company, Ld. Teas.</p>
+              <p>Depot for Prince Metternich's "Richardsquelle," the best mineral table water in
                     the world.</p>
-                <p>Great assortment of Wines, Spirits, Liqueurs, of the finest Brands, etc</p>
-            </div>
-        </body>
-    </text>
+              <p>Great assortment of Wines, Spirits, Liqueurs, of the finest Brands, etc</p>
+          </div>
+      </body>
+  </text>
 </TEI>

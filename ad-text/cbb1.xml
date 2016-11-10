@@ -2,43 +2,43 @@
 <?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
 ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title level="m" type="main">Egyptian Gazette</title>
-                <title level="m" type="sub">An encoded transcription</title>
-                <editor>Will Hanley</editor>
-                <principal>Will Hanley</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date when="2016-09-29">September 29, 2016</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>FSU University Libraries</publisher>
-                <pubPlace>Tallahassee, FL</pubPlace>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl>
-                    <title>Callard &amp; Bowser's BUTTER - SCOTCH advertisement</title>
-                </bibl>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div type="item" scope="advertisement">
-                <head>Callard &amp; Bowser's BUTTER - SCOTCH</head>
-                <p>(The Celebrated Sweet for Children).</p>
-                <p>Really wholesome Confectionary</p>
-                <p>This popular English Sweetmeat can be obtained at:</p>
-                <p>Mr. Caronis, Anglo-American Stores, Port-Said.</p>
-                <p>Mr. Demetriades, Port-Said.</p>
-                <p>Messrs. Tancred Bonnici &amp; Co., Port-Said.</p>
-                <p>The Patisserie de la Bourse, Rue Cherif Pasha Alexandria.</p>
-                <p>Manufactory: London, England.</p>
-            </div>
-        </body>
-    </text>
+  <teiHeader>
+      <fileDesc>
+          <titleStmt>
+              <title level="m" type="main">Egyptian Gazette</title>
+              <title level="m" type="sub">An encoded transcription</title>
+              <editor>Will Hanley</editor>
+              <principal>Will Hanley</principal>
+          </titleStmt>
+          <editionStmt>
+              <edition>
+                  <date when="2016-09-29">September 29, 2016</date>
+              </edition>
+          </editionStmt>
+          <publicationStmt>
+              <publisher>FSU University Libraries</publisher>
+              <pubPlace>Tallahassee, FL</pubPlace>
+          </publicationStmt>
+          <sourceDesc>
+              <bibl>
+                  <title>Callard &amp; Bowser's BUTTER - SCOTCH advertisement</title>
+              </bibl>
+          </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div type="item" scope="advertisement">
+              <head>Callard &amp; Bowser's BUTTER - SCOTCH</head>
+              <p>(The Celebrated Sweet for Children).</p>
+              <p>Really wholesome Confectionary</p>
+              <p>This popular English Sweetmeat can be obtained at:</p>
+              <p>Mr. Caronis, Anglo-American Stores, Port-Said.</p>
+              <p>Mr. Demetriades, Port-Said.</p>
+              <p>Messrs. Tancred Bonnici &amp; Co., Port-Said.</p>
+              <p>The Patisserie de la Bourse, Rue Cherif Pasha Alexandria.</p>
+              <p>Manufactory: London, England.</p>
+          </div>
+      </body>
+  </text>
 </TEI>
