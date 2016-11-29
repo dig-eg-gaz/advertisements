@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+          <titleStmt>
+              <title level="m" type="main">Egyptian Gazette</title>
+              <title level="m" type="sub">An encoded transcription</title>
+              <editor>Will Hanley</editor>
+              <principal>Will Hanley</principal>
+          </titleStmt>
+          <editionStmt>
+              <edition>
+                  <date when="2016-09-01">September 2016</date>
+              </edition>
+          </editionStmt>
+          <publicationStmt>
+              <publisher>FSU University Libraries</publisher>
+              <pubPlace>Tallahassee, FL</pubPlace>
+          </publicationStmt>
+          <sourceDesc>
+              <bibl>
+                  <title>Sudan Government Railways template</title>
+              </bibl>
+          </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div type="item" scope="advertisement" xml:id="deg-ad-sgr01">
+              <head>SUDAN GOVERNMENT RAILWAYS.</head>
+              <p>CAIRO-KHARTOUM SUMMER MAIL SERVICE.</p>
+              
+                  <table rows="3" cols="7">
+                  <row>
+                      <cell>Wednesday and *Saturday</cell>
+                      <cell>8 p.m.</cell>
+                      <cell>depart</cell>
+                      <cell>Cairo</cell>
+                      <cell>arrive</cell>
+                      <cell>*Monday and *Friday</cell>
+                      <cell>7.20 a.m.</cell>
+                  </row>
+                  <row>
+                      <cell>Thursday and Sunday</cell>
+                      <cell>6.30 p.m.</cell>
+                      <cell>depart</cell>
+                      <cell>Shullal</cell>
+                      <cell>depart</cell>
+                      <cell>Sunday and Thursday</cell>
+                      <cell>9.10 a.m.</cell>
+                  </row>
+                  <row>
+                      <cell>*Saturday and Tuesday</cell>
+                      <cell>12 noon</cell>
+                      <cell>depart</cell>
+                      <cell>Halfa</cell>
+                      <cell>depart</cell>
+                      <cell>Friday and *Tuesday</cell>
+                      <cell>6 p.m.</cell>
+                  </row>
+                  <row>
+                      <cell>*Sunday and Wednesday</cell>
+                      <cell>1.25 p.m.</cell>
+                      <cell>arrive</cell>
+                      <cell>Khartoum</cell>
+                      <cell>depart</cell>
+                      <cell>Thursday and *Monday</cell>
+                      <cell>12 noon</cell>
+                  </row>
+              </table>
+              <p>Mail delivered Khartoum, Sun. and Wednesday evening, and Cairo, Mon. and Friday
+                    evening. *Dining and Sleeping Cars.</p>
+          </div>
+      </body>
+  </text>
+</TEI>

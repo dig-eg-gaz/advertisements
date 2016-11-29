@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+          <titleStmt>
+              <title level="m" type="main">Egyptian Gazette</title>
+              <title level="m" type="sub">An encoded transcription</title>
+              <editor>Will Hanley</editor>
+              <principal>Will Hanley</principal>
+          </titleStmt>
+          <editionStmt>
+              <edition>
+                  <date when="2016-10-06">October 6, 2016</date>
+              </edition>
+          </editionStmt>
+          <publicationStmt>
+              <publisher>FSU University Libraries</publisher>
+              <pubPlace>Tallahassee, FL</pubPlace>
+          </publicationStmt>
+          <sourceDesc>
+              <bibl>
+                  <title>INTERNATIONAL SLEEPING AND RESTAURANT CARS COMPANY advertisement</title>
+              </bibl>
+          </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div type="item" scope="advertisement" xml:id="deg-ad-isr01">
+              <head>INTERNATIONAL SLEEPING AND RESTAURANT CARS COMPANY.</head>
+              <table rows="2" cols="4">
+                  <row role="label">
+                      <cell cols="4"><hi rend="italic">Restaurant Car runs every day between Cairo
+                                &amp; Alexandria &amp; vice-versa</hi>.</cell>
+                  </row>
+                  <row>
+                      <cell>Depart. - Cairo</cell>
+                      <cell>6.35 p.m.</cell>
+                      <cell>Arrival - Alexandria</cell>
+                      <cell>10.0 p.m.</cell>
+                  </row>
+                  <row>
+                      <cell>Depart. - Alexandria</cell>
+                      <cell>6. 0 p.m.</cell>
+                      <cell>Arrival - Cairo</cell>
+                      <cell>9.20 p.m.</cell>
+                  </row>
+              </table>
+              <p>By the 10.15 p.m. train between Cairo and Alexandria and vice-versa a sleeping
+                    car is attached every night. Supplement 30 P.T.</p>
+              <table rows="4" cols="4">
+                  <row role="label">
+                      <cell cols="4"><hi rend="italic">Daily Restaurant Car Service between Cairo,
+                                Ismailia, Port Said &amp; vice-versa</hi>.</cell>
+                  </row>
+                  <row>
+                      <cell>Depart. - Cairo</cell>
+                      <cell>11 a.m. &amp; 6.15 p.m.</cell>
+                      <cell>Depart. - Port Said</cell>
+                      <cell>11.55 a.m. &amp; 6.30 p.m.</cell>
+                  </row>
+                  <row>
+                      <cell>Arriv. - Ismailia</cell>
+                      <cell>2.23 p.m. &amp; 9.28 p.m.</cell>
+                      <cell>Arriv. - Ismailia</cell>
+                      <cell>1.30 p.m. &amp; 8.12 p.m.</cell>
+                  </row>
+                  <row>
+                      <cell>Depart. - Ismailia</cell>
+                      <cell>2.28 p.m. &amp; 9.33 p.m.</cell>
+                      <cell>Depart. - Ismailia</cell>
+                      <cell>1.35 p.m. &amp; 8.17 p.m.</cell>
+                  </row>
+                  <row>
+                      <cell>Arriv. - Port Said</cell>
+                      <cell>5. 0 p.m. &amp; 11.10 p.m.</cell>
+                      <cell>Arriv. - Cairo</cell>
+                      <cell>5. 0 p.m. &amp; 11.25 p.m.</cell>
+                  </row>
+              </table>
+              <p>Restaurant and Sleeping Cars on Luxor trains:</p>
+              <p>A Restaurant car and a sleeping car are attached to the 8 p.m. train from Cairo
+                    every Monday, Wednesday and Saturday and to the 5.30 p.m. train from Luxor every
+                    Tuesday, Thursday and Sunday.</p>
+              <p>Railway and Sleeping Car tickets can be obtained any number of days ahead at the
+                    office of the International Sleeping Car Company in Cairo Station. 1st class
+                    Cairo-Luxor P.T. 200. Sleeping Car supplement P.T. 75.</p>
+          </div>
+      </body>
+  </text>
+</TEI>

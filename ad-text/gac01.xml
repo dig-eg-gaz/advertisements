@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+          <titleStmt>
+              <title level="m" type="main">Egyptian Gazette</title>
+              <title level="m" type="sub">An encoded transcription</title>
+              <editor>Will Hanley</editor>
+              <principal>Will Hanley</principal>
+          </titleStmt>
+          <editionStmt>
+              <edition>
+                  <date when="2016-10-06">October 6, 2016</date>
+              </edition>
+          </editionStmt>
+          <publicationStmt>
+              <publisher>FSU University Libraries</publisher>
+              <pubPlace>Tallahassee, FL</pubPlace>
+          </publicationStmt>
+          <sourceDesc>
+              <bibl>
+                  <title>Guardian Assurance Company advertisement</title>
+              </bibl>
+          </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div type="item" scope="advertisement" xml:id="deg-ad-gac01">
+              <head>GUARDIAN ASSURANCE COMPANY, LIMITED,</head>
+              <p>OF LONDON</p>
+              <p>Established 1821.</p>
+              <p>CAPITAL PAID UP AND INVERTED ONE MILLION STERLING.</p>
+              <p>Annual Income . . £895,000.</p>
+              <p>Total Funds . . £5,200,000.</p>
+              <p>Agents far Egypt and the Sudan - HEWAT &amp; Co., Alexandria.</p>
+              <p>24336--17-6-905</p>
+          </div>
+      </body>
+  </text>
+</TEI>

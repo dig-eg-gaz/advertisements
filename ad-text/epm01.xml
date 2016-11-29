@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+          <titleStmt>
+              <title level="m" type="main">Egyptian Gazette</title>
+              <title level="m" type="sub">An encoded transcription</title>
+              <editor>Will Hanley</editor>
+              <principal>Will Hanley</principal>
+          </titleStmt>
+          <editionStmt>
+              <edition>
+                  <date when="2016-09-29">September 29, 2016</date>
+              </edition>
+          </editionStmt>
+          <publicationStmt>
+              <publisher>FSU University Libraries</publisher>
+              <pubPlace>Tallahassee, FL</pubPlace>
+          </publicationStmt>
+          <sourceDesc>
+              <bibl>
+                  <title>An Important Firm of English Penmakers advertisement</title>
+              </bibl>
+          </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div type="item" scope="advertisement" xml:id="deg-ad-epm01">
+              <head>An Important Firm of English Penmakers</head>
+              <p>with established Egyp-<lb/>tian trade, desires to<lb/> arrange with a first<lb/>
+                    class firm of Wholesale<lb/> Stationers for the sole sale<lb/> of their goods in
+                    Egypt.<lb/> The firm to buy for their<lb/> own account. Apply,<lb/> PENMAN,
+                    “Egyptian<lb/> Gazette” Office, 36, New<lb/> Broad Street, London.</p>
+              <p>263153-2</p>
+          </div>
+      </body>
+  </text>
+</TEI>

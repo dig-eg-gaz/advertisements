@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+          <titleStmt>
+              <title level="m" type="main">Egyptian Gazette</title>
+              <title level="m" type="sub">An encoded transcription</title>
+              <editor>Will Hanley</editor>
+              <principal>Will Hanley</principal>
+          </titleStmt>
+          <editionStmt>
+              <edition>
+                  <date when="2016-10-06">October 6, 2016</date>
+              </edition>
+          </editionStmt>
+          <publicationStmt>
+              <publisher>FSU University Libraries</publisher>
+              <pubPlace>Tallahassee, FL</pubPlace>
+          </publicationStmt>
+          <sourceDesc>
+              <bibl>
+                  <title>SUDAN DEVELOPMENT &amp; EXPLORATION COMPANY, LIMITED
+                        advertisement</title>
+              </bibl>
+          </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div type="item" scope="advertisement" xml:id="deg-ad-sde01">
+              <head>SUDAN DEVELOPMENT &amp; EXPLORATION COMPANY, LIMITED</head>
+              <p>KHARTOUM: CAIRO Office, Sharia Kasr-el-Nil.</p>
+              <p>TRANSPORT DEPARTMENT. Six days White Nile Tourist Trip dep. Khartoum Tuesdays.
+                    Steamer plans may be seen and passages booked at all Cairo Tourist Agents. -
+                    Special Steamers for private charter. - Trips arranged and transport of goods
+                    undertaken to all places on White and Blue Niles within navigation limits.</p>
+              <p>ENGINEERING DEPARTMENT. Shipyard for construction of sternwheel steamers, barges,
+                    stream, motor launches, etc. Contractors for supply and erection of all classes
+                    of machinery, buildings, irrigation pumps, etc.</p>
+              <p>SOLE AGENTS FOR Dudbridges Oil Engines from 1 to 25 B.H.P. as supplied to Sudan
+                    Government. Seamless xxxxxxxxxxxxxxxxxxxxx</p>
+          </div>
+      </body>
+  </text>
+</TEI>

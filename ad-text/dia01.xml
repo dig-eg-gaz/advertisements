@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+          <titleStmt>
+              <title level="m" type="main">Egyptian Gazette</title>
+              <title level="m" type="sub">An encoded transcription</title>
+              <editor>Will Hanley</editor>
+              <principal>Will Hanley</principal>
+          </titleStmt>
+          <editionStmt>
+              <edition>
+                  <date when="2016-09-29">September 29, 2016</date>
+              </edition>
+          </editionStmt>
+          <publicationStmt>
+              <publisher>FSU University Libraries</publisher>
+              <pubPlace>Tallahassee, FL</pubPlace>
+          </publicationStmt>
+          <sourceDesc>
+              <bibl>
+                  <title>Diamonds advertisement</title>
+              </bibl>
+          </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div type="item" scope="advertisement" xml:id="deg-ad-dia01">
+              <head>DIAMONDS!</head>
+              <p>The largest and finest stock of Jewellery, Silver Plate, Watches, Clocks,
+                    Dressing Bags, &amp;c., new and second-hand, In the world, at wholesale
+                    prices.</p>
+              <p>Please write for Illustrated Catalogue V. The Finest in the World. 4,000
+                    Illustrations. Post Free.</p>
+              <p>£5,000 Worth of Second-hand Jewels in Stock. WRITE FOR SPECIAL ILLUSTRATED
+                    LIST.</p>
+              <p>ASSOCIATION OF DIAMOND MERCHANTS, LIMITED.</p>
+              <p>Trafalgar Square, London, W.C.</p>
+              <p>Established over 50 years</p>
+              <p>Cable Address: “Ruspoli, London."</p>
+          </div>
+      </body>
+  </text>
+</TEI>

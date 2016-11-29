@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+          <titleStmt>
+              <title level="m" type="main">Egyptian Gazette</title>
+              <title level="m" type="sub">An encoded transcription</title>
+              <editor>Will Hanley</editor>
+              <principal>Will Hanley</principal>
+          </titleStmt>
+          <editionStmt>
+              <edition>
+                  <date when="2016-09-29">September 29, 2016</date>
+              </edition>
+          </editionStmt>
+          <publicationStmt>
+              <publisher>FSU University Libraries</publisher>
+              <pubPlace>Tallahassee, FL</pubPlace>
+          </publicationStmt>
+          <sourceDesc>
+              <bibl>
+                  <title>Homocea advertisement</title>
+              </bibl>
+          </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div type="item" scope="advertisement" xml:id="deg-ad-hom01">
+              <head>"Homocea" "Touches The Spot"</head>
+              <p>In all cases of cuts, burns, bruises, chafes, sores, ulcers, open Wounds, and
+                    cimilar ills of the flesh, anoint with Homocea on linen or lint.</p>
+              <p>Homocea for bruises, bites stings, swellings, sore throat, face-ache etc., gently
+                    rob and cover with Homocea on linen</p>
+              <p>Homocea is antiseptic, soothing, and healing,</p>
+              <p>Homocea allays inaflamtive, initature &amp;c.</p>
+              <p>Homocea is the most wonderful relief and cure for piles known.</p>
+              <p>Homocea Embrocation is for rubbing of in pains of all kinds, rheumatic pains,
+                    strains, stiff joints neuralgia, etc.</p>
+              <p>Hippacea does in the kennel, stable, and farm, for all animals what Homocea does
+                    in the Household.</p>
+              <p>Sold by Druggists and Chemists</p>
+              <p>The wholesale trade supplied by: MAX FISCHER, Cairo.</p>
+              <p>24203-52-6</p>
+          </div>
+      </body>
+  </text>
+</TEI>

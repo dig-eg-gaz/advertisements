@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+          <titleStmt>
+              <title level="m" type="main">Egyptian Gazette</title>
+              <title level="m" type="sub">An encoded transcription</title>
+              <editor>Will Hanley</editor>
+              <principal>Will Hanley</principal>
+          </titleStmt>
+          <editionStmt>
+              <edition>
+                  <date when="2016-09-29">September 29, 2016</date>
+              </edition>
+          </editionStmt>
+          <publicationStmt>
+              <publisher>FSU University Libraries</publisher>
+              <pubPlace>Tallahassee, FL</pubPlace>
+          </publicationStmt>
+          <sourceDesc>
+              <bibl>
+                  <title>VAL DE TRAVERS advertisement</title>
+              </bibl>
+          </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div type="item" scope="advertisement" xml:id="deg-ad-vdt01">
+              <head>THE VAL DE TRAVERS ASPHALTE PAVING COMPANY, LIMITED.</head>
+              <p>Hamilton House, Bishopgate St Without, LONDON, E.C.</p>
+              <p>CONTRACTORS TO BRITISH WAR OFFICE</p>
+              <p>Pyrimont-Seyssel, Servas (France) Ragusa (Sicily), Guanipa, (Venezuala), Mine
+                    Owners.</p>
+              <p>EGYPTIAN BRANCH - FIRST ASPHALT FACTORY ESTABLISHED IN EGYPT.</p>
+              <p>Moharrem-Boy Factory, 171, Mahmoudieh Canal, Alexandria.- Office in Cairo:
+                    Haret-el-Mashady (Ismailieh Quarter).</p>
+              <p>For Sales of Mastic Asphalte Blocks, Trinidad Refined Bitumen, Bricks in
+                    Compressod Asphalte for Paving, Compressed Asphalte Roadways. — Contractors for
+                    every description of Asphalte Works in the whole of Egypt.</p>
+              <p>25-45-14-7-905</p>
+          </div>
+      </body>
+  </text>
+</TEI>
