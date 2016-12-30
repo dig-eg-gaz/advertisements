@@ -2,46 +2,51 @@
 <?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
 ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-      <fileDesc>
-          <titleStmt>
-              <title level="m" type="main">Egyptian Gazette</title>
-              <title level="m" type="sub">An encoded transcription</title>
-              <editor>Will Hanley</editor>
-              <principal>Will Hanley</principal>
-          </titleStmt>
-          <editionStmt>
-              <edition>
-                  <date when="2016-09-28">September 28, 2016</date>
-              </edition>
-          </editionStmt>
-          <publicationStmt>
-              <publisher>FSU University Libraries</publisher>
-              <pubPlace>Tallahassee, FL</pubPlace>
-          </publicationStmt>
-          <sourceDesc>
-              <bibl>
-                  <title>Deutsche Levante-Linie advertisement</title>
-              </bibl>
-          </sourceDesc>
-      </fileDesc>
-  </teiHeader>
-  <text>
-      <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-dll01">
-              <head>Deutsche Levante-Linie.</head>
-              <p>Mail and Passenger Steamships. Regular three-weekly Service from<lb/> HAMBURG,
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-09-28">September 28, 2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Deutsche Levante-Linie advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="item" scope="advertisement" xml:id="deg-ad-dll01">
+                <head>Deutsche Levante-Linie.</head>
+                <p>Mail and Passenger Steamships. Regular three-weekly Service from<lb/> HAMBURG,
                     via ANTWERP &amp; MALTA, to ALEXANDRIA and vice-versa, admitting<lb/> goods from
                     all chief German Railway Stations on direct Bill of Landing to<lb/> ALEXANDRIA
                     and all chief ports of Egypt, Syria, etc., at favourable through<lb/> rates of
                     DEUTSCHE<lb/> VERKEHR (traffic).</p>
-              <p>EXPECTED AT ALEXANDRIA.</p>
-              <p>S.S. Lesbos July 20 from Antwerp.</p>
-              <p>S.S. Androos July 20 from Hamburg bound for Beyrout.</p>
-              <p>S.S. Lemnos July 31 from Hamburg bound for Beyrout.</p>
-              <p>For tariff and particulars apply to ADOLPHE STROSS, Alexandria, Agent.</p>
-              <p>15-2-905</p>
-          </div>
-      </body>
-  </text>
+                <p>EXPECTED AT ALEXANDRIA.</p>
+                <p><name>S.S. Lesbos</name>
+                    <date when="1905-07-20">July 20</date> from <placeName>Antwerp</placeName>.</p>
+                <p><name>S.S. Androos</name>
+                    <date when="1905-07-20">July 20</date> from <placeName>Hamburg</placeName> bound
+                    for <placeName>Beyrout</placeName>.</p>
+                <p><name>S.S. Lemnos</name>
+                    <date when="1905-07-31">July 31</date> from <placeName>Hamburg</placeName> bound
+                    for <placeName>Beyrout</placeName>.</p>
+                <p>For tariff and particulars apply to ADOLPHE STROSS, Alexandria, Agent.</p>
+                <p>15-2-905</p>
+            </div>
+        </body>
+    </text>
 </TEI>

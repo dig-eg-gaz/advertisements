@@ -44,19 +44,19 @@
                   </row>
                   <row>
                       <cell>Malta and London</cell>
-                      <cell>S.S. City of Corinth</cell>
-                      <cell>July 26</cell>
+                      <cell><name>S.S. City of Corinth</name></cell>
+                      <cell><date when="1905-07-26">July 26</date></cell>
                       <cell>Marseilles and Liverpool</cell>
                       <cell/>
                       <cell/>
                   </row>
                   <row>
                       <cell>Colombo and Calcutta</cell>
-                      <cell>S.S. City of Manchester</cell>
-                      <cell>July 12</cell>
+                      <cell><name>S.S. City of Manchester</name></cell>
+                      <cell><date when="1905-07-12">July 12</date></cell>
                       <cell>Bombay</cell>
-                      <cell>S.S. Anton Hall</cell>
-                      <cell>July 13</cell>
+                      <cell><name>S.S. Anton Hall</name></cell>
+                      <cell><date when="1905-07-13">July 13</date></cell>
                   </row>
               </table>
               <p>SALOON FARES:—Port Said to Malta £4.10.0. Marseilles. £8.0.0. London or

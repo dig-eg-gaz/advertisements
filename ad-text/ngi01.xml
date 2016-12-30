@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-ngi01">
+          <div type="item" scope="advertisement" xml:id="deg-ad-ngi01" xml:lang="fr">
               <head>Navigation Générale Italienne.</head>
               <p>Societes Reunies Florio-Rubattino. - Services Postaux. - Departs de Juillet.</p>
               <table rows="5" cols="4">

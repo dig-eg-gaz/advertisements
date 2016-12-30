@@ -31,7 +31,7 @@
           <div type="item" scope="advertisement" xml:id="deg-ad-nll02">
               <head>NORDDEUTSCHER LLOYD.</head>
               <p>Regular Service from ALEXANDRIA (Passenger and Freight) to NAPLES-MARSEILLES.</p>
-              <p> SCHLESWIG will leave ALEXANDRIA at 4 p.m. July 26, August 30, September 20, etc.</p>
+              <p><name>SCHLESWIG</name> will leave ALEXANDRIA at 4 p.m. July 26, August 30, September 20, etc.</p>
               <p>The following steamers are intended to leave PORT-SAID:</p>
               <table rows="14" cols="3">
                   <row>
@@ -39,66 +39,66 @@
                             Southampton, Antwerp.</cell>
                   </row>
                   <row>
-                      <cell>Zieten</cell>
-                      <cell>9043 Tons</cell>
-                      <cell>about 14 July</cell>
+                      <cell><name>Zieten</name></cell>
+                      <cell><measure quantity="9043" unit="ton">9043</measure> Tons</cell>
+                      <cell>about <date when="1905-07-14">14 July</date></cell>
                   </row>
                   <row>
-                      <cell>Gera</cell>
-                      <cell>5005 Tons</cell>
-                      <cell>about 31 July</cell>
+                      <cell><name>Gera</name></cell>
+                      <cell><measure quantity="5005" unit="ton">5005</measure> Tons</cell>
+                      <cell>about <date when="1905-07-31">31 July</date></cell>
                   </row>
                   <row>
-                      <cell>Sachsen</cell>
-                      <cell>5026 Tons</cell>
-                      <cell>about 31 July</cell>
+                      <cell><name>Sachsen</name></cell>
+                      <cell><measure quantity="5026" unit="ton">5026</measure> Tons</cell>
+                      <cell>about <date when="1905-07-31">31 July</date></cell>
                   </row>
                   <row>
-                      <cell>Gneisenau</cell>
-                      <cell>8881 Tons</cell>
-                      <cell>about 14 August</cell>
+                      <cell><name>Gneisenau</name></cell>
+                      <cell><measure quantity="8881" unit="ton">8881</measure> Tons</cell>
+                      <cell>about <date when="1905-08-14">14 August</date></cell>
                   </row>
                   <row>
-                      <cell>Pr. Regt. Luitpold</cell>
-                      <cell>6288 Tons</cell>
-                      <cell>about 28 August</cell>
+                      <cell><name>Pr. Regt. Luitpold</name></cell>
+                      <cell><measure quantity="6288" unit="ton">6288</measure> Tons</cell>
+                      <cell>about <date when="1905-08-28">28 August</date></cell>
                   </row>
                   <row>
                       <cell cols="3">OUTWARD: for CHINA and JAPAN via SUEZ, ADEN, COLOMBO, PENANG,
                             SINGAPORE.</cell>
                   </row>
                   <row>
-                      <cell>Prinz E. Friedrich</cell>
-                      <cell>8965 Tons</cell>
-                      <cell>about 10 July</cell>
+                      <cell><name>Prinz E. Friedrich</name></cell>
+                      <cell><measure unit="ton" quantity="8965">8965</measure> Tons</cell>
+                      <cell>about <date when="1905-07-10">10 July</date></cell>
                   </row>
                   <row>
-                      <cell>Preussen</cell>
-                      <cell>5295 Tons</cell>
-                      <cell>about 24 July</cell>
+                      <cell><name>Preussen</name></cell>
+                      <cell><measure unit="ton" quantity="5295">5295</measure> Tons</cell>
+                      <cell>about <date when="1905-07-24">24 July</date></cell>
                   </row>
                   <row>
-                      <cell>Roon</cell>
-                      <cell>8022 Tons</cell>
-                      <cell>about 7 August</cell>
+                      <cell><name>Roon</name></cell>
+                      <cell><measure unit="ton" quantity="8022">8022</measure> Tons</cell>
+                      <cell>about <date when="1905-08-07">7 August</date></cell>
                   </row>
                   <row>
                       <cell cols="3">For AUSTRALIA via SUEZ, ADEN, COLOMBO.</cell>
                   </row>
                   <row>
-                      <cell>Seydlitz</cell>
-                      <cell>7943 Tons</cell>
-                      <cell>about 30 July</cell>
+                      <cell><name>Seydlitz</name></cell>
+                      <cell><measure unit="ton" quantity="7943">7943</measure> Tons</cell>
+                      <cell>about <date when="1905-07-30">30 July</date></cell>
                   </row>
                   <row>
-                      <cell>Zieten</cell>
-                      <cell>8043 Tons</cell>
-                      <cell>about 27 August</cell>
+                      <cell><name>Zieten</name></cell>
+                      <cell><measure unit="ton" quantity="8043">8043</measure> Tons</cell>
+                      <cell>about <date when="1905-08-27">27 August</date></cell>
                   </row>
                   <row>
-                      <cell>Barbarossa</cell>
-                      <cell>10915 Tons</cell>
-                      <cell>about 24 Sept.</cell>
+                      <cell><name>Barbarossa</name></cell>
+                      <cell><measure unit="ton" quantity="10915">10915</measure> Tons</cell>
+                      <cell>about <date when="1905-09-24">24 Sept</date>.</cell>
                   </row>
               </table>
               <p>FOR FURTHER PARTICULARS APPLY TO THE AGENTS OF THE</p>

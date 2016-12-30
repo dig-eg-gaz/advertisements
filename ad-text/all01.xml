@@ -36,19 +36,19 @@
               <table rows="2" cols="6">
                   <row>
                       <cell>For MARSEILLES &amp; LIVERPOOL</cell>
-                      <cell>S.S. “Bohemia”</cell>
-                      <cell>July 26</cell>
+                      <cell><name>S.S. “Bohemia”</name></cell>
+                      <cell><date when="1905-07-26">July 26</date></cell>
                       <cell>For CALCUTTA</cell>
-                      <cell>S.S. "Assyria"</cell>
-                      <cell>August 3</cell>
+                      <cell><name>S.S. "Assyria"</name></cell>
+                      <cell><date when="1905-08-03">August 3</date></cell>
                   </row>
                   <row>
                       <cell>For LONDON</cell>
-                      <cell>S.S. “Persia"</cell>
-                      <cell>July 28</cell>
+                      <cell><name>S.S. “Persia"</name></cell>
+                      <cell><date when="1905-07-28">July 28</date></cell>
                       <cell>For BOMBAY</cell>
-                      <cell>S.S. "Australia"</cell>
-                      <cell>July 23</cell>
+                      <cell><name>S.S. "Australia"</name></cell>
+                      <cell><date when="1905-07-23">July 23</date></cell>
                   </row>
               </table>
               <p>Saloon Fares: from Port-Said, to Gibraltar £9; Marseilles £9: Liverpool (all sea
