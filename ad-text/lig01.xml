@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+          <titleStmt>
+              <title level="m" type="main">Egyptian Gazette</title>
+              <title level="m" type="sub">An encoded transcription</title>
+              <editor>Will Hanley</editor>
+              <principal>Will Hanley</principal>
+          </titleStmt>
+          <editionStmt>
+              <edition>
+                  <date when="2016-09-29">September 29, 2016</date>
+              </edition>
+          </editionStmt>
+          <publicationStmt>
+              <publisher>FSU University Libraries</publisher>
+              <pubPlace>Tallahassee, FL</pubPlace>
+          </publicationStmt>
+          <sourceDesc>
+              <bibl>
+                  <title>Liniment Géneau advertisement</title>
+              </bibl>
+          </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div type="item" scope="advertisement" xml:id="deg-ad-lig01" xml:lang="fr">
+              <head>Liniment Géneau</head>
+              <p>50 ans de Succès</p>
+              <p>Plus de Feu</p>
+              <p>Plus de Tares</p>
+              <p>Marque de Fabrique</p>
+              <p>Seul TOPIQUE remplacant le FEU sans douleur ni chute du poil. Guérison rapide et --- des Betteries, ---...etc.</p>
+              <p>Paris, 165, Rue St-Honoré.-Le Fisc. 1er cie mandt de 6 fr.</p>
+              <p>---- gratuit, sur demande, du Guide Vétérinaire Dudiaux.</p>
+          </div>
+      </body>
+  </text>
+</TEI>
