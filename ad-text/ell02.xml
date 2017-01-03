@@ -36,36 +36,36 @@
                     to Inland towns in Great Britain also to the U.S.A</p>
               <table rows="4" cols="5">
                   <row>
-                      <cell>Westcott S.S. Joshua Nicholson</cell>
+                      <cell>Westcott <name>S.S. Joshua Nicholson</name></cell>
                       <cell>expected from</cell>
-                      <cell>Antwerp, London &amp; Malta</cell>
+                      <cell><placeName>Antwerp</placeName>, <placeName>London</placeName> &amp; <placeName>Malta</placeName></cell>
                       <cell>is due on or about</cell>
-                      <cell>July 16</cell>
+                      <cell><date when="1905-07-16">July 16</date></cell>
                   </row>
                   <row>
-                      <cell>Ellerman S.S. City of Dundee</cell>
+                      <cell>Ellerman <name>S.S. City of Dundee</name></cell>
                       <cell>expected from</cell>
-                      <cell>Glasgow, Gibraltar &amp; Malta</cell>
+                      <cell><placeName>Glasgow</placeName>, <placeName>Gibraltar</placeName> &amp; <placeName>Malta</placeName></cell>
                       <cell>is due on or about</cell>
-                      <cell>July 25</cell>
+                      <cell><date when="1905-07-25">July 25</date></cell>
                   </row>
                   <row>
-                      <cell>Westcott S.S. Plymothian</cell>
+                      <cell>Westcott <name>S.S. Plymothian</name></cell>
                       <cell>expected from</cell>
-                      <cell>Antwerp, London &amp; Malta</cell>
+                      <cell><placeName>Antwerp</placeName>, <placeName>London</placeName> &amp; <placeName>Malta</placeName></cell>
                       <cell>is due on or about</cell>
-                      <cell>July 25</cell>
+                      <cell><date when="1905-07-25">July 25</date></cell>
                   </row>
                   <row>
-                      <cell>Ellerman S.S. City of Oxford</cell>
+                      <cell>Ellerman <name>S.S. City of Oxford</name></cell>
                       <cell>expected from</cell>
-                      <cell>Liverpool &amp; Melta</cell>
+                      <cell><placeName>Liverpool</placeName> &amp; <placeName>Malta</placeName></cell>
                       <cell>is due on or about</cell>
-                      <cell>July 30</cell>
+                      <cell><date when="1905-07-30">July 30</date></cell>
                   </row>
               </table>
-              <p>Ellerman S.S. Britannia now on the berth for Liverpool is expected to sail about
-                    the 25th inst.</p>
+              <p>Ellerman <name>S.S. Britannia</name> now on the berth for <placeName>Liverpool</placeName> is expected to sail about
+                    the <date when="1905-07-25">25th inst.</date></p>
               <p>N. E. TAMVACO Alexandria agents 23186-20-3-3</p>
           </div>
       </body>

@@ -167,45 +167,45 @@
                   <row>
                       <cell>OCEAN PRINCE</cell>
                       <cell>due from</cell>
-                      <cell>Manchester</cell>
-                      <cell>July 18</cell>
+                      <cell><placeName>Manchester</placeName></cell>
+                      <cell><date when="1905-07-18">July 18</date></cell>
                       <cell>SCOTTISH PRINCE</cell>
                       <cell>due from</cell>
-                      <cell>Manchester</cell>
-                      <cell>August 8</cell>
+                      <cell><placeName>Manchester</placeName></cell>
+                      <cell><date when="1905-08-08">August 8</date></cell>
                   </row>
                   <row>
                       <cell>PERSIAN PRINCE</cell>
                       <cell>due from</cell>
-                      <cell>Antwerp &amp; London</cell>
-                      <cell>July 23</cell>
+                      <cell><placeName>Antwerp</placeName> &amp; <placeName>London</placeName></cell>
+                      <cell><date when="1905-07-23">July 23</date></cell>
                       <cell>CARIB PRINCE</cell>
                       <cell>due from</cell>
-                      <cell>Antwerp &amp; London</cell>
-                      <cell>August 15</cell>
+                      <cell><placeName>Antwerp</placeName> &amp; <placeName>London</placeName></cell>
+                      <cell><date when="1905-08-15">August 15</date></cell>
                   </row>
                   <row>
                       <cell>INDIAN PRINCE</cell>
                       <cell>due from</cell>
-                      <cell>Manchester</cell>
-                      <cell>July 29</cell>
+                      <cell><placeName>Manchester</placeName></cell>
+                      <cell><date when="1905-07-29">July 29</date></cell>
                       <cell>ROYAL PRINCE</cell>
                       <cell>due from</cell>
-                      <cell>Manchester</cell>
-                      <cell>August 19</cell>
+                      <cell><placeName>Manchester</placeName></cell>
+                      <cell><date when="1905-08-19">August 19</date></cell>
                   </row>
                   <row>
                       <cell>TROJAN PRINCE</cell>
                       <cell>due from</cell>
-                      <cell>Antwerp &amp; London</cell>
-                      <cell>July 31</cell>
+                      <cell><placeName>Antwerp</placeName> &amp; <placeName>London</placeName></cell>
+                      <cell><date when="1905-07-31">July 31</date></cell>
                       <cell>CREOLE PRINCE</cell>
                       <cell>due from</cell>
-                      <cell>Antwerp &amp; London</cell>
-                      <cell>August 29</cell>
+                      <cell><placeName>Antwerp</placeName> &amp; <placeName>London</placeName></cell>
+                      <cell><date when="1905-08-29">August 29</date></cell>
                   </row>
               </table>
-              <p>HOMEWARD SAILINGS: -- The S.S. SPARTAN PRINCE is now loading for Manchester.</p>
+              <p>HOMEWARD SAILINGS: -- The S.S. SPARTAN PRINCE is now loading for <placeName>Manchester</placeName>.</p>
               <p>For terms of freight or passage apply to C. J. Grace &amp; Co., Alexandria,
                     Agents. 31-12-904</p>
           </div>
