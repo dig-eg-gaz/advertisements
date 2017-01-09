@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+          <titleStmt>
+              <title level="m" type="main">Egyptian Gazette</title>
+              <title level="m" type="sub">An encoded transcription</title>
+              <editor>Will Hanley</editor>
+              <principal>Will Hanley</principal>
+          </titleStmt>
+          <editionStmt>
+              <edition>
+                  <date when="2016-09-01">September 2016</date>
+              </edition>
+          </editionStmt>
+          <publicationStmt>
+              <publisher>FSU University Libraries</publisher>
+              <pubPlace>Tallahassee, FL</pubPlace>
+          </publicationStmt>
+          <sourceDesc>
+              <bibl>
+                  <title>Orient-Royal Mail Line template</title>
+              </bibl>
+          </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div type="item" scope="advertisement" xml:id="deg-ad-orm01">
+              <head>Orient-Royal Mail Line.</head>
+              <p>REDUCED SUMMER FARES FROM MAY TO OCTOBER INCLUSIVE.</p>
+              <p>OUTWARD to AUSTRALIA.</p>
+              <p><name>R.M.S. “Oruba"</name> will leave Suez about <date when="1906-10-05">October 5</date></p>
+              <p><name>R.M.S "Ophir"</name> will leave Suez about <date when="1906-10-19">October 19</date>.</p>
+              <p>HOMEWARD to NAPLES, MARSEILLES, GIBRALTAR, PLYMOUTH, LONDON, TILBURY.</p>
+              <p><name>R.M.S. "Ortona"</name> will leave Port Said <date when="1906-10-23">October 23</date></p>
+              <p><name>R.M.S. “Oroya"</name> will leave Port Said <date when="1905-10-08">October 8</date></p>
+              <table>
+                  <row>
+                      <cell rows="3">Summer Fares</cell>
+                      <cell>Port-Said to Marseilles</cell>
+                      <cell>1st Class</cell>
+                      <cell>£ 9.15.</cell>
+                      <cell>2nd Class</cell>
+                      <cell>£ 6.15.</cell>
+                      <cell>3rd Class</cell>
+                      <cell>£ 5.</cell>
+                  </row>
+                  <row>
+                      <cell>Port-Said to Plymouth or Tilbury</cell>
+                      <cell>1st Class</cell>
+                      <cell>£ 14.5.</cell>
+                      <cell>2nd Class</cell>
+                      <cell>£ 9. 0.</cell>
+                      <cell>3rd Class</cell>
+                      <cell>£ 7.</cell>
+                  </row>
+                  <row>
+                      <cell>Port-Said to Naples</cell>
+                      <cell>1st Class</cell>
+                      <cell>£ 8. 0.</cell>
+                      <cell>2nd Class</cell>
+                      <cell>£ 5.10.</cell>
+                      <cell>3rd Class</cell>
+                      <cell>£ 4.</cell>
+                  </row>
+              </table>
+              <p>Passengers returning by the Line obtain one-third rebate off the above fares if
+                    leaving England before the end of October.</p>
+              <p>Agents. Cairo:—Thos. Cook &amp; Son. Alexandria : —R. J. Moss &amp; Co.—For all
+                    particulars apply</p>
+              <p>Wm. STAPLEDON &amp; Sons, PORT SAID and PORT-TEWFIK (Suez). 31-12-906</p>
+          </div>
+      </body>
+  </text>
+</TEI>

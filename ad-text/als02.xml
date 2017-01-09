@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-10-06">October 6, 2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Austrian Lloyd’s Steam Navigation advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="item" scope="advertisement" xml:id="deg-ad-als02">
+                <head>Austrian Lloyd’s Steam Navigation</head>
+                <p>Alexandria-Brindisi-Trieste (Venice).</p>
+                <p>Weekly Express Mail Service. Steamers leave Alexandria every Saturday at 4
+                    p.m. arrive at Brindisi, Tuesday 5 a.m. in time for express to Milan,
+                    Lucerne, Paris, Vienna, Berlin, and London, leaving Brindisi 7 a.m. Arrival
+                    Trieste Wednesday about 11 a.m. in connection with Train de Luxe
+                    Trieste-Vienna-Ostende. Passengers reach London every Friday 4.50 p.m.</p>
+                <table rows="3" cols="8">
+                    <row>
+                        <cell><date when="1906-10-06">Oct. 6</date></cell>
+                        <cell>4 p.m.</cell>
+                        <cell><name>S.S. Semiramis</name></cell>
+                        <cell><persName>Capt. Martinolich</persName></cell>
+                        <cell><date when="1906-11-03">Nov. 3</date></cell>
+                        <cell>4 p.m.</cell>
+                        <cell><name>S.S. Cleopatra</name></cell>
+                        <cell><persName>Capt. Ivellich</persName></cell>
+                    </row>
+                    <row>
+                        <cell><date when="1906-10-13">Oct. 13</date></cell>
+                        <cell>4 p.m.</cell>
+                        <cell><name>S. S. Cleopatra</name></cell>
+                        <cell><persName>Capt. Ivellich</persName></cell>
+                        <cell><date when="1906-11-10">Nov. 10</date></cell>
+                        <cell>4 p.m.</cell>
+                        <cell><name>S.S. Habsburg</name></cell>
+                        <cell><persName>Capt. Klausberger</persName></cell>
+                    </row>
+                    <row>
+                        <cell><date when="1906-10-20">Oct. 20</date></cell>
+                        <cell>4 p.m.</cell>
+                        <cell><name>S.S. Habsburg</name></cell>
+                        <cell><persName>Capt. Klausberger</persName></cell>
+                        <cell><date when="1906-11-17">Nov. 17</date></cell>
+                        <cell>4 p.m.</cell>
+                        <cell><name>S.S. Semiramis</name></cell>
+                        <cell><persName>Capt. Martinelich</persName></cell>
+                    </row>
+                    <row>
+                        <cell><date when="1906-10-27">Oct. 27</date></cell>
+                        <cell>4 p.m.</cell>
+                        <cell><name>S.S. Semiramis</name></cell>
+                        <cell><persName>Capt. Martinolich</persName></cell>
+                        <cell><date when="1906-11-24">Nov. 24</date></cell>
+                        <cell>4 p.m.</cell>
+                        <cell><name>S.S. Cleopatra</name></cell>
+                        <cell><persName>Capt. Ivellich</persName></cell>
+                    </row>
+                </table>
+                <p>Fortnightly Service: Alexandria-Brindisi &amp; Trieste Line.</p>
+                <p>Steamer leaves Alexandria on or about 10 and 24 October, 7 and 21 November, 5
+                    and 19 December.</p>
+                <p>Syrian-Cyprus-Caramanian Line.</p>
+                <p>Steamer leaves Alexandria on or about 8 and 22 October, 5 and 19 November, 3,
+                    17 and 31 December.</p>
+                <p>Syrian-Caramanian Line.</p>
+                <p>Steamer leaves Alexandria on or about 1, 15 and 29 October, 12 and 26
+                    November, 10 and 24 December.</p>
+                <p>Far East Lines.</p>
+                <p>Departures from Port Said: To Suez, Aden, Bombay, Colombo, Penang, Singapore,
+                    Hong-Kong, Shanghai, Yokohama and Kobé, <date when="1906-10-04">4
+                        October</date>, <date when="1905-11-03">3 November</date>.</p>
+                <p>To Suez, Aden and Bombay accelerated service about <date when="1906-10-08">8
+                    October</date>, <date when="1906-11-08">8 Nov.</date>, <date
+                        when="1906-12-08">8 Dec</date>.</p>
+                <p>To Suez, Aden, Karachi, Colombo, Madras, Rangoon, and Calcutta about <date
+                    when="1906-10-19">19 Oct</date>, <date when="1906-11-03">3</date>, <date
+                        when="1906-11-19">19 Nov.</date>, <date when="1906-12-19">19 Dec</date>
+                    4 p.m.</p>
+                <p>To Suez, Aden, Karachi and Bombay about <date when="1906-11-13">13
+                    Nov.</date>, <date when="1906-12-01">1 Dec</date> (Winter Line).</p>
+                <p>East African Line.</p>
+                <p>Departures from Port Said: To Suez, Aden, Mombassa, Zanzibar, Beira,
+                    Delagoa-Bay, and Durban about <date when="1906-10-03">3
+                        Oct.</date>, <date when="1905-11-02">2 Nov.</date>, <date when="1905-12-03">3 Dec.</date>.</p>
+                <p>For information apply to the Agents, Alexandria, Port Said and Suez, Thos.
+                    Cook &amp; Son, Ld., Leon Heller, Cairo Agent, 24, Sharia Maghraby,
+                    (Telephone 192), Cairo; F. Tedeschi, Helouan.</p>
+                <p>Special rates for Egyptian officials, members of Army of Occupation and their
+                    families.</p>
+                <p><measure type="indexNo">31-12-906</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>

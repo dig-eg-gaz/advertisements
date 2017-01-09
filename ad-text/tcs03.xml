@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+          <titleStmt>
+              <title level="m" type="main">Egyptian Gazette</title>
+              <title level="m" type="sub">An encoded transcription</title>
+              <editor>Will Hanley</editor>
+              <principal>Will Hanley</principal>
+          </titleStmt>
+          <editionStmt>
+              <edition>
+                  <date when="2016-09-01">September 2016</date>
+              </edition>
+          </editionStmt>
+          <publicationStmt>
+              <publisher>FSU University Libraries</publisher>
+              <pubPlace>Tallahassee, FL</pubPlace>
+          </publicationStmt>
+          <sourceDesc>
+              <bibl>
+                  <title>Thos. Cook &amp; Son</title>
+              </bibl>
+          </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div type="item" scope="advertisement" xml:id="deg-ad-tcs03">
+              <head>Thos. Cook &amp; Son, (EGYPT), LTD</head>
+              <p>HEAD OFFICE: LUDGATE CIRCUS—LONDON.</p>
+              <p>CHIEF EGYPTIAN OFFICE: — CAIRO, near SHEPHEARD'S HOTEL.</p>
+              <p>Alexandria, Port Said, Suez, Luxor, Assuan, Halfa, and Khartum.</p>
+              <p>GENERAL RAILWAY AND STEAMSHIP AGENTS. BANKERS.</p>
+              <p>BAGGAGE AND FORWARDING AGENTS.</p>
+              <p>Officially appointed &amp; Sole Agents in Cairo to the P.&amp;O. S.N.
+                  Co.</p>
+              <p>Large and splendidly appointed steamers belonging to the Co. leave Cairo
+                  thrice weekly, between November and March, for Luxor, Assouan and Halfa
+                  in connection with trains de luxe to Khartoum.-Moderate fares.</p>
+              <p>Specially Reduced Rates for residents of Egypt by Tourist Services during
+                  November and December. First sailing November 13th.</p>
+              <p>WEEKLY FREIGHT SERVICE FROM CAIRO TO ASSUAN AND HALFA.</p>
+              <p>Cook's Interpreters in uniform are present at principal Railway Stations
+                  and Landing-places in Europe to assist passengers holding their
+                  tickets.</p>
+              <p>Special Steamers and Dahabeahs for private parties.</p>
+              <p>Special arrangements for tour in PALESTINE, SYRIA and the DESERT; Lowest
+                  rates.</p>
+              <p>Best camp equipment in the country.</p>
+          </div>
+      </body>
+  </text>
+</TEI>

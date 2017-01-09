@@ -30,13 +30,13 @@
       <body>
           <div type="item" scope="advertisement" xml:id="deg-ad-etc01">
               <head>The Eastern Telegraph Company, Limited.</head>
-              <p>This Company's system of submarine telegraph cables is the most direct and
-                    quickest means of communication from Egypt to Europe, North and South America,
-                    East, South and West Africa, India, Australia, New Zealand, China and Japan.</p>
-              <p>To secure quick transmission, telegrams should be marked Via Eastern.</p>
-              <p>For latest average time to London, see daily bulletin in this paper.</p>
-              <p>STATIONS IN EGYPT: Alexandria, Cairo, Suez, Port-Tewfik, Port-Said, Suakin. Head
-                    Office. London.</p>
+              <p>This Company's system of submarine telegraph <lb/>cables is the most direct and
+                    quickest means of <lb/>communication from Egypt to Europe, North and <lb/>South America,
+                    East, South and West Africa, <lb/>India, Australia, New Zealand, China and Japan.</p>
+              <p>To secure quick transmission, telegrams should <lb/>be marked <hi>Via Eastern.</hi></p>
+              <p>For latest average time to London, see daily <lb/>bulletin in this paper.</p>
+              <p>STATIONS IN EGYPT: Alexandria, Cairo, <lb/>Suez, Port-Tewfik, Port-Saïd, Suakin. Head
+                    <lb/>Office. London.</p>
           </div>
       </body>
   </text>

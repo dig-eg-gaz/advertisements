@@ -30,11 +30,11 @@
         <body>
             <div type="item" scope="advertisement" xml:id="deg-ad-dll01">
                 <head>Deutsche Levante-Linie.</head>
-                <p>Mail and Passenger Steamships. Regular three-weekly Service from<lb/> HAMBURG,
-                    via ANTWERP &amp; MALTA, to ALEXANDRIA and vice-versa, admitting<lb/> goods from
-                    all chief German Railway Stations on direct Bill of Landing to<lb/> ALEXANDRIA
-                    and all chief ports of Egypt, Syria, etc., at favourable through<lb/> rates of
-                    DEUTSCHE<lb/> VERKEHR (traffic).</p>
+                <p>Mail and Passenger Steamships. Regular three-weekly Service from HAMBURG,
+                    via ANTWERP &amp; MALTA, to ALEXANDRIA and vice-versa, admitting goods from
+                    all chief German Railway Stations on direct Bill of Landing to ALEXANDRIA
+                    and all chief ports of Egypt, Syria, etc., at favourable through rates of
+                    DEUTSCHE VERKEHR (traffic).</p>
                 <p>EXPECTED AT ALEXANDRIA.</p>
                 <p><name>S.S. Lesbos</name>
                     <date when="1905-07-20">July 20</date> from <placeName>Antwerp</placeName>.</p>
@@ -45,7 +45,7 @@
                     <date when="1905-07-31">July 31</date> from <placeName>Hamburg</placeName> bound
                     for <placeName>Beyrout</placeName>.</p>
                 <p>For tariff and particulars apply to ADOLPHE STROSS, Alexandria, Agent.</p>
-                <p>15-2-905</p>
+                <p><measure type="indexNo">15-2-905</measure></p>
             </div>
         </body>
     </text>

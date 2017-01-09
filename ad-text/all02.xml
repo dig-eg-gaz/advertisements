@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-09-28">September 28, 2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Anchor Line, Limited advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="item" scope="advertisement" xml:id="deg-ad-all01">
+                <head>ANCHOR LINE, LIMITED.</head>
+                <p>(HENDERSON BROTHERS,) LONDON, LIVERPOOL AND GLASGOW.</p>
+                <p>Booking Passengers and Cargo through to Ports in India, Europe nad America</p>
+                <p>First class passengers steamers. Sailing fortnightly from Suez.</p>
+                <table rows="2" cols="6">
+                    <row>
+                        <cell>For MARSEILLES &amp; LIVERPOOL</cell>
+                        <cell><name>S.S. “Scindia”</name></cell>
+                        <cell><date when="1906-10-04">October 4</date></cell>
+                        <cell>For CALCUTTA</cell>
+                        <cell><name>S.S. "Bohemia"</name></cell>
+                        <cell><date when="1906-10-06">October 6</date></cell>
+                    </row>
+                    <row>
+                        <cell>For LONDON</cell>
+                        <cell><name>S.S. “Arabia"</name></cell>
+                        <cell><date when="1906-10-11">October 11</date></cell>
+                        <cell>For BOMBAY</cell>
+                        <cell><name>S.S. "Australia"</name></cell>
+                        <cell><date when="1906-10-21">October 21</date></cell>
+                    </row>
+                </table>
+                <p>Saloon Fares: from Port Said to Gibraltar £9, Marseilles £9, London and Liverpool
+                    £14; add £1 to above fare for passengers from Cairo, Ismailia, or Suez. 5 %
+                    reduction to families of three or more adults. 15 % reduction on return tickets
+                    within 6 months. Reduced rates on streamers not carrying surgeon and stewardess.
+                        <measure type="indexNo">31-12-906</measure></p>
+                <p>Agents: Cairo, Thos. Cook &amp; Son. Port-Said, Cory Brothers &amp; Co. -- For
+                    further particulars apply G. BEYTS &amp; Co., Suez. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

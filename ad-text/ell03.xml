@@ -21,21 +21,19 @@
           </publicationStmt>
           <sourceDesc>
               <bibl>
-                  <title>Ellerman Lines, Limited advertisement</title>
+                  <title>Ellermans advertisement</title>
               </bibl>
           </sourceDesc>
       </fileDesc>
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-ell01">
-              <head>Ellerman Lines, Limited.</head>
-              <table rows="3" cols="6">
+          <div type="item" scope="advertisement" xml:id="deg-ad-ell03">
+               <table rows="3" cols="6">
                   <row>
-                      <cell cols="3">CITY LINE to MALTA, LONDON, COLOMBO &amp; CALCUTTA.</cell>
+                      <cell cols="3">Ellermans CITY LINE.</cell>
                       <cell cols="3">
-                          <p>CITY &amp; HALL LINES. Joint Service to MARSEILLES, LIVERPOOL, BOMBAY
-                                &amp; KARACHI.</p>
+                          <p>Ellermans CITY &amp; HALL LINES.</p>
                       </cell>
                   </row>
                   <row>
@@ -44,28 +42,28 @@
                   </row>
                   <row>
                       <cell>Malta and London</cell>
-                      <cell><name>S.S. City of Corinth</name></cell>
-                      <cell><date when="1905-07-26">July 26</date></cell>
-                      <cell>Marseilles and Liverpool</cell>
-                      <cell/>
-                      <cell/>
+                      <cell><name>S.S. City of Calcutta</name></cell>
+                      <cell><date when="1906-10-03">Oct. 3</date></cell>
+                      <cell>Marseilles &amp; Liverpool</cell>
+                      <cell><name>S.S. City of York</name></cell>
+                      <cell><date when="1906-09-29">Sept. 29</date></cell>
                   </row>
                   <row>
-                      <cell>Colombo and Calcutta</cell>
+                      <cell>Calcutta</cell>
                       <cell><name>S.S. City of Manchester</name></cell>
-                      <cell><date when="1905-07-12">July 12</date></cell>
-                      <cell>Bombay</cell>
-                      <cell><name>S.S. Anton Hall</name></cell>
-                      <cell><date when="1905-07-13">July 13</date></cell>
+                      <cell><date when="1906-09-27">Sept. 29</date></cell>
+                      <cell>Bombay &amp; Karachi</cell>
+                      <cell><name>S.S. Trafford Hall</name></cell>
+                      <cell><date when="1906-10-12">October 12</date></cell>
                   </row>
               </table>
-              <p>SALOON FARES:—Port Said to Malta £4.10.0. Marseilles. £8.0.0. London or
-                    Liverpool, £l2.l0.0. Colombo, Calcutta, Bombay or Karachi, £35.0.0. Special
+              <p>SALOON FARES:—Port Said to Malta £4.10.0. Marseilles. £10.0.0. London or
+                    Liverpool, £l2.l0.0. Colombo, Calcutta, Bombay or Karachi, £25.0.0. Special
                     rates for steamers not carrying Doctor or Stewardess. For further particulars
                     apply to</p>
               <p>CORY BROS. &amp; Co., Ltd., Agents for CITY Line, Port Said: W. STAPLEDON &amp;
                     SON, Agents for Hall Line, Port Said ; or COOK &amp; SON (Egypt), Ltd., Cairo.
-                    <measure type="indexNo">23788-28-8-905</measure></p>
+                    <measure type="indexNo">28-2-907</measure></p>
           </div>
       </body>
   </text>

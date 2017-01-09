@@ -12,7 +12,7 @@
           </titleStmt>
           <editionStmt>
               <edition>
-                  <date when="2016-10-06">October 6, 2016</date>
+                  <date when="2016-09-29">September 29, 2016</date>
               </edition>
           </editionStmt>
           <publicationStmt>
@@ -21,23 +21,19 @@
           </publicationStmt>
           <sourceDesc>
               <bibl>
-                  <title>New Khedivial Hotel advertisement</title>
+                  <title>GELLATLY, HANKEY &amp; CO. advertisement</title>
               </bibl>
           </sourceDesc>
       </fileDesc>
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-nkh01">
-              <head>NEW KHEDIVIAL HOTEL, ALEXANDRIA.</head>
-              <p>First-class Hotel. Situated in Rosetta Avenue, the finest quarter in the Town.
-                    Two mintes from Railway Station. Close to Conservatory and the Opera House.
-                    Lift. Electric Light Throughout. Perfect Sanitary Arrangements. Magnificent
-                    Ball, Reception, Reading, and Music Rooms. Bar and Smoking Room.</p>
-              <p> HENRI CHAMOULLEAU, Proprietor.</p>
-              <p>45</p>
-              <p>FINE TERRACE ON THE AVENUE. - SPLENDID GARDEN. - OMNIBUS MEET ALL TRAINS AND
-                    STEAMERS. <measure type="indexNo">28-26</measure></p>
+          <div type="item" scope="advertisement" xml:id="deg-ad-ghc01">
+              <head>GELLATLY, HANKEY &amp; CO.</head>
+              <p>SHIPOWNERS OF LONDON.</p>
+              <p>Branches at Port Sudan, Suakin &amp; Jeddah</p>
+              <p>Merchandise, furniture, baggage and personal effects forwarded, adn insurances effected to all parts of the world.</p>
+              <p><measure type="indexNo">27376-28-2-907</measure></p>
           </div>
       </body>
   </text>

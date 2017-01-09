@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-09-29">September 29, 2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Hamburg &amp; Anglo-American Nile Co. advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="item" scope="advertisement" xml:id="deg-ad-aan03">
+                <head>Hamburg &amp; Anglo-American Nile Co.</head>
+                <p>Weekly departure during Winter Season by the<lb/> Luxurious First Class Tourist
+                    Steamers VICTORIA, PURITAN &amp; MAYFLOWER.<lb/> Regular weekly Departures to
+                    the SECOND CATARACT by the S.S. INDIANA.<lb/> THROUGH BOOKINGS TO KHARTOUM,
+                    GONDOKORO AND THE WHITE NILE.<lb/> Steamers and Dahabeahs for private charter.
+                    Steam Tugs and Steam Launches for hire.<lb/> FREIGHT SERVICE BY STEAM BARGES
+                    BETWEEN CAIRO AND ALEXANDRIA.<lb/> Working in conjunction and under special
+                    arrangement with the<lb/> “Upper Egypt Hotels Company."</p>
+                <p>For details and illustrated programmes apply to "THE HAMBURG and
+                    ANGLO-AMERICAN<lb/> NILE COMPANY."</p>
+                <p> OFFICES IN CAIRO: Sharia Boulac, "Grand Continental Hotel Buildings.” <measure
+                        type="indexNo">31-3-07</measure></p>
+                <p>Hamburg-Amerika Linie.</p>
+                <p>Return to Egypt<lb/> by the new S.S. Oceana of 9000 Tons, 350 berths including 90
+                    single cabins, greatest comfort, best cuisine.</p>
+                <p>FARES: Genoa to Alexandria from £14. Naples to Alexandria from £10.</p>
+                <table>
+                    <row>
+                        <cell>Leave Genoa</cell>
+                        <cell><date when="1906-10-23">October 23rd</date> p.m.</cell>
+                        <cell>arr. Alexandria</cell>
+                        <cell><date when="1906-10-27">October 27</date> a.m.</cell>
+                    </row>
+                    <row>
+                        <cell>,, ,,</cell>
+                        <cell><date when="1906-11-06">November 6th</date> ,,</cell>
+                        <cell>,, ,,</cell>
+                        <cell><date when="1906-11-10">November 10</date> ,,</cell>
+                    </row>
+                    <row>
+                        <cell>,, ,,</cell>
+                        <cell><date when="1906-11-20">November 20th</date> ,,</cell>
+                        <cell>,, ,,</cell>
+                        <cell><date when="1906-11-24">November 24</date> ,,</cell>
+                    </row>
+                    <row>
+                        <cell>,, ,,</cell>
+                        <cell><date when="1906-12-04">December 4th</date> ,,</cell>
+                        <cell>,, ,,</cell>
+                        <cell><date when="1906-12-08">December 8</date> ,,</cell>
+                    </row>
+                    <row>
+                        <cell>,, ,,</cell>
+                        <cell><date when="1906-12-18">December 18th</date> ,,</cell>
+                        <cell>,, ,,</cell>
+                        <cell><date when="1906-12-22">December 22</date> ,,</cell>
+                    </row>
+                </table>
+                <p><measure type="indexNo">31-10-906</measure></p>
+                <p>From January 2nd Weekly service from Naples to Alexandria EVERY WEDNESDAY.</p>
+                <p>Apply to the Co.'s Booking Offices: Paris, rue Scribe. London, Cockspur Street.
+                    Berlin, Unter den Linden <lb/>Cairo, Continental Hotel. Alexandria, G. J. Grace
+                    &amp; Co. Chief Office: Hamburg ( Alsterdamm</p>
+            </div>
+        </body>
+    </text>
+</TEI>

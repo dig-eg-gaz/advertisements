@@ -2,45 +2,46 @@
 <?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
 ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-      <fileDesc>
-          <titleStmt>
-              <title level="m" type="main">Egyptian Gazette</title>
-              <title level="m" type="sub">An encoded transcription</title>
-              <editor>Will Hanley</editor>
-              <principal>Will Hanley</principal>
-          </titleStmt>
-          <editionStmt>
-              <edition>
-                  <date when="2016-09-29">September 29, 2016</date>
-              </edition>
-          </editionStmt>
-          <publicationStmt>
-              <publisher>FSU University Libraries</publisher>
-              <pubPlace>Tallahassee, FL</pubPlace>
-          </publicationStmt>
-          <sourceDesc>
-              <bibl>
-                  <title>Anglo-American Nile Steamer &amp; Hotel Coy. advertisement</title>
-              </bibl>
-          </sourceDesc>
-      </fileDesc>
-  </teiHeader>
-  <text>
-      <body>
-          <div type="item" scope="advertisement"  xml:id="deg-ad-aan01">
-              <head>Anglo-American Nile Steamer &amp; Hotel Coy.</head>
-              <p>Weekly departure during Winter Season by the<lb/> Luxurious First Class Tourist
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-09-29">September 29, 2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Anglo-American Nile Steamer &amp; Hotel Coy. advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="item" scope="advertisement" xml:id="deg-ad-aan01">
+                <head>Anglo-American Nile Steamer &amp; Hotel Coy.</head>
+                <p>Weekly departure during Winter Season by the<lb/> Luxurious First Class Tourist
                     Steamers VICTORIA, PURITAN &amp; MAYFLOWER.<lb/> Regular weekly Departures to
                     the SECOND CATARACT by the S.S. INDIANA.<lb/> THROUGH BOOKINGS TO KHARTOUM,
                     GONDOKORO AND THE WHITE NILE.<lb/> Steamers and Dahabeahs for private charter.
                     Steam Tugs and Steam Launches for hire.<lb/> FREIGHT SERVICE BY STEAM BARGES
                     BETWEEN CAIRO AND ALEXANDRIA.<lb/> Working in conjunction and under special
                     arrangement with the<lb/> “Upper Egypt Hotels Company."</p>
-              <p>For details and illustrated programmes apply to "THE ANGLO-AMERICAN NILE STEAMER
+                <p>For details and illustrated programmes apply to "THE ANGLO-AMERICAN NILE STEAMER
                     and<lb/> HOTEL COMPANY."</p>
-              <p> OFFICES IN CAIRO: Sharia Boulac, "Grand Continental Hotel Buildings.” 31-3-06</p>
-          </div>
-      </body>
-  </text>
+                <p> OFFICES IN CAIRO: Sharia Boulac, "Grand Continental Hotel Buildings.” <measure
+                        type="indexNo">31-3-06</measure></p>
+            </div>
+        </body>
+    </text>
 </TEI>

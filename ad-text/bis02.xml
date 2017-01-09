@@ -28,53 +28,53 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="deg-ad-bis01">
+            <div type="item" scope="advertisement" xml:id="deg-ad-bis02">
                 <head>British India S. N. Company, Limited.</head>
-                <p>MAIL AND PASSENGER STEAM SHIPS.</p>
-                <p>SAILINGS FROM SUEZ, LONDON and CALCUTTA LINE.</p>
-                <p>Calling at ADEN, COLOMBO and MADRAS Outward, and MARSEILLES (GENOA and PLYMOUTH
-                    optional) Homeward.</p>
-                <p>Fortnightly Service in connection with the Co's Indian Mail Lines and monthly
-                    with the East African Mail Line between ADEN, MOMBASSA and Zanzibar.</p>
-                <p>OUTWARD.—<name>S.S. Fazilka</name> ... <date when="1905-07-22">July 22</date> |
-                    HOMEWARD.—<name>S.S. Mombassa</name> ... <date when="1905-07-21">July 21</date></p>
-                <p>Queensland Line of Steamers Between London and Brisbane.</p>
-                <p>Calling at Colombo, Batavia, Cooktown, Townsville, and Rockhamptom.</p>
-                <p>The S.S. .................. will sail from Suez on about ..................</p>
+                <p>Fortnightly Service in connection with the Co's Indian Mail Lines.-- Calling at
+                    ADEN, COLOMBO, MADRAS, adn CALCUTTA Out, and MARSEILLES (GENOA and PLYMOUTH
+                    optional) Home. Sailings from Suez.</p>
+                <p>OUTWARD.—<name>S.S. Jelunga</name> ... <date when="1906-10-12">October 12</date>
+                    | HOMEWARD.—<name>S.S. Gordon Castle</name> ... <date when="1906-10-05">Oct.
+                        5</date></p>
+                <p>EAST AFRICAN LINE OF STEAMERS.</p>
+                <p>Calling at Aden, Mombasa, Zanzibar and Beira. Monthly service.</p>
+                <p>The <name>S.S. Warora</name> will sail from Suez on about <date when="1906-10-12"
+                        >the 12th October</date>.</p>
                 <table rows="2" cols="9">
                     <row>
-                        <cell>First Class Fares from Suez to</cell>
+                        <cell rows="3">First Class Fares from Suez to</cell>
                         <cell>Aden</cell>
                         <cell>£11. 8</cell>
                         <cell>Colombo</cell>
-                        <cell>£25.25</cell>
+                        <cell>£25.15</cell>
                         <cell>Calcutta</cell>
                         <cell>£31. 0</cell>
                         <cell>Marseilles</cell>
                         <cell>£15.12</cell>
                     </row>
                     <row>
-                        <cell/>
-                        <cell>Bombay</cell>
-                        <cell>£31.10</cell>
+                        <cell rows="2">Bombay</cell>
+                        <cell rows="2">£31.10</cell>
                         <cell>Madras</cell>
                         <cell>£20.11</cell>
                         <cell>Genoa</cell>
                         <cell>£13.10</cell>
-                        <cell>London</cell>
-                        <cell>£19. 0</cell>
+                        <cell rows="2">London</cell>
+                        <cell rows="2">£19. 0</cell>
+                    </row>
+                    <row>
+                        <cell>Mombasa</cell>
+                        <cell>£26.10</cell>
+                        <cell>Zanzibar</cell>
+                        <cell>£30. 0</cell>
                     </row>
                 </table>
                 <p>From Port-Said £2 less Homeward, and £2 more Outward. Second class, two thirds of
                     1st Class Fares.</p>
-                <p>Agents at PORT SAID, for the London, Calcutta and Persian Gulf Lines, Messrs.
-                    Worms &amp; Co.</p>
-                <p>Agents at PORT SAID, for the London and Queensland Line, Messrs. Wills &amp; Co.,
-                    Limited.</p>
-                <p>Messrs. Thos. Cook &amp; Son and the Anglo-American Hotel &amp; Steamer Company,
-                    CAIRO &amp; ALEXANDRIA.</p>
-                <p>For further particulars. Freight and Passage apply to G. BEYTS &amp; Co. Agents,
-                    Suez. <measure type="indexNo">31-12-905</measure></p>
+                <p>PORT SAID Agents: Worms &amp; Co. and Willi &amp; Co., Ltd. -- CAIRO &amp;
+                    ALEXANDRIA: --Thos. Cook &amp; Son, Ltd., and the Anglo-American Hotel &amp;
+                    Steamer Co. For particulars apply G. BEYTS &amp; Co., Suez. <measure
+                        type="indexNo">31-12-906</measure></p>
             </div>
         </body>
     </text>

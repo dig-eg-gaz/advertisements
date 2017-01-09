@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-10-06">October 6, 2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Cunard Line advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="item" scope="advertisement" xml:id="deg-ad-cun02">
+                <head>Cunard Line.</head>
+                <p><measure type="indexNo">19-1-907</measure></p>
+                <p>Frequent sailings of cargo steamers from Alexandria to Liverpool. Through Bills
+                    of Lading to towns in the Interior and to the United States ports.</p>
+                <p>Sailings of ROYAL MAIL passenger steamers from Liverpool to New-York and Boston
+                    on Saturdays and Tuesdays.</p>
+                <p>Regular twin-screw passenger service between Trieste, Fiume, Naples, and
+                    New-York.</p>
+                <p>All passenger steamers fitted with Marconi's wireless telegraphy. For through
+                    tickets from Egypt and particulars, apply to the Agents:</p>
+                <p>Rodacanachi &amp; Co., Alexandria; Nicolas Kirgis, Cairo; R. Broadbent, Port
+                    Said.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
