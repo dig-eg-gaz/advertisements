@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Madison Flick</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2017-01-27">January 27, 2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>White Star Line advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="item" scope="advertisement" xml:id="deg-ad-wsl01">
+                <head>WHITE STAR LINE.</head>
+                <p>NEW YORK AND BOSTON MEDITERRANEAN SERVICE.</p>
+                <p>Regular Sailings between Alexandria , Naples, and Boston or New York, U.S.A. By
+                    the large modern twin screw steamers CELTIC, 21,000 tons- REPUBLIC, 15,400 tons-
+                    CANOPIC, 13,000 tons- ROMANIC, 11,400 tons.</p>
+                <table rows="8" cols="7">
+                    <row>
+                        <cell cols="7">Sailings from Alexandria</cell>
+                    </row>
+                    <row>
+                        <cell>Steamer</cell>
+                        <cell>From Alexandria</cell>
+                        <cell>Due at Naples</cell>
+                        <cell>From Naples</cell>
+                        <cell>From Azores</cell>
+                        <cell>Due at New York</cell>
+                        <cell>Due at Boston</cell>
+                    </row>
+                    <row>
+                        <cell>Celtic</cell>
+                        <cell><date when="1906-01-25">Jan 25</date></cell>
+                        <cell><date when="1906-01-28">Jan 28</date></cell>
+                        <cell><date when="1906-01-31">Jan 31</date></cell>
+                        <cell><date when="1906-01-31">Jan 31</date></cell>
+                        <cell><date when="1906-02-12">Feb 12</date></cell>
+                        <cell><date when="1906-02-12">Feb 12</date></cell>
+                    </row>
+                    <row>
+                        <cell>Canopic</cell>
+                        <cell><date when="1906-02-01">Feb 1</date></cell>
+                        <cell><date when="1906-02-04">Feb 4</date></cell>
+                        <cell><date when="1906-02-07">Feb 7</date></cell>
+                        <cell><date when="1906-02-13">Feb 13</date></cell>
+                        <cell><date when="1906-02-13">Feb 13</date></cell>
+                        <cell><date when="1906-02-19">Feb 19</date></cell>
+                    </row>
+                    <row>
+                        <cell>Republic</cell>
+                        <cell><date when="1906-02-15">Feb 15</date></cell>
+                        <cell><date when="1906-02-18">Feb 18</date></cell>
+                        <cell><date when="1906-02-21">Feb 21</date></cell>
+                        <cell><date when="1906-02-21">Feb 21</date></cell>
+                        <cell><date when="1906-03-05">March 5</date></cell>
+                        <cell><date when="1906-03-05">March 5</date></cell>
+                    </row>
+                    <row>
+                        <cell>Romanic</cell>
+                        <cell><date when="1906-02-22">Feb 22</date></cell>
+                        <cell><date when="1906-02-25">Feb 25</date></cell>
+                        <cell><date when="1906-02-28">Feb 28</date></cell>
+                        <cell><date when="1906-03-06">March 6</date></cell>
+                        <cell><date when="1906-03-06">March 6</date></cell>
+                        <cell><date when="1906-03-12">March 12</date></cell>
+                    </row>
+                    <row>
+                        <cell>Canopic</cell>
+                        <cell><date when="1906-03-15">March 15</date></cell>
+                        <cell><date when="1906-03-18">March 18</date></cell>
+                        <cell><date when="1906-03-21">March 21</date></cell>
+                        <cell><date when="1906-03-27">March 27</date></cell>
+                        <cell><date when="1906-03-27">March 27</date></cell>
+                        <cell><date when="1906-04-02">April 2</date></cell>
+                    </row>
+                    <row>
+                        <cell>Republic</cell>
+                        <cell><date when="1906-03-29">March 29</date></cell>
+                        <cell><date when="1906-04-01">April 1</date></cell>
+                        <cell><date when="1906-04-04">April 4</date></cell>
+                        <cell><date when="1906-04-10">April 10</date></cell>
+                        <cell><date when="1906-04-16">April 16</date></cell>
+                        <cell><date when="1906-04-16">April 16</date></cell>
+                    </row>
+                </table>
+                <p>Regular Service between Italy and United States throughout the year. Excellent
+                    accommodation for all classes of passengers. For plans of steamers, rates of
+                    passengers between the various ports, and full particulars, apply to THOS, COOK
+                    &amp; SON (Egypt) Ltd., Cairo, Alexandria, Luxor and Assouan; John Ross &amp;
+                    Co., Alexandria; White Star Line, Via Roma, Gena, and 21, Piazza della Borsa,
+                    Naples.</p>
+                <p><measure type="indexNo">27660-31.3.906</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>
