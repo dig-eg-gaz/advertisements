@@ -1,0 +1,43 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Caroline Vaverek</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2017-02-01">February 1, 2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Carlton Hotel advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="item" scope="advertisement" xml:id="deg-ad-cah03">
+                <head>CARLTON HOTEL</head>
+                <p>Bulkeley (near Alexandria) halfway to San Stefano</p>
+                <p>Ramleh's Fashionable Hotel.</p>
+                <p>Full Pension P.T. 50 a day.</p>
+                <p>Visitors from Cairo alight at Sidi-Gaber.-- Monthly Terms</p>
+                <p>24-11-06</p>
+                <p>C. AQUILINA, Proprieter.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

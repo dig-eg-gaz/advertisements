@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Caroline Vaverek</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-09-29">September 29, 2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>WINDSOR HOTEL Restaurant advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="item" scope="advertisement" xml:id="deg-ad-whc01">
+                <p>INTSTRUMENTAL CONCERTS</p>
+                <p>Every Nights</p>
+                <p>On the Verandah of the</p>
+                <p>WINDSOR, HOTEL</p>
+                <p>Alexandria</p>
+                <p>FROM 6 TO 12 P.M.</p>
+                <p>5 O'clock Tea Served on Verandah</p>
+                <p>13-11-906</p>
+            </div>
+        </body>
+    </text>
+</TEI>
+
