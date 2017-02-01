@@ -12,7 +12,7 @@
             </titleStmt>
             <editionStmt>
                 <edition>
-                    <date when="2016-09-29">September 29, 2016</date>
+                    <date when="2017-01-31">January 1, 2017</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -21,20 +21,23 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title>The Edinburgh Life Assurance Company advertisement</title>
+                    <title>Deutsche Bank advertisement</title>
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="deg-ad-ela01">
-                <head>INSURANCE.</head>
-                <p>LIFE The Edinburgh Life Assurance Company.</p>
-                <p>MARINE Union Insurance Society of Canton (Limited).</p>
-                <p>FIDELITY National Guarantee &amp; Suretyship Association (Limited).</p>
-                <p>Risks accepted at Tariff rates. -- Claimes liberally and promptly settled.</p>
-                <p>Agents for Egypt: HEWAT &amp; Co., Alexandria.</p>
+            <div type="item" scope="advertisement" xml:id="deg-ad-deb01">
+                <head>DEUTSCHE BANK,</head>
+                <p>BERLIN, W.</p>
+                <p>CAPITAL...... . M200,000,000 — RESERVE..M97,000,000</p>
+                <p>Dividends paid during last 10 years, (1896-1905,) 10, 10, 10 1/2, 11, 11, 11, 11,
+                    11, 12, 12 per cent</p>
+                <p>BRANCHES—Bremen, Dresden, Frankfort-on-M., Hamburg, Leipzig, Munioh, Nuremberg,
+                    Augsburg, Wiesbaden.</p>
+                <p>Deutsche Bank (Berlin) London Agency : 4 George Yard, Lombard Street, London,
+                    E.C.</p>
             </div>
         </body>
     </text>

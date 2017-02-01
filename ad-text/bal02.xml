@@ -21,20 +21,25 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title>The Edinburgh Life Assurance Company advertisement</title>
+                    <title>Bank of Athens, Limited advertisement</title>
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="deg-ad-ela01">
-                <head>INSURANCE.</head>
-                <p>LIFE The Edinburgh Life Assurance Company.</p>
-                <p>MARINE Union Insurance Society of Canton (Limited).</p>
-                <p>FIDELITY National Guarantee &amp; Suretyship Association (Limited).</p>
-                <p>Risks accepted at Tariff rates. -- Claimes liberally and promptly settled.</p>
-                <p>Agents for Egypt: HEWAT &amp; Co., Alexandria.</p>
+            <div type="item" scope="advertisement" xml:id="deg-ad-bal02">
+                <head>BANK OF ATHENS, LIMITED.</head>
+                <p>Head Office : Athens — Capital 20,000.000 (Fully paid up). — Reserve
+                    1,000,000.</p>
+                <p>Branches: London 55-58 Bishopsgate-street Within, Alexandria, Cairo,
+                    Constantinople, Smyrna, Candia, Canea, Piraeus<lb/> Patras, Yolo, Syra,
+                    Calamata. The Bank undertakes all banking business in Egypt, Greece, etc.
+                    Interests on cash deposits, <lb/>3 0/0 per ann. at sight; 3 1/2 0/0 per ann. for
+                    6 months; 4 0/0 per ann. for 12 months; 5 0/0 per ann. for 3 years and over.
+                    Savings <lb/>Bank Branch receives deposits at 3 1/2 0/0 per ann., from P.T. 80
+                    to P.T. 20,000. <measure type="indexNo">19-1-907</measure>
+                </p>
             </div>
         </body>
     </text>

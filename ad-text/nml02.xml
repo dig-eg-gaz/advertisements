@@ -21,20 +21,24 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title>The Edinburgh Life Assurance Company advertisement</title>
+                    <title>THE NATIONAL MUTUAL LIFE ASSOCIATION OF AUSTRALASIA, LIMITED
+                        advertisement</title>
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="deg-ad-ela01">
-                <head>INSURANCE.</head>
-                <p>LIFE The Edinburgh Life Assurance Company.</p>
-                <p>MARINE Union Insurance Society of Canton (Limited).</p>
-                <p>FIDELITY National Guarantee &amp; Suretyship Association (Limited).</p>
-                <p>Risks accepted at Tariff rates. -- Claimes liberally and promptly settled.</p>
-                <p>Agents for Egypt: HEWAT &amp; Co., Alexandria.</p>
+            <div type="item" scope="advertisement" xml:id="deg-ad-nml02">
+                <head>THE NATIONAL MUTUAL LIFE ASSOCIATION OF AUSTRALASIA, LTD. EST. 1869.</head>
+                <p>Funds exceed £4,000,000. Annual Income exceeds £700,000.</p>
+                <p>Special privileges offered to British Naval and Military Officers serving in
+                    Egypt or the Soudan.</p>
+                <p>Example of whole Policy Life.</p>
+                <p>Age of proposer 30. Sum assured £1,000 with profits payable at death. Annual
+                    premium covering war risk and foreign residence £28:6:8</p>
+                <p>Head Office: Cairo, Khedivial Exchange Court.</p>
+                <p><measure type="indexNo">27994-6-2-907</measure></p>
             </div>
         </body>
     </text>

@@ -21,20 +21,22 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title>The Edinburgh Life Assurance Company advertisement</title>
+                    <title>Imperial Ottoman Bank advertisement</title>
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="deg-ad-ela01">
-                <head>INSURANCE.</head>
-                <p>LIFE The Edinburgh Life Assurance Company.</p>
-                <p>MARINE Union Insurance Society of Canton (Limited).</p>
-                <p>FIDELITY National Guarantee &amp; Suretyship Association (Limited).</p>
-                <p>Risks accepted at Tariff rates. -- Claimes liberally and promptly settled.</p>
-                <p>Agents for Egypt: HEWAT &amp; Co., Alexandria.</p>
+            <div type="item" scope="advertisement" xml:id="deg-ad-iob01">
+                <head>IMPERIAL OTTOMAN BANK.</head>
+                <p>Established 1863.</p>
+                <p>CONSTANTINOPLE LONDON, PARIS, ALEXANDRIA CAIRO, PORT SAID CYPRUS and in all the
+                    principal towns in TURKEY. </p>
+                <p>ALEXANDRIA, 2 Mohamed Aly Square.— CAIRO, 19, Sharia el Manakh.</p>
+                <p>CAPITAL............. £ 10,000,000 Sterling. </p>
+                <p>The Bank undertakes every description of Banking business on favourable terms.
+                        <measure type="indexNo">18-4-907</measure></p>
             </div>
         </body>
     </text>
