@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2017-02-02">February 2, 2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sudan Government Railways template</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="item" scope="advertisement" xml:id="deg-ad-sgr02">
+                <head>SUDAN GOVERNMENT RAILWAYS.</head>
+                <p>CAIRO-KHARTOUM SUMMER MAIL SERVICE.--SUMMER TIME-TABLE 1906.</p>
+                <p>Commencing from 1st of April, 1906, until further notice</p>
+                <table rows="8" cols="7">
+                    <row>
+                        <cell cols="4">UP</cell>
+                        <cell cols="3">Down</cell>
+                    </row>
+                    <row>
+                        <cell>Sundays and Wednesdays‡</cell>
+                        <cell>8 p.m.</cell>
+                        <cell>depart</cell>
+                        <cell>Cairo</cell>
+                        <cell>arrive</cell>
+                        <cell>Mondays‡ and Thursdays</cell>
+                        <cell>7.35 a.m.</cell>
+                    </row>
+                    <row>
+                        <cell>Mondays and Thursdays†</cell>
+                        <cell>10.25 a.m.</cell>
+                        <cell>depart</cell>
+                        <cell>Luxor</cell>
+                        <cell>depart</cell>
+                        <cell>Sundays‡ and Wedn.</cell>
+                        <cell>5.30 p.m.</cell>
+                    </row>
+                    <row>
+                        <cell>Mondays and Thursdays</cell>
+                        <cell>7 p.m.</cell>
+                        <cell>depart</cell>
+                        <cell>Shellal</cell>
+                        <cell>depart</cell>
+                        <cell>Sundays and Wedn.</cell>
+                        <cell>9.30 p.m.</cell>
+                    </row>
+                    <row>
+                        <cell>Wednesdays and Saturdays‡</cell>
+                        <cell>5.30 p.m.</cell>
+                        <cell>depart</cell>
+                        <cell>Halfa</cell>
+                        <cell>depart</cell>
+                        <cell>Fridays and Mondays</cell>
+                        <cell>2 p.m.</cell>
+                    </row>
+                    <row>
+                        <cell>Thursdays and Saturdays‡</cell>
+                        <cell>4.30 a.m.</cell>
+                        <cell>depart</cell>
+                        <cell>Abu Hamed</cell>
+                        <cell>depart</cell>
+                        <cell>Fridays‡ and Mondays</cell>
+                        <cell>1.20 a.m.</cell>
+                    </row>
+                    <row>
+                        <cell>Thursdays and Saturdays‡</cell>
+                        <cell>11.45 a.m.</cell>
+                        <cell>depart</cell>
+                        <cell>Atbara Jcn.</cell>
+                        <cell>depart</cell>
+                        <cell>Thursdays‡ and Sundays</cell>
+                        <cell>6.10 p.m.</cell>
+                    </row>
+                    <row>
+                        <cell>Thursdays and Saturdays‡</cell>
+                        <cell>3.30 p.m.</cell>
+                        <cell>arrive</cell>
+                        <cell>Khartoum N.</cell>
+                        <cell>depart</cell>
+                        <cell>Thursday‡ and Sundays</cell>
+                        <cell>9 a.m.</cell>
+                    </row>
+                </table>
+                <p>‡Sleeping and Dining Cars. — During the month of April Sleeping and Dining Care
+                    trains leave Cairo for Luxor on Wednesdays, Mondays and Saturdays at 6.30 p.m.
+                    and Luxor for Cairo on Sundays, Tuesdays and Thursdays at 6.30 p.m. </p>
+                <p>From 1st of May 1908, these trains will be suppressed, but Dining and Sleeping
+                    Care will be attached to the ordinary night Tains from Cairo and Luxor three
+                    times a week, on the same above mentioned days. <measure type="indexNo"
+                        >14-6-907</measure>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

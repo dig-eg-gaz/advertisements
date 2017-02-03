@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2017-02-02">February 2, 2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>G. G. Drossos advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="item" scope="advertisement" xml:id="ggd01">
+                <head>G. G. DROSSOS &amp; CO.</head>
+                <p>Established 1869.</p>
+                <p>MERCHANTS &amp; GENERAL AGENTS.</p>
+                <p>Head Office. ALEXANDRIA, 19, Mohamed Aly Square.</p>
+                <table>
+                    <row>
+                        <cell>CAIRO,</cell>
+                        <cell>PORT-SAID,</cell>
+                        <cell>KHARTOUM,</cell>
+                        <cell>PORT-SUDAN,</cell>
+                    </row>
+                    <row>
+                        <cell>Abd-el-Aziz Avenue.</cell>
+                        <cell>Rue du Commerce.</cell>
+                        <cell>Victoria Street.</cell>
+                        <cell>(Red-Sea).</cell>
+                    </row>
+                </table>
+                <table>
+                    <head>GENERAL AGENCY In Egypt, Sudan, Red-Sea and Abyssinia for</head>
+                    <row>
+                        <cell>J. and R. TENNENT'S Pilsener Beer and Stout XXX.</cell>
+                        <cell rows="10">N.B.—Commercial Travellers paying
+                            regular visits to the Towns of the Interior.</cell>
+                    </row>
+                    <row>
+                        <cell>D. C. L. Scotch Whisky, “King George IV" Whisky and Gin.</cell>
+                    </row>
+                    <row>
+                        <cell>CARR &amp; Co., Ltd. Carlisle. Biscuits and Cakes.</cell>
+                    </row>
+                    <row>
+                        <cell>LEON CHANDON, Reims. Champagne.</cell>
+                    </row>
+                    <row>
+                        <cell>JULES ROBIN &amp; CO., Cognac. Extra Old Brandy.</cell>
+                    </row>
+                    <row>
+                        <cell>AMER PICON.</cell>
+                    </row>
+                    <row>
+                        <cell>ABSINTHE PERNOD. - VERMOUTH MARTINI &amp; ROSSI.</cell>
+                    </row>
+                    <row>
+                        <cell>L. TAMPIER &amp; Co. Bordeaux. Wines, Cognac and Rums.</cell>
+                    </row>
+                    <row>
+                        <cell>ANDRE P. CAMPA8, Brandy and Wines.</cell>
+                    </row>
+                    <row>
+                        <cell>Ste. ARSENE SAUPIQUET, Nantes. Proved Goods.</cell>
+                    </row>
+                    <row>
+                        <cell>CHOCOLAT POULAIN. Etc., Etc., Etc.</cell>
+                        <cell><measure type="indexNo">28135-30-11-906</measure></cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>
