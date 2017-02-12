@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2017-02-12">February 12, 2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Icilma advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="item" scope="advertisement" xml:id="deg-ad-ici01">
+                <head>Icilma.</head>
+                <p>ARABIC FOR "FLOWS THE WATER.”</p>
+                <p>Icilma Fluor Cream is the only cream that contains no grease nor oil. Deliciously
+                    scented it cleanses the pores of the skin as nothing else can do, makes it
+                    pearly white, gives life to the tissues, elasticity to the muscles, and a
+                    deliciously cool feeling to the skin.</p>
+                <p>Its unique properties are due to Icilma Natural Water so that it may well be
+                    called <hi>Nature’s Skin Food </hi> and the skin requires nothing else to give
+                    it the necessary vitality, to preserve it from sunburn, heat, cold or the
+                    effects of hard water, to prevent and cure the minor irritations due to
+                    overheated blood, and to preserve the youthful fresh look to which hot climates
+                    are so fatal.</p>
+                <p>Invaluable for immediately curing mosquito and insect bites and for greatly
+                    preventing them.</p>
+                <p>Depot for Egypt : J. McGregor, Chemist.</p>
+                <p>Alexandria, Cairo, Ibrahimieh, Luxor, Icilma Co. Ltd., 142, Gray’s Inn Road,
+                    London, W. C.</p>
+                <p><measure type="indexNo">27467</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>
