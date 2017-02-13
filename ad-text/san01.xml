@@ -21,21 +21,22 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title>Yost advertisement</title>
+                    <title>Sanitas advertisement</title>
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
         <body>
-            <div type="article" scope="advertisement" xml:id="deg-ad-yos03">
-                <p>Arabic and Oriental Types Supplied</p>
-                <p>YOST.</p>
-                <p>The typewriter par excellence.</p>
-                <p>Illustrated Catalogue on application.</p>
-                <p>Machines on trial from:-</p>
-                <p>Sole Agents: Messrs. Thomas Hinshelwood &amp; Co., </p>
-                <p>Alexandria and Cairo.</p>
+            <div type="item" scope="advertisement" xml:id="deg-ad-san01">
+                <head>"Sanitas" Disinfecting Fluid</head>
+                <p>1/- Pint Bottles</p>
+                <p>COLORLESS, FRAGRANT, NON-POISONOUS.</p>
+                <p>GERMICIDE &amp; OXIDANT</p>
+                <p>INDISPENSABLE IN ALL SICK ROOMS.</p>
+                <p>Also 1/- Tins Powder and 1/8 Boxes Soap.</p>
+                <p>OF ALL CHEMISTS AND STOREKEEPERS.</p>
+                <p>THE “SANITAS" CO., LTD., LIMEHOUSE, LONDON.</p>
             </div>
         </body>
     </text>

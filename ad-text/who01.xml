@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
-?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -21,21 +20,22 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title>Yost advertisement</title>
+                    <title>WINDSOR HOTEL advertisement</title>
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
         <body>
-            <div type="article" scope="advertisement" xml:id="deg-ad-yos03">
-                <p>Arabic and Oriental Types Supplied</p>
-                <p>YOST.</p>
-                <p>The typewriter par excellence.</p>
-                <p>Illustrated Catalogue on application.</p>
-                <p>Machines on trial from:-</p>
-                <p>Sole Agents: Messrs. Thomas Hinshelwood &amp; Co., </p>
-                <p>Alexandria and Cairo.</p>
+            <div type="item" scope="advertisement" xml:id="deg-ad-who01">
+                <p>Instrument Concerts</p>
+                <p>Every Night</p>
+                <p>On the Verandah of the</p>
+                <p>WINDSOR, HOTEL</p>
+                <p>Alexandria</p>
+                <p>From 6 to 12 p.m.</p>
+                <p>5 O'clock Tea Served on Verandah.</p>
+                <p><measure type="indexNo">13-11-906</measure></p>
             </div>
         </body>
     </text>

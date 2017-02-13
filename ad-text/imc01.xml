@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
-?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -21,21 +20,24 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title>Yost advertisement</title>
+                    <title>Irish 4-fold Manufactured Collars advertisement</title>
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
         <body>
-            <div type="article" scope="advertisement" xml:id="deg-ad-yos03">
-                <p>Arabic and Oriental Types Supplied</p>
-                <p>YOST.</p>
-                <p>The typewriter par excellence.</p>
-                <p>Illustrated Catalogue on application.</p>
-                <p>Machines on trial from:-</p>
-                <p>Sole Agents: Messrs. Thomas Hinshelwood &amp; Co., </p>
-                <p>Alexandria and Cairo.</p>
+            <div type="item" scope="advertisement" xml:id="deg-ad-imc01">
+                <p>IRISH 4-fold Manufactured Collars,</p>
+                <p>2/3 the 1/2 doz. 4/6 per doz.</p>
+                <p>WHITE BUSINESS SHIRTS. 3/6 each.</p>
+                <p>,, DRESS SHIRTS, 4/3 „</p>
+                <p>Splendid quality. Best 4-fold. Write for Illustrated Booklet, post free. Terms :
+                    Cash with orders. Postage abroad, 9d. extra. </p>
+                <p>Gents' Suits &amp; Raincoats. Latest Style, from 27/6. </p>
+                <p>Write for Patterns and easy Self Measurement Forms </p>
+                <p>CRABTREE &amp; Co.,</p>
+                <p>124 Raikes Road, BLACKPOOL, ENGLAND.</p>
             </div>
         </body>
     </text>

@@ -7,7 +7,7 @@
             <titleStmt>
                 <title level="m" type="main">Egyptian Gazette</title>
                 <title level="m" type="sub">An encoded transcription</title>
-                <editor>Will Hanley</editor>
+                <editor>Samantha Lappin</editor>
                 <principal>Will Hanley</principal>
             </titleStmt>
             <editionStmt>
@@ -21,21 +21,28 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title>Yost advertisement</title>
+                    <title>McLaren's Steam Ploughs advertisement</title>
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
         <body>
-            <div type="article" scope="advertisement" xml:id="deg-ad-yos03">
-                <p>Arabic and Oriental Types Supplied</p>
-                <p>YOST.</p>
-                <p>The typewriter par excellence.</p>
-                <p>Illustrated Catalogue on application.</p>
-                <p>Machines on trial from:-</p>
-                <p>Sole Agents: Messrs. Thomas Hinshelwood &amp; Co., </p>
-                <p>Alexandria and Cairo.</p>
+            <div type="item" scope="advertisement" xml:id="deg-ad-msp01">
+                <head>MCLAREN'S STEAM PLOUGHS</head>
+                <p>SUITABLE FOR EVERY DESCRIPTION OF SOIL AND CROP.</p>
+                <p>ESTABLISHED 1876,</p>
+                <p>IMPROVED COMPOUND ENGINES.</p>
+                <p>Balance Ploughs</p>
+                <p>Turning CULTIVATORS.</p>
+                <p>Harrows.</p>
+                <p>Water Carts.</p>
+                <p>STEEL ROPES of very best quality</p>
+                <p>CATALOGUES POST FREE ON APPLICATION TO J. &amp; H. McLAREN, MIDLAND ENGINE
+                    WORKS</p>
+                <p>Codes used: A.B.C. 4th and 5th editions, LIEBERS. Cable Address "McLAREN
+                    LEEDS."</p>
+                <p>LEEDS. ENGLAND.</p>
             </div>
         </body>
     </text>

@@ -21,21 +21,28 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title>Yost advertisement</title>
+                    <title>The Standard Life Assurance Company advertisement</title>
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
         <body>
-            <div type="article" scope="advertisement" xml:id="deg-ad-yos03">
-                <p>Arabic and Oriental Types Supplied</p>
-                <p>YOST.</p>
-                <p>The typewriter par excellence.</p>
-                <p>Illustrated Catalogue on application.</p>
-                <p>Machines on trial from:-</p>
-                <p>Sole Agents: Messrs. Thomas Hinshelwood &amp; Co., </p>
-                <p>Alexandria and Cairo.</p>
+            <div type="item" scope="advertisement" xml:id="deg-ad-sla02">
+                <head>The Standard Life Assurance Company.</head>
+                <p>Established 1825.</p>
+                <p>Head Office: 3, George Street, Edinburgh</p>
+                <p>Accumulated Funds £11,300,000</p>
+                <p>Annual Revenue £1,450,000</p>
+                <p>Claims Piad £24,375,000</p>
+                <p>Local Board for Egypt:</p>
+                <p>S. R. Cookson, Esq., Manager, Anglo-Egyptian Bank, Limited, Cairo.</p>
+                <p>E. A. Harrison, Esq., General Manager, Messrs. Thomas Cook &amp; Son, (Egypt)
+                    Ltd. [<measure type="indexNo"/>14-11-906</p>
+                <p>Head Office for Egypt: Standard Buildings, Cairo.</p>
+                <p>Baber, Mizrahi &amp; Co, Chief Agents for Alexandria.</p>
+                <p>Daira Prince Ahmed Seif el-Din Bey, Mohamed Aly Square</p>
+                <p>A. V. Thomson, Secretary for Egypt.</p>
             </div>
         </body>
     </text>

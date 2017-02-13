@@ -7,7 +7,7 @@
             <titleStmt>
                 <title level="m" type="main">Egyptian Gazette</title>
                 <title level="m" type="sub">An encoded transcription</title>
-                <editor>Will Hanley</editor>
+                <editor>Samantha Lappin</editor>
                 <principal>Will Hanley</principal>
             </titleStmt>
             <editionStmt>
@@ -21,21 +21,25 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title>Yost advertisement</title>
+                    <title>English Made Petroleum Engines advertisement</title>
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
         <body>
-            <div type="article" scope="advertisement" xml:id="deg-ad-yos03">
-                <p>Arabic and Oriental Types Supplied</p>
-                <p>YOST.</p>
-                <p>The typewriter par excellence.</p>
-                <p>Illustrated Catalogue on application.</p>
-                <p>Machines on trial from:-</p>
-                <p>Sole Agents: Messrs. Thomas Hinshelwood &amp; Co., </p>
-                <p>Alexandria and Cairo.</p>
+            <div type="item" scope="advertisement" xml:id="deg-ad-emp01">
+                <head>English Made Petroleum Englines</head>
+                <p>for Pumping Water</p>
+                <p>Irrigation</p>
+                <p>Electric Lighting</p>
+                <p>Working Mills</p>
+                <p>and</p>
+                <p>Driving Machinery</p>
+                <p>Thoroughly Reliable.</p>
+                <p>Easy to Manage.</p>
+                <p>Simple and Durable</p>
+                <p>J. &amp; F. Howard, Bedford, England.</p>
             </div>
         </body>
     </text>
