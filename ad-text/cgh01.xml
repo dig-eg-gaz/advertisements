@@ -21,21 +21,20 @@
           </publicationStmt>
           <sourceDesc>
               <bibl>
-                  <title>BECK &amp; CO’S PILSENER BEER advertisement</title>
+                  <title>Cairo Grand Hammam advertisement</title>
               </bibl>
           </sourceDesc>
       </fileDesc>
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement"  xml:id="deg-ad-bcp02">
-              <p>BECK &amp; CO’S PILSENER BEER</p>
-              <p>BREMEN.</p>
-              <p>FEARS NO HONEST COMPETITION FOR QUALITY.</p>
-              <p>N.B. -- Inferior Brands now being offered to Managers of certain good circles.</p>
-              <p>Beware of evilly disposed competitors running down this very Superior Brand of
-                    Beer</p>
-              <p>xxxxx-xx-x xx</p>
+          <div type="item" scope="advertisement"  xml:id="deg-ad-cgh01">
+              <head>CAIRO GRAND HAMMAM.</head> 
+              <p>Near Shepheard’s Continental Hotels.</p>
+              <p>Turkish Baths, Plain Baths, X Rays, Electric Light Baths.</p>
+              <p>Massage &amp; Electro-Hydropathic Baths.</p>
+              <p>Medical Director, Dr. Professor Fornaric &amp; Dr. M. Resi</p>
+              <p>xxxx-xxx-xxx</p>
           </div>
       </body>
   </text>

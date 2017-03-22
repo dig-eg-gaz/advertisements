@@ -21,21 +21,21 @@
           </publicationStmt>
           <sourceDesc>
               <bibl>
-                  <title>BECK &amp; CO’S PILSENER BEER advertisement</title>
+                  <title>Joseph Comas advertisement</title>
               </bibl>
           </sourceDesc>
       </fileDesc>
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement"  xml:id="deg-ad-bcp02">
-              <p>BECK &amp; CO’S PILSENER BEER</p>
-              <p>BREMEN.</p>
-              <p>FEARS NO HONEST COMPETITION FOR QUALITY.</p>
-              <p>N.B. -- Inferior Brands now being offered to Managers of certain good circles.</p>
-              <p>Beware of evilly disposed competitors running down this very Superior Brand of
-                    Beer</p>
-              <p>xxxxx-xx-x xx</p>
+          <div type="item" scope="advertisement" xml:id="deg-ad-jco01">
+              <head>JOSEPH COMAS, TECHNICAL ENGINEER.</head>
+              <p>Surveyor and Contractor in shipping. Takes<lb/>
+              charge of Engines and Boilers. Undertakes<lb/>
+              repairs of same, guaranteeing success. First<lb/>
+              class references. Address: Rue el Warsha,<lb/>
+              Maison Gabriel, ALEXANDRIA</p>
+              <p><measure type="indexNo">26685-12A-6</measure></p>
           </div>
       </body>
   </text>
