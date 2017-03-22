@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-ell03">
+          <div type="advert" xml:id="deg-ad-ell03">
                <table rows="3" cols="6">
                   <row>
                       <cell cols="3">Ellermans CITY LINE.</cell>

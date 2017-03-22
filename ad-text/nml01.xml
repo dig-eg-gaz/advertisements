@@ -29,7 +29,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-nml01">
+          <div type="advert" xml:id="deg-ad-nml01">
               <head>THE NATIONAL MUTUAL LIFE ASSOCIATION OF AUSTRALASIA, LIMITED.</head>
               <p>ILLUSTRATION OF ENDOWMENT ASSURANCE LIFE POLICY.</p>
               <p>With Profits Distributed every 3 Years.</p>

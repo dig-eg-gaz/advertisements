@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement"  xml:id="deg-ad-bla01">
+          <div type="advert"  xml:id="deg-ad-bla01">
               <head>Beetham's "Larola"</head>
               <p>Prevents the attack of mosquitoes.</p>
               <p>Will entirely Remove all ROUGHNESS, REDNESS, HEAT, IRRITATION, &amp;c., in a very

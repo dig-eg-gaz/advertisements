@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-cah01">
+          <div type="advert" xml:id="deg-ad-cah01">
               <head>CARLTON HOTEL</head>
               <p>Bulkeley, Ramleh.</p>
               <p>Ten minutes from Alexandria. First-Class in every respect Very moderate charges.

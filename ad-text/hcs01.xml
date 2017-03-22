@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-hcs01">
+          <div type="advert" xml:id="deg-ad-hcs01">
               <p>HOTEL-CASINO SAN STEFANO IS NOW OPEN</p>
               <p>26045-80-9-5</p>
           </div>

@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-gac01">
+          <div type="advert" xml:id="deg-ad-gac01">
               <head>GUARDIAN ASSURANCE COMPANY, LIMITED,</head>
               <p>OF LONDON</p>
               <p>Established 1821.</p>

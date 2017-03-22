@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="deg-ad-nea01">
+            <div type="advert" xml:id="deg-ad-nea01">
                 <p>Three-quarters of a Century's established Reputation</p>
                 <p>Neave's Food</p>
                 <p>for Infants, Invalids, and the Aged</p>

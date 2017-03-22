@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="say01">
+            <div type="advert" xml:id="say01">
                 <head>SAYERS'</head>
                 <p>Celbrated Cognac Brandies</p>
                 <p>all guaranteed "Pure Grape"</p>

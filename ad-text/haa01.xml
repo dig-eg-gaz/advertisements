@@ -27,7 +27,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="deg-ad-haa01">
+            <div type="advert" xml:id="deg-ad-haa01">
                 <head>Hamburg &amp; Anglo-American Nile Company.</head>
                 <p>River Transport of Goods between Alexandria and Cairo.</p>
                 <p>Three Sailings a-week.</p>

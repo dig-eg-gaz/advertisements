@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-nll01">
+          <div type="advert" xml:id="deg-ad-nll01">
               <head>NORDDEUTSCHER LLOYD</head>
               <p>BREMEN.</p>
               <p>EXPRESS MAIL STEAMERS<lb/> FROM<lb/> ALEXANDRIA, PORT SAID, AND SUEZ,<lb/>

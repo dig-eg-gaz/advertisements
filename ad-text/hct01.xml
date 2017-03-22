@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="deg-ad-hct01">
+            <div type="advert" xml:id="deg-ad-hct01">
                     <head>HIGH-CLASS TOOLS</head>
                     <p>For Miners, Contractors, and Agriculturists.</p>
                     <p>The “UNIVERSAL” PICKS.</p>

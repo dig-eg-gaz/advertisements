@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-fre01">
+          <div type="advert" xml:id="deg-ad-fre01">
               <p>Clean Walls and White Ceilings<lb/>are always possible at a minimum cost provided you use</p>
               <p>FRESKEL (REGD.)</p>
               <p>The Great Sanitary Water Paint.</p>

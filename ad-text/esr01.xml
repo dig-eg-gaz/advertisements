@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="deg-ad-esr01">
+            <div type="advert" xml:id="deg-ad-esr01">
                 <head>Egyptian State Railways.</head>
                 <table rows="4" cols="9">
                     <head>THROUGH PASSENGER SERVICES. (Daily).--OCTOBER TIME-TABLE.</head>

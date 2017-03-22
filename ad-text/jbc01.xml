@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-jbc01">
+          <div type="advert" xml:id="deg-ad-jbc01">
               <head>John B. Caffari's "Economical Stores"</head>
               <p>Cairo and Alexandria</p>
               <p>The Perfection of Quality and Value.</p>

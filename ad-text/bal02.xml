@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="deg-ad-bal02">
+            <div type="advert" xml:id="deg-ad-bal02">
                 <head>BANK OF ATHENS, LIMITED.</head>
                 <p>Head Office : Athens — Capital 20,000.000 (Fully paid up). — Reserve
                     1,000,000.</p>

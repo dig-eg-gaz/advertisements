@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-pdd01">
+          <div type="advert" xml:id="deg-ad-pdd01">
               <p>Les personnes qui connaissent les</p>
               <p>Pilules du Docteur DEHAUT de Paris</p>
               <p>n'hésitent pas à se purger, quand elles en ont besoin. Elles ne craignent ni le

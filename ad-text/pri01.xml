@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-pri01">
+          <div type="advert" xml:id="deg-ad-pri01">
               <head>Prince Line.</head>
               <table rend="frame" xml:id="Table1">
                   <row>

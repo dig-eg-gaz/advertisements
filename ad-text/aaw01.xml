@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-aaw01">
+          <div type="advert" xml:id="deg-ad-aaw01">
               <head>ARISTON AERATED WATERS</head>
               <p> Guaranteed Distilled.</p>
               <p> ALEXANDRIA: 7 Rue de la Poste.</p>

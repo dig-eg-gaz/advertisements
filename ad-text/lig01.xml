@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-lig01" xml:lang="fr">
+          <div type="advert" xml:id="deg-ad-lig01" xml:lang="fr">
               <head>Liniment Géneau</head>
               <p>50 ans de Succès</p>
               <p>Plus de Feu</p>

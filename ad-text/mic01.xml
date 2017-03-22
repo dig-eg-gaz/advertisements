@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-mic01">
+          <div type="advert" xml:id="deg-ad-mic01">
               <head>MARINE INSURANCE COMPANY, LIMITED.</head>
               <p>Established 1836. Capital £1,000,000. Reserve Fund £650,000.</p>
               <p>THE IMPERIAL FIRE OFFICE united with THE ALLIANCE ASSURANCE, Co., Ltd.</p>

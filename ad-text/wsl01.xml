@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="deg-ad-wsl01">
+            <div type="advert" xml:id="deg-ad-wsl01">
                 <head>WHITE STAR LINE.</head>
                 <p>NEW YORK AND BOSTON MEDITERRANEAN SERVICE.</p>
                 <p>Regular Sailings between Alexandria , Naples, and Boston or New York, U.S.A. By

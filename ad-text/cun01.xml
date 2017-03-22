@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="deg-ad-cun01">
+            <div type="advert" xml:id="deg-ad-cun01">
                 <head>Cunard Line.</head>
                 <table rows="4" cols="6">
                     <head>Alexandria to New-York and Boston via the Continent and Liverpool</head>

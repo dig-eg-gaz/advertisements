@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="deg-ad-kml01">
+            <div type="advert" xml:id="deg-ad-kml01">
                 <head>KHEDIVIAL MAIL LINE.</head>
                 <p><hi rend="bold">FAST BRITISH PASSENGER STEAMERS</hi></p>
                 <p><hi rend="bold">GREECE - TURKEY LINE.</hi></p>

@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="deg-ad-inv01">
+            <div type="advert" xml:id="deg-ad-inv01">
                 <head>“INVESTMENTS.”</head>
                 <p> “Investments” introduces, in an entirely original manner, new and important
                     methods for the employment of and the means of obtaining capital. Among the<lb/>

@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement"  xml:id="deg-ad-abw01">
+          <div type="advert"  xml:id="deg-ad-abw01">
               <head>ALEXANDRIA BONDED WAREHOUSE COMPANY, LTD.</head>
               <p>(Société des Entrepôts d'Alexandrie)</p>
               <p>Bonded Warehouses</p>

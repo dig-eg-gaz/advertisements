@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-jes01">
+          <div type="advert" xml:id="deg-ad-jes01">
               <head>Joseph Evans &amp; Sons.</head>
               <p>Culwell Works.</p>
               <p>Wolverhampton.</p>

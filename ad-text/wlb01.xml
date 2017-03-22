@@ -27,7 +27,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-wlb01">
+          <div type="advert" xml:id="deg-ad-wlb01">
               <p>Ask for</p>
               <p>Brewed at Wrexham England</p>
               <p>Wrexham Lager Beer Co. Pilsener</p>

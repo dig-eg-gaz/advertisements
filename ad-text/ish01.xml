@@ -27,7 +27,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="deg-ad-ish01">
+            <div type="advert" xml:id="deg-ad-ish01">
                 <head>Isherwood's Cairo Cigarettes.</head>
                 <p>The reputation which these Cigarettes have gained in the past, stands unrivalled
                     today, because it is well-known that constant care and attention is devoted to

@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="deg-ad-ela01">
+            <div type="advert" xml:id="deg-ad-ela01">
                 <head>INSURANCE.</head>
                 <p>LIFE The Edinburgh Life Assurance Company.</p>
                 <p>MARINE Union Insurance Society of Canton (Limited).</p>

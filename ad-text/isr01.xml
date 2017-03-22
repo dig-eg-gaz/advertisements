@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-isr01">
+          <div type="advert" xml:id="deg-ad-isr01">
               <head>INTERNATIONAL SLEEPING AND RESTAURANT CARS COMPANY.</head>
               <table rows="2" cols="4">
                   <row role="label">

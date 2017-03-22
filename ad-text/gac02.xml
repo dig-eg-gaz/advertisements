@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="deg-ad-gac02">
+            <div type="advert" xml:id="deg-ad-gac02">
                 <head>GUARDIAN ASSURANCE COMPANY LIMITED</head>
                 <p>of London, Established 1821.</p>
                 <p>CAPITAL PAID UP AND INVERTED ONE MILLION STERLING.</p>

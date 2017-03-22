@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="deg-ad-all01">
+            <div type="advert" xml:id="deg-ad-all01">
                 <head>ANCHOR LINE, LIMITED.</head>
                 <p>(HENDERSON BROTHERS,) LONDON, LIVERPOOL AND GLASGOW.</p>
                 <p>Booking Passengers and Cargo through to Ports in India, Europe nad America</p>

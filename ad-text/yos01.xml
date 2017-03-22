@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="deg-ad-yos01">
+            <div type="advert" xml:id="deg-ad-yos01">
                 <head>YOST</head>
                 <p>A new Model of this well-known <lb/>TYPEWRITER<lb/> is now ready. Many
                     improvements.<lb/> Has no Ribbon. Its types strike direct<lb/> from an inkpad on

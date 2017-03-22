@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement"  xml:id="deg-ad-cgh01">
+          <div type="advert"  xml:id="deg-ad-cgh01">
               <head>CAIRO GRAND HAMMAM.</head> 
               <p>Near Shepheard’s Continental Hotels.</p>
               <p>Turkish Baths, Plain Baths, X Rays, Electric Light Baths.</p>

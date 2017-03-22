@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-cst01">
+          <div type="advert" xml:id="deg-ad-cst01">
               <head>Cairo Sewage Transport Cy., Ld.</head>
               <p>Chief Office: Sharia Kasr-el-Nil, Cairo. Near the National Bank of Egypt.</p>
               <p>Engrais Naturels Complets</p>

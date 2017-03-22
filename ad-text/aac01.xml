@@ -27,7 +27,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-aac01">
+          <div type="advert" xml:id="deg-ad-aac01">
               <p>Allen, Alderson &amp; Co. Limited.</p>
               <p>SOLE AND EXCLUSIVE AGENTS FOR</p>
               <p>Messrs. RUSTON, PROCTOR &amp; CO., LIMITED, Lincoln. Fixed and Portable Steam and

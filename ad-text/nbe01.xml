@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-nbe01">
+          <div type="advert" xml:id="deg-ad-nbe01">
               <head>NATIONAL BANK OF EGYPT.</head>
               <p>CAPITAL: L. 2,500,000. RESERVE (ENVIRON) : L. 862,000.</p>
               <p>Gouverneur: Sir ELWIN PALMER, K.C.B., K.C.M.G.</p>

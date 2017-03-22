@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="rob01">
+            <div type="advert" xml:id="rob01">
                 <p>The Best Drink for Hot Countries is</p>
                 <p>BARLEY WATER.</p>
                 <p>The Best Way to make Barley Water is to use </p>

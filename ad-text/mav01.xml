@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-mav01">
+          <div type="advert" xml:id="deg-ad-mav01">
               <head>MAGASINS VICTORIA.</head>
               <p>ECCLESTONE AND KEILL ENGLISH DRAPERY.</p>
               <p>Opposite Austrian Consulate, near the Zizinia Theatre. Catalogue on

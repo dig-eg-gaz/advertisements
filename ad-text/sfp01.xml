@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-sfp01">
+          <div type="advert" xml:id="deg-ad-sfp01">
               <p>Throw Steel Nibs Away!</p>
               <p>They waste time, are costly to use, wear out, scratch, etc.</p>
               <p>Try a "Swan" Fountain Pen.</p>

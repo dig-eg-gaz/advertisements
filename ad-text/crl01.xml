@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-crl01">
+          <div type="advert" xml:id="deg-ad-crl01">
               <head>CREDIT LYONNAIS</head>
               <p>Société Anonyme</p>
               <p>Capital 250,000,000 de francs</p>

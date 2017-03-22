@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-fus01">
+          <div type="advert" xml:id="deg-ad-fus01">
               <head>Fussell's Cream</head>
               <p>The Real Thing At Last!</p>
               <p>FUSSELL'S PURE RICH CREAM</p>

@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-pss01">
+          <div type="advert" xml:id="deg-ad-pss01">
               <head>PORT SAID-SAVOY HOTEL.</head>
               <p>NEW FIRST-CLASS HOTEL, OVERLOOKING THE HARBOUR &amp; OPPOSITE CUSTOM HOUSE</p>
               <p>Open all the year round. — Well-appointed Bar.</p>

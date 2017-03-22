@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-ncs01">
+          <div type="advert" xml:id="deg-ad-ncs01">
               <head>NILE COLD STORAGE<lb/> COMPANY, LIMITED.</head>
               <p>PURVEYORS OF THE FINEST COLONIAL<lb/> MEAT, GAME, POULTRY, BUTTER, FISH, etc.,
                     etc.</p>

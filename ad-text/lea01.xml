@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-lea01">
+          <div type="advert" xml:id="deg-ad-lea01">
               <head>Lea and Perrins' Sauce.</head>
               <p>By Royal Warrant to His Majesty the King.</p>
               <p>The original and genuine Worchestershire.</p>

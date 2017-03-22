@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="deg-ad-kbs01">
+            <div type="advert" xml:id="deg-ad-kbs01">
                 <head>Draught Beer for the Home.</head>
                 <p>KÜPPER'S BEER IN SIPHONS.</p>
                 <p>5 Litre Siphon per P.T. 20.</p>

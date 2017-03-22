@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-hdi02">
+          <div type="advert" xml:id="deg-ad-hdi02">
               <head>Hall's Sanitary Washable Distemper</head>
               <p>Made in 70 Colors</p>
               <p>An artistic wall covering.</p>

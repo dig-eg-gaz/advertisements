@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="deg-ad-liv01">
+            <div type="advert" xml:id="deg-ad-liv01">
                 <head>GO TO LIVADAS. </head>
                 <p>Opposite Shepheard’s</p>
                 <p>for Books, Stationery, Newspapers, and “Egyptian Gazette” Picture Post Cards. </p>

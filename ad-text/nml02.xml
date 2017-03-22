@@ -29,7 +29,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="deg-ad-nml02">
+            <div type="advert" xml:id="deg-ad-nml02">
                 <head>THE NATIONAL MUTUAL LIFE ASSOCIATION OF AUSTRALASIA, LTD. EST. 1869.</head>
                 <p>Funds exceed £4,000,000. Annual Income exceeds £700,000.</p>
                 <p>Special privileges offered to British Naval and Military Officers serving in

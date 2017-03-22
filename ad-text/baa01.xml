@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-baa01">
+          <div type="advert" xml:id="deg-ad-baa01">
               <head>BOEHME &amp; ANDERER.</head>
               <p>NEXT DOOR TO TURF CLUB, CAIRO.</p>
               <p>GREAT STOCK OF ACCOUNT BOOKS.</p>

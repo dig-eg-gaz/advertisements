@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-sio01">
+          <div type="advert" xml:id="deg-ad-sio01">
               <head>Sun Insurance Office,</head>
               <p>LONDON. Founded 1710.-Total sum insured in 1902 £487,600,000.</p>
               <p>Agents : LEON HELLER, Cairo, and BEHREND &amp; Co., Alexandria. 16-1-906</p>

@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-cah02">
+          <div type="advert" xml:id="deg-ad-cah02">
               <head>CARLTON HOTEL</head>
               <p>Bulkeley (near Alexandria.)</p>
               <p>Ramleh's Fashionable Hotel.</p>

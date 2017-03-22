@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-spa01">
+          <div type="advert" xml:id="deg-ad-spa01">
               <head>Spathi's Grill Room.</head>
               <p>Old Bourse St., Alexandria.</p>
               <p>Greatly enlarged and improved. New Chef. Unrivalled cooking. English specially

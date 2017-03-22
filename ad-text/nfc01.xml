@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="deg-ad-nfc01">
+            <div type="advert" xml:id="deg-ad-nfc01">
                 <head>The Nile Flotilla Co., Ld.</head>
                 <p>REGULAR AND FREQUENT TRANSPORT SERVICE ON RIVER AND CANAL</p>
                 <p>CUSTOMS-CLEARING &amp; FORWARDIG.</p>

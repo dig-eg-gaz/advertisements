@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-jco01">
+          <div type="advert" xml:id="deg-ad-jco01">
               <head>JOSEPH COMAS, TECHNICAL ENGINEER.</head>
               <p>Surveyor and Contractor in shipping. Takes<lb/>
               charge of Engines and Boilers. Undertakes<lb/>

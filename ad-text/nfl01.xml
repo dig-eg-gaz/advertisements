@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-nfl01">
+          <div type="advert" xml:id="deg-ad-nfl01">
               <head>NORTHERN FIRE AND LIFE ASSURANCE Coy.</head>
               <p>The undersigned agents are authorised to issue policies on behalf of the above
                     Company at moderate rates.</p>

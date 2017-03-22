@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="deg-ad-dob01">
+            <div type="advert" xml:id="deg-ad-dob01">
                 <head>DEUTSCHE ORIENTBANK, A.G.</head>
                 <p>Capital: M. 16,000,000. Head Office, Berlin: Branches: Hamburg, Alexandria (25
                     Cherif Pasha Street), Cairo (Midan Suarès), Constantinople, Brusa.</p>

@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="deg-ad-iob01">
+            <div type="advert" xml:id="deg-ad-iob01">
                 <head>IMPERIAL OTTOMAN BANK.</head>
                 <p>Established 1863.</p>
                 <p>CONSTANTINOPLE LONDON, PARIS, ALEXANDRIA CAIRO, PORT SAID CYPRUS and in all the

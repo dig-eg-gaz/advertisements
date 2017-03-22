@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="deg-ad-cun02">
+            <div type="advert" xml:id="deg-ad-cun02">
                 <head>Cunard Line.</head>
                 <p><measure type="indexNo">19-1-907</measure></p>
                 <p>Frequent sailings of cargo steamers from Alexandria to Liverpool. Through Bills

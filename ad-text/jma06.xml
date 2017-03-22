@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-jma06">
+          <div type="advert" xml:id="deg-ad-jma06">
               <p>Medical Invoice Forms in Various Styles</p>
               <p>J. Margosches</p>
               <p>Engraver &amp; Printer</p>

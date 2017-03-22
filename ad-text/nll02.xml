@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-nll02">
+          <div type="advert" xml:id="deg-ad-nll02">
               <head>NORDDEUTSCHER LLOYD.</head>
               <p>Regular Service from ALEXANDRIA (Passenger and Freight) to NAPLES-MARSEILLES.</p>
               <p><name>SCHLESWIG</name> will leave ALEXANDRIA at 4 p.m. July 26, August 30, September 20, etc.</p>

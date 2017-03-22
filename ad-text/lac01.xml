@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="deg-ad-lac01">
+            <div type="advert" xml:id="deg-ad-lac01">
                 <head>LONDON ASSURANCE CORPORATION.</head>
                 <p>072 Established 1720. - Agents: BANK OF EGYPT, Limited <measure type="indexNo"
                         >189103</measure></p>

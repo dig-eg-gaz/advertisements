@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-jma04">
+          <div type="advert" xml:id="deg-ad-jma04">
               <p>Numbering Machines and Dating Stamps</p>
               <p>J. Margosches</p>
               <p>Cairo Bulac Road</p>

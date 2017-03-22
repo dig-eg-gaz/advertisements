@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-rsn01">
+          <div type="advert" xml:id="deg-ad-rsn01">
               <head>Russian Stream Navigation &amp; Commercial Company.</head>
               <p>Postal Service Accelerated</p>
               <p>between Alexandria, Piraeus, Smyrna, Constantinople, and Odessa by the following

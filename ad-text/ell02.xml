@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-ell02">
+          <div type="advert" xml:id="deg-ad-ell02">
               <head>The Ellerman Lines, Limited.</head>
               <head type="sub">(Including Westcott &amp; Laurance Line.)</head>
               <p>Regular sailings from Liverpool, Glasgow, Antwerp and London to Alexandria.

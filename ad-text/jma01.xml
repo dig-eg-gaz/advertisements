@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-jma01">
+          <div type="advert" xml:id="deg-ad-jma01">
               <p>Note Paper with Stamped (Raised) Address, &amp; c.</p>
               <p>J. Margosches</p>
               <p>Brass Plate Engraver<lb/> General Sign Writer<lb/> and Letter Manufacturer</p>

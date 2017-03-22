@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="deg-ad-smw01">
+            <div type="advert" xml:id="deg-ad-smw01">
                 <p>What is Whisky ?</p>
                 <p>“Sandy Macdonald” 10 YEARS OLD</p>
                 <p>IS THE Finest Matured Malt WHISKY.</p>

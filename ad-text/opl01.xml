@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="deg-ad-opl01">
+            <div type="advert" xml:id="deg-ad-opl01">
                 <head>Orient-Pacific Line of Royal Mail Steamers.</head>
                 <p>REDUCED SUMMER FARES FROM MAY TO OCTOBER INCLUSIVE.</p>
                 <p>OUTWARDS to AUSTRALIA.</p>

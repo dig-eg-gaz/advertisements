@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="deg-ad-bct01">
+            <div type="advert" xml:id="deg-ad-bct01">
                 <head>British Commercial Travellers</head>
                 <p>Visiting Cairo should arrange with</p>
                 <p>“ THE COMMERCIAL BUREAU ”</p>

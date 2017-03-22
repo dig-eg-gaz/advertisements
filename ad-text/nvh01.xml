@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="nvh01">
+            <div type="advert" xml:id="nvh01">
                 <head>NEW VICTORIA HOTEL,</head>
                 <p>Open all the year round.</p>
                 <p>San Stefano, Near Alexandria, Halt No. 2.</p>

@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="deg-ad-deb01">
+            <div type="advert" xml:id="deg-ad-deb01">
                 <head>DEUTSCHE BANK,</head>
                 <p>BERLIN, W.</p>
                 <p>CAPITAL...... . M200,000,000 — RESERVE..M97,000,000</p>

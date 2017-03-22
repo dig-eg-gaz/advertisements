@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-ghc01">
+          <div type="advert" xml:id="deg-ad-ghc01">
               <head>GELLATLY, HANKEY &amp; CO.</head>
               <p>SHIPOWNERS OF LONDON.</p>
               <p>Branches at Port Sudan, Suakin &amp; Jeddah</p>

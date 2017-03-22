@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-dlc01">
+          <div type="advert" xml:id="deg-ad-dlc01">
               <head>D C L Scotch Whisky</head>
               <p>Sole Agents for Egypt &amp; Sudan</p>
               <p>G. G Drossos &amp; Co.</p>

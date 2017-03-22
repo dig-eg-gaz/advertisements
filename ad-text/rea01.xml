@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-rea01">
+          <div type="advert" xml:id="deg-ad-rea01">
               <head>ROYAL EXCHANGE ASSURANCE.</head>
               <p>Incorporated A. D. 1720.</p>
               <p>Chief Office: ROYAL EXCHANGE, LONDON, E.C.</p>

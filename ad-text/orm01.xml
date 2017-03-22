@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-orm01">
+          <div type="advert" xml:id="deg-ad-orm01">
               <head>Orient-Royal Mail Line.</head>
               <p>REDUCED SUMMER FARES FROM MAY TO OCTOBER INCLUSIVE.</p>
               <p>OUTWARD to AUSTRALIA.</p>

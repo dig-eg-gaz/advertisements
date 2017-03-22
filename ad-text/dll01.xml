@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="deg-ad-dll01">
+            <div type="advert" xml:id="deg-ad-dll01">
                 <head>Deutsche Levante-Linie.</head>
                 <p>Mail and Passenger Steamships. Regular three-weekly Service from HAMBURG,
                     via ANTWERP &amp; MALTA, to ALEXANDRIA and vice-versa, admitting goods from

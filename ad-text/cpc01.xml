@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-cpc01">
+          <div type="advert" xml:id="deg-ad-cpc01">
               <head>THE CROWN PRESERVED COAL CO. Ld</head>
               <p>Works and Shipping Ports:</p>
               <p>Liverpool, 1886. Jamaicao, 1891. Chicago, 1893. Highest Award.</p>

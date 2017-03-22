@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-thc01">
+          <div type="advert" xml:id="deg-ad-thc01">
               <head>Thorne's High Class Whisky</head>
               <p>Estd 1831</p>
               <p>R. Thorne &amp; Sons, Ltd. Distillers</p>

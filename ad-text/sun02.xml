@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-sun02">
+          <div type="advert" xml:id="deg-ad-sun02">
               <head>Sunlight</head>
               <p>WORK WELL DONE . . GIVES TIME FOR PLAY.</p>
               <p>Hard work is not easy unless you use Sunlight Soap.</p>

@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-tas01">
+          <div type="advert" xml:id="deg-ad-tas01">
               <head>T. A. Spartali &amp; Co.</head>
               <p>Large Assortment of Old and New Carpets, all made by hand.</p>
               <p>Purveyors to all large Carpet Importers in Europe and America.</p>

@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-mma01">
+          <div type="advert" xml:id="deg-ad-mma01">
               <head>Messageries Maritimes.</head>
               <p>From Alexandria</p>
               <table rows="12" cols="6">

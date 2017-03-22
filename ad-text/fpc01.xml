@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="deg-ad-fpc01">
+            <div type="advert" xml:id="deg-ad-fpc01">
                 <p>MILITARY TAILORS.</p>
                 <p>EGYPTIAN ARMY OUTFITS A SPECIALITY.</p>
                 <p>RIDING BREECHES.</p>

@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-hbc01">
+          <div type="advert" xml:id="deg-ad-hbc01">
               <head>HOTEL BRISTOL. CAIRO.</head>
               <p>Full South, Electric Light, opposite Esbekieh Gardens, Large Verandahs, Moderate
                     Charges,</p>

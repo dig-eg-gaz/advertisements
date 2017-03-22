@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-map01">
+          <div type="advert" xml:id="deg-ad-map01">
               <head>Maple &amp; Co.</head>
               <p>The Largest, and Most Convenient Furnishing Establishment in the World HUNDREDS
                     of THOUSANDS of POUNDS WORTH OF HIGH-CLASS FURNITURE, BEDSTEADS, BEDDING,

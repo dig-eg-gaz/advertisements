@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-pel01">
+          <div type="advert" xml:id="deg-ad-pel01">
               <head>The Old Established and Favorite "PELICAN” BRAND.</head>
               <p>Established 1856.</p>
               <p>GUINNESS’S Foreign Extra STOUT.</p>

@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-epm01">
+          <div type="advert" xml:id="deg-ad-epm01">
               <head>An Important Firm of English Penmakers</head>
               <p>with established Egyp-<lb/>tian trade, desires to<lb/> arrange with a first<lb/>
                     class firm of Wholesale<lb/> Stationers for the sole sale<lb/> of their goods in

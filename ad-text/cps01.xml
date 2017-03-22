@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="cps01">
+            <div type="advert" xml:id="cps01">
                 <head>Cairo Photographic Stores</head>
                 <head>O. DIRADOUR</head>
                 <p>PLACE DEL'OPERA</p>

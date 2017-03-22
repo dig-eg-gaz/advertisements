@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-sun03">
+          <div type="advert" xml:id="deg-ad-sun03">
               <head>Sunlight</head>
               <p>Clothes will last longer if SUNLIGHT SOAP is used.</p>
               <p>Makes Linen Whiter and Coloured things Brighter.</p>

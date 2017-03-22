@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="deg-ad-phc01">
+            <div type="advert" xml:id="deg-ad-phc01">
                 <head>P. HENDERSON &amp; CO’s LINE.</head>
                 <p>Steamers leave SUEZ and PORT SAID fortnightly for LONDON or LIVERPOOL direct.</p>
                 <p>(Electric Light.) SALOON (Amidships) FARE £12. (Latest improvements.)</p>

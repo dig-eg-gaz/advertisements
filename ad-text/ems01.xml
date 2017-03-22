@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="deg-ad-ems01" xml:lang="fr">
+            <div type="advert" xml:id="deg-ad-ems01" xml:lang="fr">
                 <head>DES ENFANTS, LE DÉLICE!</head>
                 <p>C'est l'Emulsion Scott, si douce au palais que les bébés la prennent par
                     gourmandise et si légère à l'estomac qu'ils la digèrent sans difficulté! Et quel

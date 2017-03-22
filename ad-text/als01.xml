@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="deg-ad-als01">
+            <div type="advert" xml:id="deg-ad-als01">
                 <head>Austrian Lloyd’s Steam Navigation</head>
                 <p>Alexandria-Brindisi-Venice-Trieste.</p>
                 <p>Weekly Express Mail Service. Steamers leave Alexandria every Saturday at 4 p.m.
