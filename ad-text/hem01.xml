@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2017-04-11">April 11, 2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Hemagene Tailleur advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-hem01" xml:lang="fr">
+                <head>HEMAGENE TAILLEUR</head>
+                <p>AUX FEMMES SOUFFRANTES</p>
+                <p>PLUS DE DOULEURES, RETOUR DES EPOQUES, FONCTIONS REGULARISEES</p>
+                <p>par l'HEMAGENE TAILLEUR</p>
+                <p>Nouveau médicament sous form de dragée, adopté par les Hôpitaux de Paris.</p>
+                <p>Prix du grand flacon 4,50 Frs.</p>
+                <p>,, petit ,, 2,25 ,,</p>
+                <p>Se trouve dans toutes les pharmacies.
+                </p><p>Depot Principal pour l'Egypt S FISCHER, Alexandrie</p>
+            </div>
+        </body>
+    </text>
+</TEI>
