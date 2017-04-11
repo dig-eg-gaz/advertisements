@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2017-04-11">April 11, 2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>E. R. &amp; F. Turner Ltd. advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-erf01">
+                <head>E. R. &amp; F. TURNER LTD.</head>
+                <p>STEAM ENGINES</p>
+                <p>Horizontal Portable Semi Portable</p>
+                <p>Combined Engines &amp; Boilers</p>
+                <p>VERTICAL BOILERS</p>
+                <p>Egyptian House: The Egyptian Engineering Co. Lt.</p>
+                <p>Maison Spiro, Chareh Kasr-el-Nil, Cairo.</p>
+                <p>Telephone 1542. Cables: Anglogypt, Cairo.</p>
+                <p><measure>27331-1</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2017-04-11">April 11, 2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Milner's Safes advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-mil02">
+                <head>Milner's Safe Co., Ltd.</head>
+                <p>LARGEST MANUFACTURERS IN THE WORLD OF SAFES</p>
+                <p>Strong Room Doors, Strong Rooms, Safe Deposits, Bankers' Security Work, Steel
+                    Office Furniture, Party Wall Doors, Cash, Deed &amp; Paper Boes, Locks, etc.</p>
+                <p>Full Particulars, Drawings, and Estimates Free on application to</p>
+                <p>Mr. C. Palmer, Milners' Representative, Resident at</p>
+                <p>G. Marcus &amp; Co.</p>
+                <p>Sole Agents for Egypt and the Soudan.</p>
+                <p><measure>17-11-906</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>
