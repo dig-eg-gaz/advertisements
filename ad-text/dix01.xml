@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2017-04-11">April 11, 2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Dixon Bros. advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-dix01">
+                <head>DIXON BROS. &amp; HUTCHINSON, Ltd.</head>
+                <p>MOTOR BOATS &amp; PETROL MOTORS.</p>
+                <p>Special Designs for Nile, Canals, Business, and Pleasure Boats</p>
+                <p>Works: SOUTHAMPTON</p>
+                <p>Sole Agent for Egypt and the Sudan: James Carrall Wilcocks</p>
+                <p><measure>29021-31-5-907</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>
