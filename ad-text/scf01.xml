@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2017-04-11">April 11, 2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Supplement Commercial et Financier advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:lang="fr" xml:id="deg-ad-scf01">
+                <head>Supplement Commercial et Financier.</head>
+                <p>De "L'Egyptian Gazette"</p>
+                <p>Le Supplément Commercial et Financier de l' "Egyptian Gazette" paraît chaque
+                    Samed à midi, de façon à pouvoir être expédié par le paquebot autrichien. Il
+                    contient des revues complètes et impartiales du coton, des graines de coton, et
+                    du marché des valeurs; les dernières statistiques jusqu'à la veille de sa
+                    publication: des tableaux des fluctuations de la place et les copies des
+                    dépêches officielles envoyées à la Liverpool Cotton Association, etc etc</p>
+                <p>L'abonnement pour une année en Egypte coûte 1 L.E. y compris les frais de poste;
+                    pour l'étranger 10 P.T. de port en sus.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

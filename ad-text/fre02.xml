@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2017-04-11">April 11, 2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Freskel advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-fre02">
+                <head>FRESKEL.</head>
+                <p>WHAT IT IS</p>
+                <p>FRESKEL is a dry powdered preparation for Wall and Ceiling Decoration, made ready
+                    for use with the addition of water.</p>
+                <p>It is easily prepared and applied.</p>
+                <p>WHAT IT DOES</p>
+                <p>FRESKEL, covers well, and works easy Does not crack, peel, or show brush marks.
+                    Does not rub off.</p>
+                <p>ECONOMICAL - EFFECTIVE.</p>
+                <p>Shade Cards and Circulars on application to the manufacturers:</p>
+                <p>THOS. HINSHELWOOD &amp; CO., LIMITED. ALEXANDRIA.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
