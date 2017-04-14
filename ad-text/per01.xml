@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2017-04-13">April 13, 2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Peruna advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-per01">
+                <head>Neglected Colds cause Consumption.</head>
+                <head>THE WHITE SCOURGE</head>
+                <p> MRS. ADDIE HARDING. MRS. MARY MEYER. MRS. FRANCES WILSON. </p>
+                <p>PROBABLY every case of consumption begins with a cold. </p>
+                <p>Consumption is generally classed as a hereditary disease, but consumption is not
+                    hereditary. </p>
+                <p>A constitutional weakness is inherited which renders one liable to consumption. </p>
+                <p>Even people who have strong lungs may acquire consumption from a cold. </p>
+                <p>Mrs. Addie Harding, 121 W, Brighton Ave., Syracuse, N. Y., writes: </p>
+                <p>“I have been a user of Peruna for the last twelve years and can truthfully say
+                    that there is no better medicine on earth. </p>
+                <p>“A SURE PREVENTATIVE." </p>
+                <p>“With me it is a sure preventative for colds and many other ills. In my home can
+                    always be found a bottle of Peruna. Two or three times a year I am troubled with
+                    my throat. </p>
+                <p>"I always had to have the services of my physician two or three times in each
+                    case. </p>
+                <p>"Although a user of Peruna, I never thought of taking it for my throat until
+                    about two years ago.</p>
+                <p> "I tried Peruna to check it, and to my great delight I was not troubled with the
+                    smothered and choked feeling and never have since. </p>
+                <p>"I can check it every time with Peruna. </p>
+                <p>"I certainly would not be without Peruna one minute." </p>
+                <p>Mrs. Mary Meyer, Thomson avenue, near Shell Road, Winfield, L. L, N. Y., writes: </p>
+                <p>"I have been annoyed with a cough for years. </p>
+                <p>"Often it was so bad that I could not sleep half the night. Many people thought I
+                    had consumption.</p>
+                <p>CONSUMPTION WAS FEARED.</p>
+                <p>"A woman recommended Peruna to me two years ago. I began to take Peruna and now I
+                    am perfectly free from a cough, </p>
+                <p>"I am glad to say that Peruna cured me entirely, I take Peruna occasionally when
+                    I do not feel well and I also give it to my children. </p>
+                <p>“Peruna is the best medicine for coughs and colds. I have told many people how
+                    much Peruna has helped me.” </p>
+                <p>A neglected cold is a well-worn path to consumption. </p>
+                <p>Many a person catches cold and pays no attention to it. </p>
+                <p>He scarcely recovers from the first cold when he takes the second.</p>
+                <p>Still he gives it no heed, and possibly takes another cold, and so on. </p>
+                <p>He doses himself with bromides, quinine and various expectorants. </p>
+                <p>His case is catarrh, at this stage, and his case should be treated as catarrh. </p>
+                <p>A common cold is acute catarrh. </p>
+                <p>Finally, if the cold is allowed to continue, it becomes chronic catarrh. </p>
+                <p>Mrs, Frances Wilson, 82 Nelson street, Clinton, Mass., writes: </p>
+                <p>“Had you seen me at the time of my illness and now, you would not wonder that 1
+                    take delight in sounding the praises of Peruna. </p>
+                <p>“My ailment was a severe cold which attacked the bronchial tubes and lungs. </p>
+                <p>“I followed your special directions and after using six bottles of Peruna I was
+                    on my feet again.</p>
+                <p>“I think Peruna a wonderful medicine." </p>
+                <p>All colds, coughs, bronchitis, laryngtis and tonsilitis should be treated as
+                    catarrh, as they are in reality catarrh. </p>
+                <p>The success of Peruna in relieving these cases entirely depends upon the fact
+                    that Peruna is a catarrh remedy. </p>
+                <p>It relieves catarrh wherever located in the system. Whether in the throat,
+                    bronchial tubes or lungs. </p>
+                <p>CONSUMPTION PREVENTED.</p>
+                <p>It has saved a multitude of peo-ple from consumption by eradicating catarrh
+                    before it reaches the lungs. </p>
+                <p>The tendency of catarrh of the throat or head is to spread downward to the lungs. </p>
+                <p>If taken in time, Peruna will prevent these cases. </p>
+                <p>We have in our files many testimonials from people who thought they were victims
+                    of consumption, but have been permanently relieved by the faithful use of
+                    Peruna. thus showing that catarrh was really the cause of their ailments.</p>
+                <p>For special directions everyone should read “ The Ills of Life." a copy of which
+                    surrounds each bottle. Peruna is for sale by all chemists and druggists at five
+                    shillings per bottle or six bottles for twenty-five shillings. </p>
+                <p>Those wishing direct correspondence with DR. Hartman and can wait the necessary
+                    delay in receiving a reply should address Dr. S. B. HARTMAN, Columbus, Ohio,
+                    U.S.A. </p>
+                <p>The following wholesale druggist will supply the retail drug trade in Alexandria,
+                    Egypt </p>
+                <p>E. DEL MAR, </p>
+                <p>Alexandria, Egypt</p>
+            </div>
+        </body>
+    </text>
+</TEI>
