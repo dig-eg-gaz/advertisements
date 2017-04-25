@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2017-04-24">April 24, 2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Henry J. Monson advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-hjm01">
+                <head>Messrs. HENRY J. MONSON &amp; Co's</head>
+                <p>NITRATE AND PHOSPHATE QUARRIES</p>
+                <p>(Under a Concession held from the Egyptian Government).</p>
+                <p>SILVER MEDAL AGRICULTURAL EXHIBITION, CAIRO, 1903.</p>
+                <p>Works at Kift-Maala, Sabaieh and Luxor.</p>
+                <p>Head Office, Cairo, London Office 120, Fenchurch St., E.C.</p>
+                <p>Chemical manure, Lime, Cement, Plaster of Paris, Tile Paving and Fire Brick, Paints, etc. <measure type="indexNo">31-10-905</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>

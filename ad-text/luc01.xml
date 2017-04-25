@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Taj Ali</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2017-04-24">April 24, 2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>LAW UNION AND CROWN INSURANCE COMPANY advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="item" scope="advertisement" xml:id="deg-ad-luc01">
+                <head>LAW UNION AND CROWN INSURANCE COMPANY OF LONDON, ENGLAND. (Established
+                    1825.)</head>
+                <table rows="1" cols="2">
+                    <row role="label">
+                        <cell cols="2">Funds In Hand</cell>
+                        <cell cols="2">$5,500,000</cell>
+                    </row>
+                    <row>
+                        <cell cols="2">Annual Income</cell>
+                        <cell cols="2">$800,000</cell>
+                    </row>
+                </table>
+                <p>LOANS. </p>
+                <p>Applications for Loans on eligible Agricultural or City Property are invited
+                    and may be addressed to Mr. W. E. KINGSFORD, Sharia Cherifels, Sharia
+                    Kasr-el-Nil. Cairo,</p>
+                <p>FIRE INSURANCE.</p>
+                <p>The Compaany's Agents in Egypt for Fires Insurance are Messrs. GUSTAV BRACH
+                    AND Alexandria</p>
+                <p><measure type="indexNo">34736-10-4-905</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>
