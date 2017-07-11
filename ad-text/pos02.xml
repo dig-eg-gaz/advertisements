@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+          <titleStmt>
+              <title level="m" type="main">Egyptian Gazette</title>
+              <title level="m" type="sub">An encoded transcription</title>
+              <editor>Will Hanley</editor>
+              <principal>Will Hanley</principal>
+          </titleStmt>
+          <editionStmt>
+              <edition>
+                  <date when="2016-09-01">September 2016</date>
+              </edition>
+          </editionStmt>
+          <publicationStmt>
+              <publisher>FSU University Libraries</publisher>
+              <pubPlace>Tallahassee, FL</pubPlace>
+          </publicationStmt>
+          <sourceDesc>
+              <bibl>
+                  <title>P &amp; O Weekly template</title>
+              </bibl>
+          </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div type="advert" xml:id="deg-ad-pos02">
+              <head>P&amp; O"
+                  
+                  WEEKLY
+                  MAIL and passenger SERVICES P&amp; O</head>
+              <p>EGYPT
+                  BRINDISI, MARSEILLES &amp; LONDON.</p>
+              <p>Special connectiitg Train Services between Brindisi and London,and between Marseilles and London.
+              </p>  PORT SAID to LONDON via MARSEIIjtS 5 1/2 Days
+              </p>
+              <p> POrT SAID to LONDON by SEA   12 Days
+              </p>
+              <p>REDUCED SUMMER FARES</p>
+              <p>PORT SAID to LONDON via BRINDISI in 4 1/2Days</p>
+              <p>
+                  Passengers can embark on Monday evening in the Brindisi steamer, which is timed  homeward Indian Mail 
+                  
+                  monday evening in the to leave port Said on After arrival of the
+                  the marseilles london steamers sail after the arrival
+                  of* the 11 a.m train from Cairo on Tuesdays.
+                  25 jjer Cent. A ateme/t off Homeward Sea Fare to passengers making return Journey within 12 months
+                  To aden 	    	 from suez
+                  TO BOMBAY J. Weakly on wednesday
+                  To CALCUTTA  
+                  . to cevlon ...
+                  To STRAITS ...
+                  to china 	
+                  To JAPAN To AUSTRALIA
+                  Particulars of additional departure* by Intermediate Steamers at reddled fares, to Malta, Calcutta, Straits China, Japan’and London, may be had on application.
+                  . may be secured and oil information obtained from THOS. COOK A SON (EGYPT), LTD. ... cairo.
+                  G. KOYI.E .. 	 ... port SAID,
+                  HASEI.DRN &amp; Co. ... **.. ... - ...-AleXAMDRia,- w.ftom the Company s superintendent in Egyptt
+                  F. G. DAVidsON, Suez.
+                  fortnightly on Wednesday
+                  from SUKZ from suez from suez from suez from suez from SUEZ from suez      </div>
+      </body>
+  </text>
+</TEI>
