@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2017-07-12">July 12, 2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Masters' Military Watch template</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-mmw01">
+                <head>MASTERS’ MILITARY ‘VERACITY' LEVER WATCH</head>
+                <p>A VERY FLAT WATCH.</p>
+                <p>Gold, £3.</p>
+                <p>Silver, 30/-.</p>
+                <p>Engraved with any CREST, Initials, Monogram or Military device for 4/- extra.</p>
+                <p>With MASTERS’ "MILITARY" WATCH you have "perfection in TIMEKEEPING" in any
+                    climate, not one day gaining or another day losing time or stopping but 20
+                    years’ true timekeeping to one minute each month. Lever movement, Jewelled,
+                    Compensation Balance, Keyless Action, White Dial, PLAIN SOLID SILVER CASES and
+                    we offer you to-day the most perfect Watch sold in this country for 30/- (Gold
+                    60/-) post paid, insured to your address anywhere.</p>
+                <p>SPECIAL TERMS TO COLONIAL CUSTOMERS. For full cash with order we allow 2/i In the
+                    £  discount, or if more convenient you need only send half the amount now —FOR
+                    30/- Watch or Ring send 15/- now and you pay the balance 15/-, when you receive
+                    the article, or for 60/- Watch or Ring send 30/- now, pay 30/- on delivery.</p>
+                <p>Masters* Solid Gold Engraved Signet Rings. 9ct. 30/-, 18ct. 62/6, cast from a
+                    solid piece of Gold, hallmarked and engraved with initials, monogram, zodiac
+                    sign, badge or crest FREE. Catalogue, Post Free. </p>
+                <p>J. N. Masters. Ltd., Watchmakers. 56 Hope Stores, Rye, England</p>
+            </div>
+        </body>
+    </text>
+</TEI>
