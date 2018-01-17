@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-01-16">January 16, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Cyprus Government Railway advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-cgr01">
+                <head>Cyprus Government Railway.</head>
+                <p>The Limassol S.S. Co. steamers with good passenger accommodation run between
+                    Cyprus &amp; Egypt as follows:— </p>
+                <p>
+                    <table rows="6" cols="9">
+                        <row>
+                            <cell>Leave</cell>
+                            <cell>Port Said</cell>
+                            <cell>Wed. </cell>
+                            <cell><date when="1907-03-27">27th March</date></cell>
+                            <cell>10 a.m.</cell>
+                            <cell>Arrive</cell>
+                            <cell>Famagusta</cell>
+                            <cell><date when="1907-03-28">28th March</date></cell>
+                            <cell>2 p.m.</cell>
+                        </row>
+                        <row>
+                            <cell>,,</cell>
+                            <cell>,,</cell>
+                            <cell>,,</cell>
+                            <cell><date when="1907-04-10">10th April</date></cell>
+                            <cell>10 a.m.</cell>
+                            <cell>,,</cell>
+                            <cell>,,</cell>
+                            <cell><date when="1907-04-11">11th April</date></cell>
+                            <cell>2 p.m.</cell>
+                        </row>
+                        <row>
+                            <cell>,,</cell>
+                            <cell>,,</cell>
+                            <cell>,,</cell>
+                            <cell><date when="1907-04-24">24th ,,</date></cell>
+                            <cell>10 a.m.</cell>
+                            <cell>,,</cell>
+                            <cell>,,</cell>
+                            <cell><date when="1907-04-25">25th ,,</date></cell>
+                            <cell>2 p.m.</cell>
+                        </row>
+                        <row>
+                            <cell>,,</cell>
+                            <cell>Famagusta</cell>
+                            <cell>Sat.</cell>
+                            <cell><date when="1907-03-23">23rd ,,</date></cell>
+                            <cell>3 a.m.</cell>
+                            <cell>,,</cell>
+                            <cell>Port Said</cell>
+                            <cell><date when="1907-03-24">24th March</date></cell>
+                            <cell>7 a.m.</cell>
+                        </row>
+                        <row>
+                            <cell>,,</cell>
+                            <cell>,,</cell>
+                            <cell>,,</cell>
+                            <cell><date when="1907-04-06">6th April</date></cell>
+                            <cell>3 a.m.</cell>
+                            <cell>,,</cell>
+                            <cell>,,</cell>
+                            <cell><date when="1907-04-07">7th April</date></cell>
+                            <cell>7 a.m.</cell>
+                        </row>
+                        <row>
+                            <cell>,,</cell>
+                            <cell>,,</cell>
+                            <cell>,,</cell>
+                            <cell><date when="1907-04-20">20th ,,</date></cell>
+                            <cell>3 a.m.</cell>
+                            <cell>,,</cell>
+                            <cell>,,</cell>
+                            <cell><date when="1907-04-21">21st ,,</date></cell>
+                            <cell>7 a.m.</cell>
+                        </row>
+                    </table>
+                </p>
+                <p>Trains run alongside the steamers on the quay, and passengers can be conveyed to
+                    Famagusta, Nicosia, Morphou and intermediate stations. Good hotel accommodation
+                    for tourists is provided at Famagusta, at the Savoy Hotel (Mr. Najem Houry
+                    proprietor). Olympus Hotel, Mount Troodos, 6000 ft. above the sea. Magnificent
+                    Scenery. Perfect climate. Season May to end of October. For information apply to
+                    Mr. Najem Houry, Managing Director of Cyprus Hotel Co., Army Contractor,
+                    Limassol, Cyprus. There is a good carriage road from Kopia (on Railway) to
+                    Troodos. At Famagusta may be seen the fine old Latin Cathedral (now a mosque)
+                    begun in 1300 and finished in 1312, together with other ancient ruins and the
+                    Venetian fortifications, the finest in the world. Also the tower or palace, the
+                    scene of “Othello'' and of Ford's “Lover's Melancholy.'' The climate of Cyprus
+                    in the winter months is delightful and the Island will well repay a visit.</p>
+                <p>Information as to tickets, trains, etc., may be obtained of Messrs. Thomas Cook
+                    &amp; Son, Egypt, or from the General Manager Railways, Famagusta. G. BERT DAY,
+                    General Manager. <measure type="indexNo">29248—31-12-907</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>

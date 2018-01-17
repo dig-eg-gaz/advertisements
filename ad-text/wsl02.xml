@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-01-15">January 15, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>White Star Line advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-wsl02">
+                <head>WHITE STAR LINE.</head>
+                <p>NEW YORK AND BOSTON MEDITERRANEAN SERVICE.</p>
+                <p>REGULAR SAILINGS BETWEEN GENOA, PALERMA, NAPLES, and BOSTON or NEW YORK,
+                    U.S.A. Twin screw S.S. <hi rend="bold">Republic</hi> for Naples <date
+                        when="1907-04-03">April 3</date>, for New York. Excellent
+                    accommodation for all classes of passengers. For plans of steamers,
+                    rates of passages between the various ports, and full particulars, apply
+                    to THOS. COOK &amp; SON (Egypt) Ltd., Cairo &amp; Alexandria ; JOHN ROSS
+                    &amp; CO., Alexandria; WHITE STAR LINE, Via Roma, Genoa, and 21, Piazza
+                    della Borsa, Naples.</p>
+            </div>   </body>
+    </text>
+</TEI>

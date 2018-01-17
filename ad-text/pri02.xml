@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-09-29">September 29, 2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Prince Line advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-pri02">
+                <head>PRINCE LINE.</head>
+                <table rend="frame" xml:id="Table1">
+                    <row>
+                        <cell>Calabrian Prince (bldg)</cell>
+                        <cell>Tons 12,000</cell>
+                        <cell>Tuscan Prince (bldg)</cell>
+                        <cell>Tons 12,000</cell>
+                        <cell>Flemish Prince (bldg)</cell>
+                        <cell>Tons 10,250</cell>
+                    </row>
+                    <row>
+                        <cell>Corsican Prince</cell>
+                        <cell>Tons 10,250</cell>
+                        <cell>Welsh Prince</cell>
+                        <cell>Tons 8,400</cell>
+                        <cell>Norse Prince</cell>
+                        <cell>Tons 10,250</cell>
+                    </row>
+                    <row>
+                        <cell>Afghan Prince</cell>
+                        <cell>Tons 8,400</cell>
+                        <cell>Black Prince</cell>
+                        <cell>Tons 7,000</cell>
+                        <cell>African Prince</cell>
+                        <cell>Tons 8,400</cell>
+                    </row>
+                    <row>
+                        <cell>Tudor Prince</cell>
+                        <cell>Tons 7,200</cell>
+                        <cell>Crown Prince</cell>
+                        <cell>Tons 5,050</cell>
+                        <cell>Saxon Prince</cell>
+                        <cell>Tons 6,000</cell>
+                    </row>
+                    <row>
+                        <cell>Norman Prince</cell>
+                        <cell>Tons 6,000</cell>
+                        <cell>Egyptian Prince</cell>
+                        <cell>Tons 4,950</cell>
+                        <cell>Italian Prince</cell>
+                        <cell>Tons 5,000</cell>
+                    </row>
+                    <row>
+                        <cell>Merchant Prince</cell>
+                        <cell>Tons 4,950</cell>
+                        <cell>Trojan Prince</cell>
+                        <cell>Tons 4,900</cell>
+                        <cell>Sailor Prince</cell>
+                        <cell>Tons 4,950</cell>
+                    </row>
+                    <row>
+                        <cell>Soldier Prince</cell>
+                        <cell>Tons 4,950</cell>
+                        <cell>Russian Prince</cell>
+                        <cell>Tons 4,400</cell>
+                        <cell>Georgian Prince</cell>
+                        <cell>Tons 4,750</cell>
+                    </row>
+                    <row>
+                        <cell>Spartan Prince</cell>
+                        <cell>Tons 4,650</cell>
+                        <cell>Sicilian Prince</cell>
+                        <cell>Tons 4,000</cell>
+                        <cell>Mexican Prince</cell>
+                        <cell>Tons 4,400</cell>
+                    </row>
+                    <row>
+                        <cell>Napolitan Prince</cell>
+                        <cell>Tons 4,000</cell>
+                        <cell>Moorish Prince</cell>
+                        <cell>Tons 3,200</cell>
+                        <cell>Highland Prince</cell>
+                        <cell>Tons 3,900</cell>
+                    </row>
+                    <row>
+                        <cell>Imperial Prince</cell>
+                        <cell>Tons 3,750</cell>
+                        <cell>Castillian Prince</cell>
+                        <cell>Tons 3,100</cell>
+                        <cell>British Prince</cell>
+                        <cell>Tons 3,200</cell>
+                    </row>
+                    <row>
+                        <cell>Grecian Prince</cell>
+                        <cell>Tons 3,150</cell>
+                        <cell>Creole Prince</cell>
+                        <cell>Tons 3,100</cell>
+                        <cell>Carib Prince</cell>
+                        <cell>Tons 3,100</cell>
+                    </row>
+                    <row>
+                        <cell>Eastern Prince</cell>
+                        <cell>Tons 3,100</cell>
+                        <cell>Asiatic Prince</cell>
+                        <cell>Tons 3,050</cell>
+                        <cell>Persian Prince</cell>
+                        <cell>Tons 3,100</cell>
+                    </row>
+                    <row>
+                        <cell>Kaffir Prince</cell>
+                        <cell>Tons 3, 50</cell>
+                        <cell>Cyprian Prince</cell>
+                        <cell>Tons 2,750</cell>
+                        <cell>Syrian Prince</cell>
+                        <cell>Tons 3,000</cell>
+                    </row>
+                    <row>
+                        <cell>Orange Prince</cell>
+                        <cell>Tons 2,850</cell>
+                        <cell>Roman Prince</cell>
+                        <cell>Tons 2,600</cell>
+                        <cell>Indian Prince</cell>
+                        <cell>Tons 2,750</cell>
+                    </row>
+                    <row>
+                        <cell>Scottish Prince</cell>
+                        <cell>Tons 2,600</cell>
+                        <cell>Royal Prince</cell>
+                        <cell>Tons 2,300</cell>
+                        <cell>Ocean Prince</cell>
+                        <cell>Tons 2,450</cell>
+                    </row>
+                </table>
+                <p>Good Accommodation for Passengers. -- C. J. GRACE &amp; Co., Alexandria, Agents.</p>
+                <p>Sailings every 10 days from Manchester and Liverpool and fortnightly from Antwerp
+                    and London to Alexandria and Syrian Coast. The dates are approximate</p>
+                <table rows="4" cols="8">
+                    <row>
+                        <cell>Egyptian Prince</cell>
+                        <cell>due from</cell>
+                        <cell><placeName>Manchester</placeName></cell>
+                        <cell>about <date when="1907-03-26">March 26</date></cell>
+                        <cell>Belgian Prince</cell>
+                        <cell>due from</cell>
+                        <cell><placeName>Manchester</placeName></cell>
+                        <cell><date when="1907-04-08">April 8</date></cell>
+                    </row>
+                    <row>
+                        <cell>Scottish Prince</cell>
+                        <cell>due from</cell>
+                        <cell><placeName>Antwerp</placeName> &amp;
+                            <placeName>London</placeName></cell>
+                        <cell><date when="1907-03-30">March 30</date></cell>
+                        <cell>Persian Prince</cell>
+                        <cell>due from</cell>
+                        <cell><placeName>Antwerp</placeName> &amp;
+                            <placeName>London</placeName></cell>
+                        <cell><date when="1907-04-09">April 9</date></cell>
+                    </row>
+                    <row>
+                        <cell>Creole Prince</cell>
+                        <cell>due from</cell>
+                        <cell><placeName>Antwerp</placeName> &amp;
+                            <placeName>London</placeName></cell>
+                        <cell><date when="1907-03-31">March 31</date></cell>
+                        <cell>Kaffir Prince</cell>
+                        <cell>due from</cell>
+                        <cell><placeName>Manchester</placeName></cell>
+                        <cell><date when="1907-04-16">April 16</date></cell>
+                    </row>
+                </table>
+                <p>The S.S. Trojan Prince is now loading for <placeName>Manchester</placeName>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-01-16">January 16, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>CREDIT LYONNAIS advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-crl02" xml:lang="fr">
+                <head>CREDIT LYONNAIS</head>
+                <p>CAPITAL FRANCS 250,000,000 ENTIEREMENT VERSES</p>
+                <p>Agences d’Egypte : ALEXANDRIE, LE CAIRE, PORT-SAID.</p>
+                <p>Le Crédit Lyonnais fait toutes opérations de banque, telles que : Avances sur
+                    titres fixes et en compte courant, Avances sur marchandises et consignations,
+                    Emission de traités et chèques, Emission de lettres de Crédit, Paiements par
+                    télégraphe sur les principales villes de la France èt de l’étranger, Garde de
+                    titres Recouvrement d’effets sur l’Egypte et l'étranger ; le Crédit Lyonnais
+                    reçoit des fonds en compte de depôt et délivre des bons à échéance fixe au taux
+                    de 3 o/o pour 1 an et au-delà. <measure type="indexNo">31-12-906</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>

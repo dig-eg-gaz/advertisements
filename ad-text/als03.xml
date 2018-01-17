@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-10-06">October 6, 2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Austrian Lloyd’s Steam Navigation advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-als03">
+                <head>Austrian Lloyd’s Steam Navigation</head>
+                <p><hi rend="bold">Alexandria-Brindisi-Venice Trieste.</hi> Express Mail Service.
+                    Steamers leave Alexandria Saturdays 4 p.m. arrive at Brindisi Tuesdays 5 a.m. in
+                    time for Express to Milan, Lucerne, Paris, Vienna, Berlin, London, leaving
+                    Brindisi 7 a.m. Arrival at Venice Wednesday about 9.30 a.m. Passengers may
+                    proceed from Venice to Switzerland, Paris and London by the 2 p.m. and 11.5 p.m.
+                    – Expresses. Arrival at Trieste Wednesday about 3 p.m. in connection with the
+                    Train de Luxe proceeding the same evening to Vienna, Frankfort, Cologne,
+                    Brussel, Ostende and London. Arrival at London every Friday 5.12 p.m.</p>
+                <p>Special Train Service from Cairo Station to Alexandria Quay alongside steamer,
+                    Saturdays at 9.30 a.m.</p>
+                <p><hi rend="bold">Intermediate Service: Alexandria-Brindisi &amp; Trieste
+                        Line.</hi></p>
+                <p>Steamer leaves Alexandria every Thursday 10 a.m. On and from <date
+                        when="1907-04-11">April 11th</date> at 4 p.m.</p>
+                <p><hi rend="bold">Syrian-Caramanian Line.</hi> Port Said, Jaffa, Beyrout, Tripoli,
+                    Alexandretta, Mersina, <date when="1907-02-18">Febr. 18</date>; <date
+                        when="1907-03-04">March 4</date>, <date when="1907-03-18">18</date> ; <date
+                        when="1907-04-01">April 1</date>. <date when="1907-04-15">15</date>, <date
+                        when="1904-04-29">29</date> ; <date when="1907-05-13">May 13</date>, <date
+                        when="1905-05-27">27</date> ; <date when="1907-06-10">June 10</date>, <date
+                        when="1907-06-24">24</date>.</p>
+                <p><hi rend="bold">Syrian-Cyprus Line.</hi> Beyrout, Limassol, Larnaca, Mersina,
+                        <date when="1907-02-26">Febr. 26</date>; <date when="1907-03-12">March
+                        12</date>, <date when="1907-03-26">26</date> ; <date when="1907-04-09">April
+                        9</date>. <date when="1907-04-23">23</date> ; <date when="1907-05-07">May
+                        7</date>, <date when="1905-05-21">21</date> ; <date when="1907-06-04">June
+                        4</date>, <date when="1907-06-18">18</date>.</p>
+                <p><hi rend="bold">Far East Lines.</hi> Departures from Port Said: To Suez, Aden,
+                    Bombay, Colombo, Penang, Singapore, Hong-Kong, Shanghai, <hi rend="italic"
+                        >Yokohama</hi> and <hi rend="italic">Kobé</hi>, <date when="1907-03-06">6
+                        March</date>, <date when="1907-04-03">3 April</date>, <date
+                        when="1907-05-04">4 May</date>, <date when="1907-06-03">3 June</date>.</p>
+                <p>To Suez, Aden and <hi rend="italic">Bombay</hi> accelerated service <date
+                        when="1907-02-22">22 Febr.</date>; <date when="1907-03-07">7</date>, <date
+                        when="1907-03-23">23 March</date> ; <date when="1907-04-04">4</date>, <date
+                        when="1907-04-23">23 April</date> ; <date when="1905-05-08">8 May</date> ;
+                        <date when="1907-06-08">8 June</date>.</p>
+                <p>To Suez, Aden, Karachi, Colombo, Madras, Rangoon, and <hi rend="italic"
+                        >Calcutta</hi> about <date when="1907-01-18">18 Jan.</date>, <date
+                        when="1907-02-18">18 Feb.</date>, <date when="1907-03-18">18 March</date>,
+                        <date when="1907-04-18">18 April</date>, <date when="1907-05-18">18
+                        May</date>, <date when="1907-06-18">18 June</date>. – For information apply
+                    to the Agents, Alexandria, Port Said, Suez, and Khartum.</p>
+                <p>Special rates for Egyptian officials, members of Army of Occupation and their
+                    families.</p>
+                <p><measure type="indexNo">31-12-90</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+          <titleStmt>
+              <title level="m" type="main">Egyptian Gazette</title>
+              <title level="m" type="sub">An encoded transcription</title>
+              <editor>Will Hanley</editor>
+              <principal>Will Hanley</principal>
+          </titleStmt>
+          <editionStmt>
+              <edition>
+                  <date when="2018-01-15">January 15, 2018</date>
+              </edition>
+          </editionStmt>
+          <publicationStmt>
+              <publisher>FSU University Libraries</publisher>
+              <pubPlace>Tallahassee, FL</pubPlace>
+          </publicationStmt>
+          <sourceDesc>
+              <bibl>
+                  <title>Waterlow Bros. &amp; Layton advertisement</title>
+              </bibl>
+          </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div type="advert" xml:id="deg-ad-wbl01">
+              <head>WATERLOW BROS. &amp; LAYTON, LIMITED</head>
+              <p>ESTABLISHED 1811.</p>
+              <p>Telephone No. 153. Telegraphic Address: "TARTESSUS."</p>
+              <p>Contractors to the British Government.</p>
+              <p>Printers, Stationers, Lithographers, Engravers,</p>
+              <p>ACCOUNT BOOK MANUFACTURERS AND MACHINE RULERS.</p>
+              <p>Head Office –</p>
+              <p>BIRCHIN LANE, LONDON.</p>
+              <p>Offices in Egypt 7, Boulevard de Ramleh, Alexandria. 33, Sharia Madabegh, Cairo.</p>
+              <p><hi rend="italic">Works</hi>:– Menayer, ALEXANDRIA.</p>
+          </div>
+      </body>
+  </text>
+</TEI>

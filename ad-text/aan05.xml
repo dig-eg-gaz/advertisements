@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-01-13">January 13, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Hamburg &amp; Anglo-American Nile Co. advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-aan05">
+                <head>Hamburg &amp; Anglo-American Nile Co.</head>
+                <p>Weekly departure during Winter Season by the Luxurious First Class
+                    Tourist Steamers "VICTORIA," "PURITAN," and "GERMANIA."</p>
+                <p>Bi-weekly Express Service between LUXOR and ASSUAN by S.S.
+                    "MAYFLOWER."</p>
+                <p><lb/>Regular weekly Departures to the SECOND CATARACT by the S.S.
+                    "NUBIA."</p>
+                <p><lb/>THROUGH BOOKINGS TO KHARTOUM, GONDOKORO AND THE WHITE NILE.</p>
+                <p><lb/>Steamers and Dahabeahs for private charter. Steam Tugs and Steam
+                    Launches for hire.</p>
+                <p><lb/>FREIGHT SERVICE BY STEAM BARGES BETWEEN CAIRO AND ALEXANDRIA.</p>
+                <p><lb/>Working in conjunction and under special arrangement with the “Upper
+                    Egypt Hotels Company."</p>
+                <p>For details and illustrated programmes apply to HEAD OFFICE: Sharia
+                    Boulac, Continental Hotel Buildings," CAIRO</p>
+                <p>Hamburg-Amerika Linie.</p>
+                <p>Accelerated Service by: </p>
+                <p>S.S. OCEANA, of 9,000 Tons, 350 berths including 90 single cabins.</p>
+                <p>Greatest Comfort, Best Cuisine.</p>
+                <p>FARES: Genoa to Alexandria from £14. Naples to Alexandria from £10.</p>
+                <table>
+                    <row>
+                        <cell rows="6">FARES: to NAPLES from £10, to GENOA from £13.</cell>
+                        <cell>Leaves Alexandria:</cell>
+                        <cell>Arr. Naples:</cell>
+                        <cell>Arr. Genoa:</cell>
+                    </row>
+                    <row>
+                        <cell><date when="1906-12-08">8</date> &amp; <date when="1906-12-22"
+                            >22</date> December.</cell>
+                        <cell><date when="1906-12-11">11</date> &amp; <date when="1906-12-25"
+                            >25</date> December.</cell>
+                        <cell><date when="1906-12-12">12</date> &amp; <date when="1906-12-26"
+                            >26</date> December.</cell>
+                    </row>
+                    <row>
+                        <cell><date when="1907-01-12">12</date>, <date when="1907-01-19"
+                            >19</date>, &amp; <date when="1907-01-26">26
+                                January</date>.</cell>
+                        <cell><date when="1907-01-15">15</date>, <date when="1907-01-22"
+                            >22</date>, &amp; <date when="1907-01-29">29
+                                January</date>.</cell>
+                        <cell>….….….</cell>
+                    </row>
+                    <row>
+                        <cell><date when="1907-02-02">2</date>, <date when="1907-02-09"
+                            >9</date>, <date when="1907-02-16">16</date>, <date
+                                when="1907-02-23">23 February</date>.</cell>
+                        <cell><date when="1907-02-05">5</date>, <date when="1907-02-12"
+                            >12</date>, <date when="1907-02-19">19</date>, <date
+                                when="1907-02-26">23 February</date>.</cell>
+                        <cell>….….….</cell>
+                    </row>
+                    <row>
+                        <cell><date when="1907-03-02">2</date>, <date when="1907-03-09"
+                            >9</date>, <date when="1907-03-16">16</date>, <date
+                                when="1907-03-23">23</date>, <date when="1907-03-30">30
+                                    March</date>.</cell>
+                        <cell><date when="1907-03-05">5</date>, <date when="1907-03-12"
+                            >12</date>, <date when="1907-03-19">19</date>, <date
+                                when="1907-03-26">26 March</date>.</cell>
+                        <cell>….….….</cell>
+                    </row>
+                    <row>
+                        <cell><date when="1907-04-06">6</date>, <date when="1907-04-13">13
+                            April</date>.</cell>
+                        <cell><date when="1907-04-02">2</date>, <date when="1907-04-09">9</date>, <date when="1907-04-16">16
+                            April</date>.</cell>
+                        <cell><date when="1907-04-17">17
+                            April</date>.</cell>
+                    </row>
+                </table>
+                <p>Great Oriental Cruise by S.S. MOLTKE on <date when="1907-03-05">March 5th</date> from Alexandria.</p>
+                <p>Departures from Port Said:</p>
+                <p><hi rend="bold">To East Asia</hi>: <date when="1907-01-03">Jan 3</date>, SCANDIA; <date when="1907-02-03">Febr. 3</date>, HABSBURG;
+                    <date when="1907-03-06">March 6</date>, RHENANIA; <date when="1907-04-08">April 8</date>, HOHENSTAUFEN; <date when="1907-05-04">May 4</date>, SILESIA.</p>
+                <p><hi rend="bold">To Port Sudan</hi> and <hi rend="bold">Persian Gulf</hi>:
+                    <date when="1907-01-10">Jan. 10</date>, ASSYRIA; <date when="1907-02-10">Febr. 10</date>, SAVOIA; <date when="1907-03-23">March 23</date>, – <date when="1907-04-23">April 23</date>, CANADIA.</p>
+                <p><hi rend="bold">To Naples, Plymouth</hi> and <hi rend="bold">Hamburg</hi>
+                    <date when="1907-01-12">Jan. 12</date>, RHENANIA; <date when="1907-02-09">Febr. 9</date>, HOHENSTAUFEN; <date when="1907-03-09">March 9</date>, SILESIA; <date when="1907-04-20">April 20</date>,
+                    SCANDIA; <date when="1907-05-04">May 4</date>, HABSBURG; <date when="1907-06-15">June 15</date>, RHENANIA.</p>
+                <p><hi rend="bold">To Marseilles</hi> and <hi rend="bold">Hamburg</hi>: <date when="1907-01-19">Jan.
+                    19</date>, HUNGARIA.</p>
+                <p><hi rend="italic">Apply to: HAMBURG-AMERICA LINIE, Continental Hotel,
+                    CAIRO. C.J. GRACE &amp; CO., ALEXANDRIA. </hi></p>
+                <p><measure type="indexNo">29074</measure> <hi rend="italic">DEUTSCHES KOHLEN DEPOT, PORT SAID &amp;
+                    SUEZ.</hi>
+                    <measure type="indexNo">31-11-07</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>

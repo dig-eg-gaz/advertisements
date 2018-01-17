@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-01-16">January 16, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>CASSA DI SCONTO E DI RISPARMIO advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-csr01">
+                <head>CASSA DI SCONTO E DI RISPARMIO.</head>
+                <p>A LIMITED LIABILITY COMPANY, AUTHORISED BY FIRMAN GRANTED BY H. H. THE
+                    KHEDIVE, JANUARY 25th, 1887.</p>
+                <p>CAPITAL 10,000,000 Frs. - RESERVE 2,659,552 Frs. 60 c.m.</p>
+                <p>Head Offices : ALEXANDRIA. - Branches : CAIRO, TANTAH, and ZAGAZIG.</p>
+                <p>The Cassa d Sconto e di Risparmio effects all Banking operations, such as
+                    Discount, Payments, Loans on Title, Deed, and Goods ; Letters of Credit issued.
+                    Drafts and telegraphic transfers on principal towns of Egypt and abroad. Custody
+                    of Titles Deeds, Purchase and sale of Debenture or other valuables ; Current
+                    accounts opened. The "Cassa di Sconto e di Risparmio receives money in deposits
+                    at following rates: 2½ % for sight, 3½ % for 6 months, 4½ % for 1 year and over.
+                    The Savings Bank receives deposits from P.T. 20 up to 20,000 at the rate of 3½ %
+                    per annum. <measure type="indexNo">28911- 23-11-907</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>

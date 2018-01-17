@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+          <titleStmt>
+              <title level="m" type="main">Egyptian Gazette</title>
+              <title level="m" type="sub">An encoded transcription</title>
+              <editor>Will Hanley</editor>
+              <principal>Will Hanley</principal>
+          </titleStmt>
+          <editionStmt>
+              <edition>
+                  <date when="2018-01-14">January 14, 2018</date>
+              </edition>
+          </editionStmt>
+          <publicationStmt>
+              <publisher>FSU University Libraries</publisher>
+              <pubPlace>Tallahassee, FL</pubPlace>
+          </publicationStmt>
+          <sourceDesc>
+              <bibl>
+                  <title>Russian Steam Navigation advertisement</title>
+              </bibl>
+          </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div type="advert" xml:id="deg-ad-rsn02">
+              <head>Russian Stream Navigation Co.</head>
+              <p>Express Service by the following fine, new steamers between Alexandria, Piraeus,
+                    Constantinople, and Odessa --</p>
+                <p><hi rend="bold">Emperor Nicolas II</hi>, <hi rend="bold">Reine Olga</hi>, <hi
+                        rend="bold">Tchihatchoff</hi> (7070 tons each) and <hi rend="bold"
+                        >Tsaritza</hi> (6000 tons)</p>
+                <p>Arrive Alexandria Friday noon, leave Alexandria Tuesday, 3 p.m. Circular route
+                    between Alexandria, Port Said, the Syrian ports, Chio, Smyrna, Salonica, Mount
+                    Athos, Dardanelles, Constantinople, and Odessa. Arrive Alexandria alternate
+                    Saturdays early morn; leaving Alexandria same day at 4 p.m.</p>
+              <p><hi rend="bold">Crimean or Bessarabian table wines free</hi>.</p>
+              <p><measure type="indexNo">26376-31-6-907</measure></p>
+          </div>
+      </body>
+  </text>
+</TEI>

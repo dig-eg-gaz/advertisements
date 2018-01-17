@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-01-14">January 14, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Cunard Line advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-cun03">
+                <head>Cunard Line.</head>
+                <p><hi rend="bold">Royal Mail Steamers</hi> from Liverpool to New York and Boston
+                    every Saturday and Tuesday.</p>
+                <p><hi rend="bold">Regular Twin Screw Sailings</hi> at short intervals from Trieste,
+                    Fiume and Naples to New-York.</p>
+                <p>Through tickets from Egypt delivered by <hi rend="bold">Messrs. Rodacanachi &amp;
+                        Co.,</hi> Alexandria, <hi rend="italic">General Agents</hi> ; <hi
+                        rend="bold">Nicolas Kirzis</hi>, Cairo; <hi rend="bold">R. Broadbent</hi>,
+                    Port Said, <hi rend="italic">Agents</hi>.     <measure type="indexNo"
+                        >19-1-907</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>
