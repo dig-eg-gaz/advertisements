@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-01-16">January 16, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>WHITEHEAD, MORRIS &amp; CO. advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-wmc03">
+                <head>WHITEHEAD, MORRIS &amp; CO.,</head>
+                <p>LIMITED.</p>
+                <p>ESTABLISHED 1857.</p>
+                <p>Wholesale and Export</p>
+                <p>Manufacturing Stationers, Printers, Lithographers, and Engravers.</p>
+                <p>ACCOUNT BOOK MANUFACTURERS.</p>
+                <p>Chief Offices-9 &amp; 10, FRENCHURCH STREET, LONDON, E.C.</p>
+                <p>Factory-TOWER HILL (opposite the Tower of London).</p>
+                <p>SPECIALTIES:</p>
+                <p>GOVERNMENT &amp; BANK CONTRACTORS.</p>
+                <p>Offices at-CAIRO-34, CHAREH-EL-MADABECH. ALEXANDRIA-6, BOULEVARD RAMLEH. CAPE
+                    TOWN-32, ST. GEORGE'S STREET. JOHANNESBURG-79, SACKE'S BLDGS. COMMISSIONER
+                    ST.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
