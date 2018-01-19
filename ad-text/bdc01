@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Huaqing Shi</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-01-19">January 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>BANQUE DU CAIRE LIMITED</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-bdc01">
+                <head>BANQUE DU CAIRE, LIMITED,</head>
+                <p>CAIRO.</p>
+                <p>CAPITAL: Lstg. 600,000.</p>
+                <p>The Banque du Caire Ltd., undertakes all banking business such as : Advances on deeds and securites, discount, cheques delivered at very best rates of exchange on all the principal towns of the world, telegraphic transfers, purchase and sale of stock and shares in Egypt and abroad, letters of credit issued, safe custoday at a low charge, of titles, deeds and securities, current accounts opened. Receives money on deposit at sight at 3% per annum. </p>
+                <p>36014-14-4-908</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>
