@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-01-16">January 16, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Orient-Royal Mail Line advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-orm02">
+                <head>Orient-Royal Mail Line.</head>
+                <p>OUTWARD to AUSTRALIA.</p>
+                <p><name>R.M.S. “Ormus"</name> will leave Suez about <date when="1907-04-05"
+                    >April 5</date></p>
+                <p><name>R.M.S "Oruba"</name> will leave Suez about <date when="1907-04-19"
+                    >April 19</date>.</p>
+                <p>HOMEWARD to NAPLES, MARSEILLES, GIBRALTAR, PLYMOUTH, LONDON, TILBURY.</p>
+                <p><name>R.M.S. "Orotava"</name> will leave Port Said <date
+                    when="1907-04-09">April 9</date></p>
+                <p><name>R.M.S. “Ophir"</name> will leave Port Said <date when="1907-04-22"
+                    >April 22</date></p>
+                <table cols="5">
+                    <row role="label">
+                        <cell>Passage</cell>
+                        <cell>Naples</cell>
+                        <cell>Marseilles</cell>
+                        <cell>Gibraltar</cell>
+                        <cell>Plymouth or Tilbury</cell>
+                    </row>
+                    <row>
+                        <cell>1st Class</cell>
+                        <cell>£9.0.0.</cell>
+                        <cell>£13.0.0.</cell>
+                        <cell>£15.0.0.</cell>
+                        <cell>£19.0.0.</cell>
+                    </row>
+                    <row>
+                        <cell>2nd ,,</cell>
+                        <cell>7.0.0.</cell>
+                        <cell>9.0.0.</cell>
+                        <cell>9.0.0.</cell>
+                        <cell>12.0.0.</cell>
+                    </row>
+                    <row>
+                        <cell>3rd ,,</cell>
+                        <cell>4.0.0.</cell>
+                        <cell>5.0.0.</cell>
+                        <cell>5.0.0.</cell>
+                        <cell>9.0.0.</cell>
+                    </row>
+                </table>
+                <p>The issue of return tickets to and from Egypt has been discontinued.
+                    Passengers paying full fare one direction will, however, be allowed
+                    abatement of one-third off fare back if return voyage be made within
+                    four months of arrival, or abatement of 20 o/o if return voyage be made
+                    within six months of arrival.</p>
+                <p>Special reduced rates during Summer season 15th May - 15th September.</p>
+                <p>Agents, Cairo: Thomas Cook &amp; Son, Ltd. ; Alexandria : R. J. Moss
+                    &amp; Co.</p>
+                <p>For all imformation apply to Wm. STAPLEDON &amp; Sons, PORT SAID and
+                    PORT-TEWFIK (Suez). <measure type="indexNo">31-12-6</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>
