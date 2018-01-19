@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-01-16">January 16, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>BIBBY LINE MAIL TWIN-SCREW STEAMERS advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-blm03">
+                <head>BIBBY LINE MAIL TWIN-SCREW STEAMERS.</head>
+                <p>OUTWARDS to COLOMBO, TUTICORIN, etc., and RANGOON.</p>
+                <p><name>S.S. Staffordshire</name>
+                    <measure quantity="6005" unit="ton">6,005</measure> tons, will leave
+                    Suez about <date when="1907-04-11">April 11th</date>.</p>
+                <p>HOMEWARDS to MARSEILLES and LONDON.</p>
+                <p><name>S.S. Cheshire</name>
+                    <measure quantity="5775" unit="ton">5,775 tons</measure>, will leave
+                    Port Said about <date when="1907-04-14">April 14th</date>.</p>
+                <p>Fares from Port Said to Marseilles £12.0.0 ; London £17.0.0 ; Colombo
+                    £32.10.0 ; Rangood £37.10.0</p>
+                <p>Fitted with Refigerators, Electric Light, Electric Fans and all recent
+                    improvements.</p>
+                <p>SPECIAL REDUCED FARES DURING THE SUMMER SEASON. <measure type="indexNo"
+                    >12-931</measure></p>
+                <p>Agents in Cairo: THOS. COOK &amp; SON. For all particulars apply to Suez
+                    &amp; Port Said : WM. STAPLEDON &amp; SONS PORT SAID PORT TEWFIK
+                    (Suez).</p>
+            </div></body>
+    </text>
+</TEI>
