@@ -11,7 +11,7 @@
           </titleStmt>
           <editionStmt>
               <edition>
-                  <date when="2016-09-29">September 29, 2016</date>
+                  <date when="2018-01-27">January 27, 2018</date>
               </edition>
           </editionStmt>
           <publicationStmt>
@@ -20,22 +20,18 @@
           </publicationStmt>
           <sourceDesc>
               <bibl>
-                  <title>Wrexham Lager Beer advertisement</title>
+                  <title>Vienna Hotel Bristol advertisement</title>
               </bibl>
           </sourceDesc>
       </fileDesc>
   </teiHeader>
   <text>
       <body>
-          <div type="advert" xml:id="deg-ad-wlb01">
-              <p>Ask for</p>
-              <p>Brewed at Wrexham England</p>
-              <p>Wrexham Lager Beer Co. Pilsener</p>
-              <p>Registered Label</p>
-              <p>And if not supplied apply to</p>
-              <p>John B. Caffari</p>
-              <p>Alexandria &amp; Cairo</p>
-              <p><measure type="indexNo">27-10-0.</measure></p>
+          <div type="advert" xml:id="deg-ad-vhb01">
+              <head>VIENNA Hotel Bristol.</head>
+                <p>I. KARNTNERRING 5-7</p>
+                <p>The most leading Hotel in the town. – Auto-Garage. Own Shooting and Fishing.</p>
+              <p><measure type="indexNo">29788-14-4-907</measure></p>
           </div>
       </body>
   </text>

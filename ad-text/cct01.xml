@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-01-27">January 27, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Calvert's Carbolic Toilet Soap advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-cct01">
+                <head>Calvert's Carbolic Toilet Soap</head>
+                <p>Ensures a Clear, Soft Skin.</p>
+                <p>It is pure throughout, fragrantly perfumed, emollient, and antisceptic, (10%
+                    crystal carbolic). It quickly removes dust and dirt, takes away the unpleasant
+                    effects of perspiration, and leaves instead a delicious feeling of thorough
+                    purification.</p>
+                <p><hi rend="italic">Sold by local Chemists and Storekeepers.</hi></p>
+                <p>Made by F.C. Calvert &amp; Co., Manchester, Eng.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

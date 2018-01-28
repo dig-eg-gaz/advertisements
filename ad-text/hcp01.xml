@@ -11,7 +11,7 @@
           </titleStmt>
           <editionStmt>
               <edition>
-                  <date when="2016-09-29">September 29, 2016</date>
+                  <date when="2018-01-27">January 27, 2018</date>
               </edition>
           </editionStmt>
           <publicationStmt>
@@ -20,22 +20,22 @@
           </publicationStmt>
           <sourceDesc>
               <bibl>
-                  <title>Wrexham Lager Beer advertisement</title>
+                  <title>Paris Hotel Continental advertisement</title>
               </bibl>
           </sourceDesc>
       </fileDesc>
   </teiHeader>
   <text>
       <body>
-          <div type="advert" xml:id="deg-ad-wlb01">
-              <p>Ask for</p>
-              <p>Brewed at Wrexham England</p>
-              <p>Wrexham Lager Beer Co. Pilsener</p>
-              <p>Registered Label</p>
-              <p>And if not supplied apply to</p>
-              <p>John B. Caffari</p>
-              <p>Alexandria &amp; Cairo</p>
-              <p><measure type="indexNo">27-10-0.</measure></p>
+          <div type="advert" xml:id="deg-ad-hcp01">
+              <head>PARIS - - HOTEL CONTINENTAL.</head>
+                <p>Overlooking Tuileries Gardens &amp; Champs-Elysées. Full South.</p>
+                <p>Newly decorated and renovated throughout. Sanitary arrangements absolutely
+                    perfect.</p>
+                <p>Favorite residence of Royalty and the highest European Society.</p>
+                <p>Private suites and rooms with baths and every convenience</p>
+                <p>Central heating throughout. – Restaurant and service unexcelled.</p>
+                <p>A. LOTTI, General Manager.</p>
           </div>
       </body>
   </text>
