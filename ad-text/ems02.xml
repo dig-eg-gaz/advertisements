@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-01-30">January 30, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Emulsion Scott advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-ems02" xml:lang="fr">
+                <head>POUMONS RÉGÉNÉRÉS</head>
+                <p>De même que la plus petite graine peut donner naissance à un très grand arbre, le
+                    moindre rhume, la toux la plus légère peuvent engendrer une longue et dangereuse
+                    maladie s'ils ne sont, en temps opportun, enrayés à l'aide de l'<hi rend="ul"
+                        >Emulsion Scott.</hi></p>
+                <p>Toutes affections de la gorge et la poitrine, de quelque nature et si opiniâtres,
+                    si anciennes qu'elles soient, cèdent rapidement à l'efficacité de
+                    <lb/>l'EMULSION SCOTT <lb/>qui vous refait des poumons capables de résister à
+                    toute intempéries ou autres influences malfaisantes.</p>
+                <p>En vente chez tous Pharmaciens et Droguistes.</p>
+                <p><hi rend="italic">Exigez toujours l'Emulsion avec cette marque : "le Pécheur",
+                        marque du procédé Scott !</hi></p>
+            </div>
+        </body>
+    </text>
+</TEI>

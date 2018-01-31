@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-01-30">January 30, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Indicateur Egyptien advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-ind01">
+                <head>JUST PUBLISHED</head>
+                <p>THE INDICATEUR EGYPTIEN</p>
+                <p>Administrative and Commercial Directory,</p>
+                <p>By</p>
+                <p>Mr. STEFANO POFFANDI</p>
+                <p>THE EDITION FOR 1907 contains up-to-date information which is absolutely
+                    reliable.</p>
+                <p>All changes in the names of streets and numbers of houses have been introduced in
+                    the list of addresses.</p>
+                <p>On sale at the leading Cairo and Alexandria booksellers.</p>
+                <p><measure type="indexNo">29405-23-3-07</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>
