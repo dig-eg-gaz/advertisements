@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-02-03">February 3, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Peninsular and Oriental S. N. Company template</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-pos05">
+                <head>Peninsular and Oriental S. N. Company.</head>
+                <p>Berths can be definitely engaged beforehand. Plans can be seen at the Offices of
+                    the Company’s Agents.</p>
+                <p>The through Steamers for Marseilles, Gibraltar, Plymouth and London are Intended
+                    to leave Port Said after the arrival of the 11 a.m. train from Cairo, every
+                    Monday. A steam tender will meet the train to convey passengers to the ship.</p>
+                <p>The Brindisi Express Steamer leaves Port Said directly the Indian Mails arrive.
+                    Passengers can go on board the evening before.</p>
+                <p>The express steamer usually reaches Brindisi on Wednesday afternoon, the special
+                    train starting at 8 p.m. and arriving in London at the very convenient hour of
+                    4.56 p.m. on Friday.</p>
+                <p>The combined Sea and special train fare is £22.9.11 Port Said to London via
+                    Brindisi or via Marseilles.</p>
+                <p>Passengers having paid fall fare in one direction are allowed an abatement of 25
+                    per cent, on returning within 12 months.</p>
+                <p>In addition to the above regular weekly service there are sailings about twice a
+                    fortnight of 5,000 to 7,000 tons steamers to London, calling at Malta or
+                    Marseilles.</p>
+                <p>TO THE EAST.</p>
+                <p>The Mail Steamers leave Suez for Aden and Bombay every Wednesday, and for
+                    Australia and China every alternate Wednesday. A steamer leaves for Calcutta,
+                    fortnightly, and another for Japan. Passengers can embark at Port Said.</p>
+                <p>For all further information apply to the Company's Agents,</p>
+                <p>Messrs. THOS. COOK &amp; SON (Egypt) Ltd. CAIRO.</p>
+                <p>GEORGE ROYLE, Esq. PORT-SAID.</p>
+                <p>Messrs. HABELDEN &amp; Co. ALEXANDRIA.</p>
+                <p> F. G. DAVIDSON, Superintendent P. &amp; O. S. N. Company in Egypt SUEZ.</p>
+                <p><measure type="indexNo">31-12-906</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>
