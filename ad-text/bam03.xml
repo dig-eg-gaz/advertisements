@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-02-03">February 3, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Summer Trips to Cyprus advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-bam03">
+                <head>SUMMER TRIPS TO CYPRUS</head>
+                <p>(£5 return 1st Class.)</p>
+                <p>Asia Minor S.S. Co., depatches a steamer on following dates from Alexandria, 28
+                    June, 6, 15, 24 July, 1 August, for Limassol, Famagusta, Larnaca, returning by
+                    Port-Said. Trip lasting six days, allows some hours at each port. Comfortable
+                    accomodation. Stewardess Carried. For particulars apply Manager, 3 St. Marks St.
+                    Alexandria. <measure type="indexNo">28478-31-12-06</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>
