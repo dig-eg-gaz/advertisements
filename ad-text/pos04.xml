@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Brett Crawford</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-01-15">January 15, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Peninsular and Oriental S. N. Company template</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-pos04">
+                    <head>Peninsular and Oriental S. N. Company.</head>
+                    <p>The following steamers are expected to leave Port Said on or about the
+                        following dates:--</p>
+                    <p>
+                        <table rows="11" cols="7">
+                            <head/>
+                            <row>
+                                <cell>"Ceylon"</cell>
+                                <cell>4,094</cell>
+                                <cell>Tons</cell>
+                                <cell><date when="1905-01-08">8</date></cell>
+                                <cell>January</cell>
+                                <cell>for</cell>
+                                <cell>Marseilles and London</cell>
+                            </row>
+                            <row>
+                                <cell>"Borneo"</cell>
+                                <cell>4,573</cell>
+                                <cell>"</cell>
+                                <cell><date when="1905-01-09">9</date></cell>
+                                <cell>"</cell>
+                                <cell>"</cell>
+                                <cell>Malta and London</cell>
+                            </row>
+                            <row>
+                                <cell>"Moldavia"</cell>
+                                <cell>9,500</cell>
+                                <cell>"</cell>
+                                <cell><date when="1905-01-09">9</date></cell>
+                                <cell>"</cell>
+                                <cell>"</cell>
+                                <cell>Marseilles, Plymouth and London</cell>
+                            </row>
+                            <row>
+                                <cell>"Arabia"</cell>
+                                <cell>7,903</cell>
+                                <cell>"</cell>
+                                <cell><date when="1905-01-16">16</date></cell>
+                                <cell>"</cell>
+                                <cell>"</cell>
+                                <cell>Marseilles, Plymouth and London</cell>
+                            </row>
+                            <row>
+                                <cell>"Syria"</cell>
+                                <cell>6,600</cell>
+                                <cell>"</cell>
+                                <cell><date when="1905-01-23">23</date></cell>
+                                <cell>"</cell>
+                                <cell>"</cell>
+                                <cell>Malta and London</cell>
+                            </row>
+                            <row>
+                                <cell>"Victoria"</cell>
+                                <cell>6,522</cell>
+                                <cell>"</cell>
+                                <cell><date when="1905-01-23">23</date></cell>
+                                <cell>"</cell>
+                                <cell>"</cell>
+                                <cell>Marseilles, Plymouth and London</cell>
+                            </row>
+                            <row>
+                                <cell>"Oriental"</cell>
+                                <cell>5,284</cell>
+                                <cell>"</cell>
+                                <cell><date when="1905-01-30">30</date></cell>
+                                <cell>"</cell>
+                                <cell>"</cell>
+                                <cell>Marseilles, Plymouth and London</cell>
+                            </row>
+                            <row>
+                                <cell>"Socotra"</cell>
+                                <cell>6,009</cell>
+                                <cell>"</cell>
+                                <cell><date when="1905-02-05">5</date></cell>
+                                <cell>February</cell>
+                                <cell>"</cell>
+                                <cell>London</cell>
+                            </row>
+                            <row>
+                                <cell>"Himalaya"</cell>
+                                <cell>6,898</cell>
+                                <cell>"</cell>
+                                <cell><date when="1905-02-06">6</date></cell>
+                                <cell>"</cell>
+                                <cell>"</cell>
+                                <cell>Marseilles, Plymouth and London</cell>
+                            </row>
+                            <row>
+                                <cell>"Palermo"</cell>
+                                <cell>7,597</cell>
+                                <cell>"</cell>
+                                <cell><date when="1905-01-13">13</date></cell>
+                                <cell>"</cell>
+                                <cell>"</cell>
+                                <cell>London</cell>
+                            </row>
+                            <row>
+                                <cell>"Egypt"</cell>
+                                <cell>7,912</cell>
+                                <cell>"</cell>
+                                <cell/>
+                                <cell>"</cell>
+                                <cell>"</cell>
+                                <cell>Marseilles, Plymouth and London</cell>
+                            </row>
+                        </table>
+                    </p>
+                    <p>Port-Said to London via Brindisi</p>
+                    <p>The BRINDISI steamer leaves PORT-SAID after arrival of Indian Mail.
+                        Combined steamer and sleeping car fare from PORT-SAID to LONDON via
+                        BRINDISI or via MARSEILLES £25.9.11</p>
+                    <p>To the East.</p>
+                    <p>The Mail Steamers leave SUEZ for ADEN and BOMBAY every Wednesday, and for
+                        AUSTRALIA and CHINA every alternate Wednesday. A steamer leaves for
+                        CALCUTTA, fortnightly, and another for JAPAN. Passengers can embark at
+                        PORT-SAID.</p>
+                    <p>For all further information apply to the Company's Agents,</p>
+                    <p>Messrs. Thos, Cook &amp; Son (Egypt) Ltd.… … … … … … … … CAIRO.</p>
+                    <p>George Royle, Esq… … … … … … … … … … … … … … PORT-SAID.</p>
+                    <p>Messrs. Haselden &amp; Co. … … … … … … … … … … … … ALEXANDRIA.</p>
+                    <p>F.G. DAVIDSON, Superintendant P. &amp; O. S. N. Company in Egypt. SUEZ.
+                        xx-xx-xx</p>
+                    <p/>
+                </div>
+        </body>
+    </text>
+</TEI>
