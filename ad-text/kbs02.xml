@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-10-06">October 6, 2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Kupper's Beer advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-kbs02">
+                <head>Fass Bier zu Hause!</head>
+                <p>KÜPPER'S BEER IN SIPHONS.</p>
+                <p>Draught Beer for the Home.</p>
+                <p>5 Liter Siphon P.T. 20. - 10 Liter Siphon P.T. 35.</p>
+                <p>Frei ins Haus.</p>
+                <p>KÜPPER'S BEER IN SIPHONS.</p>
+                <p>5 Litre Siphon per P.T. 20.</p>
+                <p>10 Litre Siphons per P.T. 36</p>
+                <p>Delivered Free. </p>
+                <p>SOLE AGENTS : Walker &amp; Meimarachi, Ltd. THE EGYPTIAN SUPPLY STORES.</p>
+                <p>,,Frisch vom Fass".</p>
+                <p><measure type="indexNo">26898</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>
