@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-02-04">February 4, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>COMPTOIR NATIONAL D’ESCOMPTE advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-cne02">
+                <head>COMPTOIR NATIONAL D’ESCOMPTE</head>
+                <p>DE PARIS.</p>
+                <p>CAPITAL: 150,000,000 frs, - £ 6,000,000 FULLY PAID UP.</p>
+                <p>HEAD OFFICE: 14, Rue Bergere, Paris.</p>
+                <p>40 Branches in Paris and 112 Throughout France.</p>
+                <p>Branches in London, Liverpool, Manchester, in Morocco, Tunis, East India,
+                    Madagascar, Australia, etc. </p>
+                <p>Alexandria Branch 11, Rue Cherif Pacha.</p>
+                <p>Bills Collected. </p>
+                <p>Deposit Accounts opened at sight &amp; for fixed periods.</p>
+                <p>Advances on securities in current account. </p>
+                <p>Letters of Credit &amp; Telegraphic Transfers Issued. </p>
+                <p>Foreign Exhange Bought and Sold. </p>
+                <p>Stocks and Valuables received in safe custody. </p>
+                <p>Purchase and Sale of Stock and Shares in Egypt and Abroad. </p>
+                <p>Dividends Collected.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

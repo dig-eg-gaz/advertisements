@@ -7,12 +7,12 @@
           <titleStmt>
               <title level="m" type="main">Egyptian Gazette</title>
               <title level="m" type="sub">An encoded transcription</title>
-              <editor>Will Hanley</editor>
+              <editor>Taylor Cwikla</editor>
               <principal>Will Hanley</principal>
           </titleStmt>
           <editionStmt>
               <edition>
-                  <date when="2016-09-01">September 2016</date>
+                  <date when="2018-02-03">February 3, 2018</date>
               </edition>
           </editionStmt>
           <publicationStmt>
@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="item" scope="advertisement" xml:id="deg-ad-tcs03">
+          <div type="item" scope="advertisement" xml:id="deg-ad-tcs04">
               <head>Thos. Cook &amp; Son, (EGYPT), LTD</head>
               <p>HEAD OFFICE: LUDGATE CIRCUS—LONDON.</p>
               <p>CHIEF EGYPTIAN OFFICE: — CAIRO, near SHEPHEARD'S HOTEL.</p>
