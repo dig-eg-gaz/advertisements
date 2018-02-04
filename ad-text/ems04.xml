@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>William Ortiz</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-01-30">January 30, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Emulsion Scott advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-ems04" xml:lang="fr">
+                <head>Votre Sang Est-Il Parfaitement Pur?</head>
+                <p>Une condition essentielle pour que l'organisme soit toujours en parfaite santé,
+                    c'est de tenir notre corps dans le plus grand état de propreté, non pas
+                    seulement a l'extérieur mais aussi interieurement.</p>
+                <p>Quand, en effet, le sang s'epaissit ou s'appauvrit, il en resulte de bien tristes
+                    maladies :</p>
+                <p><hi rend="bold">Scrofule, Affections de la Peau, Anémie, &amp;c.</hi></p>
+                <p>Il faut donc nettoyer, purifier le sang et puis l'enrichir; pour cela, rien de
+                    meilleur que l'<hi rend="ul">Emulsion Scott</hi>, faites-en usage et beintôt,
+                    comme les brumes matinales devant les rayones du soleil, se dissiperont tous les
+                    maux dont vous êtes affligés !</p>
+                <p> L'EMULSION SCOTT </p>
+                <p>PURIFIE; RÉGÉNÈRE; FORTIFIE.</p>
+                <p>En vente chez tous Pharmaciens et Droguistes.</p>
+                <p>Exigez toujours l'Emulsion avec cette marque : "le Pécheur", marque du
+                    procédé Scott !</p>
+            </div>
+        </body>
+    </text>
+</TEI>

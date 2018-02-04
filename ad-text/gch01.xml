@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-02-04">February 4, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Grand Continental Hotel advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-gch01">
+                <head>GRAND CONTINENTAL HOTEL</head>
+                <p>Open all the year. Unrivalled position in centre of Cairo, opposite Khedivial
+                    Opera House and Esbekieh Gardens. Magnificent Verandah, French Restaurant and
+                    Grill-room, Bars and Billiard Saloons open to non-residents. Supper after the
+                    theatre.</p>
+                <p>GEORGE NUNGOVICH HOTELS</p>
+                <p><measure type="indexNo">26801-31-3-906</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>

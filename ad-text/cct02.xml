@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-01-27">January 27, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Calvert's Carbolic Tooth Powder advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-cct02">
+                <p>The first essential for the preservation of the teeth is to keep them
+                    clean. </p>
+                <p>CALVERT'S Carbolic Tooth Powder</p>
+                <p>makes the use of your toothbrush so much more complete and satisfactory, because
+                    it perfects the cleansing, and also supplies the necessary antiseptic
+                    properties.</p>
+                <p>It is thoroughly pleasant to use, too, and leave a clean refreshing taste in the
+                    mouth.</p>
+                <p>F.C. CALVERT &amp; Co., Manchester, Eng.</p>
+                <p>Calvert's Prickly-heat Soap</p>
+                <p>is delightful for bath and toilet use, and being antiseptic, alleviates
+                    the annoyance of prickly-heat or other skin irritation.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
