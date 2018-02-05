@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-02-04">February 4, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Papier Wlinsi advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-pwl02" xml:lang="fr">
+                <p>Se méfier des imitations du</p>
+                <p>Papier Wlinsi</p>
+                <p>Plus de 30 Années de Succès attestent l'efficacité de ce puissant dérivatif
+                    recommandé par les Médecins pour la</p>
+                <p>Guérison rapide des Rhumes, Irritations de Poitrine, Maux de Gorge, Douleurs,
+                    Rhumatismes, etc.</p>
+                <p>Exiger le nom Wlinski.</p>
+                <p>1 FR. 50 LA BOITE DANS TOUTE LES PHARMACIES.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

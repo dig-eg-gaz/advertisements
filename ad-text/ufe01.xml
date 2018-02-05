@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-02-04">February 4, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Underwriters' Fire Extinguisher advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-ufe01">
+                <head>PROTECTION AGAINST FIRE</head>
+                <p>The Underwriters' Fire Extinguisher</p>
+                <p>Over Five Hundred new in use in Egypt and the Sudan.</p>
+                <p>Simplicity, Reliability, Efficacy.</p>
+                <p>Write for illustrated circulars and full particulars.</p>
+                <p>Sole agents: Thos. Hinshelwood &amp; Co.</p>
+                <p>Alexandria.</p>
+                <p><measure type="indexNo">21-1-907</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>

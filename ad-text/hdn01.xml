@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-02-04">February 4, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Hotel du Nil, Cairo advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-hdn01">
+                <head>Hotel Du Nil, Cairo.</head>
+                <p>The Most Quiet and Comfortable First Class Hotel.</p>
+                <p>Highest situation. Excellent Cuisine. Restaurant à la Carte at all time.
+                    Recherché Lunch and Dinner served on the Open Air Verandahs and beautiful
+                    gardens of the Hotel.</p>
+                <p>Afternoon Tea. Visitors to the Bazaars should lunch here. </p>
+                <p>Charges Moderate.</p>
+                <p><measure type="indexNo">26510-31-3 906</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>

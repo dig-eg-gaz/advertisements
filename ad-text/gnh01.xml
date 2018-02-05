@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-02-04">February 4, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The George Nungovich Hotels advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-gnh01">
+                <head>The George Nungovich Hotels</head>
+                <p><hi rend="bold">Grand Hotel, Helouan</hi>.- Finest and most luxurious Hotel near
+                    Cairo. Patronized by Royalty. Moderate charges. Special terms for residents.</p>
+                <p><hi rend="bold">Hotel des Bains</hi>.- Most comfortable hotel, opposite the
+                    Baths. Pension from P.T. 40. Attached to the above hotels and specially reserved
+                    for their clients are the Golf Links (18 holes) with English Professional. Own
+                    Golf House in the dessert.</p>
+                <p><hi rend="bold">Sulphur Bath Establishment</hi>.- Sulphur water stronger than any
+                    in Europe. Eight European Masseurs and Masseuses. Every modern improvement.</p>
+                <p><measure type="indexNo">36801-1-4-906</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>

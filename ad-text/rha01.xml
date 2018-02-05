@@ -2,51 +2,78 @@
 <?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
 ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-      <fileDesc>
-          <titleStmt>
-              <title level="m" type="main">Egyptian Gazette</title>
-              <title level="m" type="sub">An encoded transcription</title>
-              <editor>Ian Bolger</editor>
-              <principal>Will Hanley</principal>
-          </titleStmt>
-          <editionStmt>
-              <edition>
-                  <date when="2018-02-03">February 3, 2018</date>
-              </edition>
-          </editionStmt>
-          <publicationStmt>
-              <publisher>FSU University Libraries</publisher>
-              <pubPlace>Tallahassee, FL</pubPlace>
-          </publicationStmt>
-          <sourceDesc>
-              <bibl>
-                  <title>Reisebureau der Hamburg-Amerika Line advertisement</title>
-              </bibl>
-          </sourceDesc>
-      </fileDesc>
-  </teiHeader>
-  <text>
-      <body>
-          <div type="advert" xml:id="deg-ad-rha01">
-              <head>Reisebureau der Hamburg-Amerika Line</head>
-              <p>Tickets for Railways and Steamers to all parts of the World.</p>
-              <p><hi rend="bold">PALESTINE TOURS</hi>, Jerusalem to Damascus overland, with
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Ian Bolger</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-02-03">February 3, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Reisebureau der Hamburg-Amerika Line advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-rha01">
+                <head>Reisebureau der Hamburg-Amerika Line</head>
+                <p>Tickets for Railways and Steamers to all parts of the World.</p>
+                <p><hi rend="bold">PALESTINE TOURS</hi>, Jerusalem to Damascus overland, with
                     accommodation at comfortable country Hotels of the Hamburg-American Line. 9
                     independent tours through Palestine and Syria at moderate charges including
                     anything. Ask for pamphlet "The Holyland."</p>
-                <p><name>S.Y. Meteor</name> from <placeName>Genoa</placeName> <date when="1906-05-05">May 5th</date> to <placeName>Hamburg</placeName>.</p>
-                <p><name>S.Y. Prinzesein Victorial Luise</name> from <placeName>Genoa</placeName> <date when="1906-05-22">May 22nd</date> to <placeName>Hamburg</placeName>.</p>
-                <p><name>S.Y. Meteor</name> from <placeName>Hamburg</placeName> to <placeName>the Fjords</placeName> <date when="1906-06-17">June 17th</date>, <date when="1906-07-02">July 2nd</date>, <date when="1906-08-02">August 2nd</date> &amp;
-                    <date when="1906-08-17">17th</date>.</p>
-                <p><name>S.Y. Prinz. Victoria Luise</name> from <placeName>Hamburg</placeName> to <placeName>the Fjords</placeName>, <placeName>the Northcape</placeName> and
-                    Spitzbergen, <date when="1906-06-28">June 28th</date>, <date when="1906-07-18">July 18th</date>, <date when="1906-08-11">August 11th</date>.</p>
-                <p><name>S.S. Bluche</name>r from <placeName>Hamburg</placeName> to <placeName>Spitzerbergen</placeName>, <date when="1906-07-03">July 3rd</date>.</p>
-                <p><name>S.S. Oceana</name> from <placeName>Hamburg</placeName> to <placeName>Iceland</placeName> &amp; <placeName>Spitzbergen</placeName> <date when="1906-07-05">July 5th</date>, <date when="1906-08-04">August 4th</date>.</p>
-              <p>Offices at CAIRO (Continental Hotel), Port Said, Jaffa, Jerusalem, Haifa, Beyrouth, Constantinople, Athens.</p>
-              <p>Chief Office BERLIN, W.</p>
-              <p><measure type="indexNo">26969-30-4-906</measure></p>
-          </div>
-      </body>
-  </text>
+                <table rows="3" cols="4">
+                    <head>PLEASURE AND HEALTH CRUISE.</head>
+                    <row>
+                        <cell><name>S.Y. Meteor</name> from <placeName>Genoa</placeName>
+                            <date when="1906-05-05">May 5th</date> to
+                            <placeName>Hamburg</placeName>.</cell>
+                        <cell><name>S.Y. Prinz. Victoria Luise</name> from
+                                <placeName>Hamburg</placeName> to <placeName>the Fjords</placeName>,
+                                <placeName>the Northcape</placeName> and Spitzbergen, <date
+                                when="1906-06-28">June 28th</date>, <date when="1906-07-18">July
+                                18th</date>, <date when="1906-08-11">August 11th</date>.</cell>
+                    </row>
+                    <row>
+                        <cell><name>S.Y. Prinzesein Victorial Luise</name> from
+                                <placeName>Genoa</placeName>
+                            <date when="1906-05-22">May 22nd</date> to
+                                <placeName>Hamburg</placeName>.</cell>
+                        <cell><name>S.S. Bluche</name>r from <placeName>Hamburg</placeName> to
+                                <placeName>Spitzerbergen</placeName>, <date when="1906-07-03">July
+                                3rd</date>.</cell>
+                    </row>
+                    <row>
+                        <cell><name>S.Y. Meteor</name> from <placeName>Hamburg</placeName> to
+                                <placeName>the Fjords</placeName>
+                            <date when="1906-06-17">June 17th</date>, <date when="1906-07-02">July
+                                2nd</date>, <date when="1906-08-02">August 2nd</date> &amp; <date
+                                when="1906-08-17">17th</date>.</cell>
+                        <cell><name>S.S. Oceana</name> from <placeName>Hamburg</placeName> to
+                                <placeName>Iceland</placeName> &amp;
+                                <placeName>Spitzbergen</placeName>
+                            <date when="1906-07-05">July 5th</date>, <date when="1906-08-04">August
+                                4th</date>.</cell>
+                    </row>
+                </table>
+                <p>Offices at CAIRO (Continental Hotel), Port Said, Jaffa, Jerusalem, Haifa,
+                    Beyrouth, Constantinople, Athens.</p>
+                <p>Chief Office BERLIN, W.</p>
+                <p><measure type="indexNo">26969-30-4-906</measure></p>
+            </div>
+        </body>
+    </text>
 </TEI>

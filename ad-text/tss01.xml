@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-02-04">February 4, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Thomas &amp; Sons advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-tss01">
+                <head>Thomas &amp; Sons</head>
+                <p>SPORTING TAILORS &amp; BREECHES MAKERS</p>
+                <p>32, BROOK STREET, LONDON, W.</p>
+                <p>SHOOTING, HUNTING, and FISHING SPECIALTIES.</p>
+                <p>RACING, POLO and MUFTI BREECHES of every Description.</p>
+                <p>Thomas &amp; Sons' representative, Mr. E.L. Botham, is now in Egypt for the Cairo
+                    Season and will be glad to receive orders for either sporting or ordinary
+                    clothes to be executed at their London establishment and fitted in Egypt.</p>
+                <p>Addresses: Hotel Metropole, Cairo; Hotel Abbat, Alexandria.</p>
+                <p>THOMAS &amp; SONS, 32, BROOK STREET, W.</p>
+                <p>Telegrams: Sportingly, London.</p><p><measure type="indexNo">26536-9-4-906</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>
