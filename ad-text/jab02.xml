@@ -20,15 +20,15 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title>Egyptian Engineering Co advertisement</title>
+                    <title>Jessop &amp; Appleby Bros. / Egyptian Engineering Co advertisement</title>
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
         <body>
-            <div type="advert" xml:id="deg-ad-eec01">
-                <p>Jessop &amp; Appleby Bros., Limited</p>
+            <div type="advert" xml:id="deg-ad-jab02">
+                <head>Jessop &amp; Appleby Bros., Limited</head>
                 <p>Cranes, Excavators, Transporters, Concrete Mixers, Pile Drivers, Contractors
                     Plant.</p>
                 <p>Midland Railway Carriage &amp; Wagon Co. Ld.</p>

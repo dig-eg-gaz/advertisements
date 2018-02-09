@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-02-08">February 8, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sulzer Brothers advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-sub01">
+                <head>SULZER BROTHERS.</head>
+                <p>WINTERTHUR, Switzerland.</p>
+                <p>Steam Engines of all sizes. Steam Turbines, Boilers, and Superheaters, Diesel Oil
+                    Engines. Pumps of various systems, particularly Sukers’ high and low lift
+                    Centrifugal Pumps. Fans of all kinds. Steam and hot water heating. Ice &amp;
+                    Refrigerating Machinery (Linde system).</p>
+                <p>General Representative for Egypt &amp; the Sudan</p>
+                <p>P. A. GERAKIS, Engineer.</p>
+                <p>Rue Cherif Pacha, No. 26, ALEXANDRIA. </p>
+                <p>Telegrams : GERAKIS. P.O.B. 117.</p>
+                <p>Engineer of Sulzer Brothers</p>
+                <p>E. NAEFF,</p>
+                <p>Maison Caneri, Place de la Cie. des Eaux, CAIRO.</p>
+                <p>Telegrams: CEBSULZER. P.O.B. 1095.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
