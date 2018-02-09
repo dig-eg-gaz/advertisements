@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-02-09">February 9, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Mackie's White Horse Cellar advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-whc02">
+                <p> THE GREATEST care should be taken in what we eat and drink, yet we are too often
+                    indifferent and careless, notwithstanding health depends on what we eat and
+                    drink.</p>
+                <p>In regard to drink nothing but the best should be taken. It costs no more than
+                    the indifferent quality, if people would only ask for what they know is the best
+                    Old Scotch Whisky is the most wholesome beverage yet known Mackie's Scotch
+                    Whisky gives an undoubted guarantee to those who are not judges of quality.</p>
+                <p> CITY ANALYSTS LABORATORY, </p>
+                <p> 138 BATH STREET, </p>
+                <p> GLASC0W, 8th October, 1906. </p>
+                <p>I hereby certify that I have taken samples of every vatting of <hi rend="bold"
+                        >Mackie's White Horse Celler</hi> Blend of Scotch Whisky used in bottling
+                    during the month of September, and the results of my analyses indicate that it
+                    conforms to the standard for Pot Still Scotch Whisky set up in the London case.
+                    I am also of opinion that it is an old Whisky of excellent quality and flavour,
+                    which has been well matured in wood.</p>
+                <p> JOHN CLARK, Ph.D., F.C.S., F.I.C., </p>
+                <p><hi rend="italic">Public Analyst for the City of Glasgow and the Counties of
+                        Lanark, Renfrew, &amp;c.</hi></p>
+                <p>N.B.—This Whisky is the same as supplied to the Red Cross Society, London, to the
+                    House of Lords and House of Commons.</p>
+                <p> N. SPATHIS, Agent. </p>
+                <p>CAIRO and ALEXANDRIA.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
