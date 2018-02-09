@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-02-09">February 9, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>T. A. Spartali &amp; Co. advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-tas02">
+                <head> CARPETS. </head>
+                <p>TURKEY PERSIA</p>
+                <p>T. A.SPARTALI &amp; Co</p>
+                <p>Largest manufacturers in the world of Oriental carpets, all hand made </p>
+                <p>Pure vegetable dyes </p>
+                <p>Large exporters of old antique carpets</p>
+                <p> Head Office In Smyrna </p>
+                <p>ESTABLISHED IN 1842.</p>
+                <p>BRANCHES.</p>
+                <p>CAIRO Savoy Hotel Corner </p>
+                <p>ALEXANDRIA 11 Rue Porte Rosett</p>
+                <p>LONDON 3 and 14 Camomile Street </p>
+                <p>PARIS 5 Rue Grétry.</p>
+                <p>Looms and Dyeing Establishments at all Carpet Centres</p>
+                <p>10,000 Looms — 40,000 Weavers. </p>
+                <p>Orders accepted on any size and colour.</p>
+                <p>RICH COLLECTION OF DESIGNS ORIENTAL AND OTHERS</p>
+                <p><measure type="indexNo">29041-9-6-907</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>

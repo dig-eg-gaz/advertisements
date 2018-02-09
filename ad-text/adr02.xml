@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+          <titleStmt>
+              <title level="m" type="main">Egyptian Gazette</title>
+              <title level="m" type="sub">An encoded transcription</title>
+              <editor>Will Hanley</editor>
+              <principal>Will Hanley</principal>
+          </titleStmt>
+          <editionStmt>
+              <edition>
+                  <date when="2018-02-09">February 9, 2018</date>
+              </edition>
+          </editionStmt>
+          <publicationStmt>
+              <publisher>FSU University Libraries</publisher>
+              <pubPlace>Tallahassee, FL</pubPlace>
+          </publicationStmt>
+          <sourceDesc>
+              <bibl>
+                  <title>AU DE ROUGE advertisement</title>
+              </bibl>
+          </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div type="advert"  xml:id="deg-ad-adr02">
+              <head>“AU DE ROUGE."</head>
+              <p>GENERAL DRAPERY ETABLISHMENT.</p>
+              <p>(Central Tramway Station), CAIRO.</p>
+              <p><hi rend="bold">P. PLUNKETT, </hi></p>
+                <p>(PROPRIETOR).</p>
+              <p>DIRECT IMPORTER OF BRITISH AND IRISH TEXTILE MANUFACTURES.</p>
+                <p><hi rend="italic">The following Departments are newly stocked with the seasons
+                        goods.</hi></p>
+                <p>Ladies’ &amp; Children’s Dress Material </p>
+                <p>Ladies’ &amp; Children’s Ready Made Articles</p>
+                <table>
+                    <row>
+                        <cell>Embroidery.</cell>
+                        <cell>Millinery.</cell>
+                    </row>
+                    <row>
+                        <cell>Lace</cell>
+                        <cell>Corsets</cell>
+                    </row>
+                    <row>
+                        <cell>Haberdashery.</cell>
+                        <cell>Veiling.</cell>
+                    </row>
+                    <row>
+                        <cell>Hosiery.</cell>
+                        <cell>Gloves.</cell>
+                    </row>
+                    <row>
+                        <cell>Handkerchiefs.</cell>
+                        <cell>Sunshades.</cell>
+                    </row>
+                    <row>
+                        <cell>Ribbon.</cell>
+                        <cell>Chiffons.</cell>
+                    </row>
+                    <row>
+                        <cell>Silks</cell>
+                        <cell>Towels.</cell>
+                    </row>
+                </table>
+                <p>Men’s Irish Made Dress Shirts. </p>
+                <p>Irish Linen Goods.</p>
+                <p> </p>
+          </div>
+      </body>
+  </text>
+</TEI>

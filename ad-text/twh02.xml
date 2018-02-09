@@ -12,7 +12,7 @@
           </titleStmt>
           <editionStmt>
               <edition>
-                  <date when="2016-09-29">September 29, 2016</date>
+                  <date when="2018-02-09">February 9, 2018</date>
               </edition>
           </editionStmt>
           <publicationStmt>
@@ -21,22 +21,21 @@
           </publicationStmt>
           <sourceDesc>
               <bibl>
-                  <title>CHAMPAGNE GEORGE GOULET advertisement</title>
+                  <title>The Tosh Whisky advertisement</title>
               </bibl>
           </sourceDesc>
       </fileDesc>
   </teiHeader>
   <text>
       <body>
-          <div type="advert" xml:id="deg-ad-cgg01">
-              <head>CHAMPAGNE GEORGE GOULET.</head>
-              <p>BY SPECIAL APPOINTMENT TO HIS MAJESTY THE KING.</p>
-              <p>REIMS.</p>
-              <p>SOLE AGENT IN EGYPT AND SUDAN,</p>
-              <p>NICOLA G. SABBAG</p>
-              <p>ALEXANDRIA, 2, Rue de la Gare du Caire</p>
-              <p>Telephone; No. 559.</p>
-              <p><measure type="indexNo">24528-15-3-905</measure></p>
+          <div type="advert" xml:id="deg-ad-twh02">
+              <head>The Tosh Whisky</head>
+              <p>Established 1726.</p>
+              <p>Mackintosh &amp; C. Inverness.</p>
+              <p>Agent: Ernest Thoron, Cairo &amp; Alexandria.</p>
+                <p>General Depot John Ross &amp; Co. Alexandria</p>
+              <p>Retailers. E. J. Fleurent, Square Halim Pacha, Cairo.</p>
+              <p><measure type="indexNo">126625-30-4-907</measure></p>
           </div>
       </body>
   </text>
