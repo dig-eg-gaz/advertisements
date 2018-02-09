@@ -11,7 +11,7 @@
             </titleStmt>
             <editionStmt>
                 <edition>
-                    <date when="2017-04-11">April 11, 2017</date>
+                    <date when="2018-02-08">February 8, 2018</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -20,22 +20,17 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title>W. H. Allen advertisement</title>
+                    <title>Cairo Sewage Transport advertisement</title>
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
         <body>
-            <div type="advert" xml:id="deg-ad-wha01">
-                <head>W. H. ALLEN, Son &amp; Co., Ltd.</head>
-                <p>OUEEN’S ENGINEERING WORKS.</p>
-                <p>Bedford. England.</p>
-                <p>Makers of the well-known “CONQUEROR” Centrifugal Pump &amp; Pumping Engines; also
-                    of Dynamos and High-Speed Economical Steam-Engines.</p>
-                <p>Representative: F. C. BEVAN,</p>
-                <p>2, Ibrahim Bey Wafa's Building, Sh. Gama Charkasse, Cairo,</p>
-                <p><measure>28580-18-12-906</measure></p>
+            <div type="advert" xml:id="deg-ad-cst02" xml:lang="fr">
+                <p>Engrais Organiques</p>
+                <p>Cairo Sewage Transport Cy., Ld.</p>
+                <p>Sharia el Cherifein No 1 près la National Bank, Le Caire.</p>
             </div>
         </body>
     </text>
