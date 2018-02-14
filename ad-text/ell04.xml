@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Huaqing Shi</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-02-14">February 14, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>THE PAPAYANNI LINE.</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-ell04">
+                <head>THE PAPAYANNI LINE.</head>
+                <head type="sub">(The Ellerman Lines, Ltd.)</head>
+                <p>Frequent Sailings from ALEXANDRIA to LIVERPOOL, also Regular Services
+                    from LIVERPOOL to ALEXANDRIA and to ALGERIA, MALTA, LEVANT, BLACK SEA,
+                    and other Mediterranean Ports.</p>
+                <p>Excellent Passenger Accommodation. Stewardess carried. Liberal table and
+                    Moderate Fares for single and return tickets.</p>
+                <p>The <name>S S. SARDINIA</name> will sail for
+                    <placeName>Liverpool</placeName> in few days.</p>
+                <p>CARGO taken by special agreement only. Through Freights quoted for the
+                    UNITED STATES and INLAND TOWNS in GREAT BRITAIN.</p>
+                <p>For passage or freight apply to the Agents, BARKER &amp; Co., Alexandria.
+                    <measure type="indexNo">17-4-905</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>
