@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Alexia Horton</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2017-04-11">April 11, 2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Jessop &amp; Appleby Bros. / Egyptian Engineering Co advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-eec02">
+                <head>Jessop &amp; Appleby Bros., Limited</head>
+                <p>Cranes, Excavators, Transporters, Concrete Mixers, Pile Drivers, Contractors
+                    Plant.</p>
+                <p>Midland Railway Carriage &amp; Wagon Co. Ld.</p>
+                <p>Railway Carriages, Wagons and Trucks.</p>
+                <p>G.R Turner, Limited.</p>
+                <p>Light Railway Material</p>
+                <p>Tees side Bridge &amp; Engineering Works Ltd.</p>
+                <p>Steel and Iron Bridges.</p>
+                <p>Constructional Steel and Iron Work.</p>
+                <p>Hunter and English</p>
+                <p>Dredgers and Rice Mills</p>
+                <p>Egyptian House:</p>
+                <p>The Egyptian Engineering Co., Ltd.</p>
+                <p>Maison Spiro, Sharia Kasr-el-Nil, <placeName>Cairo</placeName></p>
+                <p>Telephone 1542. </p>
+                <p>Cables: Anglogypt, <placeName>Cairo</placeName></p>
+            </div>
+        </body>
+    </text>
+</TEI>

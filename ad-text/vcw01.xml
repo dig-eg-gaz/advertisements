@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-02-13">February 13, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Victoria Carriage Works advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-vcw01">
+                <head>VICTORIA CARRIAGE WORKS, LTD.</head>
+                <p>THE LEADING LONDON COACHBUILDERS.</p>
+                <p>24, 25, 26, 121 &amp; 122 Long Acre, London.</p>
+                <p>Speciality: Deep Canoe Parisian shape Victoria, the smartest Victoria the world
+                    produces, beautifully finished, and luxuriously upholstered, rubber tyres.
+                    Special export price, packed and delivered at Egyptian port, £125.</p>
+                <p>CATALOGUE FREE.</p>
+                <p><measure type="indexNo">29150-39A</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>

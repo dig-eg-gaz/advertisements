@@ -6,12 +6,12 @@
             <titleStmt>
                 <title level="m" type="main">Egyptian Gazette</title>
                 <title level="m" type="sub">An encoded transcription</title>
-                <editor>Alexia Horton</editor>
+                <editor>Will Hanley</editor>
                 <principal>Will Hanley</principal>
             </titleStmt>
             <editionStmt>
                 <edition>
-                    <date when="2017-04-11">April 11, 2017</date>
+                    <date when="2018-02-08">February 8, 2018</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -20,26 +20,18 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title>Jessop &amp; Appleby Bros. / Egyptian Engineering Co advertisement</title>
+                    <title>Midland Railway / The Egyptian Engineering Co., Ltd. advertisement</title>
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
         <body>
-            <div type="advert" xml:id="deg-ad-jab02">
-                <head>Jessop &amp; Appleby Bros., Limited</head>
-                <p>Cranes, Excavators, Transporters, Concrete Mixers, Pile Drivers, Contractors
-                    Plant.</p>
-                <p>Midland Railway Carriage &amp; Wagon Co. Ld.</p>
-                <p>Railway Carriages, Wagons and Trucks.</p>
-                <p>G.R Turner, Limited.</p>
-                <p>Light Railway Material</p>
-                <p>Tees side Bridge &amp; Engineering Works Ltd.</p>
-                <p>Steel and Iron Bridges.</p>
-                <p>Constructional Steel and Iron Work.</p>
-                <p>Hunter and English</p>
-                <p>Dredgers and Rice Mills</p>
+            <div type="advert" xml:id="deg-ad-eec03">
+                <head>MIDLAND RAILWAY</head>
+                <p>CARRIAGE &amp; WAGON Co. Ltd.</p>
+                <p>RAILWAY CARRIAGES &amp; WAGONS</p>
+                <p>TRAM CARS</p>
                 <p>Egyptian House:</p>
                 <p>The Egyptian Engineering Co., Ltd.</p>
                 <p>Maison Spiro, Sharia Kasr-el-Nil, <placeName>Cairo</placeName></p>
