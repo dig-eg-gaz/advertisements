@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-02-27">February 27, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Davey Paxman &amp; Co. Ltd. advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-dpc01">
+                <head>Davey Paxman &amp; Co., Ltd.</head>
+                <p>Colchester, England.</p>
+                <p>Makers of high class steam engines and boilers for British, Colonial, and Foreign
+                    Governments. Celebrated for ECONOMY and DURABILITY.</p>
+                <p>Philadelphia Sweden Denmark Germany etc., etc.</p>
+                <p>Awarded only Gold Medal, ever given by the Royal So. of Arts and Gold Medals at
+                    the following Exhibitions:- London; Vienna 1873; Paris</p>
+                <p>Compound Portable Engines. Horizontal Engines, Vertical Engines Quick Speed
+                    Engines Engines for Electric Light</p>
+                <p>Paxman Flue &amp; Tube Dry Back Boilers</p>
+                <p>Verticals, Langasrite &amp; Compound Steam Engines.</p>
+                <p>Davey Paxman &amp; Co.'s Trip Geared Engine gives off a full horse power for one
+                    hour at 1 1/4 lbs. of fuel. At the great trial of Com- pound, Portable and
+                    Single Cylinder Steam Engines by the Royal Agricultural Society at Newcastle
+                    open to the whole world, Davey Paxman &amp; Co. took the only prizes offered,
+                    establishing a record which has not yet been equalled.</p>
+                <p>Agents in Egypt</p>
+                <p>Messrs. HASSABO BEY MAHOMED &amp; Co.</p>
+                <p>Alexandria.</p>
+                <p>Who have a big stock of engines and boilers always on view. </p>
+                <p>1st Khedive's Street. (Telephone 225) <measure type="indexNo">22-11-904</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>

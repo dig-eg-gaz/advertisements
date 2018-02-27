@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-02-27">February 27, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Shrager Brothers advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-shr01">
+                <head>Shrager Brothers.</head>
+                <p>London Calcutta Alexandria.</p>
+                <p>Singapore and Colombo (Ceylon)</p>
+                <p>Merchants in Jute and Jute Fabric (Gunny Bags).</p>
+                <table rows="15" cols="7">
+                    <row>
+                        <cell cols="3">(HESSIANS) </cell>
+                        <cell cols="2">Free all Delta Villages</cell>
+                        <cell cols="2">Free in Bond Alexandria</cell>
+                    </row>
+                    <row>
+                        <cell cols="3">COTTON PACKS. (tarsewn and hemmed)</cell>
+                        <cell>P.T.</cell>
+                        <cell>Par.</cell>
+                        <cell>sh.</cell>
+                        <cell>d.</cell>
+                    </row>
+                    <row>
+                        <cell>3 ¼ lb</cell>
+                        <cell>(85" by 45")</cell>
+                        <cell>(11 by 11)</cell>
+                        <cell>5</cell>
+                        <cell>25</cell>
+                        <cell>–</cell>
+                        <cell>–</cell>
+                    </row>
+                    <row>
+                        <cell>do</cell>
+                        <cell>do</cell>
+                        <cell>(11 by 10)</cell>
+                        <cell>–</cell>
+                        <cell>–</cell>
+                        <cell>–</cell>
+                        <cell>–</cell>
+                    </row>
+                    <row>
+                        <cell>do</cell>
+                        <cell>do</cell>
+                        <cell>(9 by 10)</cell>
+                        <cell>5</cell>
+                        <cell>20</cell>
+                        <cell>–</cell>
+                        <cell>–</cell>
+                    </row>
+                    <row>
+                        <cell>3 lb</cell>
+                        <cell>do</cell>
+                        <cell>(11 by 10)</cell>
+                        <cell>–</cell>
+                        <cell>–</cell>
+                        <cell>–</cell>
+                        <cell>–</cell>
+                    </row>
+                    <row>
+                        <cell>do</cell>
+                        <cell>do</cell>
+                        <cell>(9 by 10)</cell>
+                        <cell>5</cell>
+                        <cell>10</cell>
+                        <cell>–</cell>
+                        <cell>–</cell>
+                    </row>
+                    <row>
+                        <cell cols="3">ONION POCKETS (tarsewn and hemmed)</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>12 ½ oz</cell>
+                        <cell>(40" by 22 ½")</cell>
+                        <cell>(9 by 10)</cell>
+                        <cell>–</cell>
+                        <cell>37</cell>
+                        <cell>–</cell>
+                        <cell>–</cell>
+                    </row>
+                    <row>
+                        <cell cols="3">(TWILLS)</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell cols="3">GRAIN SACKS (tarsewn and hemmed)</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>5 lb</cell>
+                        <cell>(60" by 30")</cell>
+                        <cell>(8 by 9)</cell>
+                        <cell>4</cell>
+                        <cell>8</cell>
+                        <cell>–</cell>
+                        <cell>–</cell>
+                    </row>
+                    <row>
+                        <cell>3 ¼ lb</cell>
+                        <cell>(60" by 30")</cell>
+                        <cell>(8 by 7)</cell>
+                        <cell>3</cell>
+                        <cell>12</cell>
+                        <cell>–</cell>
+                        <cell>–</cell>
+                    </row>
+                    <row>
+                        <cell cols="3">SUGAR BAGS (tarsewn and hemmed)</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>5 ¼ lb</cell>
+                        <cell>(42" by 29")</cell>
+                        <cell>(7 by 8)</cell>
+                        <cell>2</cell>
+                        <cell>5</cell>
+                        <cell>–</cell>
+                        <cell>–</cell>
+                    </row>
+                </table>
+                <p><measure type="indexNo">3-10-904</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>
