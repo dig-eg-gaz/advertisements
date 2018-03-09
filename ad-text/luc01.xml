@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="advertisement" xml:id="deg-ad-luc01">
+            <div type="advert" xml:id="deg-ad-luc01">
                 <head>LAW UNION AND CROWN INSURANCE COMPANY OF LONDON, ENGLAND. (Established
                     1825.)</head>
                 <table rows="1" cols="2">
