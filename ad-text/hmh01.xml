@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-03-12">March 12, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Hoff's Malt Homax advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-hmh01">
+                <head>Hoff's Malt HOMAX</head>
+                <p>Ideal Food Beverage for Convalescents</p>
+                <p>and all who highly tax their strength in a hot climate, through strenuous work or
+                    sporting life.</p>
+                <p>Practically non-alcoholic</p>
+                <p>Homax is a delicious tonic.</p>
+                <p>Homax creates appetite.</p>
+                <p>Homax digests food.</p>
+                <p>Homax invigorates the nervous.</p>
+                <p>SOLE MANUFACTURER-</p>
+                <p>M. HOFF, Hamburg, Germany.</p>
+                <p><measure type="indexNo">30192-30-10-907</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>
