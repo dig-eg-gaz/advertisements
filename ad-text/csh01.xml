@@ -12,7 +12,7 @@
           </titleStmt>
           <editionStmt>
               <edition>
-                  <date when="2016-09-29">September 29, 2016</date>
+                  <date when="2018-03-14">March 14, 2018</date>
               </edition>
           </editionStmt>
           <publicationStmt>
@@ -21,17 +21,18 @@
           </publicationStmt>
           <sourceDesc>
               <bibl>
-                  <title>GRAND HOTEL BONNARD advertisement</title>
+                  <title>Cairo-Savoy Hotel advertisement</title>
+                  <date when="1905-01-02">January 2, 1905</date>
               </bibl>
           </sourceDesc>
       </fileDesc>
   </teiHeader>
   <text>
       <body>
-          <div type="advert" xml:id="deg-ad-ghb01">
-              <head>GRAND HOTEL BONNARD, ALEXANDRIA.</head>
-              <p>2s. PER DAY. WINE INCLUDED.</p>
-              <p><measure type="indexNo">22855-16.7</measure></p>
+          <div type="advert" xml:id="deg-ad-csh01">
+              <head>CAIRO-SAVOY HOTEL.</head>
+              <p>Is Now Open.</p>
+              <p><measure type="indexNo">31-3-905</measure></p>
           </div>
       </body>
   </text>

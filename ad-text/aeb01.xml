@@ -31,9 +31,24 @@
           <div type="advert"  xml:id="deg-ad-aeb01">
               <head>THE ANGLO-EGYPTIAN BANK, LIMITED.</head>
               <p>LONDON, PARIS ALEXANDRIA, CAIRO MALTA, GIBRALTAR, TANTAH, AND PORT SAID.</p>
-              <p>Subscribed Capital JS1.500,000</p>
-              <p> Paid up '' £ 500,000</p>
-              <p>Reserve Fund... 500,000</p>
+                <p>
+                    <table rows="3" cols="2">
+                        <row>
+                            <cell>
+                                <p>Subscribed Capital</p>
+                            </cell>
+                            <cell> £ 1.500,000</cell>
+                        </row>
+                        <row>
+                            <cell>Paid up , , </cell>
+                            <cell>£ 500,000</cell>
+                        </row>
+                        <row>
+                            <cell>Reserve Fund... </cell>
+                            <cell>£ 500,000</cell>
+                        </row>
+                    </table>
+                </p>
               <p>The Anglo-Egyptian Bank. Limited, undertakes every description of banking
                     business on the most favourable conditions.</p>
               <p>Current accounts opened with commercial homes and private individuals in

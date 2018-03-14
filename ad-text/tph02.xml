@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Jacob Baenen</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-03-14">March 14, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Tewfik Palace Hotel advertisement</title>
+                    <date when="1905-01-02">January 2, 1905</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-tph02">
+                <head>WHERE TO WINTER IN EGYPT.<lb/>The Tewfik Palace Hotel.</head>
+                <p>Telephone No. 5 Helouan.</p>
+                <p>Tel. Address "Tewfik, Helouan."</p>
+                <p>If you seek Health, Rest, and Recreation, Do not Fail to Visit Helouan.</p>
+                <p>"The Tewfik is Helouan and Helouan is the Tewfik."</p>
+                <p>The Tewfik-Helouan,"should be known to all who purpose to visit Egypt. – <hi
+                        rend="italic">Glasgow Herald</hi>.</p>
+                <p>The Tewfik-Helouan,"is surrounded by pure dessert air under the best possible
+                    conditions." – <hi rend="italic">Lancet</hi>.</p>
+                <p>The Tewfik-Helouan,"enjoys an exceptional position." <hi rend="italic">Egyptian
+                        Gazette</hi>.</p>
+                <p>The Tewfik-Helouan,"views from the windows absolutely charming – <hi
+                        rend="italic">Egyptian Gazette</hi>.</p>
+                <p>Tel Address: </p>
+                <p>"Tewfik, Helouan." </p>
+                <p>Office in Cairo – Stephenson &amp; Co.,(English Chermists), Opera Square,
+                    Telephone 82.</p>
+                <p>General Manager – C.Aquilina,</p>
+                <p>(late of Thos. Cook &amp; Son).</p>
+                <p>Pension from 10/3 per day.</p>
+                <p><measure type="indexNo">24863-15-3-905-4</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Brett Crawford</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-03-14">March 14, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Ghezireh Palace Hotel advertisement</title>
+                    <date when="1905-01-02">January 2, 1905</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-gph01">
+                <head>GHEZIREH PALACE HOTEL.</head>
+                <p>On the bank of the Nile, Formerly the Palace of the late Khedive Ismail.
+                    Transformed into a luxurious hotel.</p>
+                <p>SPLENDID PARK.</p>
+                <p>Renowned for its afternoon-teas on the West Balcony overlooking the Park.
+                    Excellend Tsigane Orchestra, Motor-car running to Shepheard's Hotel and
+                    vice-verse.</p>
+                <p><measure type="indexNo">24951-81-8-905</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>

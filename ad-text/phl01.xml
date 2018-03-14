@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Brett Crawford</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-03-14">March 14, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Paghnon's Hotels, Luxor advertisement</title>
+                    <date when="1905-01-02">January 2, 1905</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-phl01">
+                <head>PAGNON'S HOTELS,<lb/> LUXOR.</head>
+                <p>LUXOR HOTEL.–This old established hotel, accommodating 130 guests, is situated
+                    amid beautiful gardens with entrance on the river. Resident Doctor and Anglican
+                    Chaplain, Billiard Rooms, Bar, Electric Light, and all the conveniences of a
+                    first-class European Hotel. Tennis Court.</p>
+                <p>KARNAK HOTEL.–Under same management. Beautifully situated on river. Nice gardens.
+                    Guests taken on pension. Moderate terms. Excursions arranged to Thebes, Karnak,
+                    etc.</p>
+                <p><measure type="indexNo">24956-31-3-905</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>

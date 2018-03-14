@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Brett Crawford</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-03-14">March 14, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Al Hayat Helouan advertisement</title>
+                    <date when="1905-01-02">January 2, 1905</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-ahh01">
+                <head>"AL HAYAT" Helouan</head>
+                <p>First Class Health Resort</p>
+                <p>Unrivalled Position on the Mokattam Hills</p>
+                <p>96 metres above the level of the Nile, surrounded by desert.</p>
+                <p>All rooms full south with sheltered verandahs</p>
+                <p>Public Sitting Rooms in separate Pavilions communicating by glass corridors.</p>
+                <p>Electric Light–Steam-Heating–Lift.</p>
+                <p>Bathing, Air and Diet Cures. Resident Medical Director. All kinds of sports. Own
+                    stables. Omnibus meets all Trains.</p>
+                <p>Ilustrated Prospectus sent free on appplication</p>
+            </div>
+        </body>
+    </text>
+</TEI>
