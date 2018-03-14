@@ -30,7 +30,7 @@
       <body>
           <div type="advert" xml:id="deg-ad-pri01">
               <head>Prince Line.</head>
-              <table rend="frame" xml:id="Table1">
+              <table rend="frame" xml:id="deg-ta-pri01">
                   <row>
                       <cell>AFRICAN PRINCE</cell>
                       <cell>Tons. 8,000</cell>
@@ -207,7 +207,7 @@
               </table>
               <p>HOMEWARD SAILINGS: -- The S.S. SPARTAN PRINCE is now loading for <placeName>Manchester</placeName>.</p>
               <p>For terms of freight or passage apply to C. J. Grace &amp; Co., Alexandria,
-                    Agents. 31-12-904</p>
+                    Agents. <measure type="indexNo">31-12-904</measure></p>
           </div>
       </body>
   </text>

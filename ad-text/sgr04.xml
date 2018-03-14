@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Jacob Baenen</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-09-01">September 2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sudan Government Railways template</title>
+                    <date when="1905-01-02">January 2, 1905</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-sgr04">
+                <head>SUDAN GOVERNMENT RAILWAYS.</head>
+                <table rows="3" cols="7">
+                    <head>CAIRO-KHARTOUM WINTER MAIL SERVICE.</head>
+                    <row>
+                        <cell>Wednesday* 6:30 p.m. &amp; 8 p.m., &amp; Sunday</cell>
+                        <cell>8 p.m.</cell>
+                        <cell>depart</cell>
+                        <cell>Cairo</cell>
+                        <cell>arrive</cell>
+                        <cell>Tuesday and Saturday</cell>
+                        <cell>7.30 a.m.</cell>
+                    </row>
+                    <row>
+                        <cell>Thursday and Monday</cell>
+                        <cell>7† p.m.</cell>
+                        <cell>depart</cell>
+                        <cell>Shellal</cell>
+                        <cell>depart</cell>
+                        <cell>Monday and Friday</cell>
+                        <cell>9.10 a.m.</cell>
+                    </row>
+                    <row>
+                        <cell>Saturday†† and Wednesday††</cell>
+                        <cell> 8 p.m.</cell>
+                        <cell>depart</cell>
+                        <cell>Halfa</cell>
+                        <cell>depart</cell>
+                        <cell>Saturday and Wednesday</cell>
+                        <cell>9 p.m.</cell>
+                    </row>
+                    <row>
+                        <cell>Monday†† and Friday††</cell>
+                        <cell>12.10 a.m.</cell>
+                        <cell>arrive</cell>
+                        <cell>Khartoum</cell>
+                        <cell>depart</cell>
+                        <cell>Friday†† and Tuesday††</cell>
+                        <cell>3 p.m.</cell>
+                    </row>
+                </table>
+                <p>Mail delivered Cairo, Tues. and Saturday morn., Khartoum, Mon. and Friday morn.
+                    *Dining and Sleeping Cars on Egyptian Railways. † If the mail is on board. ††
+                    Dining and Sleeping Cars on Sudan Railways.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -33,40 +33,32 @@
                 <p>Chief-Office : Sharia Boulac, </p>
                 <p>Grand Continental Hotel Buildings, - Branch office, Opposite Savoy Hotel,
                     Cairo</p>
-                <table rows="4" cols="6">
+                <table rows="4" cols="4">
                     <row role="label">
-                        <cell cols="6"><hi rend="italic">Regular weekly Tourist Steamer Departure
+                        <cell cols="4"><hi rend="italic">Regular weekly Tourist Steamer Departure
                                 between Cairo and Assouan by following steamers </hi>.</cell>
                     </row>
                     <row>
                         <cell>Puritan</cell>
-                        <cell>February</cell>
-                        <cell>3rd</cell>
+                        <cell><date>February 3rd</date></cell>
                         <cell>Puritan</cell>
-                        <cell>February</cell>
-                        <cell>24th</cell>
+                        <cell><date>February 24th</date></cell>
                     </row>
                     <row>
                         <cell>Mayflower</cell>
-                        <cell>February</cell>
-                        <cell>10th</cell>
+                        <cell><date>February 10th</date></cell>
                         <cell>Mayflower</cell>
-                        <cell>March</cell>
-                        <cell>3rd</cell>
+                        <cell><date>March 3rd</date></cell>
                     </row>
                     <row>
                         <cell>Victoria</cell>
-                        <cell>February</cell>
-                        <cell>17th</cell>
+                        <cell><date>February 17th</date></cell>
                         <cell>Victoria</cell>
-                        <cell>March</cell>
-                        <cell>10th</cell>
-                    </row>
-                    <row>
-                        <cell cols="6">Weeklyy SECOND CATARACT SERVICE by the First Class
-                            Tourist Steamer "Indiana"</cell>
+                        <cell><date>March 10th</date></cell>
                     </row>
                 </table>
+                <p>Weekly SECOND CATARACT SERVICE by the First Class
+                    Tourist Steamer "Indiana"</p>
                 <p>AGENTS FOR PRINCIPAL STEAM NAVIGATION COMPANIES</p>
                 <p>Through Bookings to Khartoum and Gondokoro.</p>
                 <p>RAILWAY TICKETS TO ALL PARTS OF EGYPT.<lb/><lb/>FREIGHT SERVICE by steam

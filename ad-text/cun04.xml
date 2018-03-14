@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Brett Crawford</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-01-14">January 14, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Cunard Line advertisement</title>
+                    <date when="1905-01-09">January 9, 1905</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-cun04">
+                <head>Cunard Line.</head>
+                <table>
+                    <row role="label">
+                        <cell cols="2">Trieste-New York</cell>
+                        <cell cols="4">Liverpool-New York</cell>
+                        <cell cols="2">Liverpool-Boston</cell>
+                    </row>
+                    <row>
+                        <cell><name>CARPATHIA</name></cell>
+                        <cell><date when="1904-12-04">Dec. 17</date></cell>
+                        <cell>LUGANIA</cell>
+                        <cell>12,952 tons.</cell>
+                        <cell>UMBRIA</cell>
+                        <cell> 8,127 tons.</cell>
+                        <cell>SAXONIA</cell>
+                        <cell>14,280</cell>
+                    </row>
+                    <row>
+                        <cell><name>ULTONIA</name></cell>
+                        <cell><date when="1905-01-02">Jan. 2</date></cell>
+                        <cell>CAMPANIA</cell>
+                        <cell> 12,950 tons.</cell>
+                        <cell>ETRURIA</cell>
+                        <cell>8,119 tons.</cell>
+                        <cell>IVENIA</cell>
+                        <cell>14,058</cell>
+                    </row>
+                    <row>
+                        <cell><name>SLAVONIA</name></cell>
+                        <cell><date when="1905-01-07">Jan. 7</date></cell>
+                        <cell>CARPATHIA</cell>
+                        <cell>13,564 tons.</cell>
+                        <cell>AURANIA</cell>
+                        <cell>7,525 tons.</cell>
+                        <cell>SYLVANIA</cell>
+                        <cell>5,598</cell>
+                    </row>
+                    <row>
+                        <cell><name>PANNONIA</name></cell>
+                        <cell><date when="1905-01-21">Jan. 21</date></cell>
+                        <cell cols="6" rows="2">Embarking passengers at the Riverside
+                            Railway station, Prince's stage, Liverpool, on Tuesdays and
+                            Saturdays. </cell>
+                    </row>
+                    <row>
+                        <cell><name>CARPATHIA</name></cell>
+                        <cell><date when="1905-02-04">Feb. 4</date></cell>
+                    </row>
+                </table>
+                <p>Royal Mail Steamers, Excellent accomodations. Special rates. Through
+                    tickets from Egypt issued by Agents: Rodacanachi &amp; Co., Alexandria;
+                    Nic. Kirzis, Cairo; R. Broadbent, Port Said. <measure type="indexNo">19-1-905</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>
