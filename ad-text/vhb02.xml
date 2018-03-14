@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+          <titleStmt>
+              <title level="m" type="main">Egyptian Gazette</title>
+              <title level="m" type="sub">An encoded transcription</title>
+              <editor>Will Hanley</editor>
+              <principal>Will Hanley</principal>
+          </titleStmt>
+          <editionStmt>
+              <edition>
+                  <date when="2018-03-14">March 14, 2018</date>
+              </edition>
+          </editionStmt>
+          <publicationStmt>
+              <publisher>FSU University Libraries</publisher>
+              <pubPlace>Tallahassee, FL</pubPlace>
+          </publicationStmt>
+          <sourceDesc>
+              <bibl>
+                  <title>Vienna Hotel Bristol advertisement</title>
+                  <date when="1905-01-02">January 2, 1905</date>
+              </bibl>
+          </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div type="advert" xml:id="deg-ad-vhb02">
+              <head>VIENNA<lb/> HOTEL BRISTOL.--I, KARNTNERRING.</head>
+                <p>The fashionable residence of the elite of European and American society, situated
+                    in the most central and convenietn part of the City. Private suites of
+                    apartments, including drawing, bed and bathroom. Concert during the Five o'clock
+                    Tea and during Dinner.</p>
+                <p>American Bar, Central Heating, Original Otis Lift, Rooms from 5 Kronen
+                    upwards.</p>
+              <p><measure type="indexNo">24800-22.3.905</measure></p>
+          </div>
+      </body>
+  </text>
+</TEI>
