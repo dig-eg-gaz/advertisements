@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-03-15">March 15, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Libby's Dainty Luncheon Meats advertisement</title>
+                    <date when="1905-01-02">January 2, 1905</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-ldl01">
+                <head>Libby's Dainty Luncheon Meats</head>
+                <p>Fresh, Dainty, and Deliciously Flavored</p>
+                <p>Veal Loaf..Potted Turkey..Deviled Ham..Ox Tongue.. &amp; c.</p>
+                <p>Quickly made ready to serve. Put up in convenient sized key-opening cans. Ask
+                    your grocer. If not in stock, he will order it at your request.</p>
+                <p>Prepared only by</p>
+                <p>Libby, McNeill &amp; Libby, Chicago, Ill.</p>
+                <p>Our new edition of "How to Make Good Things to Eat" is sent free for the
+                    asking.</p>
+                <p>General Agent for Egypt and the Orient</p>
+                <p>AUGUSTUS VAN MILLIGEN</p>
+                <p>Windsor Hotel Building, Averoff Street, Alexandria, Egypt.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

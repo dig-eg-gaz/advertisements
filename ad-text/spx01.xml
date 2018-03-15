@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-03-15">March 15, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Sphinx advertisement</title>
+                    <date when="1905-01-02">January 2, 1905</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-spx01">
+                <head>NOTICE TO VISITORS AND RESIDENTS<lb/>THE SPHINX </head>
+                <p>Under Entirely New Management</p>
+                <p>Contains Original Articles of General Interest, and Important Information for the
+                    Guidance of </p>
+                <p>VISITORS TO EGYPT </p>
+                <p>Price per Copy P.T. 2.</p>
+                <p>SUBSCRIPTION For the Season P.T. 30</p>
+                <p>All Communications and Subtcriptions to be addressed to the Editor, </p>
+                <p>Mr. P. P. GRAVES.</p>
+                <p>And for Advertising Space apply to </p>
+                <p>Mr. W. E. WALTON.</p>
+                <p>THE SPHINX Offices, Hotel du Nil, Cairo</p>
+            </div>
+        </body>
+    </text>
+</TEI>

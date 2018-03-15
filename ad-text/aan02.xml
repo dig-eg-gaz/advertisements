@@ -29,12 +29,12 @@
   <text>
       <body>
           <div type="advert" xml:id="deg-ad-aan02">
-              <p>Anglo-American Nile Steamer &amp; Hotel Company</p>
+              <head>Anglo-American Nile Steamer &amp; Hotel Company</head>
               <p>River Transport of Goods Between Alexandria &amp; Cairo</p>
               <p>Three Sailings a-Week.</p>
               <p>Agents at Alexandria:</p>
               <p>Alexandria Bonded Warehouse Co. Ld</p>
-              <p>1.10.904</p>
+              <p><measure type="indexNo">1.10.904</measure></p>
           </div>
       </body>
   </text>
