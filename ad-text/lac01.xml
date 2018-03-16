@@ -22,6 +22,7 @@
             <sourceDesc>
                 <bibl>
                     <title>LONDON ASSURANCE CORPORATION advertisement</title>
+                    <date when="1905-07-10">July 10, 1905</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -30,7 +31,7 @@
         <body>
             <div type="advert" xml:id="deg-ad-lac01">
                 <head>LONDON ASSURANCE CORPORATION.</head>
-                <p>072 Established 1720. - Agents: BANK OF EGYPT, Limited <measure type="indexNo"
+                <p><measure type="indexNo">072</measure> Established 1720. - Agents: BANK OF EGYPT, Limited <measure type="indexNo"
                         >189103</measure></p>
             </div>
         </body>

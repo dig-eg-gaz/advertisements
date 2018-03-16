@@ -22,6 +22,7 @@
           <sourceDesc>
               <bibl>
                   <title>Nile Cold Storage advertisement</title>
+                  <date when="1905-07-13">July 13, 1905</date>
               </bibl>
           </sourceDesc>
       </fileDesc>
@@ -34,7 +35,7 @@
                     etc.</p>
               <p>The Company have opened a shop in the NEW MARKET, CAIRO, Nos. 39 &amp; 40, where
                     the goods imported by them can be inspected and purchased.</p>
-              <p>Telephone No. 1. 5. xxx-xx-xx</p>
+              <p>Telephone No. 1. 5. <measure type="indexNo">xxx-xx-xx</measure></p>
           </div>
       </body>
   </text>

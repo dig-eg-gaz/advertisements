@@ -22,6 +22,7 @@
           <sourceDesc>
               <bibl>
                   <title>Sun Insurance Office advertisement</title>
+                  <date when="1905-07-10">July 10, 1905</date>
               </bibl>
           </sourceDesc>
       </fileDesc>
@@ -31,7 +32,7 @@
           <div type="advert" xml:id="deg-ad-sio01">
               <head>Sun Insurance Office,</head>
               <p>LONDON. Founded 1710.-Total sum insured in 1902 £487,600,000.</p>
-              <p>Agents : LEON HELLER, Cairo, and BEHREND &amp; Co., Alexandria. 16-1-906</p>
+              <p>Agents : LEON HELLER, Cairo, and BEHREND &amp; Co., Alexandria. <measure type="indexNo">16-1-906</measure></p>
           </div>
       </body>
   </text>

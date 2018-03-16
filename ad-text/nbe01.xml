@@ -22,13 +22,14 @@
           <sourceDesc>
               <bibl>
                   <title>National Bank of Egypt advertisement</title>
+                  <date when="1905-07-13">July 13, 1905</date>
               </bibl>
           </sourceDesc>
       </fileDesc>
   </teiHeader>
   <text>
       <body>
-          <div type="advert" xml:id="deg-ad-nbe01">
+          <div type="advert" xml:lang="fr" xml:id="deg-ad-nbe01">
               <head>NATIONAL BANK OF EGYPT.</head>
               <p>CAPITAL: L. 2,500,000. RESERVE (ENVIRON) : L. 862,000.</p>
               <p>Gouverneur: Sir ELWIN PALMER, K.C.B., K.C.M.G.</p>
@@ -39,7 +40,7 @@
               <p>La National Bank of Egypt reçoit des dépots à termes fixes, fait des avances et
                     ouvre des comptes courants sur titres, valeurs et marchandises. Elle s’occupe de
                     l’achat et de la vente d'effets sur l’Etranger, de l'escompte, ainsi que de
-                    toutes opérations de Banque. 31-12-904</p>
+                    toutes opérations de Banque. <measure type="indexNo">31-12-904</measure></p>
           </div>
       </body>
   </text>

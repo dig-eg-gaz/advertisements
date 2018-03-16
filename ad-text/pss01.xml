@@ -22,6 +22,7 @@
           <sourceDesc>
               <bibl>
                   <title>Port Said Savoy Hotel advertisement</title>
+                  <date when="1905-07-10">July 10, 1905</date>
               </bibl>
           </sourceDesc>
       </fileDesc>
@@ -32,7 +33,7 @@
               <head>PORT SAID-SAVOY HOTEL.</head>
               <p>NEW FIRST-CLASS HOTEL, OVERLOOKING THE HARBOUR &amp; OPPOSITE CUSTOM HOUSE</p>
               <p>Open all the year round. — Well-appointed Bar.</p>
-              <p>MODERATE CHARGES. SPECIAL TERMS FOR RESIDENTS 1190A2-5</p>
+              <p>MODERATE CHARGES. SPECIAL TERMS FOR RESIDENTS <measure type="indexNo">1190A2-5</measure></p>
           </div>
       </body>
   </text>

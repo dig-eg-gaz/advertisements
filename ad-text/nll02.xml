@@ -22,6 +22,7 @@
           <sourceDesc>
               <bibl>
                   <title>Norddeutscher Lloyd advertisement</title>
+                  <date when="1905-07-13">July 13, 1905</date>
               </bibl>
           </sourceDesc>
       </fileDesc>
@@ -34,69 +35,56 @@
               <p><name>SCHLESWIG</name> will leave ALEXANDRIA at 4 p.m. July 26, August 30, September 20, etc.</p>
               <p>The following steamers are intended to leave PORT-SAID:</p>
               <table rows="14" cols="3">
-                  <row>
-                      <cell cols="3">HOMEWARD : for Bremen Hamburg via Naples, Genoa, (Gibraltar),
+                  <row role="label">
+                      <cell cols="6">HOMEWARD : for Bremen Hamburg via Naples, Genoa, (Gibraltar),
                             Southampton, Antwerp.</cell>
                   </row>
                   <row>
                       <cell><name>Zieten</name></cell>
                       <cell><measure quantity="9043" unit="ton">9043</measure> Tons</cell>
                       <cell>about <date when="1905-07-14">14 July</date></cell>
+                      <cell><name>Gneisenau</name></cell>
+                      <cell><measure quantity="8881" unit="ton">8881</measure> Tons</cell>
+                      <cell>about <date when="1905-08-14">14 August</date></cell>
+                      
                   </row>
                   <row>
                       <cell><name>Gera</name></cell>
                       <cell><measure quantity="5005" unit="ton">5005</measure> Tons</cell>
                       <cell>about <date when="1905-07-31">31 July</date></cell>
+                      <cell><name>Pr. Regt. Luitpold</name></cell>
+                      <cell><measure quantity="6288" unit="ton">6288</measure> Tons</cell>
+                      <cell>about <date when="1905-08-28">28 August</date></cell>
+                      
                   </row>
                   <row>
                       <cell><name>Sachsen</name></cell>
                       <cell><measure quantity="5026" unit="ton">5026</measure> Tons</cell>
                       <cell>about <date when="1905-07-31">31 July</date></cell>
+                      <cell></cell><cell></cell><cell></cell>
                   </row>
-                  <row>
-                      <cell><name>Gneisenau</name></cell>
-                      <cell><measure quantity="8881" unit="ton">8881</measure> Tons</cell>
-                      <cell>about <date when="1905-08-14">14 August</date></cell>
-                  </row>
-                  <row>
-                      <cell><name>Pr. Regt. Luitpold</name></cell>
-                      <cell><measure quantity="6288" unit="ton">6288</measure> Tons</cell>
-                      <cell>about <date when="1905-08-28">28 August</date></cell>
-                  </row>
-                  <row>
+                  <row role="label">
                       <cell cols="3">OUTWARD: for CHINA and JAPAN via SUEZ, ADEN, COLOMBO, PENANG,
-                            SINGAPORE.</cell>
+                          SINGAPORE.</cell><cell cols="3">For AUSTRALIA via SUEZ, ADEN, COLOMBO.</cell>
                   </row>
                   <row>
                       <cell><name>Prinz E. Friedrich</name></cell>
                       <cell><measure unit="ton" quantity="8965">8965</measure> Tons</cell>
-                      <cell>about <date when="1905-07-10">10 July</date></cell>
-                  </row>
-                  <row>
-                      <cell><name>Preussen</name></cell>
-                      <cell><measure unit="ton" quantity="5295">5295</measure> Tons</cell>
-                      <cell>about <date when="1905-07-24">24 July</date></cell>
-                  </row>
-                  <row>
-                      <cell><name>Roon</name></cell>
-                      <cell><measure unit="ton" quantity="8022">8022</measure> Tons</cell>
-                      <cell>about <date when="1905-08-07">7 August</date></cell>
-                  </row>
-                  <row>
-                      <cell cols="3">For AUSTRALIA via SUEZ, ADEN, COLOMBO.</cell>
-                  </row>
-                  <row>
-                      <cell><name>Seydlitz</name></cell>
+                      <cell>about <date when="1905-07-10">10 July</date></cell><cell><name>Seydlitz</name></cell>
                       <cell><measure unit="ton" quantity="7943">7943</measure> Tons</cell>
                       <cell>about <date when="1905-07-30">30 July</date></cell>
                   </row>
                   <row>
-                      <cell><name>Zieten</name></cell>
+                      <cell><name>Preussen</name></cell>
+                      <cell><measure unit="ton" quantity="5295">5295</measure> Tons</cell>
+                      <cell>about <date when="1905-07-24">24 July</date></cell><cell><name>Zieten</name></cell>
                       <cell><measure unit="ton" quantity="8043">8043</measure> Tons</cell>
                       <cell>about <date when="1905-08-27">27 August</date></cell>
                   </row>
                   <row>
-                      <cell><name>Barbarossa</name></cell>
+                      <cell><name>Roon</name></cell>
+                      <cell><measure unit="ton" quantity="8022">8022</measure> Tons</cell>
+                      <cell>about <date when="1905-08-07">7 August</date></cell><cell><name>Barbarossa</name></cell>
                       <cell><measure unit="ton" quantity="10915">10915</measure> Tons</cell>
                       <cell>about <date when="1905-09-24">24 Sept</date>.</cell>
                   </row>
