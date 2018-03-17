@@ -22,6 +22,7 @@
           <sourceDesc>
               <bibl>
                   <title>Carlton Hotel advertisement</title>
+                  <date when="1905-07-15">July 15, 1905</date>
               </bibl>
           </sourceDesc>
       </fileDesc>
@@ -34,7 +35,7 @@
               <p>Ramleh's Fashionable Hotel.</p>
               <p>Patronized by the Elite.</p>
               <p>Full Pension P.T. 50 a day. Visitors fron Cairo alight at Sidi-Gaber Station.</p>
-              <p>21440-24-5-905</p>
+              <p><measure type="indexNo">21440-24-5-905</measure></p>
               <p>G. AQUILINA, Proprieter.</p>
           </div>
       </body>

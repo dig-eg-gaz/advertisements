@@ -22,6 +22,7 @@
           <sourceDesc>
               <bibl>
                   <title>BECK &amp; CO’S PILSENER BEER advertisement</title>
+                  <date when="1905-07-10">July 10, 1905</date>
               </bibl>
           </sourceDesc>
       </fileDesc>
@@ -29,13 +30,13 @@
   <text>
       <body>
           <div type="advert"  xml:id="deg-ad-bcp02">
-              <p>BECK &amp; CO’S PILSENER BEER</p>
+              <head>BECK &amp; CO’S PILSENER BEER</head>
               <p>BREMEN.</p>
               <p>FEARS NO HONEST COMPETITION FOR QUALITY.</p>
               <p>N.B. -- Inferior Brands now being offered to Managers of certain good circles.</p>
               <p>Beware of evilly disposed competitors running down this very Superior Brand of
                     Beer</p>
-              <p>xxxxx-xx-x xx</p>
+              <p><measure type="indexNo">xxxxx-xx-x xx</measure></p>
           </div>
       </body>
   </text>

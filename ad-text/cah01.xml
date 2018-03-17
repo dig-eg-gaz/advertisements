@@ -22,6 +22,7 @@
           <sourceDesc>
               <bibl>
                   <title>Carlton Hotel advertisement</title>
+                  <date when="1905-07-13">July 13, 1905</date>
               </bibl>
           </sourceDesc>
       </fileDesc>
@@ -31,10 +32,10 @@
           <div type="advert" xml:id="deg-ad-cah01">
               <head>CARLTON HOTEL</head>
               <p>Bulkeley, Ramleh.</p>
-              <p>Ten minutes from Alexandria. First-Class in every respect Very moderate charges.
-                    Bulkeley is the fashionable English quarter. Visitors fron Cairo alight at Sidi
+              <p>Ten minutes from Alexandria. First-Class in every respect. Very moderate charges.
+                    Bulkeley is the fashionable English quarter. Visitors from Cairo alight at Sidi
                     Gaber Station.</p>
-              <p>24480-24-5-905</p>
+              <p><measure type="indexNo">24480-24-5-905</measure></p>
               <p>G. AQUILINA, Proprieter.</p>
           </div>
       </body>

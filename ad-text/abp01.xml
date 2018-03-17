@@ -22,13 +22,14 @@
           <sourceDesc>
               <bibl>
                   <title>THE ARTESIAN BORING AND PROSPECTING COMPANY advertisement</title>
+                  <date when="1905-07-10">July 10, 1905</date>
               </bibl>
           </sourceDesc>
       </fileDesc>
   </teiHeader>
   <text>
       <body>
-          <div type="advert"  xml:id="deg-ad-abp01">
+          <div type="advert" xml:id="deg-ad-abp01">
               <head>THE ARTESIAN BORING AND PROSPECTING COMPANY.</head>
               <p>(SOCIÉTÉ ANONYME)</p>
               <p>CAIRO, 28, SHARIA-EL-MANAKH,<lb/> (OPPOSITE IMPERIAL OTTOMAN BANK).</p>

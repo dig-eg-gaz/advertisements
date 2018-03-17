@@ -22,6 +22,7 @@
           <sourceDesc>
               <bibl>
                   <title>GWYNNES, Limited advertisement</title>
+                  <date when="1905-07-15">July 15, 1905</date>
               </bibl>
           </sourceDesc>
       </fileDesc>
@@ -51,7 +52,7 @@
               <p>The British Engineering Company of Egypt, Ltd: Rue de la Gare du Caire,
                     Alexandria.</p>
               <p>Works- Hammersmith, London, W</p>
-              <p>23362-11-12-904</p>
+              <p><measure type="indexNo">23362-11-12-904</measure></p>
           </div>
       </body>
   </text>

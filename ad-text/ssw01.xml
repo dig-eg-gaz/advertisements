@@ -22,6 +22,7 @@
           <sourceDesc>
               <bibl>
                   <title>Siemens Schuckert Werke advertisement</title>
+                  <date when="1905-07-10">July 10, 1905</date>
               </bibl>
           </sourceDesc>
       </fileDesc>
@@ -36,7 +37,7 @@
               <p>Kasr-El-Nil Street, Suares Building, Opposite the Bank of Egypt.</p>
               <p>P.O.B. 855.</p>
               <p>Telephone 811</p>
-              <p>85240-15-1-906</p>
+              <p><measure type="indexNo">85240-15-1-906</measure></p>
           </div>
       </body>
   </text>

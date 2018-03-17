@@ -22,6 +22,7 @@
           <sourceDesc>
               <bibl>
                   <title>HOTEL-CASINO SAN STEFANO advertisement</title>
+                  <date when="1905-07-10">July 10, 1905</date>
               </bibl>
           </sourceDesc>
       </fileDesc>
@@ -30,7 +31,7 @@
       <body>
           <div type="advert" xml:id="deg-ad-hcs01">
               <p>HOTEL-CASINO SAN STEFANO IS NOW OPEN</p>
-              <p>26045-80-9-5</p>
+              <p><measure type="indexNo">26045-80-9-5</measure></p>
           </div>
       </body>
   </text>
