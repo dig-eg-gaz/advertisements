@@ -22,13 +22,14 @@
           <sourceDesc>
               <bibl>
                   <title>Maple &amp; Co. advertisement</title>
+                  <date when="1905-07-15">July 15, 1905</date>
               </bibl>
           </sourceDesc>
       </fileDesc>
   </teiHeader>
   <text>
       <body>
-          <div type="advert" xml:id="deg-ad-map01">
+          <div type="advert" xml:id="deg-ad-map01" colSpan="3">
               <head>Maple &amp; Co.</head>
               <p>The Largest, and Most Convenient Furnishing Establishment in the World HUNDREDS
                     of THOUSANDS of POUNDS WORTH OF HIGH-CLASS FURNITURE, BEDSTEADS, BEDDING,
