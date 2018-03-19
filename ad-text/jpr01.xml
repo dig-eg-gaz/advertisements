@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-03-18">March 18, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Jumelles à Prismes de Ross advertisement</title>
+                    <date when="1905-07-15">July 15, 1905</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:lang="fr" xml:id="deg-ad-jpr01">
+                <head>Jumelles à Prismes de Ross</head>
+                <p>"La Puissance et la Rangée d'un Télescope dans le compas d'une Lorgnette
+                    d'opéra."</p>
+                <p>FABRIQUÉ a LONDRES. TRAVAIL SOIGNE.</p>
+                <p>Longues-vues et Jumelles renommées de ROSS pour Militaires, Marine et
+                    Courses.</p>
+                <p>OBJECTIFS PHOTOGRAPHIQUES de ROSS, CHAMBRES-NOIRES et ÉQUIPEMENTS COMPLETS.</p>
+                <p>Pour Listes et renseignementes s'addresser</p>
+                <p>à ROSS', Ltd., 111, New Bond St., W., et 31, Cockspur St., S.W., LONDON, ou aux
+                    Agents de vent F. DAVIDSON &amp; O. REGENSTREIF, Grand Continental Hotel
+                    Buildings (vis-à-vis EZBEKIAH GARDENS), CAIRO.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
