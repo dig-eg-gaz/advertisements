@@ -12,7 +12,7 @@
             </titleStmt>
             <editionStmt>
                 <edition>
-                    <date when="2017-02-02">February 2, 2017</date>
+                    <date when="2018-03-20">March 2-, 2018</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -21,7 +21,7 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title>Robinson's advertisement</title>
+                    <title>Windsor Hotel advertisement</title>
                     <date when="1905-07-12">July 12, 1905</date>
                 </bibl>
             </sourceDesc>
@@ -29,15 +29,18 @@
     </teiHeader>
     <text>
         <body>
-            <div type="advert" xml:id="rob01">
-                <p>The Best Drink for Hot Countries is</p>
-                <p>BARLEY WATER.</p>
-                <p>The Best Way to make Barley Water is to use </p>
-                <p>Robinson's Patent Barley "A Fine Powder'</p>
-                <p>It can be obtained in One Pound Tins at the Local Store. </p>
-                <p>Manufacturers :</p>
-                <p>KEEN, ROBINSON &amp; Co., Ltd., LONDON, ENGLAND. </p>
-                <p>Makers of ROBINSON’S PATENT GROATS.</p>
+            <div type="advert" xml:id="deg-ad-who02" colSpan="6">
+                <head>WINDSOR HOTEL</head>
+                <p>NEW QUAY PROMENADE </p>
+                <p>ENTRANCE IN AVEROFF STREET.</p>
+                <p>FACING THE SEA. </p>
+                <p>LARGEST HOTEL IN ALEXANDRIA. </p>
+                <p>100 Rooms. Electric Light and Bathrooms throughout</p>
+                <p>INCLUSIVE TERMS FROM P.T. 50.</p>
+                <p>TABLE D’HOTE LUNCHEONS AND DINNERS ON THE TERRACE </p>
+                <p>MOST FASHIONABLE RENDEZVOUS IN THE TOWN. </p>
+                <p>Orchestra Plays from 6 to 11.20 p.m. every day.</p>
+                <p>UNDER ENGLISH MANAGEMENT.</p>
             </div>
         </body>
     </text>

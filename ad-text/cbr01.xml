@@ -12,7 +12,7 @@
             </titleStmt>
             <editionStmt>
                 <edition>
-                    <date when="2017-02-02">February 2, 2017</date>
+                    <date when="2018-03-20">March 2-, 2018</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -21,23 +21,22 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title>Robinson's advertisement</title>
-                    <date when="1905-07-12">July 12, 1905</date>
+                    <title>C. Brandauer &amp; Co advertisement</title>
+                    <date when="1905-07-14">July 14, 1905</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
         <body>
-            <div type="advert" xml:id="rob01">
-                <p>The Best Drink for Hot Countries is</p>
-                <p>BARLEY WATER.</p>
-                <p>The Best Way to make Barley Water is to use </p>
-                <p>Robinson's Patent Barley "A Fine Powder'</p>
-                <p>It can be obtained in One Pound Tins at the Local Store. </p>
-                <p>Manufacturers :</p>
-                <p>KEEN, ROBINSON &amp; Co., Ltd., LONDON, ENGLAND. </p>
-                <p>Makers of ROBINSON’S PATENT GROATS.</p>
+            <div type="advert" xml:id="deg-ad-cbr01">
+                <head>C. Brandauer &amp; Co's. Limited.</head>
+                <p>Circular Pointed Pens.</p>
+                <p>C. Brandauer &amp; C Ltd. Circular Pointed Pens</p>
+                <p>This Series of Pens write as smoothly as a Lead Pencil. </p>
+                <p>Neither Stratch nor Spurt, the points being rounded by a special process. </p>
+                <p>Attention is also drawn to their Patent Anti-Blotting Pens. </p>
+                <p>Assorted sample Box for seven stamps from the Works, Birmingham.</p>
             </div>
         </body>
     </text>
