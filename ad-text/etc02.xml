@@ -2,45 +2,50 @@
 <?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
 ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-      <fileDesc>
-          <titleStmt>
-              <title level="m" type="main">Egyptian Gazette</title>
-              <title level="m" type="sub">An encoded transcription</title>
-              <editor>Will Hanley</editor>
-              <principal>Will Hanley</principal>
-          </titleStmt>
-          <editionStmt>
-              <edition>
-                  <date when="2018-02-03">February 3, 2018</date>
-              </edition>
-          </editionStmt>
-          <publicationStmt>
-              <publisher>FSU University Libraries</publisher>
-              <pubPlace>Tallahassee, FL</pubPlace>
-          </publicationStmt>
-          <sourceDesc>
-              <bibl>
-                  <title>The Eastern Telegraph Company, Limited advertisement</title>
-              </bibl>
-          </sourceDesc>
-      </fileDesc>
-  </teiHeader>
-  <text>
-      <body>
-          <div type="advert" xml:id="deg-ad-etc02" xml:lang="fr">
-              <head>The Eastern Telegraph Company, Limited.</head>
-              <p>Le réseau de cable télégraphiques sous-marins de cette compagnie constitue le moyen
-                    de communication le plus direct et le plus rapide d'Egypte pour l'Europe,
-                    l'Amérique du Nord et du Sud, L,Afrique orientale, méridionale et occidentale,
-                    les Indes, l'Australie, la Nouvelle-Zélande, la Chine et le Japon.</p>
-                <p>Pour assurer une transmission rapide, les télégrammes doivent porter l'indication
-                        <hi rend="bold">Viâ Eastern</hi>.</p>
-                <p>Voir le temps moyen de transmission le plus récent jusqu'à Londres au belletin
-                    journalier publié dans ce journal.</p>
-                <p>STATIONS EN EGYPTE. Alexandrie, le Caire, Suez, Port-Tewfik, Port-Said, Suakin.
-                    Bureau principal à Londres.</p>
-          </div>
-      </body>
-  </text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-02-03">February 3, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Eastern Telegraph Company, Limited nameplate advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <table>
+                <row>
+                    <!-- paste cell only -->
+                    <cell rows="2" xml:lang="fr" xml:id="deg-ad-etc02"> The Eastern Telegraph
+                        Company, Limited.<lb/> Le réseau de cable télégraphiques sous-marins de
+                        cette compagnie<lb/> constitue le moyen de communication le plus<lb/> direct
+                        et le plus rapide d'Egypte pour l'Europe, l'Amérique<lb/> du Nord et du Sud,
+                        L,Afrique orientale, méridionale<lb/> et occidentale, les Indes,
+                        l'Australie, la Nouvelle-Zélande, la<lb/> Chine et le Japon.<lb/> Pour
+                        assurer une transmission rapide, les télégrammes<lb/> doivent porter
+                        l'indication <hi rend="bold">Viâ Eastern</hi>.<lb/> Voir le temps moyen de
+                        transmission le plus récent jusqu'à<lb/> Londres au belletin journalier
+                        publié dans ce journal.<lb/> STATIONS EN EGYPTE. Alexandrie, le Caire,
+                        Suez,<lb/> Port-Tewfik, Port-Said, Suakin. Bureau principal à
+                        Londres.</cell>
+                </row>
+            </table>
+
+        </body>
+    </text>
 </TEI>

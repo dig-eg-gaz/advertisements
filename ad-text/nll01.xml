@@ -21,7 +21,7 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title>Norddeutscher Lloyd advertisement</title>
+                    <title>Norddeutscher Lloyd nameplate advertisement</title>
                     <date when="1905-07-13">July 13, 1905</date>
                 </bibl>
             </sourceDesc>
@@ -29,14 +29,16 @@
     </teiHeader>
     <text>
         <body>
-            <div type="advert" xml:id="deg-ad-nll01">
-                <head>NORDDEUTSCHER LLOYD</head>
-                <p>BREMEN.</p>
-                <p>EXPRESS MAIL STEAMERS<lb/> FROM<lb/> ALEXANDRIA, PORT SAID, AND SUEZ,<lb/>
-                    TO<lb/> NAPLES, MARSEILLES,<lb/> GENOA, SOUTHAMPTON, ANTWERP,<lb/> BREMEN,
-                    HAMBURG, AMERICA,<lb/> EASTERN ASIA, AUSTRALIA Etc.</p>
-                <p>For Particulars see Advertisement below.</p>
-            </div>
+            <table>
+                <row>
+                    <!-- paste cell only -->
+                    <cell rows="2" xml:id="deg-ad-nll01"> NORDDEUTSCHER LLOYD<lb/> BREMEN.<lb/>
+                        EXPRESS MAIL STEAMERS<lb/> FROM<lb/> ALEXANDRIA, PORT SAID, AND SUEZ,<lb/>
+                        TO<lb/> NAPLES, MARSEILLES,<lb/> GENOA, SOUTHAMPTON, ANTWERP,<lb/> BREMEN,
+                        HAMBURG, AMERICA,<lb/> EASTERN ASIA, AUSTRALIA Etc.<lb/> For Particulars see
+                        Advertisement below. </cell>
+                </row>
+            </table>
         </body>
     </text>
 </TEI>

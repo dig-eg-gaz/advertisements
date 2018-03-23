@@ -21,19 +21,22 @@
             <sourceDesc>
                 <bibl>
                     <title>London Salisbury Hotel advertisement</title>
+                    <date when="1906-10-03">October 3, 1906</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
         <body>
-            <div type="advert" xml:id="deg-ad-lsh01">
-                <head>London, Salisbury Hotel,</head>
-                <p>Fleet Street, E.C.</p>
-                <p>Inclusive Terms 10/6 per Day.</p>
-                <p>English service and catering.</p>
-                <p>Under personal supervision of Mr. and Mrs. T. Bartens.</p>
-            </div>
+            <table>
+                <row>
+                    <!-- paste cell only -->
+                    <cell rows="2" xml:id="deg-ad-lsh01"> London,<lb/> Salisbury Hotel,<lb/> Fleet
+                        Street, E.C.<lb/> Inclusive Terms 10/6 per Day.<lb/> English service and
+                        catering.<lb/> Under personal supervision of<lb/> Mr. and Mrs. T. BARTENS.
+                    </cell>
+                </row>
+            </table>
         </body>
     </text>
 </TEI>

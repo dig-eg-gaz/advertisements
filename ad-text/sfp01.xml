@@ -2,41 +2,42 @@
 <?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
 ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-      <fileDesc>
-          <titleStmt>
-              <title level="m" type="main">Egyptian Gazette</title>
-              <title level="m" type="sub">An encoded transcription</title>
-              <editor>Will Hanley</editor>
-              <principal>Will Hanley</principal>
-          </titleStmt>
-          <editionStmt>
-              <edition>
-                  <date when="2016-09-29">September 29, 2016</date>
-              </edition>
-          </editionStmt>
-          <publicationStmt>
-              <publisher>FSU University Libraries</publisher>
-              <pubPlace>Tallahassee, FL</pubPlace>
-          </publicationStmt>
-          <sourceDesc>
-              <bibl>
-                  <title>Swan Fountain Pen advertisement</title>
-              </bibl>
-          </sourceDesc>
-      </fileDesc>
-  </teiHeader>
-  <text>
-      <body>
-          <div type="advert" xml:id="deg-ad-sfp01">
-              <p>Throw Steel Nibs Away!</p>
-              <p>They waste time, are costly to use, wear out, scratch, etc.</p>
-              <p>Try a "Swan" Fountain Pen.</p>
-              <p>Prices from 10/6</p>
-              <p>Sold by all Stationers and Importers in Cairo and Alexandria.</p>
-              <p>Catalogue free.</p>
-              <p>Mable, Todd &amp; Bard, High Holborn, London.</p>
-          </div>
-      </body>
-  </text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-09-29">September 29, 2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Swan Fountain Pen advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <table>
+                <row>
+                    <!-- paste cell only -->
+                    <cell rows="2" xml:id="deg-ad-sfp01"> Throw Steel Nibs Away!<lb/> They waste
+                        time, are costly to use,<lb/> wear out, scratch, etc.<lb/> Try a "Swan"
+                        Fountain Pen.<lb/> Prices from 10/6<lb/> Sold by all Stationers and
+                        Importers<lb/> in Cairo and Alexandria.<lb/> Catalogue free.<lb/> Mable,
+                        Todd &amp; Bard,<lb/> High Holborn, London. </cell>
+                </row>
+            </table>
+        </body>
+    </text>
 </TEI>
