@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="advert" xml:id="deg-ad-wmc03">
+            <div type="advert" xml:id="deg-ad-wmc01">
                 <head>WHITEHEAD, MORRIS &amp; CO.,</head>
                 <p>LIMITED.</p>
                 <p>ESTABLISHED 1857.</p>
@@ -39,8 +39,8 @@
                 <p>Factory-TOWER HILL (opposite the Tower of London).</p>
                 <p>SPECIALTIES:</p>
                 <p>GOVERNMENT &amp; BANK CONTRACTORS.</p>
-                <p>Offices at-CAIRO-34, CHAREH-EL-MADABECH. ALEXANDRIA-6, BOULEVARD RAMLEH. CAPE
-                    TOWN-32, ST. GEORGE'S STREET. JOHANNESBURG-79, SACKE'S BLDGS. COMMISSIONER
+                <p>Offices at-CAIRO-34, CHAREH-EL-MADABECH. <lb/>ALEXANDRIA-6, BOULEVARD RAMLEH. <lb/>CAPE
+                    TOWN-32, ST. GEORGE'S STREET. <lb/>JOHANNESBURG-79, SACKE'S BLDGS. COMMISSIONER
                     ST.</p>
             </div>
         </body>
