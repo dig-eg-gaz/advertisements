@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Peyton Smith</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2019-10-04">October 4, 2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Caffari's Co-operative Markets advertisement</title>
+                    <date when="1907-10-15">October 15, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-caf02">
+                <head>Caffari's Co-operative Markets.</head>
+                <p>SHARIA KASR-EL-NIL.</p>
+                <p>One of the chief attractions of the Capital and the only Stores in Cairo where fresh
+                    provisions and every household requisite are sold under one roof. Goods of first class quality
+                    only and at moderate prices. All European goods received direct from Manufacturers.</p>
+                <p><hi rend="bold">Once a customer always a customer.</hi></p>
+                <p>OPEN FROM EARLY MORN TO LATE EVENING.</p>
+                <p><measure type="indexNo">303586-11-907</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>

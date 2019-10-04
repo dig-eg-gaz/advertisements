@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Peyton Smith</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2019-10-04">October 4, 2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Robinson &amp; Cleaver advertisement</title>
+                    <date when="1907-10-15">October 15, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-rcl01">
+                <p>Buy direct from the Manufacturers and save 50 per cent.</p>
+                <p>SAMPLES AND PRICE LISTS POST FREE TO ANY PART OF THE WORLD.</p>
+                <p><hi rend="bold">ROBINSON &amp; CLEAVER, LTD., BELFAST;</hi></p>
+                <p>LINEN MANUFACTURERS</p>
+                <p>To His Gracious Majesty the King and H.R.H. the Princess of Wales, His Majesty
+                    the King of Spain, etc</p>
+                <p>Carriage paid on orders of 20s. upwards in United Kingdom.</p>
+                <table cols="5">
+                    <row role="label">
+                        <cell rows="4">Irish Cambric Pocket Handkerchiefs.</cell>
+                        <cell>Bordered</cell>
+                        <cell>Per doz.</cell>
+                        <cell>Hemstitched.</cell>
+                        <cell>Per doz.</cell>
+                    </row>
+                    <row>
+                        <cell>Children's</cell>
+                        <cell>1s. 3d.</cell>
+                        <cell>Ladies'</cell>
+                        <cell>2s. 9d.</cell>
+                    </row>
+                    <row>
+                        <cell>Ladies'</cell>
+                        <cell>2s. 6d.</cell>
+                        <cell>Gentlemen's</cell>
+                        <cell>3s. 11d.</cell>
+                    </row>
+                    <row>
+                        <cell>Gentlemen's</cell>
+                        <cell>3s. 6d.</cell>
+                       
+                    </row>
+                </table>
+                <p>
+                    <table rows="1" cols="2">
+                        <row>
+                            <cell>Irish Collars, Cuffs, and Shirts.</cell>
+                            <cell>
+                                <p>COLLARS-Gentlemen's 4-fold 4/11 per doz. CUFFS-Gentlemen's from
+                                    6/11 per dox. Matchless SHIRTS-With 4-fold Fronts and Cuffs, and
+                                    bodies of fine Long cloth, 35/6 per half-doz. (to measure 2/-
+                                    extra). OLD SHIRTS made good as now with good materials in
+                                    neckbands, cuffs, and fronts, for 14/- the half-doz.</p>
+                            </cell>
+                        </row>
+                    </table>
+                </p>
+                
+                <p>
+                    <table rows="1" cols="2">
+                        <row>
+                            <cell>Irish Damask Table and House Linen.</cell>
+                            <cell>
+                                <p>Fish Napkins, 2/11 per doz. Dinner Napkins, 5/6 per doz. Table
+                                    Cloths, 2 yds. sq., 2/11; 2 1/2 yds. by 3 yds., 5/11 each.
+                                    Kitchen Table Clothes, 11 1/2d. each. strong Huckaback Towels,
+                                    4/11 per doz. Frilled Linen Pillow Cases from 1/4 1/2 each.
+                                    Surplice Linen, 10 1/2d. per yd. Monograms, Initials, &amp;c.,
+                                    woven and embroidered.</p>
+                            </cell>
+                        </row>
+                    </table>
+                </p>
+                <p>The productions of their own Looms. From the least expensive to the Finest in the
+                    World.</p>
+                <p>N.B.--All Letter Orders and Inquiries for Samples of these Goods should be sent
+                    DIRECT TO 42. X. DONEGALL PLACE, BELFAST, IRELAND. <measure type="indexNo"
+                        >30267-26-13</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Peyton Smith</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2019-10-04">October 4, 2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Ionian Bank, Limited advertisement</title>
+                    <date when="1907-10-15">October 15, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert"  xml:id="deg-ad-ibl01">
+                <head>IONIAN BANK, LIMITED.</head>
+                <p>ALEXANDRIA BRANCH, RUE ADIB. (ESTABLISHED 1839)</p>
+                <p>Capital fully paid up £315.510.-Reserve Liability £315.510,-Undivided Profits £83.914</p>
+                <p>HEAD OFFICE: LONDON.-HEAD OFFICE for GREECE: ATHENS.-BRANCHES FOR GREECE: CORFU,
+                    PATRAS, CEPHALONIA, ZANTE, PIREUS, TRIPOLITZA.-AGENCY: NAUPLIA.</p>
+                <p>The IONIAN BANK LTD. transacts all ordinary banking business such as:</p>
+                <p>Advances on securities, merchandise, warrants, etc. Buying and selling of
+                    exchange on all principal centres abroad. Issue of drafts, letters of credits
+                    and telegraphic payments. Purchase and Sale of Securities. Current accounts are
+                    opened and: deposits at sight and at fixed dates are received on the following
+                    terms: 3 0/0 for deposits at 6 months notice; 4 0/0 for deposits at 1 years
+                    notice.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

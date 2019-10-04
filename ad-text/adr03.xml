@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Peyton Smith</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2019-10-04">October 4, 2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Au de Rouge Cheap Sale advertisement</title>
+                    <date when="1907-10-15">October 15, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-adr03">
+                <head>"AU DE ROUGE"</head>
+                <p>GENERAL DRAPERY ESTABLISHMENT.</p>
+                <p>CAIRO.</p>
+                <p>CHEAP SALE.</p>
+                <p>Some of the Best Bargains are as follows</p>
+                <p>White drill skirts, beautiful cut and fit at 18 P.T.</p>
+                <p>Blouse dresses ready to wear, muslin and zephir, 40 P.T.</p>
+                <p>Under skirts, very full, some lace trimmed 7.10 and 11 P.T.</p>
+                <p>Embroidered Blouse lengths 15 P.T.</p>
+                <p>Linen over skirts from 10 P.T.</p>
+                <p>Children's Linen and duck costumes at 9. 18, 25, 30 P.T.</p>
+                <p>Satin Ribbon, Excellent quality 1 P.T. the metre.</p>
+                <p>Laces in Vals, 1 to 3 inches wide at 3, 6 and 9 P.T. per Dozen of yards.</p>
+                <p>Ladies veiling in plain spot, tulle, etc. 3 P.T.</p>
+                <p>Open work Lisle stockings from 4 ½ P.T.</p>
+                <p>Blouse and skirt piece goods from 1 ½ P.T. the metre.</p>
+                <p>Boys sailor Hats at 4 and 5 P.T.</p>
+                <p>Girls white flops in lovely straw at 5 P.T.</p>
+                <p>Ladies Hats and sunshades also at very low prices, every department has an attraction</p>
+                <p><hi rend="bold">Open from 7:30 a.m. to 8 p.m. Daily.</hi></p>
+            </div>
+        </body>
+    </text>
+</TEI>
