@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Thomas Wallace</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2019-10-07">October 7, 2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>John J.M. Bult advertisement</title>
+                    <date when="1907-02-06">February 6, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-jjb01">
+                <head>THE REPUTATION OF JOHN J. M. BULT</head>
+                <p>has been built up by reason of the QUALITY and STYLE of the CLOTHING made by him
+                    and the</p>
+                <p>GOOD TAILORING</p>
+                <p>introduced into all his work</p>
+                <table rows="5" cols="3">
+                    <row>
+                        <cell>PRICES are as follows:-</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Frock Coat and Vest</cell>
+                        <cell>from</cell>
+                        <cell>63/-</cell>
+                    </row>
+                    <row>
+                        <cell>Dress Suit (silk-lined)</cell>
+                        <cell>''</cell>
+                        <cell>84/-</cell>
+                    </row>
+                    <row>
+                        <cell>Lounge Suit</cell>
+                        <cell>''</cell>
+                        <cell>55/-</cell>
+                    </row>
+                    <row>
+                        <cell>Norfolk and Knickers</cell>
+                        <cell>''</cell>
+                        <cell>63/-</cell>
+                    </row>
+                </table>
+                <p>An application for PATTERNS is desired, so that the variety of designs and the
+                    economy effected by ordering direct from LONDON, can be proved.</p>
+                <p>A choice of Tweeds, Flannels, Cheviots and Serges may be had. Kindly state which
+                    required and the colony, when writing for patterns. Self measurement forms on
+                    application. As a register kept of all Customers' measures, an accurate fit is
+                    guaranteed.</p>
+                <p>CASH TAILOR, 140, Fenchurch Street,</p>
+                <p>LONDON, ENGLAND.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

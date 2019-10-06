@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Ryan Jones</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2019-10-06">October 6, 2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>ALFRED M. BUCHANAN advertisement</title>
+                    <date when="1907-02-06">February 6, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-amb01">
+                <head>ALFRED M. BUCHANAN,</head>
+                <p>SUFFOLK HOUSE, LAURENCE POUTLEY HILL, </p>
+                <p>LONDON, E.C., ENGLAND,</p>
+                <p>MERCHANT and CONTRACTOR,</p>
+                <p>For Every Description of Machinery Tools, Railway and Tramway Material,
+                    Mining and Contractors Plant. Iron and Stell Ears, Sheets, Castings,
+                    Ship-plates, Angles, Chains, Cables, Anchors of all descriptions. Tinware,
+                    Brushes, Brooms. &amp;e. Dredging Plant, Barges, Floating Pontoons and
+                    Cranes, Tug Boats, Launches (light-draught), Petroleum and Steam Motor
+                    Power. Boilers, Tanks, Buoys and other Structural Work. </p>
+                <p>CORRESPONDENCE INVITED. </p>
+                <p>Telegraphic Address: "Buchanan, London"</p>
+                <p>Code: 5th Edition A.B.C.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

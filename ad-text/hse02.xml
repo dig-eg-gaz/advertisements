@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Chloe Majonica</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2019-10-06">October 6, 2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Hotel Semiramis advertisement</title>
+                    <date when="1907-02-06">February 6, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-hse02">
+                <head>Hotel Semiramis</head>
+                <p>Opening February 1907.</p>
+                <p>Cario's Finest Hotel, situated on the Nile Bank</p>
+                <p>BUTHCER-DURRER, Proprietors.</p>
+                <p>Also Proprietors of:</p>
+                <p><table rows="5" cols="4">
+                        <row>
+                            <cell>Grand Hotel Quirnal</cell>
+                            <cell>Rome</cell>
+                            <cell>Hotel Stanserhorn</cell>
+                            <cell>Near Lucerne</cell>
+                        </row>
+                        <row>
+                            <cell>Grand hotel Mediterranee</cell>
+                            <cell>Pegli</cell>
+                            <cell>Palace Hotel Burgenstock</cell>
+                            <cell>Near Lucerne</cell>
+                        </row>
+                        <row>
+                            <cell>Palace Hotel</cell>
+                            <cell>
+                                <p>Milan</p>
+                            </cell>
+                            <cell>Grand Hotel Burgenstock</cell>
+                            <cell>Near Lucerne</cell>
+                        </row>
+                        <row>
+                            <cell>The Grand Hotel</cell>
+                            <cell>Lugano</cell>
+                            <cell>Paro Hotel Burgenstock</cell>
+                            <cell>Near Lucerne</cell>
+                        </row>
+                        <row>
+                            <cell>Palace Hotel</cell>
+                            <cell>Lucerne</cell>
+                            <cell>Hotel Euler</cell>
+                            <cell>Basle</cell>
+                        </row>
+                    </table>
+                    <measure type="indexNo">29415-22-1-8</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>

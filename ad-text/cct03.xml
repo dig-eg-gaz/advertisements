@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Faith Northcutt</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2019-10-06">October 6, 2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Calvert's Carbolic Tooth Powder advertisement</title>
+                    <date when="1907-02-06">February 6, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-cct01">
+                <p> Clean, White Teeth</p>
+                <p> mean sound Teeth fit for their work, the condition they are kept in by the
+                    use of</p>
+                <p>Calvert's Carbolic Tooth Powder</p>
+                <p> It is made for cleaning the Teeth, and does it, too, pleasantly, thoroughly,
+                    and gently without scratching or injuring the enamel. That is why it is in
+                    such constant demand all over the world.</p>
+                <p> Sold by local Chemists and Stores.</p>
+                <p> F.C. Calvert &amp; Co., Manchester, Eng.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Sophia Metallo</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2019-10-06">October 6, 2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>McLaren Steam Plouging Engines advertisement</title>
+                    <date when="1907-02-06">February 6, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-msp02">
+                <head>The Khedivial Agricultural Society's Show</head>
+                <p>Cairo. February 13th, 1907.</p>
+                <p>J &amp; H McLaren</p>
+                <p>Engineers, LEEDS, England,</p>
+                <p>beg to inform their friends that they propose to have a large exhibit of</p>
+                <p>Steam Ploughing Engines</p>
+                <p>Cultivators, &amp; c., &amp; c.</p>
+                <p>They will also exhibit their new Patent</p>
+                <p>Kassabiehs or Levelling Scoops.</p>
+                <p>Eight of these scoops were sold in Egypt last season for levelling sand or soil,
+                    and their working is "perfection." Agriculturists and Land Companies interested
+                    in reclamation or cultivation are requested to visit our stand at the show and
+                    inspect our specialities, which have been specially designed to meet the
+                    requirememnt of the Egyptian Market. Our Mr. Henry McLaren expects to arrive in
+                    Cairo about the 5th February. His address will be Shepheard's Hotel, and he will
+                    be glad to hear from anyone interested in the above classes of work.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
