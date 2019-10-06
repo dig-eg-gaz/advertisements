@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2019-10-06">October 6, 2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Hamburg &amp; Anglo-American Nile Co. advertisement</title>
+                    <date when="1907-07-22">July 22, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-aan06">
+                <head>Hamburg &amp; Anglo-American Nile Co.</head>
+                <p>Weekly departure during Winter Season by the<lb/> Luxurious First Class Tourist
+                    Steamers "VICTORIA," "PURITAN," and "GERMANIA." </p>
+                <p>Bi-weekly Express Service between LUXOR and ASSUAN by S.S. "MAYFLOWER."</p>
+                <p> Regular Weekly Departures to the SECOND CATARACT by the S.S. "NUBIA."</p>
+                <p> THROUGH BOOKINGS TO KHARTOUM, GONDOKORO AND THE WHITE NILE.</p>
+                <p> Steamers and Dahabeahs for private charter. Steam Tugs and Steam Launches for
+                    hire.</p>
+                <p> FREIGHT SERVICE BY STEAM BARGES BETWEEN CAIRO AND ALEXANDRIA.</p>
+                <p> Working in conjunction and under special arrangement with the<lb/> “Upper Egypt
+                    Hotels Company."</p>
+                <p>For details and illustrated programmes apply to HEAD OFFICE: Sharia Boulac,
+                    Continental Hotel Buildings," CAIRO.</p>
+                <p><hi rend="bold">Hamburg-Amerika Linie.</hi></p>
+                <p>
+                    <table rows="5" cols="7">
+                        <row>
+                            <cell/>
+                            <cell>Leaves Port Said </cell>
+                            <cell>Arrives Naples</cell>
+                            <cell>Arrives Hamburg</cell>
+                            <cell rows="2" cols="3">These steamers call also at Plymouth if
+                                needed.</cell>
+                        </row>
+                        <row>
+                            <cell>S.S. Silesia</cell>
+                            <cell><date when="1907-08-10">Aug. 10th</date></cell>
+                            <cell><date when="1907-08-24">Aug. 14th</date></cell>
+                            <cell><date when="1907-08-26">Aug. 26th</date></cell>
+                        </row>
+                        <row>
+                            <cell>S.S. Scandia</cell>
+                            <cell><date when="1907-09-07">Sep 7th</date></cell>
+                            <cell><date when="1907-09-11">Sep. 11th</date></cell>
+                            <cell><date when="1907-09-23">Sep. 23rd</date></cell>
+                            <cell>FARES:</cell>
+                            <cell>1st class.</cell>
+                            <cell>3rd class.</cell>
+                        </row>
+                        <row>
+                            <cell>S.S. Habsburg</cell>
+                            <cell><date when="1907-10-05">Oct. 5th</date></cell>
+                            <cell><date when="1907-10-09">Oct. 9th</date></cell>
+                            <cell><date when="1907-10-21">Oct. 21st</date></cell>
+                            <cell>To Naples</cell>
+                            <cell>£10.–</cell>
+                            <cell>£2.–</cell>
+                        </row>
+                        <row>
+                            <cell>S.S. Rhenanïa</cell>
+                            <cell><date when="1907-11-02">Nov. 2nd</date></cell>
+                            <cell><date when="1907-11-06">Nov. 6th</date></cell>
+                            <cell><date when="1907-11-18">Nov. 18th</date></cell>
+                            <cell>To Hamburg</cell>
+                            <cell>£17.10</cell>
+                            <cell>£4.10</cell>
+                        </row>
+                    </table>
+                </p>
+                <p>Monthly connections from Port-Said to the ports of the Red Sea and the Persian
+                    Gulf. </p>
+                <p>Port Said to Colombo, China and Japan : <date when="1907-08-03">August 3rd</date>, S.S. RHENANIA ; <date when="1907-09-03">Sep. 3rd</date>,
+                    S.S. HOHENSTAUFFEN ; <date when="1907-10-04">Oct. 4th</date> S.S. SILESIA ; <date when="1907-11-03">Nov. 3rd</date> S.S. SCANDIA.</p>
+                <p>London. Roomy Cabins--Good Cuisine.</p>
+                <p><hi rend="bold">Pleasure Cruises</hi> to Iceland, Spitzbergen, Norway, Scotland,
+                    etc. during the summer by the S.S. OCEANA, S.S. METEOR and the S.S.
+                    KRONPRINCESSIN CECILIE.</p>
+                <p><hi rend="italic">The S.S. Oceana will resume the express service between
+                        Alexandria and the Continent next October.</hi></p>
+                <p><measure type="indexNo">29074</measure></p>
+                <p>Apply to: HAMBURG-AMERICA LINIE, Continetnal Hotel, Cairo. C.J. GRACE &amp; Co.,
+                    ALEXANDRIA, DEUTSCHES KOHLEN DEPOT, PORT SAID &amp; SUEZ. </p>
+                <p><measure type="indexNo">31-11-07</measure></p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

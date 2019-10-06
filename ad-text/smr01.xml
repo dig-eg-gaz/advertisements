@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2019-10-04">October 4, 2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Service Maritime Roumain advertisement</title>
+                    <date when="1907-10-15">October 15, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-smr01" xml:lang="fr">
+                <head>Service Maritime Roumain</head>
+                <p>16 Rue Sesostris 16</p>
+                <p>Par suite de la quarantaine de 48 houres imposée par la Turquie aux provenances
+                    d'Egypte les paquebots-poste du Service Maritime Roumain quitteront Alexandrie
+                    chaque quinzaine le Mercredi à 4 heures de l'après midi. Au cas où cette
+                    quarantaine serait réduite à 24 heures seulement les départs auront lieu le
+                    Jeudi à 4 p.m.</p>
+                <p>Alexandrie, le 25 Juin 1907.</p>
+                <p>For particulars apply to the Agents: OTTO STERZINC, Opera Square, CAIRO. W. H.
+                    MULLER &amp; Co., Sesostris-st., ALEXANDRIA</p>
+                <p>Messrs. THOS. COOK &amp; Son (Egypt) Ltd., are authorized to sell tickets in
+                    CAIRO and ALEXANDRIA. <measure type="indexNo">20-10-06</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>

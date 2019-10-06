@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+          <titleStmt>
+              <title level="m" type="main">Egyptian Gazette</title>
+              <title level="m" type="sub">An encoded transcription</title>
+              <editor>Will Hanley</editor>
+              <principal>Will Hanley</principal>
+          </titleStmt>
+          <editionStmt>
+              <edition>
+                  <date when="2019-10-06">October 6, 2019</date>
+              </edition>
+          </editionStmt>
+          <publicationStmt>
+              <publisher>FSU University Libraries</publisher>
+              <pubPlace>Tallahassee, FL</pubPlace>
+          </publicationStmt>
+          <sourceDesc>
+              <bibl>
+                  <title>Egyptian Bonded Warehouse Company, Ltd. advertisement</title>
+                  <date when="1905-07-10">July 10, 1905</date>
+              </bibl>
+          </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div type="advert"  xml:id="deg-ad-abw02">
+              <head>EGYPTIAN BONDED WAREHOUSE COMPANY, LTD.</head>
+              <p>(Société des Entrepôts d'Alexandrie) <measure type="indexNo">0-1-07</measure></p>
+              <p>Bonded Warehouses in Alexandria, Cairo, Port Said and Suez.</p>
+              <p>Special Departments for clearing and forwarding and for a luggage and parcel
+                    Express Service.</p>
+          </div>
+      </body>
+  </text>
+</TEI>

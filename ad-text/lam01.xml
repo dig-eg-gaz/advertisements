@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2019-10-04">October 4, 2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Lawrence and Mayo advertisement</title>
+                    <date when="1907-10-15">October 15, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-lam01">
+                <head>LAWRENCE AND MAYO</head>
+                <p>
+                    <table rows="2" cols="3">
+                        <row>
+                            <cell>SCIENTIFIC SIGHT TESTING</cell>
+                            <cell>
+                                <p>HEAD OFFICES, 67 &amp; 69 CHANCERY LANE, LONDON. </p>
+                            </cell>
+                            <cell>SCIENTIFIC SIGHT TESTING</cell>
+                        </row>
+                        <row>
+                            <cell>CALCUTTA, BOMBAY,</cell>
+                            <cell>PRICE LISTS FREE on APPLICATION.</cell>
+                            <cell>MADRAS, RANGOON</cell>
+                        </row>
+                    </table>
+                </p>
+                <p>Opthalmic Opticians to the Principal Opthalmic Surgeons in the United Kingdom and
+                    the East and Contractors to the British Government.</p>
+                <p>New Branch: Shepheard's Hotel Buildings, Cairo.</p>
+                <p>CONSULTATIONS FREE. <measure type="indexNo">29114-39A-1</measure></p>
+                <p>Drawing, Surveying and Scientific Instruments of every description</p>
+            </div>
+        </body>
+    </text>
+</TEI>

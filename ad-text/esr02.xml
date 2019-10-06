@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Alec Walter</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2019-10-04">October 4, 2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Egyptian State Railways advertisement</title>
+                    <date when="1907-10-15">October 15, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-esr02">
+                <head>The Egyptian State Railways</head>
+                <p>are prepared to accept offers to exhibit FRAMED POSTERS, NOTICES, etc., In
+                    and about their STATIONS at the following rates:</p>
+                <table>
+                    <row>
+                        <cell>P.T.</cell>
+                        <cell>60</cell>
+                        <cell>per square metre per annum at</cell>
+                        <cell>1st</cell>
+                        <cell>class stations</cell>
+                    </row>
+                    <row>
+                        <cell>P.T.</cell>
+                        <cell>40</cell>
+                        <cell>per square metre per annum at</cell>
+                        <cell>2nd</cell>
+                        <cell>class stations</cell>
+                    </row>
+                    <row>
+                        <cell>P.T.</cell>
+                        <cell>15</cell>
+                        <cell>per square metre per annum at</cell>
+                        <cell>3rd</cell>
+                        <cell>class stations</cell>
+                    </row>
+                </table>
+                <p>(The above includes fixing in position).</p>
+                <p>The stations are divided into the three classes according to thei value from
+                    an advertising point of view.</p>
+                <p>For further information apply to the PUBLICITY SECTION, General Manager Dept.
+                    Egyptian State Railways, Cairo.</p>
+                <p>G.B. Macauley.<lb/>General Manager</p>
+                <p>Cairo, June 1907</p>
+            </div>
+        </body>
+    </text>
+</TEI>

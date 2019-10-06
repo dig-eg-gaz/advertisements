@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2019-10-06">October 6, 2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Asia Minor S.S. Co. advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-bam04">
+                <head>Asia Minor S.S. Co. Ltd. Best route to Cyprus, frequent sailings.</head>
+                <p>Passengers leave Cairo by noon train, steamer sails 5 p.m. Until further notice
+                    specially low 1st Class rates will be charged, Alexandria-Limassol £2.
+                    Alexandria-Larnaca or Famagusta £2.10. Fare for round trip (6 days) £4.10s.</p>
+                <p>Coupons entitling holders to passage to and from Cyprus, and a stay at the Mount
+                    Olympus Hotel, Troodos, can be purchased at the Company's office, 3 St.
+                    Mark-St., Alexandria, or from Thos Cook &amp;Son (Egypt) Ltd. Cairo.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
