@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2019-10-06">October 6, 2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Solid Gold Rings advertisement</title>
+                    <date when="1907-02-09">February 9, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-sog01">
+                <p>For the convenience of ouf Foreign customers we send Watches, Rings, &amp;c., on
+                    receipt of HALF CASH, customer paying balance on receipt.</p>
+                <p>SOLID GOLD RINGS, 30/-</p>
+                <p>Best workmanship; latest designs.</p>
+                <p>Solid Gold, set with Real Diamond and 2 Ruibies, price 30/-</p>
+                <p>Solid Gold Initial Ring, set with Rugies, Pearles, or Sapphires, any initial,
+                    30/-</p>
+                <p>Solid Gold Signet Ring, engraved with any Initial, Crest, or Monomgram, 30/-</p>
+                <p>Kingston, Jamaica, August 31st, 1906. Sirs--It is with pleasure I acknowledge
+                    receipt of Ring, which is a perfect fit and well worth the money. Yours Truly,
+                    CHAS. SCOTT.</p>
+                <p>RING . BOOKLET Post Free.</p>
+                <p>MASTERS, Ltd. 56 Hope Stores, RYE, ENG.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

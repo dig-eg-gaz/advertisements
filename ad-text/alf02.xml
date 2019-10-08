@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Alexander Amorello</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2019-10-06">October 6, 2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Allenburys' Diet advertisement</title>
+                    <date when="1907-02-09">February 9, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-alf02">
+                <head>A Light Nourishment for General Use.</head>
+                <head>Allenburys' DIET</head>
+                <p>The "Allenburys" DIET is a complete milk and farinaceous Food, easy of
+                    assimilation, most agreeable to take, simply and quickly made. It is
+                    recommended in place of ordinary milk foods, gruel, etc., and whilst
+                    acceptable to all as a light nourishment, it is particularly helpful to
+                    Dyspeptics, Invalids and the Aged. In the sick-room it will be found
+                    invaluable and it is easily and quickly made, the addition of boiling water
+                    only being necessary. </p>
+                <p>The "Allenburys" DIET is readily digested by tose who are unable to take
+                    cow's milk and is particularly serviceable in convalescence. When taken as a
+                    light supper diet it will be found to promote tranquil and refreshing sleep.
+                    Although this DIET is a good for ADULTS and is entirely distinct fom the
+                    "Allenburys" Foods for Infants, yet it is also of great value as a
+                    restorative food for young children, especially during convalescence. </p>
+                <p>For Invalids, Dyspeptics &amp; The aged.</p>
+                <p>Allen &amp; Hanburys Ltd., Lombard St. London.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

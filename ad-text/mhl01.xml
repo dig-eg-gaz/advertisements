@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Faith Northcutt</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2019-10-06">October 6, 2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Messrs. HUMPHREYS, Ltd. advertisement</title>
+                    <date when="1907-02-09">February 9, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-mhl01">
+                <head>Messrs. HUMPHREYS, Ltd.</head>
+                <p>Knightsbridge, London.</p>
+                <p>Makers of Portable Residences, Sungalows, and Store-Sheds.</p>
+                <p>IRON, WOOD and FIBRO-CEMENT.</p>
+                <p>A cheap form of Building, which can be quickly and easily erected and
+                    moved.</p>
+                <p>Address, where designs can be seen:</p>
+                <p>PRINCE'S CLUB BUILDINGS, Cairo.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

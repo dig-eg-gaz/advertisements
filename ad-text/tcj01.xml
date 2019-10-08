@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2019-10-06">October 6, 2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>T. C. Jordeson advertisement</title>
+                    <date when="1907-02-09">February 9, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-jcj01">
+                    <head>Ships, Steamers, Launches, Sail &amp; Steam Yachts.</head>
+                    <p>ALL KINDS RIVER &amp; SEA CRAFT, NEW AND SECONDHAND, SALE OR PURCHASE.</p>
+                    <p>T. C. JORDESON, 112, Leadenhall Street, LONDON.</p>
+                    <p>Estimates given for building.</p>
+                    <p><measure type="indexNo">28163-26x 4</measure></p>
+                </div>
+        </body>
+    </text>
+</TEI>

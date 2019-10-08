@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Chloe Majonica</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2019-10-06">October 6, 2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Bovril advertisement</title>
+                    <date when="1907-02-09">February 9, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-bov01" xml:lang="fr">
+                <head>BOVRIL</head>
+                <p>Qu'est ce que c'est BOVRIL?</p>
+                <p>BOVRIL est le produit garanti du meilleur bétail qui existe.</p>
+                <p>C'est un repas à la minute qui protège contre les intempéries.</p>
+                <p>"BOVRIL" et "Bonne Cuisine" sont deux mots qui disent la même chose.</p>
+                <p>BOVRIL répond a une nécessité; il est non seulement une boisson delicieuse et
+                    saine, mais il est encore indispensable pour préparer instantanement des soupes
+                    et sauces appétisantes. Bovril n'a pas de rival pour corser les plats les plus
+                    récherches.</p>
+                <p>BOVRIL répare l'organisme fatigué.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

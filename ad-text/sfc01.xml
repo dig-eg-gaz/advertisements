@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Adam Hutson</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2019-10-06">October 6, 2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Strictly First-Class Hotels advertisement</title>
+                    <date when="1907-02-09">February 9, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-sfc01">
+                <head>STRICTLY FIRST-CLASS HOTELS.</head>
+                <p>MILAN. EVERY MODERN COMFORT. ROME.</p>
+                <p>Corso Restaurant Milan. </p>
+                <p>Rooms for 1,500 Persons, Garden-Concerts.</p>
+                <p>Caffe Riffli, Milan.</p>
+                <p>Galleria Vittorio Emanuels.</p>
+                <p>OLD REPUTATION. ENTIRELY RENOVATED</p>
+                <p>Caffe-Restaurant. Concerts.</p>
+                <p>RIMINI.- Summer resort. Seabathing. Hotels. Restaurants. Kureal. Villas.
+                    Sports. etc. </p>
+                <p>Proprietors: Societa Milanese Alberghi, Restaurants de Affini. Main
+                    Office: MILAN</p>  </div>
+        </body>
+    </text>
+</TEI>

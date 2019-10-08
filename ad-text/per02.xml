@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2019-10-06">October 6, 2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Pe-ru-na advertisement</title>
+                    <date when="1907-02-09">February 9, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-per02">
+                <p>CATARRH, A NATIONAL SCOURGE <lb/>PE-RU-NA, A FAMILY NEED.</p>
+                <p>A heavy hand upon the land</p>
+                <p>CATARRH</p>
+                <p>PE-RU-NA THE CATARRH REMEDY.</p>
+                <p>"Over half of the population of Canada suffer from some form of catarrh during
+                    the course of the year. This demonstrates the great need of Peruna in every home
+                    to protect the family against all catarrhal diseases."--S. B. Hartman, M. D.</p>
+                <p>For special directions everyone should read "The Ills of Life," a copy of which
+                    surrounds each bottle. Pe-ru-na is for sale by all chemists and druggists at
+                    five shillings per bottle of six bottles for twenty-five shillings.</p>
+                <p>Those wishing direct correspondence with Dr. Hartman and can wait the necessary
+                    delay in reciveing a reply should address Dr. S. B. hartman, Columbus, Ohio,
+                    U.S.A.</p>
+                <p> The following wholesale druggist will supply the retail drug trade in
+                    Alexandria, Egypt.</p>
+                <p>Max Fischer, Cairo and Alexandria, Egypt.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

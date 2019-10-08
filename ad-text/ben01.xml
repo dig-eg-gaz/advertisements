@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Chloe Majonica</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2019-10-06">October 6, 2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Benger's Food advertisement</title>
+                    <date when="1907-02-09">February 9, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-ben01">
+                <head>BENGER'S Food</head>
+                <p><hi rend="bold">For Infants</hi>, Benger's Food solves the problem of
+                    hand-rearing. It contains all the elements necessary to healthy development in
+                    infancy.</p>
+                <p><hi rend="bold">For Invalids</hi> there is no food like Benger's Food. It assists
+                    nature in restoring the system to complete health.</p>
+                <p><hi rend="bold">For the Aged</hi>, Benger's Food is particularly adapted to the
+                    enfeebled digestion of advancing years.</p>
+                <p><hi rend="bold">For those who are well</hi>, Benger's Food is an ideal light
+                    meal, dainty and nutritive.</p>
+                <p>English and American Travellers can obtain supplies from or through</p>
+                <p>CAIRO &amp; ALEXANDRIA.- O. Guiliotti &amp; Co.</p>
+                <p>CAIRO- Max Fisher. Walker &amp; Meinarchi, Ltd.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

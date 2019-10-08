@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Faith Northcutt</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2019-10-06">October 6, 2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Vulpera Tarasp advertisement</title>
+                    <date when="1907-02-18">February 18, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-vul01">
+                <p>Most Attractive Alpine Health Resort.</p>
+                <p>
+                    <hi rend="bold">VULPERA - TARASP</hi>
+                </p>
+                <p>ENGADINE, SWITZERLAND.</p>
+                <p>4,170 Feet above the Sea.</p>
+                <table cols="2">
+                    <row>
+                        <cell>
+                            <p>
+                                <hi rend="bold">Hotel Waldhaus</hi>
+                            </p>
+                            <p>AND DEPENDENCES.</p>
+                            <p>
+                                <hi rend="italic">300 Rooms. 400 Beds.</hi>
+                            </p>
+                        </cell>
+                        <cell>
+                            <p>
+                                <hi rend="bold">Hotel Schweizerhof</hi>
+                            </p>
+                            <p>AND DEPENDENCES.</p>
+                            <p>
+                                <hi rend="italic">200 Rooms. 250 Beds.</hi>
+                            </p>
+                        </cell>
+                    </row>
+                </table>
+                <p>Numerous private sitting — rooms and apartments.</p>
+                <p>FIRST-CLASS HOTELS WITH EVERY MODERN COMFORT.</p>
+                <p>SEVERAL LAWN TENNIS GROUNDS.</p>
+                <p>Proprietors: THE HOTEL COMPANY VULPERA (Lim.Co.)</p>
+                <p>Private Lodgings : <hi rend="italic">Villa Engladina. Villa Silvana, and Villa
+                        Marla.</hi>
+                </p>
+                <p><hi rend="underline">Season from May 15th to middle of September.</hi></p>
+                <p>Alpine Health Resort, beautifully situated on a plateau free from dust, in the
+                    midst of fir and pine woods; connected by means of a pleasant forest road (10
+                    minutes) with the world-renowned Saline Springs of Tarasp. Thanks to the rare
+                    and happy combination of Climatic and Alpine advantages with the health-giving
+                    Springs of Tarasp, Vulpera occupies an eminent place amongst similar health
+                    resorts. The alkaline-saline, cold glauber salt springs, Luzius and Emerita, may
+                    be compared with those of Carlsbad, Marienbad, Kissingen, and Vichy by the
+                    following table:–</p>
+
+                <table>
+                    <row>
+                        <cell>1,000 parts contain—</cell>
+                        <cell>Amount of Solid Constituents. </cell>
+                        <cell>Carbonic acid free and semi-united. </cell>
+                        <cell> Sulphate of Soda.</cell>
+                        <cell>Bicarbonate of Soda.</cell>
+                        <cell>Chloride of Sodium.</cell>
+                        <cell>Feet above the level of the Sea.</cell>
+                    </row>
+                    <row>
+                        <cell>Tarasp (Luzius spring)......... </cell>
+                        <cell>12.8 </cell>
+                        <cell>5.55 </cell>
+                        <cell>2.2 </cell>
+                        <cell>4.3 </cell>
+                        <cell>3.9 </cell>
+                        <cell>4.000 </cell>
+                    </row>
+                    <row>
+                        <cell>Carlsbad (Sprudel)......</cell>
+                        <cell>6.3</cell>
+                        <cell>0.79</cell>
+                        <cell>2.4</cell>
+                        <cell>1.9</cell>
+                        <cell>1.0</cell>
+                        <cell>1.200</cell>
+                    </row>
+                    <row>
+                        <cell>Marlenbad (Ferdinands brunnen)........</cell>
+                        <cell>10.2</cell>
+                        <cell>4.24</cell>
+                        <cell>4.7</cell>
+                        <cell>1.9</cell>
+                        <cell>1.8 </cell>
+                        <cell>2.100</cell>
+                    </row>
+                    <row>
+                        <cell>Vichy ...........</cell>
+                        <cell>7.0</cell>
+                        <cell>2.60</cell>
+                        <cell>__ </cell>
+                        <cell>5.2</cell>
+                        <cell>0.5</cell>
+                        <cell>750</cell>
+                    </row>
+                    <row>
+                        <cell>Misalngan (Rakoczy).........</cell>
+                        <cell>9.0</cell>
+                        <cell>4.19</cell>
+                        <cell>__ </cell>
+                        <cell>__ </cell>
+                        <cell>5.8</cell>
+                        <cell>600</cell>
+                    </row>
+                </table>
+                <p>It is a well known fact that the spring of Tarapn conjointly with the Alpine
+                    climate of Vulpera, are most efficacious In the following cases : <hi
+                        rend="underline">After-effects of tropical affections and malaria,</hi>
+                    affections of the digestive organs (chronic catarrhs of the stomach and
+                    intenstines, constipations, chronic diarrhea, dyspepsia, hemorrhoids), diseases
+                    of the metabolism and disturbances of nutrition (obesity, diabetes, gout,
+                    gravel, scrofula, chlorosis, anaemia), affections of the liver and the spleen,
+                    neurasthenia, chronic bronchial catarrh and bronchial asthma. The Iron-Arsenic
+                    Springs, with baths, of " Val Sinestra,” situated near Vulpera, are especially
+                    beneficial in cases of nervousness, anæmia and rheumatism.</p>
+                <p>Physicians Resident in the Hotels.</p>
+                <p>Communications : Nearest railway stations: Bevers and Davos Dorf, from both of
+                    which three diligences circulate daily to Vaspera in five and six hours. Own
+                    reliable travelling carriages are sent, if desired, to Bevers, Davos, and
+                    Landeck (Arlberg Bohn). </p>
+                <p>
+                    <hi rend="italic">In May till middle of June, and in September reduced
+                        terms.</hi>
+                </p>
+                <p>For farther information, prospectus and pamphlets, please apply to THE
+                    MANAGEMENT.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

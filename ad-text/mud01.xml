@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Handy A. Pierre</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2019-10-06">October 6, 2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Mudie's Library advertisement</title>
+                    <date when="1907-02-09">February 9, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-mud01">
+                    <head>MUDIE'S LIBRARY.</head>
+                    <p>NOTICE to ENGLISH &amp; AMERICAN VISTORS to EGYPT and the SUDAN.</p>
+                    <p>Subscriptions are now entered for a constant supply of the Newest and Best
+                        Books on the following terms :-</p>
+                    <p>
+                        <table rows="5" cols="11">
+                            <row>
+                                <cell cols="6"/>
+                                <cell>One year</cell>
+                                <cell>Six months</cell>
+                                <cell>Three months</cell>
+                                <cell>Six weeks</cell>
+                                <cell>One month</cell>
+                            </row>
+                            <row>
+                                <cell><measure>2</measure></cell>
+                                <cell>vols.</cell>
+                                <cell>A</cell>
+                                <cell>or</cell>
+                                <cell><measure>3</measure></cell>
+                                <cell>B</cell>
+                                <cell><measure>£1.11.6</measure></cell>
+                                <cell><measure>£0.18.0</measure></cell>
+                                <cell><measure>£0.10.6</measure></cell>
+                                <cell><measure>£0.7.6</measure></cell>
+                                <cell><measure>£0.5.3</measure></cell>
+                            </row>
+                            <row>
+                                <cell><measure>4</measure></cell>
+                                <cell>...</cell>
+                                <cell>A</cell>
+                                <cell>...</cell>
+                                <cell><measure>6</measure></cell>
+                                <cell>B</cell>
+                                <cell><measure>£2.2.0</measure></cell>
+                                <cell><measure>£1.4.0</measure></cell>
+                                <cell><measure>£0.14.0</measure></cell>
+                                <cell><measure>£0.10.0</measure></cell>
+                                <cell><measure>£0.7.0</measure></cell>
+                            </row>
+                            <row>
+                                <cell><measure>6</measure></cell>
+                                <cell>...</cell>
+                                <cell>A</cell>
+                                <cell>...</cell>
+                                <cell><measure>9</measure></cell>
+                                <cell>B</cell>
+                                <cell><measure>£2.12.6</measure></cell>
+                                <cell><measure>£1.10.0</measure></cell>
+                                <cell><measure>£0.17.6</measure></cell>
+                                <cell><measure>£0.12.6</measure></cell>
+                                <cell><measure>£0.8.9</measure></cell>
+                            </row>
+                            <row>
+                                <cell><measure>8</measure></cell>
+                                <cell>...</cell>
+                                <cell>A</cell>
+                                <cell>...</cell>
+                                <cell><measure>12</measure></cell>
+                                <cell>B</cell>
+                                <cell><measure>£3.3.0</measure></cell>
+                                <cell><measure>£1.16.0</measure></cell>
+                                <cell><measure>£1.1.0</measure></cell>
+                                <cell><measure>£0.15.0</measure></cell>
+                                <cell><measure>£0.10.6</measure></cell>
+                            </row>
+                        </table>
+                    </p>
+                    <p><hi rend="italic">with a Deposit of 20f- to cover cost of postage of
+                        books.</hi></p>
+                    <p>Messrs. MUDIE &amp; Co. beg to invite attention of Book Buyers to their New
+                        List of Rebound Books offered at very low prices. Also their Monthly
+                        Catalogue of second-hand Books sent gratis and post free on application.</p>
+                    <p>Mudie’s Select Library, Ltd</p>
+                    <p>30-34 NEW OXFORD STREET, LONDON, W.C.</p>
+                    <p><measure type="indexNo">29313</measure></p>
+                </div>
+        </body>
+    </text>
+</TEI>
