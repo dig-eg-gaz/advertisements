@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Peyton Smith</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2019-10-12">October 12, 2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>LEMCO advertisement</title>
+                    <date when="1907-10-16">October 16, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-lem02">
+                <head>LEMCO</head>
+                <p>One great reason why LEMCO is so valued by the medical profession in every part
+                    of the world is that it can always be relied on. It is essentially a
+                    standardised article, and not only does not vary in quality, but will keep
+                    absolutely in any climate. It is invaluable as a sustenant and restorative.</p>
+                <p>The genuine Liebig Company's Extract is now always and invariably labelled LEMCO.
+                    Refuse all jars not so labelled.</p>
+                <p>Awarded Gold Medal,</p>
+                <p>Paris Exhibition, 1867, for founding a new industry in the world.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Peyton Smith</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2019-10-12">October 12, 2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>JOHN FOWLER &amp; Co., (LEEDS) Ltd. advertisement</title>
+                    <date when="1907-10-16">October 16, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-jfc01">
+                <head>JOHN FOWLER &amp; Co., (LEEDS) Ltd.,</head>
+                <head>ESTABLISHED 1850.</head>
+                <p>THE OLDEST &amp; LARGEST MANUFACTURERS IN THE WORLD OF</p>
+                <p><hi rend="bold">STEAM PLOUGHING MACHINERY</hi></p>
+                <p>OF EVERY DESCRIPTION AND FOR ALL SOILS.</p>
+                <p>Over 35 years experience IN ALL PARTS OF EGYPT where our steam ploughing tackles
+                    are in constant use and giving the greatest satisfaction.</p>
+                <p>The only makers of steam ploughing machinery who manufacture their own STEEL WIRE
+                    ROPES.</p>
+                <p>POWLER'S STEAM PLOUGHING TACKLES are the strongest, best designed and best
+                    proportioned in all their partys, therefore they are the most economical.</p>
+                <p>Experience of over. It a century in all parts of the world.</p>
+                <p><hi rend="bold">ALLEN, ALDERSON &amp; Co., Ltd AGENTS.</hi></p>
+                <p>ALEXANDRIA - CAIRO - KHARTOUM. <measure type="indexNo"
+                    >29783-15-9-907</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>

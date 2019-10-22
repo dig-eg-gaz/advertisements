@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Peyton Smith</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2019-10-21">October 21, 2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>COCHRAN AND Co ANNAN LIMITED advertisement</title>
+                    <date when="1907-10-17">October 17, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-coc01">
+                <head>COCHRAN AND Co ANNAN LIMITED</head>
+                <p>Patent Multitubular Vertical</p>
+                <p>BOILERS</p>
+                <p>Economy and Durability</p>
+                <p>SOLE AGENTS:-</p>
+                <p>Thos Cook and Son (Egypt) Ltd</p>
+                <p>BOULAC ENGINE WORKS</p>
+                <p>CAIRO</p>
+                <p>Telephone: No 160</p>
+                <p>Telegrams: Engineer Cairo</p>
+                <p>BRANCHES AT ALEXANDRIA:- (Rue de la Gare du Caire).</p>
+                <p>Telephone: No. 698</p>
+                <p>Telegrams: Engineer Alexandria.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

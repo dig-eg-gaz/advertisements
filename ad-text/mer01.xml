@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Peyton Smith</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2019-10-12">October 12, 2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>MERRYWEATHERS advertisement</title>
+                    <date when="1907-10-16">October 16, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-mer01">
+                <head>MERRYWEATHERS' "UNIVERSAL" HAND-POWER PUMP.</head>
+                <head>With Metallic Body and Gun-metal Pump.</head>
+                <p>Specially adapted for the Egyptian Market.</p>
+                <p>For Fire Protection, Watering Plantations, Emptying Ponds, Draining Land,
+                    Pumping Liquid Manurs, General Pumping Purposes, &amp; c.</p>
+                <p>Strongly made and nothing to get out of order.</p>
+                <p>Ask for Illustrated List 859 v.</p>
+                <p>MAKERS OF EVERY DESCRIPTION OF PUMPING MACHINERY.</p>
+                <p>MERRYWEATHER &amp; SONS,</p>
+                <p>63, Long Acre, W.C., London.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

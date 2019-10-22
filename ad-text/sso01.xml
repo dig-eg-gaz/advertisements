@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Peyton Smith</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2019-10-12">October 12, 2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>SOFT SOAP advertisement</title>
+                    <date when="1907-10-16">October 16, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-sso01">
+                <p>GUARANTEED PURE</p>
+                <p>BRITISH MANUFACTURED</p>
+                <p>SOFT SOAP</p>
+                <p>SPECIAL BRANDS</p>
+                <p>FOR TROPICAL CLIMATES</p>
+                <p>CASTOR OILS</p>
+                <p>PHARMACEUTICAL FIRSTS &amp; SECONDS</p>
+                <p>BARRELS &amp; BASES</p>
+                <p>HOUSEHOLD CLEANSING &amp; TECHNICAL PURPOSES</p>
+                <p>TINS DRUMS OR BARRELS</p>
+                <p>The Hulk of Manufacturing</p>
+                <p>Co Ltd</p>
+                <p>STONEFERRY</p>
+                <p>HULL, ENGLAND.</p>
+                <p><unclear></unclear></p>
+                <p>ALSO RAPE MANURE MEAL AND CASTOR MANURE MEAL.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

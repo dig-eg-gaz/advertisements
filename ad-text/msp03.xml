@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Peyton Smith</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2019-10-12">October 12, 2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>McLAREN'S STEAM PLOUGHS advertisement</title>
+                    <date when="1907-10-16">October 16, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-msp03">
+                <head>McLAREN'S STEAM PLOUGHS</head>
+                <p>The specially adapted for Egypt, and suitable for every description of Soil and
+                    Crop.</p>
+                <p>McLaren's Kassabiehs</p>
+                <p>are the best machines for levelling land and preparing it for Cotton or Cereals.
+                    They are used by all the leading land companies and private owners, and have
+                    given the greatest satisfaction wherever they have been tried.</p>
+                <p>McLaren's Implements</p>
+                <p>and steel ropes etc. can be supplied to work with any eisting ploughing engines.
+                    List of users of our Engines and implements in Egypt with all other information
+                    will be supplied by our Agents.</p>
+                <p><hi rend="bold">Messrs. THOMAS COOK &amp; SONS (Egypt) Ld. Boulac Engine Works,
+                        CAIRO, and ALEXANDRIA.</hi></p>
+                <p><hi rend="bold">Permanent Representatives in Egypt Mr. PETER McLAREN, Boulac
+                        Engine Works CAIRO.</hi></p>
+                <p>J. &amp; H. McLAREN MIDLAND ENGINE WORKS LEEDS.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

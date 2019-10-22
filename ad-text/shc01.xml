@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Peyton Smith</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2019-10-12">October 12, 2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The S. HOWES Co. advertisement</title>
+                    <date when="1907-10-16">October 16, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-shc01">
+                <head>Telegraphic adress: FENDIAN, Cairo.</head>
+                <head>The S. HOWES Co.</head>
+                <p>HEAD OFFICE: London, E.C.</p>
+                <p>EGYPTIAN BRANCH: Rue Nular Pasha, CAIRO, EGYPT.</p>
+                <p>A.A. FENDIAN, M.E., Manager for Egypt and the Sudan.</p>
+                <p>Engineers and Contractors to His Majesty and Egyptian Government's Manufacturers
+                    of EUREKA Grain Cleaning Flour and Rice Mill Machinery of every description. Wheat,
+                    separators, Scourners and Washers. Rice Hullers and Polishers etc.</p>
+                <p>Largest and Oldest Manufacturers of Special Flour and Rice Mill Machinery. Output
+                    over 3000 Machine annually. Estimates and specifications for Complete Plants.</p>
+                <p><hi rend="bold">Illustrated Catalogue sent on application.</hi><measure type="indexNo">30877-6-9-8</measure></p>    </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Peyton Smith</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2019-10-12">October 12, 2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>CHUBB &amp; Sons advertisement</title>
+                    <date when="1907-10-16">October 16, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-chu01">
+                <head>CHUBB &amp; Sons</head>
+                <p>LOCK &amp; SAFE Co LTD.</p>
+                <p>STRONG ROOMS</p>
+                <p>SAFES</p>
+                <p>SAFE DEPOSITS</p>
+                <p>STRONG-ROOM DOORS-LOCKS;-DEED BOXES, etc.</p>
+                <p>SOLE AGENTS in EGYPT and SUDAN</p>
+                <p>N. 1 RUE DE LA GARE DU CAIRE ALEXANDRIA.</p>
+                <p>THOS COOK AND SON (EGYPT) LTD</p>
+                <p>BOULAC ENGINE WORKS CAIRO</p>
+                <p>LARGE STOCKS Kept in Cairo and Alexandria</p>
+                <p>Telephone: No. 160 Telegrams: Engineer Cairo.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

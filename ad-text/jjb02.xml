@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Peyton Smith</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2019-10-12">October 12, 2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>JOHN J. M. BULT advertisement</title>
+                    <date when="1907-10-16">October 16, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-jjb02">
+                <p>AN IMPORTANT SAVING</p>
+                <p>Can be effected if you order your clothes from London. It is everyday knowledge
+                    that the best Tailoring is obtained there.</p>
+                <p>JOHN J. M. BULT</p>
+                <p>140, FENCHURCH STREET, Cash Tailor, LONDON, ENG.</p>
+                <p>has a Special Department in his business for attending to the requirements of
+                    those abroad, where the same personal attention is given which has built up his
+                    reputation at home. He guarantees the best quality cloth-the best styles
+                    also.</p>
+                <table cols="3">
+                    <head>Princes are as follows:-</head>
+                    <row>
+                        <cell>Frock Coat and Vest,</cell>
+                        <cell>from</cell>
+                        <cell>63/-</cell>
+                    </row>
+                    <row>
+                        <cell>Dress Suit (Silk-lined)</cell>
+                        <cell>,,</cell>
+                        <cell>84/-</cell>
+                    </row>
+                    <row>
+                        <cell>Lounge Suit</cell>
+                        <cell>,,</cell>
+                        <cell>55/-</cell>
+                    </row>
+                    <row>
+                        <cell>Norfolk and Knickers</cell>
+                        <cell>,,</cell>
+                        <cell>63/-</cell>
+                    </row>
+                </table>
+                <p>A choice of Tweeds, Flanneis, Cheviots and Serges may be had. Kindly state which
+                    required- and the colour- when writing for Patterns. Self-measurement forms on
+                    application. As a register is kept of all Customers' measures, an accurate fit
+                    is guaranteed.</p>
+                <p>Riding Breeches cut on the most approved lines from 42/-</p>
+            </div>
+        </body>
+    </text>
+</TEI>

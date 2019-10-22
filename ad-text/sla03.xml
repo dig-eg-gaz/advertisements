@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Peyton Smith</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2019-10-12">October 12, 2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Standard Life Assurance Company advertisement</title>
+                    <date when="1907-10-16">October 16, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-sla03">
+                <head>THE STANDARD LIFE ASSURANCE CO.</head>
+                <head>ESTABLISHED 1825.</head>
+                <p>ACCUMULATED FUNDS £11,750,000.</p>
+                <p><hi rend="bold">NEW SCHEMES OF ASSURANCE.</hi></p>
+                <p>ENDOWMENT ASSURANCES with guaranteed bonus on survival of 2 per annum for each
+                    100 of assurance.</p>
+                <p>CHILDREN'S ENDOWMENTS at low rates, with return of all premiums paid in the event
+                    of death before the given age is attained.</p>
+                <p><hi rend="bold">EXAMPLES:</hi></p>
+                <p>ENDOWMENT ASSURANCES WITH GUARANTEED BONUS ON SURVIVAL.-A, aged 30 next birthday,
+                    with Good prospect of longevity, takes out a Policy of £1,000 under this table
+                    for an Endowment Assurance payable at the age of 60 or earlier death, with a
+                    Guaranteed Bonus of 40s. per cent per annum. If he survives the fixed term, the
+                    annual premium for which will be £38:15:0. In the event of death within the 30
+                    yearsm only the sum assured in the Policy is payable, viz:- £1,000, but if he
+                    survives the term, he is entitled to receive besides £1,000, a Guaranteed Bonus
+                    of 30 times 40s. per cent; i.c. £800, or in all £600; and similarly for other
+                    periods and rates, Premiums can be paid quarterly or half-yearly if desired.</p>
+                <p>CHILDREN'S ENDOWMENT.- An annual Premium of £18:1:3 will provide a child aged 1
+                    next birthday with an Endowment of £500 on attaining the age of 21. In the event
+                    of the child's death before the given age is attained, all the premiums paid to
+                    the Company will be return to the parent. Premiums can be paid quarterly or
+                    half-yearly if desired. Should the parent wish to discontinue the payment of
+                    premiums, he can claim a surrender value of 90 per cent of all the annual
+                    premiums paid by him, excepting the first, providing three full years premiums
+                    have been paid and the transaction is completed while the Policy is in force.
+                    Should the parent not wish to take the surrender value, he has the option, after
+                    three full years' premiums have been paid, of receiving a Paid-up Policy for
+                    such a proportion of the original Sum Assured as the number of payments made
+                    bears to the whole number payable. If written application be made and the
+                    transaction completed within the days of grace, and provided such proportion be
+                    not less than £50.</p>
+                <p>For Prospectus, Forms of Proposal and all particulars, apply to the STANDARD LIFE
+                    OFFICE, STANDARD BUILDINGS, CAIRO.</p>
+                <p><measure type="indexNo">30689-13-13</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>

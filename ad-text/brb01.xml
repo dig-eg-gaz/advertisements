@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Peyton Smith</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2019-10-21">October 21, 2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Brown Boveri advertisement</title>
+                    <date when="1907-10-17">October 17, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-brb01">
+                <head>BROWN BOVERI</head>
+                <p>Egyptian House:</p>
+                <p>The Egyptian Engineering Co. Ltd.</p>
+                <p>Telephone 1542.</p>
+                <p>Cables:Anglogypt, Cairo.</p>
+                <p>Maison Spiro, Sharia Kasr-el-Nil, CAIRO.</p>
+                <p>ELECTRIC MACHINERY</p>
+            </div>
+        </body>
+    </text>
+</TEI>

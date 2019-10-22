@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Peyton Smith</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2019-10-12">October 12, 2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>P. SPICER &amp; SONS advertisement</title>
+                    <date when="1907-10-16">October 16, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-pss01">
+                <head>P. SPICER &amp; SONS</head>
+                <head>FINE ART TAXIDERMISTS,</head>
+                <head>LEAMINGTON, England.</head>
+                <p><hi rend="bold">Testimonial from J.C. MILLAIS, <unclear></unclear>F.Z.3.
+                    Horsham <date when="1905-05-28">28th May, 1905.</date></hi></p>
+                <p>DEAR MR> SPICER.-The work of which you send me photos is certainly of very high quality
+                    and I have rarely seen Heads' mounted with such skill and finish. Only an Artist could bestow the amount
+                    of care and modelling which appear in the faces of Deer, and in your works you are so highly
+                    successful there is little left to be desired.</p>
+                <p>Yours very truly,</p>
+                <p><hi rend="bold">J.C. MILLAIS,</hi></p>
+                <p>Only address:-</p>
+                <p><hi rend="bold">LEAMINGTON, ENGLAND.</hi></p>
+                <p><hi rend="bold">Send for Illutrstated booklets.</hi><measure type="indexNo">20892-13-2</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>
