@@ -30,7 +30,7 @@
         <body>
             <div type="advert" xml:id="deg-ad-pri02">
                 <head>PRINCE LINE.</head>
-                <table rend="frame" xml:id="Table1">
+                <table>
                     <row>
                         <cell>Calabrian Prince (bldg)</cell>
                         <cell>Tons 12,000</cell>
