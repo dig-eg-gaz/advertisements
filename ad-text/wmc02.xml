@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-01-16">January 16, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>WHITEHEAD, MORRIS &amp; CO. advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <table>
+                <row>
+                    <!-- paste cell only -->
+                    <cell rows="2" xml:id="deg-ad-wmc02">
+                        <p>WHITEHEAD, MORRIS &amp; CO.,</p>
+                        <p>(EGYPT) Limited.</p>
+                        <p>Wholesale and Export</p>
+                        <p>Manufacturing Stationers, Printers,</p>
+                        <p>Lithographers, and Engravers,</p>
+                        <p>ACCOUNT BOOK MANUFACTURERS.</p>
+                        <p>LONDON: </p>
+                        <p>Chief Offices–9 &amp; 10, FENCHURCH STREET, LONDON, E.C.</p>
+                        <p>Branch Office–CAXTON HOUSE, WESTMINSTER, S.W.</p>
+                        <p>Factory–TOWER HILL (opposite the Tower of London).</p>
+                        <p>CAIRO:</p>
+                        <p>Office–34, CHAREH-EL-MADABEGH. </p>
+                        <p>Factory–SHARIA CHEIKH-EL-YOUSSEFF.<lb/>ALEXANDRIA:</p>
+                        <p>Office–14, RUE SÉSOSTRIS. | Factory–RUE ATTARIN. <lb/></p>
+                        <p>And at CAPE TOWN and JOHANNESBURG.</p>
+                        <p>GOVERNMENT &amp; BANK CONTRACTORS.</p>
+                    </cell>
+                </row>
+            </table>
+        </body>
+    </text>
+</TEI>
