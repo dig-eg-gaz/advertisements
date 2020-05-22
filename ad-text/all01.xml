@@ -37,7 +37,7 @@
               <table rows="2" cols="6">
                   <row>
                       <cell>For MARSEILLES &amp; LIVERPOOL</cell>
-                      <cell><name>S.S. “Bohemia”</name></cell>
+                      <cell><name>S.S. "Bohemia”</name></cell>
                       <cell><date when="1905-07-26">July 26</date></cell>
                       <cell>For CALCUTTA</cell>
                       <cell><name>S.S. "Assyria"</name></cell>
@@ -45,7 +45,7 @@
                   </row>
                   <row>
                       <cell>For LONDON</cell>
-                      <cell><name>S.S. “Persia"</name></cell>
+                      <cell><name>S.S. "Persia"</name></cell>
                       <cell><date when="1905-07-28">July 28</date></cell>
                       <cell>For BOMBAY</cell>
                       <cell><name>S.S. "Australia"</name></cell>
