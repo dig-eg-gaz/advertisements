@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Victor Faynberg</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2019-09-05">September 5, 2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sudan-Red Sea Mail Service advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-srs01">
+                <head>SUDAN-RED SEA MAIL SERVICE </head>
+                <p>Khedivial Line's Express Mail Steamers leave Suez Docks every Wednesday, 5 p.m.,
+                    arriving Port Sudan, Fridays, 6 p.m., Suakim, Sundays 3 p.m. Depart Suakim,
+                    Tues. noon, depart Port Sudan, Thurs, 10 a.m., arriving Suez Docks, Saturdays 3
+                    p.m. </p>
+                <p>Departures from Suez after arrival of Brindisi Mail. Through carriages in
+                    connection with steamer attached to 11 a.m. train from Cairo. In connection with
+                    mail steamer a train (sleeping and dining cars) leaves Port Sudan, 8 p.m.
+                    Fridays, arr. Khartoum, Saturday, 8 p.m. From Kartoum, a train (sleeping and
+                    dining cars) leaves Tuesday, 9:15 p.m. arriving Port Sudan Wednesday 8 p.m.
+                    Passengers may remain night in sleeping cars. On arrival at Suez, through
+                    cariages are attached to 5:40 p.m. train to Cairo. <measure type="indexNo"
+                        >31371--22-11-908A</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Vanessa Grimaldo</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2017-01-09">September 5, 2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Hamburg &amp; Anglo-American Nile Co. advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-aan07">
+                <head>Hamburg &amp; Anglo-American Nile Co.</head>
+                <p>Weekly departure during Winter Season by the Luxurious First Class Tourist
+                    Steamers "VICTORIA," "PURITAN," and "GERMANIA."</p>
+                <p>Bi-weekly Express Service between LUXOR and ASSUAN by S.S. "MAYFLOWER."</p>
+                <p>Regular weekly Departures to the SECOND CATARACT by the S.S.
+                    "NUBIA."</p>
+                <p>THROUGH BOOKINGS TO KHARTOUM, GONDOKORO AND THE WHITE NILE.</p>
+                <p>Steamers and Dahabeahs for private charter. Steam Tugs and Steam
+                    Launches for hire.</p>
+                <p>FREIGHT SERVICE BY STEAM BARGES BETWEEN CAIRO AND ALEXANDRIA.</p>
+                <p>Working in conjunction and under special arrangement with the "Upper
+                    Egypt Hotels Company."</p>
+                <p>For details and illustrated programmes apply to HEAD OFFICE: Sharia Boulac,
+                    Continental Hotel Buildings," CAIRO</p>
+                <p>Hamburg-Amerika Linie.</p>
+                <p>Sailings from Port-Said.</p>
+                <p>EAST ASIA LINE: OUTWARDS to Colombo, Penang, Singapore, Hongkong, Shangahai,
+                    Yohshama, Nov. 24th S.S. "Habsburg" Dec. 24th S.S. "Rhehania" Jan. 24th S.S.
+                    "Hobenstaufen".</p>
+                <p>EAST ASIA LINE: HOMEWARDS to Naples, Plymouth, Havre and Hamburg, Nov 29th
+                    S.S. "Hobenstaufen" Jan. 10th S.S. "Silesia" Jan. 24th S.S. "Scandia" Febr.
+                    21st S.S. "Habsburg".</p>
+                <p>FIRST AND THIRD CLASS FARES: to Colombo £35.0.0. £10.0.0. to Singapore
+                    £40.0.0. £11.10.0. to Yokohama, £45.0.0. £16.10.0. to Naples £11.0.0.
+                    £2.0.0. to Hamburg £17.10.0. £4.10.0.</p>
+                <p>ARABIA-PERSIAN SERVICE: to Port Sudan, Dijibuti, Aden, Mascat, Bender Abbas,
+                    Lingah, Bahrein, Bushire, Mohammerah, Basrah, (for Bagdad), Nov. 25th S.S.
+                    "Sicilia" Dec. 20th S.S. "Galicia" Jan. 25th S.S. "Assyria".</p>
+                <p>Fares to Basrah: first class £25.0.0 steerage £3.0.0.</p>
+                <p>Sailings from Alexandria to Naples and New-York.</p>
+                <p>Jan 21st S.S. "Hamburg" March 3rd S.S. "Hamburg" first and second class fares
+                    to Naples from £10.0.0. £3.0.0. to New-York from £28.0.0. 23.0.0.
+                    £20.0.0.</p>
+                <p>Oriential Cruise by S.S. "Moitke."</p>
+                <p>March 10th from Alexandria to Jaffa, Constantinople, Greece, Sicily, Naples,
+                    Genoa, and New-York.</p>
+                <p><measure type="indexNo">29074</measure> Apply to: HAMBURG-AMERICA LINIE, CAIRO, (Continental Hotel). <measure type="indexNo">31-11-07</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>
