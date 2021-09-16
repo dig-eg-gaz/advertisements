@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Jake Himmel</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2021-09-16">September 16, 2021</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Allenburys' Diet advertisement</title>
+                    <date when="1907-12-07">December 7, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-alf03" colSpan="3">
+                <head>A GOOD START IN LIFE.</head>
+                <p>Mothers should early realize how essential good health is for the success of
+                    their child in after life. A badly nourished baby generally means an undersized
+                    child, wanting in stamina and vigour. If unable to nurse your baby you must give
+                    the substitute that most closely resembles human milk. No farinaceous or starchy
+                    food or unmodified cow's milk is permissible to a child under 6 or 7 months of
+                    age. The "Allensburys" Milk Foods are so prepared as to remove the difference
+                    between cow's milk and human milk, and they are as easy of digestion as the
+                    natural food of the child.</p>
+                <p>The "Allenburys" Foods are alike suitable for the delicate and robust, and, when
+                    used as directed, form the best means of rearing a child by hand. The No. 1 Milk
+                    Food may be given alternately with the mother's milk without fear of upsetting
+                    the child or causing digestive disturbance. The dreaded process of weaning is
+                    thus made easy and comfortable both to the mother and child.</p>
+                <p>The 'Allenburys' Foods.</p>
+                <p>MILK FOOD No. 1</p>
+                <p>From birth to 3 months</p>
+                <p>MILK FOOD No. 2</p>
+                <p>From 3 to 6 months</p>
+                <p>MALTED FOOD No. 3</p>
+                <p>From 6 months and upwards.</p>
+                <p>PAMPHLET ON INFANT FEEDING SENT FREE</p>
+                <p>ALLEN &amp; HANBURYS Ltd., 37, LOMBARD STREET, LONDON, E.C.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
