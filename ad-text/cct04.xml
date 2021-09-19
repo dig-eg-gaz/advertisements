@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-01-27">January 27, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Calvert's Carbolic Toilet Soap advertisement</title>
+                    <date when="1907-12-07">December 12, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-cct04">
+                <p>Refreshing.</p>
+                <p>To be clean and feel clean on a hot dusty day – that is the delightful feeling
+                    which follows the use of</p>
+                <p>Calvert's Carbolic Toilet Soap</p>
+                <p><hi rend="italic">Sold by local Chemists and Stores.</hi></p>
+                <p>Made by F.C. Calvert &amp; Co., Manchester, Eng.</p>
+                <p>
+                    <measure type="indexNo">31278-26-4</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>

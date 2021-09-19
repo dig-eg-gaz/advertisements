@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Victor Faynberg</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2021-09-16">September 16, 2021</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Wallace's advertisement</title>
+                    <date when="1907-12-07">December 7, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-wal01">
+                <head>Wallace's English Furniture.</head>
+                <table rows="5" cols="2">
+                    <row>
+                        <cell>English furnitures<p>Ameubles Anglaises</p></cell>
+                        <cell rows="2">New Furniture catalogue and new system remove all the present
+                            disadvantages annoyances and unexpected expenses connected with the
+                            import of furniture</cell>
+                    </row>
+                    <row>
+                        <cell>English Furniture<p>Ameubles Anglaises</p></cell>
+                    </row>
+                    <row>
+                        <cell>At London Prices delivered free at Alexandria</cell>
+                        <cell>No Charge for packing or cases, docks or freight, insurance, tariff
+                            dues.</cell>
+                    </row>
+                    <row>
+                        <cell>Ameubles Anglaises<p>English Furniture</p></cell>
+                        <cell>Wallace's include all these onerous items in ONE inclusive "ad
+                            valoreum" surcharge of 10£ FURTHER FULL PARTICULARS UPON
+                            APPLICATION</cell>
+                    </row>
+                </table>
+                <p>Fully Illustracted catalougues post free</p>
+                <p>WM. WALLACE &amp; Co., LTD</p>
+                <p>Hotel contractos, Wholeale Furinture Manufacturers,</p>
+                <p> 151-155 Curtain Road, London, England</p>
+                <p><measure type="indexNo">31347-7</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>
