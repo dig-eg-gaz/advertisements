@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2021-09-16">September 16, 2021</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>F. Davidson &amp; O. Regenstreif advertisement</title>
+                    <date when="1907-12-07">December 7, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-fdr01">
+                <head>F. DAVIDSON &amp; O. REGENSTREIF</head>
+                <p>HOTEL CONTINENTAL BLDGS., CAIRO.</p>
+                <p>(HEAD OFFICE - GRT PORTLAND ST., LONDON) </p>
+                <p>OPHTHALMIC &amp; MANUFACTURING OPTICIANS</p>
+                <p>BY APPOINTMENT TO THE ARMY OF OCCUPATION HOSPITAL &amp;c</p>
+                <p>Contractors to the British &amp; Egyptian Governments</p>
+                <p>OCULISTS' PRESCRIPTIONS A SPECIALITY.</p>
+                <p>Patentees &amp; Sole Makers of the "Effdee" Sun-Glasses. </p>
+                <p>SOLE AGENTS IN EGYPT FOR</p>
+                <p>ROSS LTD. Prima Binoculars &amp;c. </p>
+                <p>F. BARKER &amp; SON. Companies (Prismatic &amp; Ordinary Aneroids &amp;c </p>
+                <p>HALL BROS. Surveying Instrumenta &amp;c. </p>
+                <p>THE BEST LONDON MANUFACTURERS. <measure type="indexNo"
+                    >26991-7-12-7</measure></p>
+            </div>
+        </body>
+    </text>
+</TEI>

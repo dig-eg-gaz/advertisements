@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2021-09-16">September 16, 2021</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Cacao Nestlé advertisement</title>
+                    <date when="1907-12-07">December 7, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-nes02">
+                <head>THE LATEST COCOA -- THE BEST.</head>
+                <p>CACAO NESTLÉ</p>
+                <p>LE PLUS NUTRITIF </p>
+                <p><measure type="indexNo">31261-8-5-908</measure></p>
+                <p>ON SALE AT:</p>
+                <p><table rows="5" cols="2">
+                        <row role="label">
+                            <cell>Alexandria.</cell>
+                            <cell>Cairo.</cell>
+                        </row>
+                        <row>
+                            <cell>Messrs. Walker &amp; Meimarachi</cell>
+                            <cell>Messrs. Walker &amp; Meimarachi</cell>
+                        </row>
+                        <row>
+                            <cell>F. Mellor &amp; Co.</cell>
+                            <cell>Caffari's Coop. Markets Ltd.</cell>
+                        </row>
+                        <row>
+                            <cell>N. Pappa &amp; G. Pappa.</cell>
+                            <cell>E. J. Fleurent Fils &amp; Co.</cell>
+                        </row>
+                        <row>
+                            <cell>A. &amp; G. Monferrato.</cell>
+                            <cell>Ant. Constantinidis.</cell>
+                        </row>
+                        <row>
+                            <cell>Gh. G. Tritois (Anglo-American Stores)</cell>
+                            <cell>M. &amp; N. Vraila Freres.</cell>
+                        </row>
+                    </table>and all leading stores, grocers, etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

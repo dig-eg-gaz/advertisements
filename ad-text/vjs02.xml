@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -11,7 +12,7 @@
             </titleStmt>
             <editionStmt>
                 <edition>
-                    <date when="2018-02-09">February 9, 2018</date>
+                    <date when="2021-09-16">September 16, 2021</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -20,19 +21,21 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title>North British &amp; Mercantile advertisement</title>
+                    <title>Vaughan-Jones' "Standard" advertisement</title>
+                    <date when="1907-12-07">December 7, 1907</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
         <body>
-            <div type="advert" xml:id="deg-ad-nbm01">
-                <head>NORTH BRITISH &amp; MERCANTILE</head>
-                <p>(FIRE) INSURANCE CO. ESTD. 1809. (LIFE)</p>
-                <p>Total Funds exceed £17,000,000. </p>
-                <p>Agents: PEEL &amp; CO., Alexandria.</p>
-                <p><measure type="indexNo">20 51 31-12-907</measure></p>
+            <div type="advert" xml:id="deg-ad-vjs02">
+                <head>VAUGHAN-JONES' "STANDARD"</head>
+                <p>CHERRY BRANDY, GINGER BRANDY, SLOE GIN,</p>
+                <p>Old Tom Gin, London Dry Gin, Etc. </p>
+                <p>Awarded Three Gold Medals at NEW ZEALAND INTERNATIONAL EXHIBITION, 1906-7.</p>
+                <p>SOLE EXPORT AGENTS--CHARLES DAY &amp; CO., Water Lane, LONDON.</p>
+                <p><measure type="indexNo">31208-5</measure></p>
             </div>
         </body>
     </text>
