@@ -29,7 +29,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="advert"  xml:id="deg-ad-abw02">
+          <div type="advert"  xml:id="deg-ad-abw02" colSpan="2">
               <head>EGYPTIAN BONDED WAREHOUSE COMPANY, LTD.</head>
               <p>(Société des Entrepôts d'Alexandrie) <measure type="indexNo">0-1-07</measure></p>
               <p>Bonded Warehouses in Alexandria, Cairo, Port Said and Suez.</p>

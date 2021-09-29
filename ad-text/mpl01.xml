@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -11,7 +12,7 @@
             </titleStmt>
             <editionStmt>
                 <edition>
-                    <date when="2018-02-08">February 8, 2018</date>
+                    <date when="2021-09-16">September 16, 2021</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -20,17 +21,24 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title>Cairo Sewage Transport advertisement</title>
+                    <title>Mather &amp; Platt advertisement</title>
+                    <date when="1907-12-07">December 7, 1907</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
         <body>
-            <div type="advert" xml:id="deg-ad-cst02" xml:lang="fr" colSpan="2">
-                <p>Engrais Organiques</p>
-                <p>Cairo Sewage Transport Cy., Ld.</p>
-                <p>Sharia el Cherifein No 1 près la National Bank, Le Caire.</p>
+            <div type="advert" xml:id="deg-ad-mpl01" colSpan="2">
+                <head>PUMPS</head>
+                <p>FOR IRRIGATION, DRAINAGE, WATERWORKS</p>
+                <p>AND ALL OTHER DUTIES.</p>
+                <p> The Most Efficient, Reliable</p>
+                <p>and Compact is the</p>
+                <p>TURBINE PUMP</p>
+                <p>coupled To Electric Motor or Suction Gas Engine. COMPLETE PLANTS</p>
+                <p>MADE BY MATHER &amp; PLATT, Ltd.</p>
+                <p>Salford Iron Works, MANCHESTER.</p>
             </div>
         </body>
     </text>

@@ -7,12 +7,12 @@
             <titleStmt>
                 <title level="m" type="main">Egyptian Gazette</title>
                 <title level="m" type="sub">An encoded transcription</title>
-                <editor>Faith Northcutt</editor>
+                <editor>Will Hanley</editor>
                 <principal>Will Hanley</principal>
             </titleStmt>
             <editionStmt>
                 <edition>
-                    <date when="2019-10-06">October 6, 2019</date>
+                    <date when="2021-09-16">September 16, 2021</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -21,23 +21,27 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title>Messrs. HUMPHREYS, Ltd. advertisement</title>
-                    <date when="1907-02-09">February 9, 1907</date>
+                    <title>Ruston, Proctor &amp; Co. Ltd advertisement</title>
+                    <date when="1907-12-07">December 7, 1907</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
         <body>
-            <div type="advert" xml:id="deg-ad-mhl01" colSpan="2">
-                <head>Messrs. HUMPHREYS, Ltd.</head>
-                <p>Knightsbridge, London.</p>
-                <p>Makers of Portable Residences, Sungalows, and Store-Sheds.</p>
-                <p>IRON, WOOD and FIBRO-CEMENT.</p>
-                <p>A cheap form of Building, which can be quickly and easily erected and
-                    moved.</p>
-                <p>Address, where designs can be seen:</p>
-                <p>PRINCE'S CLUB BUILDINGS, Cairo.</p>
+            <div type="advert" xml:id="deg-ad-rup01" colSpan="2">
+                 <p>ALLEN, ANDERSON &amp; CO LTD</p>
+                <p>ALEXANDRIA, EGYPT</p>
+                <p>SOLE AGENTS FOR</p>
+                <p>MOST ECONOMICAL</p>
+                <p>FIXED ENGINES 5 TO 1,200 HORSE POWER</p>
+                <p>CONTINUOUS RUNNING</p>
+                <p>DROP VALVE STEAM ENGINE</p>
+                <p>HIGHEST EFFICIENCY. LARGE WARING SURFACES.</p>
+                <p>RUSTON, PROCTOR &amp; CO. LTD. LINCOLN, ENGLAND</p>
+                <p>PERFECT GOVERNING. INTERCHANGEABLE PARTS.</p>
+                <p>AGENT IN CAIRO A. FATTUCCI</p>
+                <p>AGENTS IN KHARTOUM BERTELLI, PIATTI &amp; CO.</p>
             </div>
         </body>
     </text>

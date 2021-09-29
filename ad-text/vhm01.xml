@@ -6,12 +6,12 @@
             <titleStmt>
                 <title level="m" type="main">Egyptian Gazette</title>
                 <title level="m" type="sub">An encoded transcription</title>
-                <editor>Will Hanley</editor>
+                <editor>Jake Himmel</editor>
                 <principal>Will Hanley</principal>
             </titleStmt>
             <editionStmt>
                 <edition>
-                    <date when="2018-02-08">February 8, 2018</date>
+                    <date when="2021-09-29">September 29, 2021</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -20,17 +20,22 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title>Cairo Sewage Transport advertisement</title>
+                    <title>Vienna Hotel Metropole advertisement</title>
+                    <date when="1907-12-07">December 7, 1907</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
         <body>
-            <div type="advert" xml:id="deg-ad-cst02" xml:lang="fr" colSpan="2">
-                <p>Engrais Organiques</p>
-                <p>Cairo Sewage Transport Cy., Ld.</p>
-                <p>Sharia el Cherifein No 1 près la National Bank, Le Caire.</p>
+            <div type="advert" xml:id="deg-ad-vhm01" colSpan="2">
+                <head>Vienna " HOTEL METROPOLE " Vienna</head>
+                <p>I. MORINPLATZ (Franz Josephs-Qual).</p>
+                <p>GRAND FIRST-CLASS HOTEL </p>
+                <p>Building entirely isolated – Large and small apartments most elegantly fitted
+                    with adjoining bathrooms – Lift – Heated by steam pipes – Baths</p>
+                <p>SAFE DEPOSITS.    TARIFF IN EACH ROOM </p>
+                <p><measure type="indexNo">31320 15-4-908</measure></p>
             </div>
         </body>
     </text>

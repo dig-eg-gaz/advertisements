@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="advert" xml:id="deg-ad-coc01">
+            <div type="advert" xml:id="deg-ad-coc01" colSpan="2">
                 <head>COCHRAN AND Co ANNAN LIMITED</head>
                 <p>Patent Multitubular Vertical</p>
                 <p>BOILERS</p>

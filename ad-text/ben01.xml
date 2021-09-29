@@ -29,7 +29,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="advert" xml:id="deg-ad-ben01">
+            <div type="advert" xml:id="deg-ad-ben01" colSpan="2">
                 <head>BENGER'S Food</head>
                 <p><hi rend="bold">For Infants</hi>, Benger's Food solves the problem of
                     hand-rearing. It contains all the elements necessary to healthy development in

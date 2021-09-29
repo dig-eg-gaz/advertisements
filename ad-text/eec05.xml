@@ -11,7 +11,7 @@
             </titleStmt>
             <editionStmt>
                 <edition>
-                    <date when="2018-02-08">February 8, 2018</date>
+                    <date when="2021-09-29">September 29, 2021</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -20,17 +20,23 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title>Cairo Sewage Transport advertisement</title>
+                    <title>Lancashire and Cornish Boilers / The Egyptian Engineering Co., Ltd.
+                        advertisement</title>
+                    <date when="1907-12-07">December 7, 1907</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
         <body>
-            <div type="advert" xml:id="deg-ad-cst02" xml:lang="fr" colSpan="2">
-                <p>Engrais Organiques</p>
-                <p>Cairo Sewage Transport Cy., Ld.</p>
-                <p>Sharia el Cherifein No 1 près la National Bank, Le Caire.</p>
+            <div type="advert" xml:id="deg-ad-eec05" colSpan="2">
+                <head>LANCASHIRE AND CORNISH BOILERS</head>
+                <p>SPURR INMAN &amp; CO. LTD.</p>
+                <p>Egyptian House:</p>
+                <p>The Egyptian Engineering Co., Ltd.</p>
+                <p>Maison Spiro, Sharia Kasr-el-Nil, Cairo.</p>
+                <p>Telephone 1542. </p>
+                <p>Cables: Anglogypt, Cairo <measure type="indexNo">20</measure></p>
             </div>
         </body>
     </text>
