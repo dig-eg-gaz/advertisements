@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Breanna Heflin</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2021-09-29">September 29, 2021</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Au de Rouge Cheap Sale advertisement</title>
+                    <date when="1907-12-07">December 7, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-adr04">
+                    <head>"AU DE ROUGE"</head>
+                    <p>ATABA-EL-KHADRA</p>
+                    <p><hi rend="bold">CAIRO.</hi></p>
+                    <p><hi rend="bold"> GENERAL DRAPERY ESTABLISHMENT.</hi></p>
+                    <p>Proprietor P. PLUNKETT.</p>
+                    <p>New goods Now on Sale at old Prices</p>
+                    <p><hi rend="bold">Dress Material </hi>— Well assorted in satin cloth, plain,
+                        striped and embroidered ; Er lienne, Hopsacks,, Serges, Silk Voiles, all in
+                        latest shades.</p>
+                    <p><hi rend="bold">Half-made Robes</hi> for evening wear, in Lace and
+                        Embroidered Tulle etc., from £2 to £9 each—can be completed for P.T. 60,</p>
+                    <p><hi rend="bold"> Blouses.</hi>— Nicely assorted from 15/- to 60/-.</p>
+                    <p>                        <hi rend="bold">Velling.</hi>—In all qualities and latest shades.</p>
+                    <p><hi rend="bold"> Ladies and Girls Coat.</hi>—A very large assortment af all
+                        prices up to £10 each Chiffon, Hosiery, Millinery, Haberdashery, Lace,
+                        Embroidery, Ribbon, Corset and children's departments well stocked as usual,
+                        Hats and a most lovely assortment of feathers and flowers and latest
+                        shades.</p>
+                    <p>Irish Linen goods.</p>
+                   </div>
+        </body>
+    </text>
+</TEI>

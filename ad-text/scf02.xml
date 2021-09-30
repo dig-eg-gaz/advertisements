@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2021-09-29">September 29, 2021</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Commercial &amp; Financial Supplement advertisement</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-scf02">
+                <head>Commercial &amp; Financial Supplement of the "Egyptian Gazette. "</head>
+                <p>The Commercial and Financial Supplement of the "Egyptian Gazette" is published at
+                    midday every Saturday in time for the Austrian Lloyd's mail. The supplement
+                    contains exhaustive and important reviews of the cotton, cotton seed, and stock
+                    and share markets, with all the latest statistics up to the evening of the
+                    preceding day, complete tabular forms of the various market fluctuations, and
+                    the copies of the official telegrams of the Liverpool Cotton Association, etc.,
+                    etc. Subscription for one year P.T. 100 (inclusive of postage in Egypt for
+                    abroad the postage is P.T. 10 extra). For Further particulars apply to the
+                    Manager the "Egyptian Gazette."</p>
+            </div>
+        </body>
+    </text>
+</TEI>
