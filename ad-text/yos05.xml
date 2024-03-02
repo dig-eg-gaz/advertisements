@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Julia Cavaliere</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2019-10-12">October 12, 2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Yost advertisement</title>
+                    <date when="1904-11-01">November 1, 1904</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" xml:id="deg-ad-yos05">
+                <head>YOST</head>
+                <p>THE TYPEWRITER FOR BEAUTIFUL WORK.</p>
+                <p>NO RIBBON. NO COMPLICATION. NO SHIFT-KEY.</p>
+                <p>85 CHARACTERS. LIGHT TOUGH. QUIET &amp; CONVENIENT.</p>
+                <p>BUYING AGENTS WANTED.</p>
+                <p>APPLY TO </p>
+                <p>THE YOST TYPEWRITER Co., Ltd.,</p>
+                <p>50, HOLBORN VIADUCT, LONDON E.C.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
