@@ -7,12 +7,12 @@
             <titleStmt>
                 <title level="m" type="main">Egyptian Gazette</title>
                 <title level="m" type="sub">An encoded transcription</title>
-                <editor>Will Hanley</editor>
+                <editor>Owen Yanevich</editor>
                 <principal>Will Hanley</principal>
             </titleStmt>
             <editionStmt>
                 <edition>
-                    <date when="2018-02-04">February 4, 2018</date>
+                    <date when="2024-03-11">March 11, 2024</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -21,22 +21,22 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title>Papier Wlinsi advertisement</title>
+                    <title>G. Rennie &amp; Co. advertisement</title>
+                    <date when="1908-01-25">January 25, 1908</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
         <body>
-            <div type="advert" xml:lang="fr" colSpan="2" xml:id="deg-ad-pwl02">
-                <p>Se méfier des imitations du</p>
-                <p>Papier Wlinsi</p>
-                <p>Plus de 30 Années de Succès attestent l'efficacité de ce puissant dérivatif
-                    recommandé par les Médecins pour la</p>
-                <p>Guérison rapide des Rhumes, Irritations de Poitrine, Maux de Gorge, Douleurs,
-                    Rhumatismes, etc.</p>
-                <p>Exiger le nom Wlinski.</p>
-                <p>1 FR. 50 LA BOITE DANS TOUTE LES PHARMACIES.</p>
+            <div type="advert" colSpan="2" xml:id="deg-ad-grc01">
+                <head>G. RENNIE &amp; Co.</head>
+                <p>Shallow-Draught STEAMERS</p>
+                <p>Dredgers, Koppers TUGS.</p>
+                <p>Lighters, Motor-Vessels.</p>
+                <p>Our Representative pays Annual Visits to Egypt.</p>
+                <p>Engineers &amp; Shipbuilders, Thames Street, Greenwich, London.</p>
+                <p><measure type="indexNo">3136-725</measure></p>
             </div>
         </body>
     </text>

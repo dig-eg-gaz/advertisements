@@ -29,7 +29,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="advert" xml:id="deg-ad-tcs05">
+            <div type="advert" colSpan="2" xml:id="deg-ad-tcs05">
                 <head>THOS. COOK &amp; SON (Egypt) Limited.</head>
                 <p>Engineers, Cairo.</p>
                 <p>MECHANICAL AND ELECTRICAL ENGINEERS, ALSO SHIPBUILDERS, &amp;C., &amp;C. </p>

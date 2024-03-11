@@ -12,7 +12,7 @@
           </titleStmt>
           <editionStmt>
               <edition>
-                  <date when="2016-09-29">September 29, 2016</date>
+                  <date when="2024-03-08">March 8, 2024</date>
               </edition>
           </editionStmt>
           <publicationStmt>
@@ -21,24 +21,19 @@
           </publicationStmt>
           <sourceDesc>
               <bibl>
-                  <title>Royal Insurance Coy advertisement</title>
-                  <date when="1905-07-13">July 13, 1905</date>
+                  <title>Anglo-Egyptian Cigarette Co. advertisement</title>
+                  <date when="1904-11-22">November 22, 1904</date>
               </bibl>
           </sourceDesc>
       </fileDesc>
   </teiHeader>
   <text>
       <body>
-          <div type="advert" colSpan="2" xml:id="deg-ad-ric01">
-              <head>Royal Insurance Coy</head>
-              <p>FIRE AND LIFE.</p>
-              <p>Largest Fire Office in the World.</p>
-              <p>HASELDEN &amp; CO., Agents, Alexandria.</p>
-              <p>R. VITERBO &amp; CO., Agents, Cairo.</p>
-              <p>PHOENIX ASSURANCE COMPANY, LIMITED.</p>
-              <p>(ESTABLISHED 1782);</p>
-              <p>HASELDEN &amp; CO., Agents, Alexandria.</p>
-              <p><measure type="indexNo">31-3-906</measure> FRED. OTT &amp; CO., Sub-Agents, Cairo.</p>
+          <div type="advert" colSpan="2" xml:id="deg-ad-aec01">
+              <head>Anglo-Egyptian Cigarette Co.</head>
+              <p>CAIRO.</p>
+              <p>MANUFACTURE HIGH-CLASS CIGARETTES ONLY.</p>
+              <p>Latest Award: Grand Prix St. Louis 1904.</p>
           </div>
       </body>
   </text>

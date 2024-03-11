@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="advert" xml:lang="fr" xml:id="deg-ad-pur01">
+          <div type="advert" xml:lang="fr" colSpan="2" xml:id="deg-ad-pur01">
               <head>NOUVEAU REMEDE PURGATIF IDEAL</head>
               <p>Contre: Constipation, Congestion, Hemerrhoides, Migraine<lb/> Obesite, etc.
                     Conserve le teint frais et la taille svelte ; d'une efficacité absolue agit

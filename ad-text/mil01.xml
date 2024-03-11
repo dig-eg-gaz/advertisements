@@ -29,7 +29,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="advert" xml:id="deg-ad-mil01">
+          <div type="advert" colSpan="2" xml:id="deg-ad-mil01">
               <head>Milner's Safes</head>
               <p>Sole Agents for Egypt</p>
               <p>G. Marcus &amp; Co.</p>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+          <titleStmt>
+              <title level="m" type="main">Egyptian Gazette</title>
+              <title level="m" type="sub">An encoded transcription</title>
+              <editor>Harper West</editor>
+              <principal>Will Hanley</principal>
+          </titleStmt>
+          <editionStmt>
+              <edition>
+                  <date when="2024-03-08">March 8, 2024</date>
+              </edition>
+          </editionStmt>
+          <publicationStmt>
+              <publisher>FSU University Libraries</publisher>
+              <pubPlace>Tallahassee, FL</pubPlace>
+          </publicationStmt>
+          <sourceDesc>
+              <bibl>
+                  <title>Burman's Celebrated Clipper advertisement</title>
+                  <date when="1904-11-26">November 26, 1904</date>
+              </bibl>
+          </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div type="advert" colSpan="2" xml:id="deg-ad-bur01">
+              <head>BURMAN'S Celebrated CLIPPERS</head>
+              <p>FOR BARBERS, HORSES AND DOGS</p>
+              <p>THE BURMAN POWER CLIPPER No. 8.</p>
+              <p>WITH WRIST JOINT.</p>
+              <p>As supplied to the Tsar of Russia, the King of Denmark, the Duke of
+                  Conriaught, &amp;c.</p>
+              <p>For beauty of design and superiority of workmanship the Burman Power Clippers
+                  stand supreme and unassailable.</p>
+              <p>The "Warwick" Clipper. Cuts over three teeth.</p>
+              <p>FOR SMALL STABLES.</p>
+              <p>The BURMAN No. 5.</p>
+              <p>WITH STAND. </p>
+              <p>Strong and Reliable.</p>
+              <p>Every Machine Warranted.</p>
+              <p>Despatch Hair Clipper</p>
+              <p>Made in 3 sizes.</p>
+              <p>BURMAN &amp; Sons, Ld., Lee Bank Works; Birmingham, ENGLAND.</p>
+          </div>
+      </body>
+  </text>
+</TEI>

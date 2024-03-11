@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Harper West</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2024-03-08">March 8, 2024</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Simpson Strickland &amp; Co. advertisement</title>
+                    <date when="1904-11-26">November 26, 1904</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" colSpan="2" xml:id="deg-ad-ssc01">
+                <head>Simpson Strickland &amp; Co., Limited,</head>
+                <p>ENGINEERS, STEAM YACHT &amp; LAUNCH BUILDERS</p>
+                <p>Dartmouth S. Devon.</p>
+                <p>Shallow draught steamers. Exceptionally high speeds guaranteed. Small
+                    launches suitable for the Nile and Canals.</p>
+                <p>A. &amp; J. MAIN &amp; Co., Ld., Glasgow.</p>
+                <p>STRUCTURAL ENGINEERS.</p>
+                <p>Manufacturers of Fencing, Iron Buildings, &amp;c.</p>
+                <p>For Information Apply to</p>
+                <p>Mr. W. E. Kingsford, Sharia Kasr-El-Nil, CAIRO.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

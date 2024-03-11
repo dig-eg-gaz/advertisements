@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="advert" xml:id="deg-ad-dpc01">
+            <div type="advert" colSpan="2" xml:id="deg-ad-dpc01">
                 <head>Davey Paxman &amp; Co., Ltd.</head>
                 <p>Colchester, England.</p>
                 <p>Makers of high class steam engines and boilers for British, Colonial, and Foreign

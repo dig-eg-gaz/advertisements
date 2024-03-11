@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Owen Yanevich</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2024-03-11">March 11, 2024</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Portable Wood &amp; Iron Buildings advertisement</title>
+                    <date when="1908-01-25">January 25, 1908</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="advert" colSpan="2" xml:id="deg-ad-pwi01">
+                <head>Portable Wood &amp; Iron Buildings.</head>
+                <p>of Every Description.</p>
+                <p>Specially adopted to the Egyptian Climate- Steel or Wood Framed.</p>
+                <p>Bungalows, Market Buildings. Station Buildings, Tramway sheds. Warehouse
+                    Buildings, Iron Shelters, Churches, Isolation Hospitals, etc. etc.</p>
+                <p>Contractors to His Majesty's Board of Works. The Admiralty, and War Departments.
+                    The Crown Agents for the Colonies. The Australian Government. The Egyptian,
+                    Sudan and other Foreign Governments.</p>
+                <p>"Catalogues and Lists can be seen at the Offices of Messrs, Fern, Callois &amp;
+                    Co., Rue de l'Archeveche, Alexandria."</p>
+                <p>Boulton &amp; Paul Ltd., Manufacturers, Norwich, England.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
