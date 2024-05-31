@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="advert" xml:id="deg-ad-cfe01" xml:lang="fr">
+            <div type="advert" xml:lang="fr" xml:id="deg-ad-cfe01">
                 <head>CREDIT FRANCO-EGYPTIEN</head>
                 <p> Capital 12,500,000 Francs entièrement verses. — Agence d'Alexandrie, 14, Rue
                     Stamboul.</p>

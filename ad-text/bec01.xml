@@ -29,7 +29,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="advert" xml:id="deg-ad-bec01" colSpan="2">
+            <div type="advert" colSpan="2" xml:id="deg-ad-bec01">
                 <head>The British Engineering Co. of Egypt, Ld.</head>
                 <p>Tel : Address, 'BECOELIM."</p>
                 <p>Telephone No. 428, Calro. </p>

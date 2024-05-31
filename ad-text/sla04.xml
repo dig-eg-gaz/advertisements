@@ -29,7 +29,7 @@
   </teiHeader>
   <text>
       <body>
-          <div type="advert" xml:id="deg-ad-sla04" colSpan="2">
+          <div type="advert" colSpan="2" xml:id="deg-ad-sla04">
               <head>The Standard Life Assurance Company.</head>
               <p>Established 1825.</p>
               <p>Head Office for Egypt: Sharia Kasr-el-Nil, Cairo.</p>

@@ -29,7 +29,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="advert" xml:id="deg-ad-rup01" colSpan="2">
+            <div type="advert" colSpan="2" xml:id="deg-ad-rup01">
                  <p>ALLEN, ANDERSON &amp; CO LTD</p>
                 <p>ALEXANDRIA, EGYPT</p>
                 <p>SOLE AGENTS FOR</p>

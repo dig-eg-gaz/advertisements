@@ -29,7 +29,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="advert" xml:id="deg-ad-mpl01" colSpan="2">
+            <div type="advert" colSpan="2" xml:id="deg-ad-mpl01">
                 <head>PUMPS</head>
                 <p>FOR IRRIGATION, DRAINAGE, WATERWORKS</p>
                 <p>AND ALL OTHER DUTIES.</p>

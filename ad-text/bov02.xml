@@ -29,7 +29,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="advert" xml:id="deg-ad-bov01" xml:lang="fr">
+            <div type="advert" xml:lang="fr" xml:id="deg-ad-bov01">
                 <head>BOVRIL</head>
                 <p>Qu'est ce que c'est BOVRIL?</p>
                 <p>BOVRIL est le produit garanti du meilleur bétail qui existe.</p>

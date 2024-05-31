@@ -27,7 +27,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="advert" xml:id="deg-ad-cst02" xml:lang="fr" colSpan="2">
+            <div type="advert" xml:lang="fr" colSpan="2" xml:id="deg-ad-cst02">
                 <p>Engrais Organiques</p>
                 <p>Cairo Sewage Transport Cy., Ld.</p>
                 <p>Sharia el Cherifein No 1 près la National Bank, Le Caire.</p>

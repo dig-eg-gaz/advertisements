@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -11,7 +12,7 @@
             </titleStmt>
             <editionStmt>
                 <edition>
-                    <date when="2017-04-11">April 11, 2017</date>
+                    <date when="2017-02-12">February 12, 2017</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -20,23 +21,21 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title>E. R. &amp; F. Turner Ltd. advertisement</title>
+                    <title>Yost advertisement</title>
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
         <body>
-            <div type="advert" colSpan="2" xml:id="deg-ad-erf01">
-                <head>E. R. &amp; F. TURNER LTD.</head>
-                <p>STEAM ENGINES</p>
-                <p>Horizontal Portable Semi Portable</p>
-                <p>Combined Engines &amp; Boilers</p>
-                <p>VERTICAL BOILERS</p>
-                <p>Egyptian House: The Egyptian Engineering Co. Lt.</p>
-                <p>Maison Spiro, Chareh Kasr-el-Nil, Cairo.</p>
-                <p>Telephone 1542. Cables: Anglogypt, Cairo.</p>
-                <p><measure>27331-1</measure></p>
+            <div type="advert" colSpan="2" xml:id="deg-ad-yos03">
+                <p>Arabic and Oriental Types Supplied</p>
+                <p>YOST.</p>
+                <p>The typewriter par excellence.</p>
+                <p>Illustrated Catalogue on application.</p>
+                <p>Machines on trial from:-</p>
+                <p>Sole Agents: Messrs. Thomas Hinshelwood &amp; Co., </p>
+                <p>Alexandria and Cairo.</p>
             </div>
         </body>
     </text>

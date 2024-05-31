@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="advert" xml:id="deg-ad-pur02" xml:lang="fr">
+            <div type="advert" xml:lang="fr" xml:id="deg-ad-pur02">
                 <head>PURGEN</head>
                 <p>PURGATIV IDEAL</p>
                 <p>SE TROUVE DANS TOUTES LES PHARMACIES.</p>

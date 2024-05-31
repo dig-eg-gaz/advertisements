@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="advert" xml:id="deg-ad-nbe02" xml:lang="fr">
+            <div type="advert" xml:lang="fr" xml:id="deg-ad-nbe02">
                 <head>NATIONAL BANK OF EGYPT.</head>
                 <p>Capital: £3,000,000. RESERVE (Environ) : £1,340,000. MR. F. T. ROWLATT,
                     Governor</p>

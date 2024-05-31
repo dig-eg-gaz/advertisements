@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="advert" xml:id="deg-ad-vhm01" colSpan="2">
+            <div type="advert" colSpan="2" xml:id="deg-ad-vhm01">
                 <head>Vienna " HOTEL METROPOLE " Vienna</head>
                 <p>I. MORINPLATZ (Franz Josephs-Qual).</p>
                 <p>GRAND FIRST-CLASS HOTEL </p>

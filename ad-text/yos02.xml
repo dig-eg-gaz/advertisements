@@ -28,14 +28,16 @@
     </teiHeader>
     <text>
         <body>
-            <div type="advert" xml:id="deg-ad-yos03">
-                <p>Arabic and Oriental Types Supplied</p>
-                <p>YOST.</p>
-                <p>The typewriter par excellence.</p>
-                <p>Illustrated Catalogue on application.</p>
-                <p>Machines on trial from:-</p>
-                <p>Sole Agents: Messrs. Thomas Hinshelwood &amp; Co., </p>
-                <p>Alexandria and Cairo.</p>
+            <div type="advert" colSpan="2" xml:id="deg-ad-yos02">
+                <head>YOST</head>
+                <p>THE TYPEWRITER FOR BEAUTIFUL WORK.</p>
+                <p>Has no Ribbon.</p>
+                <p>Swift, Quiet and Convenient.</p>
+                <p>Illustrated Booklet post free.</p>
+                <p>Type strikes paper as in ordinary printing.</p>
+                <p>Made of Best Materials only.</p>
+                <p>The Yost Typewriter Co., Ltd.,</p>
+                <p>50, Holborn Viaduct, London, E.C.</p>
             </div>
         </body>
     </text>

@@ -29,7 +29,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="advert" xml:id="deg-ad-eec05" colSpan="2">
+            <div type="advert" colSpan="2" xml:id="deg-ad-eec05">
                 <head>LANCASHIRE AND CORNISH BOILERS</head>
                 <p>SPURR INMAN &amp; CO. LTD.</p>
                 <p>Egyptian House:</p>

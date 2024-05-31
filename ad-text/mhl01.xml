@@ -29,7 +29,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="advert" xml:id="deg-ad-mhl01" colSpan="2">
+            <div type="advert" colSpan="2" xml:id="deg-ad-mhl01">
                 <head>Messrs. HUMPHREYS, Ltd.</head>
                 <p>Knightsbridge, London.</p>
                 <p>Makers of Portable Residences, Sungalows, and Store-Sheds.</p>

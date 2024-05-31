@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="advert" xml:id="deg-ad-ems04" xml:lang="fr">
+            <div type="advert" xml:lang="fr" xml:id="deg-ad-ems04">
                 <head>Votre Sang Est-Il Parfaitement Pur?</head>
                 <p>Une condition essentielle pour que l'organisme soit toujours en parfaite santé,
                     c'est de tenir notre corps dans le plus grand état de propreté, non pas

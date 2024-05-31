@@ -27,7 +27,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="advert" xml:id="deg-ad-ldb01" xml:lang="fr">
+            <div type="advert" xml:lang="fr" xml:id="deg-ad-ldb01">
                 <head>Les Diamants "BERA"</head>
                 <p>La Meilleure Imitation du Monde</p>
                 <p>Afin de les faire rapidement connaître au public, nous avons mis en vente un

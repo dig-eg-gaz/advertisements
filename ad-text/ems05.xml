@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="advert" xml:id="deg-ad-ems05" xml:lang="fr">
+            <div type="advert" xml:lang="fr" xml:id="deg-ad-ems05">
                  <head>LES BÉBÉS DÉPÉRISSENT TOUT COMME LES FLEURS!</head>
                    
                     <p>Lorsque vous voyez vos enfants dépérir, se faner comme les fleurs dans la

@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="advert" xml:id="deg-ad-ajm01" colSpan="2">
+            <div type="advert" colSpan="2" xml:id="deg-ad-ajm01">
                 <head>A. &amp; J. MAIN &amp; Co., Ld., Glasgow.</head>
                 <p>CLYDESDALE IRONWORKS.</p>
                 <p>Structural Engineers.</p>

@@ -6,12 +6,12 @@
             <titleStmt>
                 <title level="m" type="main">Egyptian Gazette</title>
                 <title level="m" type="sub">An encoded transcription</title>
-                <editor>Will Hanley</editor>
+                <editor>Elena Beggs</editor>
                 <principal>Will Hanley</principal>
             </titleStmt>
             <editionStmt>
                 <edition>
-                    <date when="2017-04-11">April 11, 2017</date>
+                    <date when="2022-10-26">October 26, 2022</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -20,23 +20,18 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title>E. R. &amp; F. Turner Ltd. advertisement</title>
+                    <title>J. &amp; F. HOWARD, BEDFORD advertisement</title>
+                    <date when="1906-06-16">June 6, 1906</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
         <body>
-            <div type="advert" colSpan="2" xml:id="deg-ad-erf01">
-                <head>E. R. &amp; F. TURNER LTD.</head>
-                <p>STEAM ENGINES</p>
-                <p>Horizontal Portable Semi Portable</p>
-                <p>Combined Engines &amp; Boilers</p>
-                <p>VERTICAL BOILERS</p>
-                <p>Egyptian House: The Egyptian Engineering Co. Lt.</p>
-                <p>Maison Spiro, Chareh Kasr-el-Nil, Cairo.</p>
-                <p>Telephone 1542. Cables: Anglogypt, Cairo.</p>
-                <p><measure>27331-1</measure></p>
+            <div type="advert" colSpan="2" xml:id="deg-ad-jfh01">
+                <head>ENGLISH MADE PLOUGHS</head>
+                <p>FOR ALL COUNTRIES AND ALL PURPOSES.</p>
+                <p>J. &amp; F. HOWARD, BEDFORD, England.</p>
             </div>
         </body>
     </text>

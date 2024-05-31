@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="advert" xml:id="deg-ad-ems03" xml:lang="fr">
+            <div type="advert" xml:lang="fr" xml:id="deg-ad-ems03">
                 <head>FORCE APRÈS MALADIE</head>
                 <p>De même que la plus petite graine peut donner naissance à un très grand arbre, le
                     moindre rhume, la toux la plus légère peuvent engendrer une longue et dangereuse

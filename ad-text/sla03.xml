@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="advert" xml:id="deg-ad-sla03">
+            <div type="advert" colSpan="2" xml:id="deg-ad-sla03">
                 <head>THE STANDARD LIFE ASSURANCE CO.</head>
                 <head>ESTABLISHED 1825.</head>
                 <p>ACCUMULATED FUNDS £11,750,000.</p>

@@ -27,7 +27,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="advert" xml:id="deg-ad-hem01" xml:lang="fr">
+            <div type="advert" xml:lang="fr" xml:id="deg-ad-hem01">
                 <head>HEMAGENE TAILLEUR</head>
                 <p>AUX FEMMES SOUFFRANTES</p>
                 <p>PLUS DE DOULEURES, RETOUR DES EPOQUES, FONCTIONS REGULARISEES</p>

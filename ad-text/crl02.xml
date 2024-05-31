@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="advert" xml:id="deg-ad-crl02" xml:lang="fr">
+            <div type="advert" xml:lang="fr" xml:id="deg-ad-crl02">
                 <head>CREDIT LYONNAIS</head>
                 <p>CAPITAL FRANCS 250,000,000 ENTIEREMENT VERSES</p>
                 <p>Agences d'Egypte : ALEXANDRIE, LE CAIRE, PORT-SAID.</p>

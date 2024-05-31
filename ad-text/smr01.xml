@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="advert" xml:id="deg-ad-smr01" xml:lang="fr">
+            <div type="advert" xml:lang="fr" xml:id="deg-ad-smr01">
                 <head>Service Maritime Roumain</head>
                 <p>16 Rue Sesostris 16</p>
                 <p>Par suite de la quarantaine de 48 houres imposée par la Turquie aux provenances
